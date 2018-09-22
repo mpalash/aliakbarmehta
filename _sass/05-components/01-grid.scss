@@ -1,0 +1,32 @@
+$num-columns: 12;
+$gutter: 10px;
+
+.container {
+  max-width: $container-max-width;
+  margin: 0 auto;
+}
+.r,
+.row {
+  display: flex;
+  flex-flow: row nowrap;
+  width: 100%;
+
+  @media screen and (max-width: $responsive-small) {
+    flex-flow: column nowrap;
+  }
+}
+.c,
+.col,
+.column {
+  flex: 1 0 auto;
+  padding: 0 $gutter;
+}
+
+$col-widths: ();
+@for $i from 1 through $num-columns {
+  .c-#{$i},
+  .col-#{$i},
+  .column-#{$i} {
+    flex-basis: ($i / $num-columns) * 100%;
+  }
+}
