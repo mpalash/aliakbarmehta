@@ -1,9 +1,16 @@
 ---
 layout: project
-title: Narrating War — Performance excerpt, Pispala, Tampere, Finland, 2016
-hero:
-project: war room echo
-
+title: 'Narrating War — Performance excerpt, Pispala, Tampere, Finland, 2016'
+hero: /_site/assets/img/test.jpeg
+progression:
+  - genre: Writing
+    year: '2014'
+  - genre: Performance
+    year: '2016'
+  - genre: Artwork
+    year: '2017'
+  - genre: Performance
+    year: '2018'
 ---
 
 This reading from the book took place at The Memorial of the Red Guards, who died during the Finnish Civil War in Pispala, Tampere. The inscription in the stone says, ‘On this Pispala ridge, the Red Guard in Tampere last stood with weopans in hand defending their cause in 1918’.
