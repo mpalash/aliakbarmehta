@@ -30,13 +30,12 @@ social:
 collections:
   projects:
     output: true
-  writings:
-    output: true
 
 # Build settings
 markdown: kramdown
 include:
   - _pages
+  - _projects
 exclude:
   - Gemfile
   - Gemfile.lock

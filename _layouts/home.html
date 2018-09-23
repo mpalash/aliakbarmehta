@@ -10,12 +10,3 @@ layout: default
   </li>
   {% endfor %}
 </ul>
-
-<h2 class="collection-name">Writings</h2>
-<ul class="collection-list">
-  {% for page in site.writings reversed %}
-  <li>
-    <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-  </li>
-  {% endfor %}
-</ul>
