@@ -41,12 +41,15 @@ collections: # A list of collections the CMS should be able to edit
         default: "project"
       - label: "Title"
         name: "title"
+        required: false
         widget: "string"
       - label: "Hero Image"
         name: "hero"
+        required: false
         widget: "image"
       - label: "Progression"
         name: "progression"
+        required: false
         widget: "list"
         fields:
         - {label: Year, name: year, widget: string}
