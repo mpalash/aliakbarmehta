@@ -1,12 +1,22 @@
 ---
 layout: default
 ---
+<h1 class="site-title">{{ site.title }}</h1>
+<p class="sub-site-title">{{ site.description }}</p>
+
+<div class="timeline">
+  {% for page in site.projects %}
+    {% for prog in page.progression %}
+      <p data-year="{{ prog.year }}" data-genre="prog.genre"><a href="{{ page.url | relative_url }}">{{ page.title }}</a> | {{ prog.year }} • {{ prog.genre }}</p>
+    {% endfor %}
+  {% endfor %}
+</div>
 
 <h2 class="collection-name">Projects</h2>
 <ul class="collection-list">
   {% for page in site.projects reversed %}
   <li>
-    <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+    <a href="{{ page.url | relative_url }}">{{ page.title }}</a>
   </li>
   {% endfor %}
 </ul>
