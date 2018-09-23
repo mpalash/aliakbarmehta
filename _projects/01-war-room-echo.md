@@ -1,7 +1,7 @@
 ---
 layout: project
 title: 'Narrating War — Performance excerpt, Pispala, Tampere, Finland, 2016'
-hero: /_site/assets/img/test.jpeg
+hero: ''
 progression:
   - genre: Writing
     year: '2014'
