@@ -4,19 +4,19 @@ layout: default
 <h1 class="site-title">{{ site.title }}</h1>
 <p class="sub-site-title">{{ site.description }}</p>
 
-<div class="timeline">
+<div class="all-projects hide">
   {% for page in site.projects %}
     {% for prog in page.progression %}
-      <p data-year="{{ prog.year }}" data-genre="prog.genre"><a href="{{ page.url | relative_url }}">{{ page.title }}</a> | {{ prog.year }} • {{ prog.genre }}</p>
+      <p class="project-year-genre" data-year="{{ prog.year }}" data-genre="{{ prog.genre }}" data-project="{{ page.title }}"><a href="{{ page.url | relative_url }}">{{ page.title }}</a></p>
     {% endfor %}
   {% endfor %}
 </div>
 
-<h2 class="collection-name">Projects</h2>
-<ul class="collection-list">
-  {% for page in site.projects reversed %}
-  <li>
-    <a href="{{ page.url | relative_url }}">{{ page.title }}</a>
-  </li>
-  {% endfor %}
-</ul>
+<div class="switcher">
+  <p>
+    <span class="switcher-year">Date</span> •
+    <span class="switcher-genre">Genre</span>
+  </p>
+  <div class="by-year"></div>
+  <div class="by-genre hide"></div>
+</div>
