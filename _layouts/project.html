@@ -19,6 +19,7 @@ layout: default
       <p class="pub-date">{{ section.pubdate }}</p>
       {% if section.summary %}
         <div class="text">{{ section.summary }}</div>
+        <p><a href="{{ section.url }}">Read more &rarr;</a></p>
       {% else %}
         <div class="text">{{ section.content }}</div>
       {% endif %}

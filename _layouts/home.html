@@ -4,9 +4,9 @@ layout: default
 <h1 class="site-title">{{ site.title }}</h1>
 <p class="sub-site-title">{{ site.description }}</p>
 
-<div class="all-projects hide">
-  {% for page in site.projects %}
-    <p>{{ page.title }}</a></p>
+<div class="all-projects">
+  {% for project in site.projects %}
+    <p><a href="{{ project.url }}">{{ project.title }}</a></p>
   {% endfor %}
 </div>
 

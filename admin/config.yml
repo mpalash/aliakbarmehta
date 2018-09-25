@@ -4,7 +4,7 @@ backend:
   site_domain: https://aliakbarmehta.netlify.com/
 
 media_folder: "assets/img" # Folder where user uploaded files should go
-public_folder: "_site/assets/img"
+public_folder: "assets/img"
 
 collections: # A list of collections the CMS should be able to edit
   - name: "page" # Used in routes, ie.: /admin/collections/:slug/edit
