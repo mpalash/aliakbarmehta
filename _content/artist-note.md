@@ -19,6 +19,10 @@ summary: >-
 
 The series of photographs is a cross section of a layered and multi-tiered space, which comprises historic architecture and iconic landmarks amidst more eclectic mix of temporary setups, chawls, shanties, tenements and its inhabitants. The highlight of the exhibition are the paintings, each presenting an important aspect of the city’s history and heritage; as well as photobooks of Mazgaon that document the changing demographic and visual identity of the space. The project maps Mathar Pacady – a catholic village, the remnants of Chinatown, a Bohri (a sect within the Shia Islam) family’s apartment and Darukhana where ships are brought to be torn apart on the dry dock. The project works in multiple directions by documenting the life and living conditions of these diverse communities within the area and the relationships and dynamics of people and places spanning 300 years into the past. Here I fight nostalgia by documenting it, recreating it through videos, conversations and staging ethnographic reconstructions of people’s homes.
 
+![](/_site/assets/img/ali-akbar-mehta-site-stage-structure-2014_nana-nani-film-still-01.png)
+
+![](/_site/assets/img/ali-akbar-mehta-site-stage-structure-2014_nana-nani-film-still-02.png)
+
 Mazgaon has been important to me – my grandparents have lived in Mazgaon for 42 years, for more than my entire life. During school summer vacations, I visited their home and was taken to the famous Mazgaon Gardens. The Garden located on a hilltop offers stunning views of the docks, the ships and the urban landscape of Mazgaon and beyond. This vivid memory has remained with me and I was keen to revisit the space now as an artist.
 
 Historically, Mazgaon has been important to Bombay. Slowly over a period of time, this importance has shifted and declined. Mazgaon has moved from the center of the city to its sidelines. Sites are explored through the lens of history and heritage by looking at the importance of each of these spaces to Mazgaon and to Bombay, and how collectively they formed Mazgaon.
