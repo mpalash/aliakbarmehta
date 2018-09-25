@@ -11,13 +11,19 @@ layout: default
     {{ content }}
   </div>
 
-  <div class="">
-    {% for content in site.content %}
-      {% if content.parent == page.title %}
-        <span>{{ content.title }}</span>
-        <span>{{ content.date | date: '%Y' }}</span>
+  {% assign sections = site.content | sort: 'pubdate' %}
+  {% for section in sections reversed %}
+    {% if section.parent == page.title %}
+    <div class="{{ section.layout }}">
+      <h2>{{ section.title }}</h2>
+      <p class="pub-date">{{ section.pubdate }}</p>
+      {% if section.summary %}
+        <div class="text">{{ section.summary }}</div>
+      {% else %}
+        <div class="text">{{ section.content }}</div>
       {% endif %}
-    {% endfor %}
-  </div>
+    </div>
+    {% endif %}
+  {% endfor %}
 
 </article>
