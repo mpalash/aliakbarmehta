@@ -8,10 +8,9 @@ summary: >-
   short films, audio narratives, and heritage walks as a way of revitalizing
   memories and telling a history that is absent from the formal narratives.
 ---
-
 Mazgaon is a port and dock area of Mumbai with a rich heritage and complex history. An integral and once central part of the city seems to be almost abandoned, its history neglected, its heritage slowly corroded by the passages of Time and the amnesia of people.
 
-![null](/assets/img/architectural-print-01.png)
+![](/assets/img/architectural-print-01.png)
 
 The series of photographs is a cross section of a layered and multi-tiered space, which comprises historic architecture and iconic landmarks amidst more eclectic mix of temporary setups, chawls, shanties, tenements and its inhabitants. The highlight of the exhibition are the paintings, each presenting an important aspect of the city’s history and heritage; as well as photobooks of Mazgaon that document the changing demographic and visual identity of the space. The project maps Mathar Pacady – a catholic village, the remnants of Chinatown, a Bohri (a sect within the Shia Islam) family’s apartment and Darukhana where ships are brought to be torn apart on the dry dock. The project works in multiple directions by documenting the life and living conditions of these diverse communities within the area and the relationships and dynamics of people and places spanning 300 years into the past. Here I fight nostalgia by documenting it, recreating it through videos, conversations and staging ethnographic reconstructions of people’s homes.
 
