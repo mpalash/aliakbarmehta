@@ -71,7 +71,7 @@ collections: # A list of collections the CMS should be able to edit
         required: false
         widget: "string"
       - label: "Parent Project"
-        name: "project"
+        name: "parent"
         widget: "relation"
         collection: "_projects"
         searchFields: ["title"]
