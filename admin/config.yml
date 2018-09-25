@@ -74,7 +74,7 @@ collections: # A list of collections the CMS should be able to edit
       - label: "Parent Project"
         name: "project"
         widget: "relation"
-        collection: "projects"
+        collection: "_projects"
         searchFields: ["title"]
         valueField: "title"
         displayFields: ["title"]
