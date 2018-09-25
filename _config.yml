@@ -30,6 +30,8 @@ social:
 collections:
   projects:
     output: true
+  content:
+    output: true
 
 # Build settings
 markdown: kramdown

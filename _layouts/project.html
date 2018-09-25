@@ -11,4 +11,13 @@ layout: default
     {{ content }}
   </div>
 
+  <div class="">
+    {% for content in site.content %}
+      {% if content.parent == page.title %}
+        <span>{{ content.title }}</span>
+        <span>{{ content.date | date: '%Y' }}</span>
+      {% endif %}
+    {% endfor %}
+  </div>
+
 </article>
