@@ -6,13 +6,11 @@ layout: default
 
 <div class="all-projects hide">
   {% for page in site.projects %}
-    {% for prog in page.progression %}
-      <p class="project-year-genre" data-year="{{ prog.year }}" data-genre="{{ prog.genre }}" data-project="{{ page.title }}"><a href="{{ page.url | relative_url }}">{{ page.title }}</a></p>
-    {% endfor %}
+    <p>{{ page.title }}</a></p>
   {% endfor %}
 </div>
 
-<div class="switcher">
+<!-- <div class="switcher">
   <p>
     <b>
       <a class="switcher-year" href="#">Date</a> •
@@ -21,4 +19,4 @@ layout: default
   </p>
   <div class="by-year"></div>
   <div class="by-genre hide"></div>
-</div>
+</div> -->

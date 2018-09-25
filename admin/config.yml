@@ -47,13 +47,6 @@ collections: # A list of collections the CMS should be able to edit
         name: "hero"
         required: false
         widget: "image"
-      - label: "Progression"
-        name: "progression"
-        required: false
-        widget: "list"
-        fields:
-        - {label: Year, name: year, widget: string}
-        - {label: Genre, name: genre, widget: string}
       - label: "Body"
         name: "body"
         widget: "markdown"
