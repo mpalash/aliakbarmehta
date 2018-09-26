@@ -14,3 +14,17 @@ summary: >-
   (more text to be included)
 ---
 ![](/assets/img/chinese-temple.jpg)
+
+![](/assets/img/pine-building.jpg)
+
+![](/assets/img/anthony-s-rest.jpg)
+
+![](/assets/img/mazgaon-garden.jpg)
+
+![](/assets/img/old-gloria-cross.jpg)
+
+![](/assets/img/hasanabad.jpg)
+
+![](/assets/img/vaity-house.jpg)
+
+![](/assets/img/matharpacady-oratory.jpg)
