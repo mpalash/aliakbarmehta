@@ -1,8 +1,8 @@
 ---
-title: 'Mathar Pacady Interviews – Uncle Martin, 2014'
+title: Mathar Pacady Interviews – Uncle Martin
 parent: 'SITE : STAGE : STRUCTURE'
 layout: artwork
-pubdate: '2018'
+pubdate: '2014'
 summary: >-
   <iframe width="560" height="315"
   src="https://www.youtube.com/embed/FU8aMO5AZs0" frameborder="0"
