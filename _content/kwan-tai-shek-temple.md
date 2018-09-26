@@ -2,7 +2,7 @@
 title: Kwan Tai Shek Temple
 parent: 'SITE : STAGE : STRUCTURE'
 layout: artwork
-pubdate: '2018'
+pubdate: '2014'
 summary: >-
   <iframe width="560" height="315"
   src="https://www.youtube.com/embed/KG7h-lzm-Gk" frameborder="0"
