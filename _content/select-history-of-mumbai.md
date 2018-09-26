@@ -3,7 +3,10 @@ title: A select History of Mumbai
 parent: 'SITE : STAGE : STRUCTURE'
 layout: resource
 pubdate: '2014'
-summary: 'A select history of Mumbai through the lens of Mazgaon:'
+summary: |-
+  ![](/assets/img/research-text_mazgaon-history-wall-text.jpg)
+
+  A select history of Mumbai through the lens of Mazgaon:
 ---
 
 
