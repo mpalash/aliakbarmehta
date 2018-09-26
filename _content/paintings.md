@@ -28,3 +28,9 @@ summary: >-
 ![](/assets/img/vaity-house.jpg)
 
 ![](/assets/img/matharpacady-oratory.jpg)
+
+![](/assets/img/bhaucha-dhakka.jpg)
+
+![](/assets/img/mazgaon-docks.jpg)
+
+![](/assets/img/installation-view_lores.jpg)
