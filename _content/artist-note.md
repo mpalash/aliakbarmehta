@@ -1,5 +1,5 @@
 ---
-title: Artist Note
+title: sss ~ Artist Note
 parent: 'SITE : STAGE : STRUCTURE'
 layout: text
 pubdate: '2014'
@@ -8,6 +8,7 @@ summary: >-
   short films, audio narratives, and heritage walks as a way of revitalizing
   memories and telling a history that is absent from the formal narratives.
 ---
+
 Mazgaon is a port and dock area of Mumbai with a rich heritage and complex history. An integral and once central part of the city seems to be almost abandoned, its history neglected, its heritage slowly corroded by the passages of Time and the amnesia of people.
 
 ![](/assets/img/architectural-print-01.png)
