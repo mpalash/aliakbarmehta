@@ -1,5 +1,5 @@
 ---
-title: 'Artist Book #1: Performers of Mazgaon'
+title: 'sss ~ Artist Book #1: Performers of Mazgaon'
 parent: 'SITE : STAGE : STRUCTURE'
 layout: artwork
 pubdate: '2014'
