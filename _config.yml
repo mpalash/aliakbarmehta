@@ -16,7 +16,7 @@
 title: Ali Akbar Mehta
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  is a transmedia artist. Through his research-based transmedia practice, he creates immersive cyber archives that explore collective memetic history, narratives of memory, identity, violence, and conflict. He has exhibited his projects in galleries and alternate spaces in New Delhi, Mumbai, Pune, Helsinki, and Tampere.
+  Ali Akbar Mehta is a transmedia artist. Through his research-based transmedia practice, he creates immersive cyber archives that explore collective memetic history, narratives of memory, identity, violence, and conflict. He has exhibited his projects in galleries and alternate spaces in New Delhi, Mumbai, Pune, Helsinki, and Tampere.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -28,6 +28,8 @@ social:
 
 # Collections
 collections:
+  pages:
+    output: true
   projects:
     output: true
   content:

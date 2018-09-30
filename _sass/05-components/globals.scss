@@ -1,13 +1,14 @@
-.wrapper {
-  @extend .container;
-}
 .page-content {
   min-height: 100vh;
 }
-
-footer {
-  .wrapper {
-    padding: $s-s 0;
-    font-size: 0.8rem;
+.section-content {
+  margin-left: $s-xxxl*2.5;
+}
+.text {
+  h1, h2, h3, p {
+    max-width: $max-text-width;
   }
+}
+footer {
+  font-size: 0.8rem;
 }
