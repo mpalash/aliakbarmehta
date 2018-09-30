@@ -1,5 +1,5 @@
 ---
-title: Paintings
+title: 'sss ~ Paintings'
 parent: 'SITE : STAGE : STRUCTURE '
 layout: artwork
 pubdate: '2014'

@@ -1,5 +1,5 @@
 ---
-title: The Possibility of Alienation
+title: 'sss ~ The Possibility of Alienation'
 parent: 'SITE : STAGE : STRUCTURE'
 layout: text
 pubdate: '2014'

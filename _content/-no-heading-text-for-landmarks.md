@@ -1,5 +1,5 @@
 ---
-title: (no heading) text for landmarks
+title: 'sss ~ (no heading) text for landmarks'
 parent: 'SITE : STAGE : STRUCTURE'
 layout: resource
 pubdate: '2014'
@@ -64,9 +64,9 @@ The Yard was established in the 18th century, and over the 200 odd eventful year
 
 Main activities are ship building, ship repairs and fabrication of offshore structures with facilities situated at Mumbai and Nhava. We have the capability to build warships, submarines, merchant ships upto 30,000 DWT and fabrication of well head platforms, process and production platforms and jack up rigs. For outfitting work, the company has a large number of workshops with sophisticated equipment and machines specific to hull fabrication and ship construction work.
 
- 
 
-## 
+
+##
 
 ## Hasanabad
 
@@ -88,7 +88,7 @@ This site refers to one of the only four remaining original examples of Portugue
 
 
 
-  
+
 
 ## Mathar Pacady Lane
 
@@ -96,7 +96,7 @@ Tucked away in a quiet corner of the concrete jungle is Matharpacady (pacadi mea
 
 The place still has a very Goan-Portuguese feel. Most of the houses are more than a century old and cannot be demolished without government approval. However, a seven-storey building was recently built on the remains of a house whose inmates had all died. Although it falls in the Grade 3 category of protected monuments, residents know it’s easy to find legal loopholes.
 
- 
+
 
 
 
@@ -152,11 +152,11 @@ Some of the Warehouses are more than 150 years old, and most of them would be de
 
 If you stand in front of Burma Shell Petrol, you see they had this bogey sort of a thing. You will see that the railways containers were only for oil and petrol, which went inside the docks and came out only carrying oil. Now, Its not being used much, because you see, earlier, the trams were there, you had the crossway going in the afternoon and in the mornings and the entire traffic used to stop. Now the partition has come up.
 
- 
 
 
 
-## BPT Railway Tracks 
+
+## BPT Railway Tracks
 
 So these tracks were part of the BPT Railways, which were functional before the other suburban railway lines. Earlier there were lots of them, now they have kept only one line, and its not really functional. They have built the BPT Road over what were the railway lines (tracks). These railways were started in the 1915, much before the Central or the Western railways.
 
@@ -190,13 +190,13 @@ The development of the modern city slowly marginalised these people of the sea. 
 
 
 
- 
+
 
 ## Mazgaon Gardens
 
 The Joseph Baptista Gardens, locally known as the Mazagaon Gardens, is a 1.5 acres (0.6 ha) park in south Mumbai in Mazagaon.\[1] It lies atop a hill, the Bhandarwada Hill, and offers a panoramic view of the Mumbai harbour and the southern business district of the city. Beneath the gardens is a water reservoir, constructed by the second Municipal Commissioner of Bombay, John Hay Grant between 1880–1884. The gardens are located behind the Dockyard Road railway station, at an altitude of 32 metres (105 ft). Shortly after India’s independence in 1947, the gardens, was named after Joseph Baptista, an Indian freedom activist.
 
- 
+
 
 
 
@@ -206,7 +206,7 @@ The original Gloria church, Nossa Senhora da Glória, was built in 1632 from a d
 
 
 
- 
+
 
 ## Barber Shops, Dockyard Road Station
 
@@ -214,7 +214,7 @@ These Barbershops are a historic landmark of Dockyard Road. Built under the Rail
 
 People used to come very early morning to work at the Docks, or very late in the evening from it. Once upon a time, everywhere under a brigde you could find Barbers, the fact that they still exist is a big thing. They have been there for more than 80 to 90 years. There used to also be Saloons, some of which had their own Hamams, but now they no longer exist.
 
- 
+
 
 
 

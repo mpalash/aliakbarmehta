@@ -1,5 +1,5 @@
 ---
-title: 'Artist Book#2: Daarukhana'
+title: 'sss ~ Artist Book #2: Daarukhana'
 parent: 'SITE : STAGE : STRUCTURE'
 layout: artwork
 pubdate: '2014'

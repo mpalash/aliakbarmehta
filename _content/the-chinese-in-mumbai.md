@@ -1,5 +1,5 @@
 ---
-title: The Chinese in Mumbai
+title: 'sss ~ The Chinese in Mumbai'
 parent: 'SITE : STAGE : STRUCTURE'
 layout: resource
 pubdate: '2014'
@@ -18,11 +18,11 @@ But almost 200 years after large-scale migration of Chinese began to India, the 
 
 “The Chinese are very few in number now, as a matter of fact, up to 1961 hey were good in number, and after the Chinese War they were detained in, or sent to concentration camps to Devlali, Ahmednagar, Ahmedabad and so many other places. The ones who remained left for Hongkong, Canada and so many other places.
 
-Before 1961, you could see a lot of Chinese on the roads, and is you saw one, you would see that they would wear there one style of clothes, Chinese style clothes, and the child would be behind the back and the foot size would be very very small because the Chinese said that if you are beautiful, it means you have very small feet. 
+Before 1961, you could see a lot of Chinese on the roads, and is you saw one, you would see that they would wear there one style of clothes, Chinese style clothes, and the child would be behind the back and the foot size would be very very small because the Chinese said that if you are beautiful, it means you have very small feet.
 
 The temple now has become a bit famous, because now people are talking about it, newspapers are covering it, the festival is covered, and every year is the year of a different animal in the Chinese religion, which is celebrated accordingly. Most of the Chinese today are working as hairdressers, or working in a restaurant. “
 
-Sadly, while bustling Chinatowns can be found in many parts of the world — including the US — in India, they are on the decline. Mumbai does not have a Chinatown as it did at the time of Independence. The Chinese came to Mumbai in the early part of the 19th century settled around the Mazgaon docks area in south-central Mumbai, and established a temple (the Kwan Tai Shek) and a cemetery. By the 1850s, the Chinese moved to other localities, including Byculla and Kamathipura. The latter became a notorious red light district, and is today one of the largest and oldest in Asia. 
+Sadly, while bustling Chinatowns can be found in many parts of the world — including the US — in India, they are on the decline. Mumbai does not have a Chinatown as it did at the time of Independence. The Chinese came to Mumbai in the early part of the 19th century settled around the Mazgaon docks area in south-central Mumbai, and established a temple (the Kwan Tai Shek) and a cemetery. By the 1850s, the Chinese moved to other localities, including Byculla and Kamathipura. The latter became a notorious red light district, and is today one of the largest and oldest in Asia.
 
 “There used to be a Chinatown in Shooklajee Street, where a lot of Chinese were staying; and if you go to Grant Road or to Falkland Road, there were a lot of Chinese dentists, now you don’t see them anymore. Only one or two are there, and there children have also become dentists, and they speak very good Hindi and Marathi; They have blended themselves very well, but you can make them out because they look different from us. “
 

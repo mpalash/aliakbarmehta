@@ -1,5 +1,5 @@
 ---
-title: Mathar Pacady Interviews – Mr. Julius Valladares
+title: 'sss ~ Mathar Pacady Interviews – Mr. Julius Valladares'
 parent: 'SITE : STAGE : STRUCTURE'
 layout: artwork
 pubdate: '2014'

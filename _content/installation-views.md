@@ -1,5 +1,5 @@
 ---
-title: Installation Views
+title: 'sss ~ Installation Views'
 parent: 'SITE : STAGE : STRUCTURE'
 layout: exhibition
 pubdate: '2014'
