@@ -2,11 +2,12 @@
 layout: default
 ---
 <article class="project text">
-
-
+  <span id="top"></span>
   <section class="project-content">
-
+    <aside class="meta">
+    </aside>
     <div class="section-content">
+      <img src="{{ page.hero}}" class="project-hero" alt="" />
       <h1 class="project-title">{{ page.title | escape }}</h1>
       {{ content }}
     </div>
@@ -15,21 +16,9 @@ layout: default
   {% assign sections = site.content | sort: 'pubdate' %}
   {% for section in sections reversed %}
     {% if section.parent == page.title %}
-    <section class="{{ section.layout }}">
-      <aside class="meta">
-        <p class="pub-date">{{ section.pubdate }}</p>
-        <p class="pub-type">{{ section.layout }}</p>
-      </aside>
-      <div class="section-content">
-        <h2>{{ section.title | split: "~" | last | strip }}</h2>
-        {% if section.summary %}
-          <div class="text">{{ section.summary | markdownify }}</div>
-          <p><a href="{{ section.url }}">More &rarr;</a></p>
-        {% else %}
-          <div class="text">{{ section.content }}</div>
-        {% endif %}
-      </div>
-    </section>
+
+      {%- include section-{{section.layout}}.html -%}
+
     {% endif %}
   {% endfor %}
 

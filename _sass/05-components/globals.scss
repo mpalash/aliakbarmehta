@@ -1,14 +1,24 @@
 .page-content {
   min-height: 100vh;
 }
-.section-content {
-  margin-left: $s-xxxl*2.5;
-}
-.text {
-  h1, h2, h3, p {
-    max-width: $max-text-width;
-  }
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  background: white;
+  padding: $s-b;
 }
 footer {
+  @extend .r;
+  padding: $s-xxl 0;
   font-size: 0.8rem;
+
+  div:first-child {
+    @extend .c;
+    @extend .c-2;
+  }
+  div:last-child {
+    @extend .c;
+    @extend .c-10;
+  }
 }

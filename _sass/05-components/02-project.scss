@@ -1,0 +1,22 @@
+.project-content {
+  @extend .r;
+}
+aside.meta {
+  @extend .c;
+  @extend .c-2;
+}
+div.section-content {
+  @extend .c;
+  @extend .c-10;
+}
+.project-hero {
+  width: $container-max-width;
+  height: 600px;
+  object-fit: cover;
+  object-position: center;
+}
+.text {
+  h1, h2, h3, p {
+    max-width: $max-text-width;
+  }
+}

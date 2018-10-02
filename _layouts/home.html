@@ -1,22 +1,27 @@
 ---
 layout: default
 ---
-<h1 class="site-title">{{ site.title }}</h1>
-<p class="sub-site-title">{{ site.description }}</p>
+<div class="r">
+  <div class="c c-2"></div>
+  <div class="c c-10 text">
+    <h1 class="site-title">{{ site.title }}</h1>
+    <p class="sub-site-title">{{ site.description }}</p>
 
-<div class="all-projects">
-  {% for project in site.projects %}
-    <p><a href="{{ project.url }}">{{ project.title }}</a></p>
-  {% endfor %}
+    <div class="all-projects">
+      {% for project in site.projects %}
+      <p><a href="{{ project.url }}">{{ project.title }}</a></p>
+      {% endfor %}
+    </div>
+
+    <!-- <div class="switcher">
+    <p>
+      <b>
+        <a class="switcher-year" href="#">Date</a> •
+        <a class="switcher-genre" href="#">Genre</a>
+      </b>
+    </p>
+    <div class="by-year"></div>
+    <div class="by-genre hide"></div>
+    </div> -->
+  </div>
 </div>
-
-<!-- <div class="switcher">
-  <p>
-    <b>
-      <a class="switcher-year" href="#">Date</a> •
-      <a class="switcher-genre" href="#">Genre</a>
-    </b>
-  </p>
-  <div class="by-year"></div>
-  <div class="by-genre hide"></div>
-</div> -->
