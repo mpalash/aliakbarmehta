@@ -1,5 +1,5 @@
 ---
-title: '256 ~ 256 Million Colours of Violence at Third Space, Helsinki'
+title: 256 ~ Artist Statement
 parent: 256 Million Colours of Violence
 layout: text
 pubdate: '2016'
