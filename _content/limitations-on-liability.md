@@ -1,5 +1,5 @@
 ---
-title: Limitations on Liability
+title: 256 ~ Limitations on Liability
 parent: 256 Million Colours of Violence
 layout: exhibition
 pubdate: '2017'
