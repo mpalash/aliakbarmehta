@@ -2,7 +2,7 @@
 title: '256 ~ 256 Million Colours of Violence at Third Space, Helsinki'
 parent: 256 Million Colours of Violence
 layout: text
-pubdate: '2018'
+pubdate: '2016'
 summary: >-
   256 Million Colours of Violence is a survey based interactive archival
   research project that asks the participants to choose a colour that to them
