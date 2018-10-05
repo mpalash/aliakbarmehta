@@ -1,5 +1,5 @@
 ---
-title: 256 ~ Limitations of Liability
+title: 256 ~ Limitations of Liability at Piramal Art Foundation
 parent: 256 Million Colours of Violence
 layout: exhibition
 pubdate: '2017'
