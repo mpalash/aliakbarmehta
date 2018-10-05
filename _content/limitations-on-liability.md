@@ -21,8 +21,12 @@ The conversation was conducted in Piramal Museum of Art, as part of Limitations 
 
 The project began in 2016, and now includes more than 200 entries of people from all walks of life. 256 Million Colours of Violence is available to the public for free. The exposition of survey results were installed along with a participation booth at The Mumbai Assembly and Harkat studios inviting everyone to participate in the ongoing survey. 
 
-Limitations of Liability was held across three venues: 
+Limitations of Liability (`link to exhibition`) was held across three venues: 
 
 The Mumbai Assembly (Bandra), The Piramal Art Foundation (Lower Parel) Harkat Studios (Versova) 
 
-You can know more about the survey and participate here: www.256milioncoloursofviolence.com
+
+
+You can know more about the survey and participate here: 
+
+www.256milioncoloursofviolence.com
