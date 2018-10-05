@@ -2,13 +2,11 @@
 title: 'Ballad ~  Conversation transcript with Rahul D''Souza '
 parent: 'Ballad of the War that Never Was, and Other Basterdised Myths'
 layout: resource
-pubdate: '2018'
+pubdate: '2014'
 summary: >-
-  Ali Axbar Mehta talks candidly with Rahul D'Souza about his first solo
+  Ali Akbar Mehta talks candidly with Rahul D'Souza about his first solo
   exhibition, “Ballad of the War that Never Was and other Bastardised Myths”
   (unpublished)
-
-
 
 
   Rahul D’souza: Tell us about the title of your show “Ballad of the War that
