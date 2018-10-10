@@ -1,5 +1,5 @@
 ---
-title: Ballad ~ Review by abhishek Bandekar
+title: Ballad ~ Review by Abhishek Bandekar
 parent: 'Ballad of the War that Never Was, and Other Basterdised Myths'
 layout: resource
 pubdate: '2011'
