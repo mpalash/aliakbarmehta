@@ -8,6 +8,8 @@
       <div class="summary text">{{ section.summary | markdownify }}</div>
     {% endif %}
       <div class="full text">{{ section.content | markdownify }}</div>
+    {% if section.summary %}
       <a href="#" class="toggle-section" data-title="{{ section.title | split: "~" | last | strip | slugify: 'latin' }}">More / Less</a>
+    {% endif %}
   </div>
 </section>

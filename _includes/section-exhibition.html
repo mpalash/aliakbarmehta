@@ -9,7 +9,7 @@
       <div class="text">{{ section.summary | markdownify }}</div>
       <p><a href="{{ section.url }}">More &rarr;</a></p>
     {% else %}
-      <div class="text">{{ section.content }}</div>
+      <div class="text">{{ section.content | markdownify }}</div>
     {% endif %}
   </div>
 </section>
