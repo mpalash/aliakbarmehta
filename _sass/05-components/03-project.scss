@@ -1,5 +1,7 @@
 .project-content {
   @extend .r;
+  padding-top: $s-l;
+  padding-bottom: $s-l;
 }
 aside.meta {
   @extend .c;

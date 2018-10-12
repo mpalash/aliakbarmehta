@@ -1,12 +1,16 @@
-.page-content {
-  min-height: 100vh;
-}
 header {
+  @extend .r;
   position: fixed;
   top: 0;
   left: 0;
-  background: white;
-  padding: $s-b;
+  .header-content {
+    @extend .c-2;
+    padding: $s-b;
+    background: white;
+  }
+}
+.page-content {
+  min-height: 100vh;
 }
 footer {
   @extend .r;

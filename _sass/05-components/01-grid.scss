@@ -29,4 +29,9 @@ $col-widths: ();
   .column-#{$i} {
     flex-basis: ($i / $num-columns) * 100%;
   }
+  .o-#{$i},
+  .off-#{$i},
+  .offset#{$i} {
+    margin-left: ($i / $num-columns) * 100%;
+  }
 }

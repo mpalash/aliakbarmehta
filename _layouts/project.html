@@ -13,13 +13,17 @@ layout: default
     </div>
   </section>
 
-  {% assign sections = site.content | sort: 'pubdate' %}
-  {% for section in sections reversed %}
-    {% if section.parent == page.title %}
+  {% assign sections = site.content | sort: 'pubdate' | reversed %}
+  {% assign sortedtags = 'text,artwork,exhibition,publication,talk,video,press,resource' | split: ',' %}
+
+  {% for tag in sortedtags %}
+    {% for section in sections %}
+      {% if section.parent == page.title and section.layout == tag %}
 
       {%- include section-{{section.layout}}.html -%}
 
-    {% endif %}
+      {% endif %}
+    {% endfor %}
   {% endfor %}
 
 </article>

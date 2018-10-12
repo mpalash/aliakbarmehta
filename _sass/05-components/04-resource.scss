@@ -1,0 +1,21 @@
+.project-content.resource {
+  background-color: $color-warm-light;
+  font-family: $font-serif;
+
+  h2,
+  .meta p {
+    position: sticky;
+    margin: 0 0 $s-l 0;
+    font-family: $font-sans;
+    font-size: 0.9rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.01em;
+  }
+  .meta p {
+    text-align: right;
+  }
+  .full.text {
+    display: none;
+  }
+}

@@ -1,5 +1,5 @@
 // FONTS IMPORT
-@import url('https://fonts.googleapis.com/css?family=Merriweather+Sans:400,400i,700|Merriweather:400,400i|Rubik+Mono+One');
+@import url('https://fonts.googleapis.com/css?family=Karla:400,400i,700,700i|Spectral:400,400i,600,600i');
 
 html,
 body {
@@ -11,10 +11,12 @@ body {
     box-sizing: border-box;
     // outline: 1px solid salmon;
   }
+  div {
+    position: relative;
+  }
 }
 body {
-  font-size: 14px;
-  font-size-adjust: auto;
+  font-size: 16px;
   font-family: $font-sans;
   line-height: $line-height-base;
   -webkit-font-smoothing: antialiased;
@@ -25,6 +27,7 @@ body {
   orphans: 2;
 }
 h1, h2, h3, h4, h5, h6 {
+  font-weight: normal;
 }
 a {
 }
