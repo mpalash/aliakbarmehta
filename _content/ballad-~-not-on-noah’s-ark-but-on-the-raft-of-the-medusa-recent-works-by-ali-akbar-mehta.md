@@ -23,11 +23,15 @@ Mehta is a member of what has been called the generation of ‘digital natives�
 
 Having been exposed to animation as a creative form in his parents’ animation studio, Mehta also embraces comic books, graphic novels, manga and anime as cultural resources.
 
+![](/assets/img/Ali Akbar Mehta_Harlequin Series; To Glory in Self, like some kind of New Monster, 2010, Archival print on Hahnemuhle paper, 182 x 121 cm.jpg)
+
 Ali Akbar Mehta_Harlequin Series; To Glory in Self, like some kind of New Monster, 2010, Archival print on Hahnemuhle paper, 182 x 121 cm
 
 Naturally, then, Mehta is fascinated by the figure of the superhero: who is supremely powerful yet deeply vulnerable, benevolent yet sinister, weighed down by the knowledge of humankind’s ultimate fate yet aware of his role as a guardian of hope and renewal. If the archetype of the great hero enshrines the spirit of indomitable resilience, it also incarnates all the freight of fear and paralysing anguish to which humankind is heir. In many of Mehta’s figures, the ligaments are stretched, the bone is set at breaking point. Indeed, in Mehta’s handing, the body is often an unsettling hybrid of muscular presence and spectral apparition: it is made, seemingly, of ectoplasm or pulp that has momentarily assumed a shape which it may lose without notice.
 
 In Mehta’s imagery of the suffering yet defiant body, we may detect an act of homage to his grandfather, the legendary artist Tyeb Mehta. We find this especially in the trussed figure, suspended from ropes, more prisoner than marionette and hung above the abyss, in ‘The Identity of Violence Series: Suffering and Rapture’(2010). That homage also animates the figure that has been twisted, knotted, folded double in ‘Triptych’ (2007) and jammed into the cage formed by the frame of the canvas.
+
+![](/assets/img/Ali Akbar Mehta_The Identity of Violence Series; Sacrifice and Redemption, 2010, Oil and acrylic on canvas, 182 x 121 cm.jpg)
 
 Ali Akbar Mehta_The Identity of Violence Series; Sacrifice and Redemption, 2010, Oil and acrylic on canvas, 182 x 121 cm
 
@@ -43,11 +47,11 @@ Among his protagonists are the jester and the harlequin: the first permitted to 
 
 Humankind lurches from one crisis to the next in Mehta’s post-apocalyptic ecologies, with little chance of redemption. We find predators and victims, survivors and demons, all conjoined in a common destiny, all adrift: not on a Noachic Ark so much as on a Gericauldian Raft of the Medusa. In the painting that gives this exhibition its title, ‘The Ballad of The War That Never Was’ (2010), one of the key figures is modelled on the Deposition, the enduring moment when the crucified Christ is taken down from the cross, except that this figure has no hope of resurrection; another figure in this tableau is based on Delacroix’s ‘Liberty Leading the People’, except that the banner is fraying, torn to pieces by the wind.
 
+![](/assets/img/Ballad of The War That Never Was, 2011, Oil and acrylic on canvas, 152 x 198 cm.jpg)
+
 Ballad of The War That Never Was, 2011, Oil and acrylic on canvas, 152 x 198 cm
 
 Or, as with the close-packed figures in ‘War’ (2011), screaming as they flail, wrestle and fall together in a grand tapestry of the damned, Mehta’s figures strike us as a contemporary version of Dante’s eternally condemned figures in the Inferno or Michelangelo’s in the Sistine ‘Last Judgement’. The mode of the history painting manifests itself again and again in Mehta’s work, through allusion and citation. But the inspired certitudes of history painting and its heroic belief in the ability of the human will to dominate all circumstance have yielded, in Mehta’s paintings, before a more tragic awareness of human fragility. This artist does indeed take man as the measure of all things, in the classical humanist formulation; but man is here a strained measure, bent under pressure. Precisely for this reason, Mehta’s protagonists speak to us of our own anxieties and exhilarations, sing to us of our own at-once epic and intimate predicaments.
-
-
 
 Ranjit Hoskote
 
