@@ -51,6 +51,4 @@ Or, as with the close-packed figures in ‘War’ (2011), screaming as they flai
 
 Ranjit Hoskote
 
-Mumbai
-
-2011
+Mumbai, 2011

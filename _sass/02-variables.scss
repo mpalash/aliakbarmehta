@@ -1,5 +1,9 @@
 // COLORS
-$color-red:     #D9392D;
+$color-red:          #D9392D;
+$color-pink:         #FFC5DC;
+$color-pink-dark:    #74344E;
+$color-blue:         #639ACF;
+$color-blue-dark:    #1F354B;
 
 // GREYS
 $color-black:        #000000;
@@ -9,9 +13,9 @@ $color-grey:         #919191;
 $color-grey-light:   #d7d7d7;
 $color-white:        #FFFFFF;
 
-$color-warm-light:  #F2F0EC;
-$color-warm:        #A09F92;
-$color-warm-dark:   #515151;
+$color-warm-light:   #F2F0EC;
+$color-warm:         #A09F92;
+$color-warm-dark:    #515151;
 
 $color-ink:          $color-warm-dark;
 
@@ -44,4 +48,15 @@ $s-xxs: 2px;
 @mixin rc-small-caps {
   text-transform: uppercase;
   letter-spacing: 0.05em;
+}
+@mixin meta {
+  margin: 0 0 $s-l 0;
+  font-family: $font-sans;
+  font-size: 0.9rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.01em;
+  * {
+    margin: 0;
+  }
 }

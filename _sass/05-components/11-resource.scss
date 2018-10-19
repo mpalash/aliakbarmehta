@@ -1,0 +1,9 @@
+.project-content.resource {
+  background-color: $color-pink;
+  color: $color-pink-dark;
+  font-family: $font-serif;
+
+  h2 {
+    @include meta;
+  }
+}

@@ -9,13 +9,25 @@ header {
     background: white;
   }
 }
+.site-title {
+  font-family: $font-identity;
+}
 .page-content {
   min-height: 100vh;
+}
+.meta {
+  @include meta;
+  text-align: right;
+}
+.full.text {
+  display: none;
 }
 footer {
   @extend .r;
   padding: $s-xxl 0;
-  font-size: 0.8rem;
+  background-color: $color-blue-dark;
+  color: $color-blue;
+  font-size: 0.85rem;
 
   div:first-child {
     @extend .c;

@@ -1,15 +1,14 @@
 ---
 layout: default
 ---
-<article class="project text">
+<article class="project">
   <span id="top"></span>
-  <section class="project-content">
-    <aside class="meta">
-    </aside>
+  <div class="project-hero" style="background-image: url({{ page.hero}})">
+    <h1 class="project-title">{{ page.title | escape }}</h1>
+  </div>
+  <section class="intro txt">
     <div class="section-content">
-      <img src="{{ page.hero}}" class="project-hero" alt="" />
-      <h1 class="project-title">{{ page.title | escape }}</h1>
-      {{ content }}
+      {{ content | markdownify }}
     </div>
   </section>
 
