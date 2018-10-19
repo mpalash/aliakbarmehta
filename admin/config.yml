@@ -80,6 +80,7 @@ collections: # A list of collections the CMS should be able to edit
         format: "YYYY"
       - label: "Summary"
         name: "summary"
+        required: false
         widget: "markdown"
       - label: "Body"
         name: "body"
