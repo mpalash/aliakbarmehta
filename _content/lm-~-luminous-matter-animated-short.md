@@ -1,0 +1,10 @@
+---
+title: 'LM ~ Luminous Matter, Animated Short'
+parent: Luminous Matter
+layout: artwork
+pubdate: '2011'
+summary: ''
+---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_wintl2SxiU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+A stunning steampunk stop motion in which two species of luminescent insectoid creatures must find each other and in a dark, dystopian world. They scuttle around in the mechanical darkness bearing a unique luminous character that unites them and will enable them to evolve.
