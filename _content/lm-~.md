@@ -1,5 +1,5 @@
 ---
-title: 'LM ~ '
+title: LM ~ Prelude to Luminous Matter (Animated)
 parent: Luminous Matter
 layout: artwork
 pubdate: '2011'
