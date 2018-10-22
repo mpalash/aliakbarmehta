@@ -32,8 +32,13 @@ $col-widths: ();
   }
   .o-#{$i},
   .off-#{$i},
-  .offset#{$i} {
+  .offset-#{$i} {
     margin-left: ($i / $num-columns) * 100%;
+  }
+  .p-#{$i},
+  .pad-#{$i},
+  .padding-#{$i} {
+    padding-left: ($i / $num-columns) * 100%;
   }
   .w-#{$i},
   .width-#{$i} {

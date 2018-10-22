@@ -1,15 +1,15 @@
 <section class="project-content {{ section.layout }}">
   <aside class="meta">
     <p class="pub-date">{{ section.pubdate }}</p>
-    <p class="pub-type">{{ section.layout }}</p>
+    {% if section.summary %}
+    <a href="#" class="toggle-section" data-title="{{ section.title | split: "~" | last | strip | slugify: 'latin' }}">More / Less</a>
+    {% endif %}
   </aside>
-  <div class="section-content">
+  <div class="section-content" data-title="{{ section.title | split: "~" | last | strip | slugify: 'latin' }}">
     <h2>{{ section.title | split: "~" | last | strip }}</h2>
     {% if section.summary %}
-      <div class="text">{{ section.summary | markdownify }}</div>
-      <p><a href="{{ section.url }}">More &rarr;</a></p>
-    {% else %}
-      <div class="text">{{ section.content }}</div>
+      <div class="summary">{{ section.summary | markdownify }}</div>
     {% endif %}
+      <div class="full-content">{{ section.content | markdownify }}</div>
   </div>
 </section>

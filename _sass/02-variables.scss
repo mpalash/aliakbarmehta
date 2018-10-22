@@ -1,5 +1,5 @@
 // COLORS
-$color-red:          #D9392D;
+$color-red:          #F37677;
 $color-pink:         #FFC5DC;
 $color-pink-dark:    #74344E;
 $color-blue:         #639ACF;
@@ -15,15 +15,17 @@ $color-white:        #FFFFFF;
 
 $color-warm-light:   #F2F0EC;
 $color-warm:         #A09F92;
-$color-warm-dark:    #515151;
+$color-warm-dark:    #5A5652;
 
 $color-ink:          $color-warm-dark;
 
 // TYPOGRAPHY
 $font-serif: 'Spectral','Merriweather', serif;
 $font-sans: 'Karla','Merriweather Sans', sans-serif;
-$font-identity: 'Rubik Mono One', sans-serif;
+$font-identity: 'IBM Plex Mono', monospace;
 $text-font-family: $font-sans;
+$font-size-small: 0.9rem;
+$font-size-large: 1.25rem;
 $line-height-base: 1.5;
 
 // SIZES
@@ -32,6 +34,7 @@ $container-max-width: 1024px;
 $responsive-medium:   1024px;
 $responsive-small:    640px;
 $max-text-width:      720px;
+$thumbnail-height:    360px;
 
 // SPACING
 // Use these variables for padding & margin
@@ -45,18 +48,22 @@ $s-s:   8px;
 $s-xs:  4px;
 $s-xxs: 2px;
 
-@mixin rc-small-caps {
+@mixin small-caps {
   text-transform: uppercase;
   letter-spacing: 0.05em;
 }
 @mixin meta {
-  margin: 0 0 $s-l 0;
   font-family: $font-sans;
-  font-size: 0.9rem;
+  font-size: $font-size-small;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.01em;
   * {
     margin: 0;
+  }
+}
+@mixin txt {
+  h1, h2, h3, p {
+    max-width: $max-text-width;
   }
 }

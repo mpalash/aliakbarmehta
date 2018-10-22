@@ -1,3 +1,25 @@
-.site-title {
-  font-family: $font-identity;
+.home {
+  @include txt;
+  background-color: $color-warm-dark;
+  color: $color-warm-light;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  a {
+    color: $color-warm-light;
+  }
+
+  .site-title {
+    font-size: 4rem;
+  }
+  .all-projects {
+    list-style: none;
+    padding: 0;
+
+    li {
+      margin: $s-s 0;
+    }
+  }
 }

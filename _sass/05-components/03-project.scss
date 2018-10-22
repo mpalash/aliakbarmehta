@@ -1,6 +1,6 @@
 .project-content {
   @extend .r;
-  @extend .txt;
+  @include txt;
   padding-top: $s-l;
   padding-bottom: $s-l;
 }
@@ -31,7 +31,7 @@ h1.project-title {
   @extend .o-2;
   margin-top: 0;
   margin-bottom: 0;
-  padding: $s-l;
+  padding: $gutter $gutter 0 $gutter;
   background-color: $color-white;
   font-family: $font-serif;
   line-height: 1.2;
@@ -39,14 +39,13 @@ h1.project-title {
   max-width: $max-text-width*0.75;
 }
 .intro {
+  @include txt;
   padding-top: $s-l;
   padding-bottom: $s-l;
   div.section-content {
     @extend .o-2;
   }
 }
-.txt {
-  h1, h2, h3, p {
-    max-width: $max-text-width;
-  }
+.full-content {
+  display: none;
 }

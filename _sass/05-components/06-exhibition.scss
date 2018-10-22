@@ -1,3 +1,20 @@
 .project-content.exhibition {
+  background-color: $color-blue;
+  color: $color-white;
 
+  h2 {
+    @include meta;
+    margin: 0 0 $s-m 0;
+  }
+  p.img {
+    max-width: none;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+    img {
+      height: $thumbnail-height;
+      margin: 0 $s-m $s-m 0;
+    }
+  }
 }

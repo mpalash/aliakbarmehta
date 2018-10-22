@@ -1,6 +1,5 @@
 // FONTS IMPORT
-@import url('https://fonts.googleapis.com/css?family=Karla:400,400i,700,700i|Spectral:400,400i,600,600i');
-@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Mono:700|PT+Mono|Source+Code+Pro:900|Space+Mono:700');
+@import url('https://fonts.googleapis.com/css?family=Karla:400,400i,700,700i|Spectral:400,400i,600,600i|IBM+Plex+Mono:700');
 
 html,
 body {
@@ -31,9 +30,16 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
 }
 a {
+  text-decoration: none;
+  &:hover {
+    text-decoration: underline;
+  }
 }
-p + p {
-  margin-top: 1.5em;
+p {
+  margin: 0;
+  & + p {
+    margin-top: 1.5em;
+  }
 }
 img {
   max-width: 100%;

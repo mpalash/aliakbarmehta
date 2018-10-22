@@ -66,10 +66,11 @@ var uniqueGenres = [];
 // });
 
 $(function() {
+  $('p:has(img)').addClass('img');
   $('a.toggle-section').on('click',function(e){
     e.preventDefault();
     var title = $(this).data('title');
-    $('.section-content[data-title=' + title + '] .full.text').toggle();
+    $('.section-content[data-title=' + title + '] .full-content, .toggle-section[data-title=' + title + '] .more, .toggle-section[data-title=' + title + '] .less').toggle();
   });
 });
 

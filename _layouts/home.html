@@ -1,27 +1,41 @@
----
-layout: default
----
-<div class="r">
-  <div class="c c-2"></div>
-  <div class="c c-10 text">
-    <h1 class="site-title">{{ site.title }}</h1>
-    <p class="sub-site-title">{{ site.description }}</p>
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
-    <div class="all-projects">
-      {% for project in site.projects %}
-      <p><a href="{{ project.url }}">{{ project.title }}</a></p>
-      {% endfor %}
-    </div>
+  {%- include head.html -%}
 
-    <!-- <div class="switcher">
-    <p>
-      <b>
-        <a class="switcher-year" href="#">Date</a> •
-        <a class="switcher-genre" href="#">Genre</a>
-      </b>
-    </p>
-    <div class="by-year"></div>
-    <div class="by-genre hide"></div>
-    </div> -->
-  </div>
-</div>
+  <body>
+    <main class="page-content home r" aria-label="Content">
+      {%- include header.html -%}
+      <div class="c c-12 p-2">
+        <h1 class="site-title">{{ site.title }}</h1>
+        <p class="sub-site-title">{{ site.description }}</p>
+
+        {% assign sortedtags = 'text,artwork,exhibition,publication,talk,video,press,resource' | split: ',' %}
+        <ul class="site-tags tags">
+          {% for tag in sortedtags %}
+          <li class="tag tag-{{ tag }}">{{ tag }}</li>
+          {% endfor %}
+        </ul>
+
+        <ul class="all-projects">
+          {% for project in site.projects %}
+          <li><a href="{{ project.url }}">{{ project.title }}</a></li>
+          {% endfor %}
+        </ul>
+
+        <!-- <div class="switcher">
+        <p>
+          <b>
+            <a class="switcher-year" href="#">Date</a> •
+            <a class="switcher-genre" href="#">Genre</a>
+          </b>
+        </p>
+        <div class="by-year"></div>
+        <div class="by-genre hide"></div>
+        </div> -->
+      </div>
+      {%- include footer.html -%}
+    </main>
+  </body>
+
+</html>

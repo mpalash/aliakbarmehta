@@ -1,1 +1,7 @@
 // Vendor root folder: 01-vendor/
+
+$fa-font-path: "/assets/webfonts";
+
+@import "01-vendor/font-awesome/fontawesome",
+        "01-vendor/font-awesome/regular",
+        "01-vendor/font-awesome/solid";

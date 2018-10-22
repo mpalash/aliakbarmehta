@@ -17,7 +17,7 @@ The series of photographs is a cross section of a layered and multi-tiered space
 
 ![null](/assets/img/ali-akbar-mehta-site-stage-structure-2014_nana-nani-film-still-01.png)
 
-![null](/assets/img/ali-akbar-mehta-site-stage-structure-2014_nana-nani-film-still-02.png)
+![null](/assets/img/ali-akbar-mehta-site-stage-structure-2014_nana-nani-film-still-02.jpg)
 
 Mazgaon has been important to me – my grandparents have lived in Mazgaon for 42 years, for more than my entire life. During school summer vacations, I visited their home and was taken to the famous Mazgaon Gardens. The Garden located on a hilltop offers stunning views of the docks, the ships and the urban landscape of Mazgaon and beyond. This vivid memory has remained with me and I was keen to revisit the space now as an artist.
 

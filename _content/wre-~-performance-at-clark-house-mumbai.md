@@ -1,5 +1,5 @@
 ---
-title: 'Wre ~ Performance at Clark House, Mumbai'
+title: 'wre ~ Performance at Clark House, Mumbai'
 parent: 'WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs'
 layout: exhibition
 pubdate: '2017'
