@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Ali Akbar Mehta
-email: your-email@example.com
+email: aliakbarmehta@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Ali Akbar Mehta is a transmedia artist. Through his research-based transmedia practice, he creates immersive cyber archives that explore collective memetic history, narratives of memory, identity, violence, and conflict. He has exhibited his projects in galleries and alternate spaces in New Delhi, Mumbai, Pune, Helsinki, and Tampere.
 baseurl: "" # the subpath of your site, e.g. /blog
