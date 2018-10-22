@@ -6,6 +6,10 @@ parent: 'Ballad of the War that Never Was, and Other Basterdised Myths'
 layout: text
 pubdate: '2011'
 summary: >-
+  ![](/assets/img/Ali Akbar Mehta_Harlequin Series; Icarus finds his wings
+  again, 2010, Archival print on Hahnemuhle paper, 182 x 121 cm.jpg)
+
+
   Normality is the somewhat misleading name that many of us give to the present.
   It is often the only means of remaining sane while enduring the abrupt horrors
   and dehumanising provocations that surround us. The artist, however, is not
@@ -56,3 +60,5 @@ Or, as with the close-packed figures in ‘War’ (2011), screaming as they flai
 Ranjit Hoskote
 
 Mumbai, 2011
+
+![](/assets/img/Ali Akbar Mehta_War, 2011, Graphite on Paper, 152 x 213 cm.jpg)
