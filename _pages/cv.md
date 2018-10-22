@@ -31,9 +31,9 @@ Cyber Archive: Being and Doing Knowledge
 
 **Performance**
 
-_Narrating War_, Experimental Event VI (curated by Anna Jensen and AndreaCoyotzi Borja, Pori, 2018
+(upcoming)_ Narrating War_, Experimental Event VI (curated by Anna Jensen and Andrea Coyotzi Borja, Pori, 2018
 
-_Narrating War_, Carincarina, Nova Gorica, 2018
+(upcoming) _Narrating War_, Carincarina, Nova Gorica, 2018
 
 _Narrating War_, Museum of Impossible Forms, Helsinki, 2018
 
@@ -117,7 +117,7 @@ _MATERIAL///IMMATERIAL_, A: SPACE, Espoo, Finland, 2016 SOAK, D/func.t, Helsinki
 
 **Text**
 
-_To Not Wait for the Archive_, Visual Culture and Contemporary Art Journal #5, Aalto University, 2018
+(upcoming) _To Not Wait for the Archive_, Visual Culture and Contemporary Art Journal #5, Aalto University, 2018
 
 _Cyber Archive: Archiving as a sustainable counter-hegemonic practice_, Hakara Journal, 2018
 
@@ -136,3 +136,51 @@ _The Photons of Politics: Footnotes for a New History_, RAB-RAB Journal for Poli
 _ARTEL 2018_, TIFA Working Studios, Pune, 2018 
 
 _SPACE 118_, Mumbai, 2012
+
+\*
+
+**Teaching**
+
+Guest lecturer, ‘Histories of the Present’ at Visual Culture and Contemporary Art (ViCCA), Aalto University, Helsinki, 2018
+
+Guest Lecturer at Whistling Woods International Institute of Film, communication and Media Arts, 2014 – 2015
+
+Regularly conducting drawing and painting workshops as part of various NGO activities and schools (for children of 10 to 15 years) Teach India, Dear Imagination, The Oberoi International IB School, 2011 ­– 2013
+
+\*
+
+**Work Experience**
+
+Artistic co-Director, Museum of Impossible Forms, Helsinki, 2018 – present
+
+Founder Member of Museum of Impossible Forms, Helsinki, 2016 – present
+
+Communication Assistant for Visual Culture and Contemporary Art (ViCCA), Aalto University, Helsinki, 2016 – 2017
+
+Post Production and animation for Arab Strings, a performance video by artist Jowan Safadi (Palestine), 2016
+
+Member of Third Space Collective, Helsinki, 2016 ­– 2017
+
+Founder Member of D/func.t Collective, Helsinki, 2016 ­– present
+
+Post Production for ‘#7: Greed’ short film, 2015
+
+Co-conceived and Head of Post Production with COMPOSITE Films for Relics of Eden, a short fictional film, 2014 ­– present
+
+Head of Post Production for What a Wonderful World, an independently produced post-apocalyptic themed experimental video, 2014
+
+Freelance Artist and Character Designer working with Recyclewala Films for TUMBAD, feature-length live-action film, 2013 ­– 2014
+
+Consulting head of Post Production and freelance Artist for COMPOSITE Films, working on various Digital content projects (QuickHeal Antivirus, La15 Patisserie, Fizzy foods, and KNM Airlines), 2012 – 2016
+
+Creative Director and Head of Post Production with COMPOSITE Films for Luminous Matter, a stop-motion animated short film, 2011 – 2013
+
+Screened at Austria Film Festival 2013, Jaipur Film Festival, 2013, Leeds Film Festival, 2012, DIGICON Tokyo, 2012, FICCI Frames, Mumbai 2012
+
+Co ­­­­­– ­founder, Lead Animator and artist at Mareech Animated Design, an animation studio specializing in 3D animation and Visual Effects for Film and Television, 2002 – 2007
+
+Co-written and performed, Aham: What’s going on?, a full-length play performed at Prithvi Theatre, Mumbai, 2004 – 2006
+
+Graduated from Sir J.J. School of (Fine) Art, 2005
+
+Directed and edited, Untitled, documentary short film on Sir J.J. School of Art, 2004
