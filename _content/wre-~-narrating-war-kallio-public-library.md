@@ -1,8 +1,8 @@
 ---
-title: 'wre ~ Narrating War, Kallio Public Library'
+title: 'wre ~ null.void, Kallio Public Library'
 parent: 'WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs'
 layout: video
-pubdate: '2018'
+pubdate: '2016'
 summary: >-
   <iframe width="560" height="315"
   src="https://www.youtube.com/embed/BOeLJNSI570" frameborder="0"
@@ -15,9 +15,7 @@ summary: >-
 
 
   For the full one hour radio broadcast of the performance, check out The
-  Chimurenga Archives at http://panafricanspacestation.org.za/
-
-
+  Chimurenga Archives at <http://panafricanspacestation.org.za/>
 
 
   •
