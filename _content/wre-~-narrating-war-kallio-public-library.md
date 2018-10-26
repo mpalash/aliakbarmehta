@@ -16,9 +16,6 @@ summary: >-
 
   For the full one hour radio broadcast of the performance, check out The
   Chimurenga Archives at <http://panafricanspacestation.org.za/>
-
-
-  •
 ---
 { 
 
