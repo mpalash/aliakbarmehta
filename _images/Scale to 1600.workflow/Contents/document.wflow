@@ -151,12 +151,10 @@
 						<string>3</string>
 					</dict>
 				</dict>
-				<key>conversionLabel</key>
-				<integer>0</integer>
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>309.000000:354.000000</string>
+				<string>309.000000:174.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Scale Images.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
@@ -211,7 +209,7 @@
 				<key>CFBundleVersion</key>
 				<string>1.1.1</string>
 				<key>CanShowSelectedItemsWhenRun</key>
-				<false/>
+				<true/>
 				<key>CanShowWhenRun</key>
 				<true/>
 				<key>Category</key>
@@ -254,12 +252,10 @@
 						<string>0</string>
 					</dict>
 				</dict>
-				<key>conversionLabel</key>
-				<integer>0</integer>
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>309.000000:509.000000</string>
+				<string>309.000000:277.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Change Type of Images.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
@@ -269,7 +265,7 @@
 	</array>
 	<key>connectors</key>
 	<dict>
-		<key>2FBC1C81-53E8-4447-BC27-944B1B4364DF</key>
+		<key>02FC2C71-9F40-4169-A127-98F4D6B03DA1</key>
 		<dict>
 			<key>from</key>
 			<string>B864504D-2E44-4BC5-8A3A-45F574059F2F - B864504D-2E44-4BC5-8A3A-45F574059F2F</string>
@@ -280,7 +276,7 @@
 	<key>workflowMetaData</key>
 	<dict>
 		<key>folderActionFolderPath</key>
-		<string>~/Dev/aliakbarmehta/assets/img</string>
+		<string>~/Dev/aliakbarmehta/_images</string>
 		<key>workflowTypeIdentifier</key>
 		<string>com.apple.Automator.folderAction</string>
 	</dict>
