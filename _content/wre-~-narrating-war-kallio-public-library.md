@@ -16,6 +16,11 @@ summary: >-
 
   For the full one hour radio broadcast of the performance, check out The
   Chimurenga Archives at http://panafricanspacestation.org.za/
+
+
+
+
+  •
 ---
 { 
 
@@ -24,6 +29,10 @@ null.void;
 // a sermon of nothingness and a space odyssey of zero movement and tycho magnetic anomalies
 
 }
+
+![](/assets/img/kallio-performance.png)
+
+
 
 null.void; is a Transmedia Performance-lecture recitation and Research Project. It comprises a procedural audio soundscape of glitch sounds using static and radio frequencies, and a performance recitation of a comprehensive list of every war, battle, siege, sacking, revolt and revolution spanning 5014 years of human conflict and violence.
 
