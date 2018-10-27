@@ -4,7 +4,7 @@ parent: 'WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs'
 layout: artwork
 pubdate: '2017'
 summary: >-
-  ![](/assets/img/ali-akbar-mehta-narrating-war-03-clark-house-2017.png)
+  ![null](/assets/img/ali-akbar-mehta-narrating-war-03-clark-house-2017.jpg)
 
 
   Narrating War at The Clark House Artist Collective, is a 3 day performance
