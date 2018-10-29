@@ -10,6 +10,7 @@ summary: >-
 
 
   Narrating War, is a performance reading project performed at Museum of
-  Impossible Forms Helsinki, as part of Performance LAB VII, on Octobe 12, 2018.
+  Impossible Forms Helsinki, as part of Performance LAB VII, on October 12,
+  2018.
 ---
 Narrating War is an ongoing performance reading project that is a part of a larger project, [WAR • ROOM • ECHO – Regarding the Pain of Other Cyborgs](https://aliakbarmehta.com/projects/war-room-echo.html).
