@@ -4,3 +4,33 @@ title: 'SITE : STAGE : STRUCTURE'
 hero: /assets/img/mazgaon-docks.jpg
 ---
 SITE : STAGE : STRUCTURE is an archival documentary project. It is a Transmedia Installation that integrates books, objects, photographs, short films, audio narratives, and heritage walks as a way of revitalizing memories and telling a history that is absent from the formal narratives.
+
+
+
+Site \[sahyt] noun 
+
+1. The position or location of a town, building, etc., especially as to its environment: the site of our summer cabin. 
+
+2. The area or exact plot of ground on which anything is, has been, or is to be located: the site of ancient Troy. 
+
+
+
+Stage \[steyj] noun 
+
+1. Theater
+
+a. the platform on which the actors perform in a theater. 
+
+b. this platform with all the parts of the theater and all the apparatus back of the proscenium. 
+
+
+
+Struc·ture \[struhk-cher] noun 
+
+1. Mode of building, construction, or organization; arrangement of parts, elements, or constituents: a pyramidal structure. 
+
+2. Something built or constructed, as a building, bridge, or dam. 
+
+3. A complex system considered from the point of view of the whole rather than of any single part: the structure of modern science. 
+
+4. Anything composed of parts arranged together in some way; an organization.
