@@ -3,6 +3,7 @@ title: poems ~ What about Infinity
 parent: Poems
 layout: text
 pubdate: '2010'
+summary: ''
 ---
 **I**
 
