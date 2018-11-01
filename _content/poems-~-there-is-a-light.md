@@ -60,15 +60,11 @@ Too late –
 
 Curses in Finnish sound anticlimactic.
 
-
-
 News: Intercity blocks taken over –
 
 The Army of the Flying Baby pink Elephants Faction is real 
 
 The Fiction is real
-
-
 
 \    _(Music genre: News reel muzak)_
 
@@ -86,8 +82,6 @@ Uncheck new forms of resistance
 
 Checkpoint.
 
-
-
 _\    Lights dim 20% (lighting instructions)_
 
 __
@@ -104,8 +98,6 @@ Upholding and perpetuating
 
 Nothing but xenophobia and rascism.
 
-
-
 Eat the rich
 
 Live broadcast of the devouring.
@@ -115,8 +107,6 @@ Live broadcast of the devouring
 Industrial complex known as Finland. 
 
 Checkpoint.
-
-
 
 Phone call -
 
@@ -138,8 +128,6 @@ Ja”
 
 Phone call ends.
 
-
-
 More bad news?
 
 The cow protectors are lynching the beef-eaters
@@ -152,11 +140,7 @@ Between those who say there is a war and those who say there isn’t...
 
 It is known.
 
-
-
 \    _Lights dim 30% (lighting instructions)_
-
-
 
 Paper clip to trash the simcard.
 
@@ -188,8 +172,6 @@ Don’t resent
 
 37% are denied entry, annually.
 
-
-
 Statue of Mannerhiem is decapitated
 
 He Killed a lot of people for being a communist
@@ -207,8 +189,6 @@ Mannerhiem had a horse
 You have a scooter
 
 Exploited and exploiters.
-
-
 
 Change can only come through violence
 
@@ -232,8 +212,6 @@ Is the same
 
 _“Did you live a good life? Enough to base a movie on?”_
 
-
-
 \    _Lights dim 40% (lighting instructions)_
 
 __
@@ -253,8 +231,6 @@ The gun is weaponised light
 The light is Orange
 
 Orange is toxic
-
-
 
 _(Music genre: Dark psy Electronica)_
 
@@ -286,8 +262,6 @@ Explosion
 
 Debris
 
-
-
 _\    (Music genre: Ambient Dark Club)_
 
 __
@@ -295,8 +269,6 @@ __
 Imagine a chase sequence 
 
 Tension, Sirens – Basic parameters
-
-
 
 _\    (Music genre: Industrial electronica)_
 
@@ -318,8 +290,6 @@ also toxic
 
 Crossing Hakaniemi
 
-
-
 The Hakaniemi double cross 
 
 The sigh ................ 
@@ -337,8 +307,6 @@ More Alien pigeons
 Closed corridor
 
 Club music
-
-
 
 _\    (Music genre: Dark psy club)_
 
@@ -368,8 +336,6 @@ Bertould brecht broke the fourth wall
 
 Where is the Feast we were promised?
 
-
-
 _\    (Music genre: Restaraunt muzak)_
 
 __
@@ -388,11 +354,7 @@ Self censor ship
 
 A Ship of Fools.
 
-
-
 _\    Lights dim 50% (lighting instructions)_
-
-
 
 Peaceful under water
 
@@ -434,17 +396,11 @@ We are ruled by TV –
 
 Eyebal economy.
 
-
-
 The ‘Utopia’ is a High profile neighbourhood for the rich.
 
 _“The art crowd were profiting from the mediation of the conflict.”_
 
-
-
 _\    Lights dim 60% (lighting instructions)_
-
-
 
 Out of area placement 
 
@@ -455,8 +411,6 @@ We will live online
 There is a time when you have to resist the commodification of the resistance 
 
 Say no
-
-
 
 _\    (Music genre: Restaraunt Muzak) continues_
 
@@ -478,8 +432,6 @@ Say no to pigeons
 
 High up
 
-
-
 _\    Lights dim 70% (lighting instructions)_
 
 __
@@ -500,8 +452,6 @@ Causing misinterpretation of the survival instinct
 
 People with higher level of anxiety suffer from it more.
 
-
-
 We are all immortal cyborgs
 
 Cultural memory is stored in massive hardrives 
@@ -518,8 +468,6 @@ Tank explosions
 
 Shopping complex in flames
 
-
-
 The museum in the mall 
 
 Bomb the Fascist monuments 
@@ -530,8 +478,6 @@ The Opera house
 
 Explosions
 
-
-
 Unpaid credit
 
 The Sun is out.
@@ -540,11 +486,7 @@ There is no Sun
 
 Behind the solar panels
 
-
-
 _\    (Music genre: Saami music)_
-
-
 
 The lure of commercials
 
@@ -578,8 +520,6 @@ _\    (Music genre: Celtic Heavy Metal)_
 
 _\    Lights dim 80% (lighting instructions)_
 
-
-
 Science Fiction 101:
 
 Aliens unite human groups 
@@ -600,8 +540,6 @@ __
 
 _\    Lights dim 90% (lighting instructions)_
 
-
-
 Imposter syndrome 
 
 Invested Hypocrisy 
@@ -612,8 +550,6 @@ Those who know Know
 
 That there is no Exit plan
 
-
-
 There is a Light that never goes out
 
 The End of Civilisation is not the End of the World 
@@ -623,8 +559,6 @@ The End of the World is not the End of Life
 The End of Life is not the End of Civilisation
 
 And then it was said, “Let there be Light.”
-
-
 
 _\    (exit)_
 
