@@ -13,8 +13,6 @@ BFA (Painting), Sir J.J. School of Art, Mumbai, 2005
 
 Ali Akbar Mehta is a Trans-media artist. He is a founder-member and current Artistic Director of [Museum of Impossible Forms](www.museumofimpossibleforms.org), Helsinki. Through his research-based transmedia practice, he creates immersive cyber archives that explore collective memetic history, narratives of memory, identity, violence, and conflict. He has exhibited his projects in galleries and alternate spaces in New Delhi, Mumbai, Pune, Helsinki, and Tampere. He holds a BFA in Drawing and Painting from Sir J.J. School of Art, Mumbai, and an MA in Visual Culture, Curating, and Contemporary Art from Aalto University, Helsinki, Finland, where he completed a thesis text titled ‘Cyber Archive: Being and Doing Knowledge’. Some of his ongoing projects are ‘256 Million Colours of Violence’, ‘Contemporary Ruins of Kruunuvuori’, ‘War Room Echo – Regarding the pain of Other Cyborgs’, ‘New Frontiers: Critical enquiries for archives as Artistic Praxis’, and ‘Non-Alignment as Resistance: Towards Cyber Archives as counter-hegemonic practice’. He lives and works in Helsinki and Mumbai.
 
-
-
 \*
 
 **Current Projects**
@@ -83,23 +81,57 @@ _The Ballad of The War that Never Was, and other Bastardized Myths_, TAO Art Gal
 
 **Select Group Exhibitions**
 
-_Assembly of Access_, TIFA, Pune, 2018
+_Assembly of Access, TIFA, Pune, 2018_
 
-_OUT 2,_ Research Pavilion: The Utopia of Access, Venice Biennale, Venice, 2017
+_OUT 2, Research Pavilion: The Utopia of Access, Venice Biennale, Venice, 2017_
 
-_Ateria/The Meal_, URB 2017 + Kiasma Contemporary Art Museum, Helsinki, 2017
+_Ateria/The Meal, URB 2017 + Kiasma Contemporary Art Museum, Helsinki, 2017_
 
-_Where does poetry nest?_, curated by Giovanna Esposito Yussif, Galleria Emil, Tampere, 2016
+_Immersion 2016, Espoo, 2016_
 
-_Space Invaders IV: Heterotopia_, Espoo, 2016
+_Where Does Poetry Nest?, curated by Giovanna Esposito Yussif, Galleria Emil, Tampere, 2016_
 
-_SOAK_, D/func.t, Helsinki, Finland, 2016
+_Space Invaders IV: Heterotopia, Espoo, 2016_
 
-_Cisspace: Construct(ed.)_, Otaniemi Recycling Centre, Espoo, Finland, 2015
+_SOAK, D/func.t, Helsinki, 2016_
 
-_Tagore Lost and Found_, curated by Bina Sarkar Ellias, India Bulls Art Gallery and Auction House, New Delhi, India, 2013
+_Cisspace: Construct(ed.), Otaniemi Recycling Center, Espoo, 2015_
 
-_Three New Voices: Dimensions in Time & Space_, Art Heritage, New Delhi, 2010
+_Infinite, TAO Art Gallery, Mumbai, 2014_
+
+_Small is Beautiful – II, TAO Art Gallery, Mumbai, 2013_
+
+_Beyond the Canvas ­– Curated by Kalpana Shah and Sapna Kar, TAO Art Gallery, Mumbai, 2013_
+
+_Tagore Lost and Found ­– Curated by Bina Sarkar Ellias, India Bulls Art Gallery and Auction House, New Delhi, 2013_
+
+_Equilibrium, TAO Art Gallery, Mumbai, 2013_
+
+_Synergy, TAO Art Gallery, Mumbai, 2012_
+
+_Small is Beautiful, TAO Art Gallery, Mumbai, 2012_
+
+_Three New Voices: Dimensions in Time & Space, Art Heritage, New Delhi, 2010_
+
+_April Salon, Galerie Mirchandani + Stienruecke, Mumbai, 2010_
+
+_Evolve, TAO Art Gallery, Mumbai, 2010_
+
+_Gems of India, Unicorn Art Gallery, Dubai, 2009_
+
+_India on Canvas, charity auction, New Delhi, 2009_
+
+_The Kohinoor Selection, Unicorn Art Gallery, Dubai, 2008_
+
+_Art for Justice and Peace, Sabrang, Mumbai, 2008_
+
+_Art Smart, Mumbai, and Delhi, 2008_
+
+_India on Canvas, charity auction, Mumbai, 2007_
+
+_Celebrating India, Treo Foundation, Delhi-Calcutta-Bangalore-Mumbai-New York, 2007_
+
+
 
 \*
 
@@ -107,27 +139,35 @@ _Three New Voices: Dimensions in Time & Space_, Art Heritage, New Delhi, 2010
 
 _TRINITY: Godrej Legacy Park Silos_, Mumbai, India, 2015
 
+
+
 \*
 
 **Curatorial Projects**
 
 _MATERIAL///IMMATERIAL_, A: SPACE, Espoo, Finland, 2016 SOAK, D/func.t, Helsinki, Finland, 2016
 
+
+
 \*
 
-**Text**
+**Publication and Text**
 
-(upcoming) _To Not Wait for the Archive_, Visual Culture and Contemporary Art Journal #5, Aalto University, 2018
+(upcoming) _To Not Wait for the Archive_, Visual Culture and Contemporary Art Journal #5, edited by Saara Mehbouba, Paola Jallili and Else Lagerspetz, published by Aalto University, Helsinki 2018
 
 _Cyber Archive: Archiving as a sustainable counter-hegemonic practice_, Hakara Journal, 2018
 
-_Colours of Violence_, AROOP Journal, 2018
+_Colours of Violence_, AROOP Journal, edited by Nancy Adajania, published by Raza Foundation, New Delhi, 2018
 
 _Cyber Archive: Being and Doing Knowledge_, Aalto University, 2018
 
-_Border Crossing: Reshaping the Agency of Struggle_, interview with Ranjit Hoskote, CuMMA Papers publication series, 2017
+_Border Crossing: Reshaping the Agency of Struggle_, interview with Ranjit Hoskote, CuMMA Papers publication series, edited by Nora Sternfeld, Helsinki, 2017
 
 _The Photons of Politics: Footnotes for a New History_, RAB-RAB Journal for Political and Formal Inquiries in Art, 2017
+
+_No one at the ceremony remembers to mention the artist_, Essay for Exhibition _No one at the ceremony remembers to mention the artist_, Third Space, 2015
+
+_Site: Stage: Structure_, suite of 17 Accordion fold and 3 artist photo-books, self-published, Mumbai, 2014
 
 \*
 
