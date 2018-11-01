@@ -3,7 +3,7 @@ title: Ballad ~ Paintings
 parent: 'Ballad of the War that Never Was, and Other Basterdised Myths '
 layout: artwork
 pubdate: '2011'
-summary: \*
+summary: Paintings (slideshow)
 ---
 ![](/assets/img/Ali Akbar Mehta_The Great Mother Re-Construct(ed), 2011, Oil and acrylic on canvas, 182 x 152 cm.jpg)
 
