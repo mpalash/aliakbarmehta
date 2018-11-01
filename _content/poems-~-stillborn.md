@@ -3,6 +3,7 @@ title: poems ~ Stillborn
 parent: Poems
 layout: text
 pubdate: '2004'
+summary: ''
 ---
 Wrapped in a mother’s womb,
 
