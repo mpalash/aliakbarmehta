@@ -1,5 +1,5 @@
 ---
-title: Poems ~ Transition
+title: poems ~ Transition
 parent: Poems
 layout: text
 pubdate: '2004'

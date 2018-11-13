@@ -3,9 +3,26 @@ layout: project
 title: 'SITE : STAGE : STRUCTURE'
 hero: /assets/img/mazgaon-docks.jpg
 pcontent:
-  - 'sss ~ Artist Note'
   - 'sss ~ The Possibility of Alienation'
+  - 'sss ~ Art Daily, 15.04.2014'
+  - 'sss ~ Artist Book #1: Performers of Mazgaon'
+  - 'sss ~ Artist Book #2: Daarukhana'
+  - 'sss ~ Artist Note'
+  - 'sss ~ FOLKARCHIVE: Ali Akbar Mehta in Conversation with Sumesh Sharma, moderated by Latika Gupta, Bhau Daji Lad'
+  - 'sss ~ Installation Views'
+  - 'sss ~ Interview'
+  - 'sss ~ Kwan Tai Shek Temple'
+  - 'sss ~ Mathar Pacady Interviews – Aunty Tessi'
+  - 'sss ~ Mathar Pacady Interviews – Mr. Julius Valladares'
+  - 'sss ~ Mathar Pacady Interviews – Uncle Martin'
+  - 'sss ~ Mazgaon Interviews – Fakhruddin and Khateeja Merchant, 2014'
+  - 'sss ~ (no heading) text for landmarks'
   - 'sss ~ Odes and Inquisitions: Sino-Indian Connections in Recent Indian Art'
+  - 'sss ~ Paintings'
+  - 'sss ~ A select History of Mumbai'
+  - 'sss ~ Shrikrishna Report'
+  - 'sss ~ The Chinese in Mumbai'
+  - 'sss ~ The Origin of Kwan Yin or Miao Shan'
 ---
 SITE : STAGE : STRUCTURE is an archival documentary project. It is a Transmedia Installation that integrates books, objects, photographs, short films, audio narratives, and heritage walks as a way of revitalizing memories and telling a history that is absent from the formal narratives.
 

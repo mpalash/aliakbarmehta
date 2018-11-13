@@ -1,5 +1,5 @@
 ---
-title: 'Ballad ~ Installation Views, '
+title: 'Ballad ~ Installation Views'
 parent: 'Ballad of the War that Never Was, and Other Basterdised Myths'
 layout: exhibition
 pubdate: '2011'

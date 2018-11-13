@@ -1,5 +1,5 @@
 ---
-title: wre~ Narrating War
+title: wre ~ Narrating War
 parent: 'WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs'
 layout: text
 pubdate: '2018'
@@ -22,7 +22,7 @@ summary: >-
 ---
 As an endurance performance designed to last for hours & often days conducted in sites of violence, and sites of knowledge production, the act of reading, almost like a litany, is imagined as an act of mourning, of remembrance, & deterrence from continued violence & conflict: only when we are confronted with war in its entirety as a whole, as a continuous, singular event encompassing 5018 years, is there a possibility to be jolted out of our stupor & shed our complacence.
 
-Narrating War focuses on the current situation of a permanent state of conflict across the globe, addressing violent incidents in the world not as isolated events but as a condition of an ongoing, unparalleled warfare – it insists above all, that to ignore what threatens us is both irresponsible and dangerous. The concern here is not to celebrate war, but to mourn those who have died – to deal with memory: During World War I, civilians made up fewer than 5 percent of all casualties. Today, 75 percent or more of those killed or wounded in wars are non-combatants. 
+Narrating War focuses on the current situation of a permanent state of conflict across the globe, addressing violent incidents in the world not as isolated events but as a condition of an ongoing, unparalleled warfare – it insists above all, that to ignore what threatens us is both irresponsible and dangerous. The concern here is not to celebrate war, but to mourn those who have died – to deal with memory: During World War I, civilians made up fewer than 5 percent of all casualties. Today, 75 percent or more of those killed or wounded in wars are non-combatants.
 
 Rather than looking at War within the usual frameworks of national or international bodies of identity, the performance is concerned with a collective history and a global body of identity. It narrates a history of war, conflict, & violence as the most continuous, omnipresent & ongoing history of humanity, ‘a civil war on a planetary scale’ & evidences that the collective history of human conflict is second only to history of language/music.
 
@@ -34,11 +34,11 @@ The length of this performance varies depending on available time, and may be de
 
 
 
-Previously, Narrating War has been performed in its evolving iterations, at: 
+Previously, Narrating War has been performed in its evolving iterations, at:
 
 •	Museum of Impossible Forms, Helsinki, 2018;
 
-•	TIFA Working Studios, Pune, 2018; 
+•	TIFA Working Studios, Pune, 2018;
 
 •	Memory of War, in Kaapelitehdas, Helsinki, 2017;
 

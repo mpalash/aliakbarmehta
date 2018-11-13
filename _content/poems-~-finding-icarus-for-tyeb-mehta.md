@@ -1,5 +1,5 @@
 ---
-title: peoms ~ Finding Icarus (For Tyeb Mehta)
+title: poems ~ Finding Icarus (For Tyeb Mehta)
 parent: Poems
 layout: text
 pubdate: '2009'
