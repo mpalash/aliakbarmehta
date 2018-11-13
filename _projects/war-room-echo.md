@@ -3,7 +3,7 @@ layout: project
 title: 'WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs'
 hero: /assets/img/pispala-performance.jpg
 pcontent:
-  - 'wre ~ Forward: Artist's Note'
+  - 'wre ~ Forward: Artist''s Note'
   - 'wre ~ Narrating War, Kaapelitehdas'
   - 'wre ~ null.void, Kallio Public Library'
   - 'wre ~ Narrating War'
