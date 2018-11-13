@@ -3,26 +3,28 @@ layout: project
 title: 'SITE : STAGE : STRUCTURE'
 hero: /assets/img/mazgaon-docks.jpg
 pcontent:
-  - 'sss ~ The Possibility of Alienation'
-  - 'sss ~ Art Daily, 15.04.2014'
+  - sss ~ Artist Note
+  - sss ~ The Possibility of Alienation
   - 'sss ~ Artist Book #1: Performers of Mazgaon'
   - 'sss ~ Artist Book #2: Daarukhana'
-  - 'sss ~ Artist Note'
-  - 'sss ~ FOLKARCHIVE: Ali Akbar Mehta in Conversation with Sumesh Sharma, moderated by Latika Gupta, Bhau Daji Lad'
-  - 'sss ~ Installation Views'
-  - 'sss ~ Interview'
-  - 'sss ~ Kwan Tai Shek Temple'
-  - 'sss ~ Mathar Pacady Interviews – Aunty Tessi'
-  - 'sss ~ Mathar Pacady Interviews – Mr. Julius Valladares'
-  - 'sss ~ Mathar Pacady Interviews – Uncle Martin'
+  - sss ~ Installation Views
+  - sss ~ Kwan Tai Shek Temple
   - 'sss ~ Mazgaon Interviews – Fakhruddin and Khateeja Merchant, 2014'
-  - 'sss ~ (no heading) text for landmarks'
+  - sss ~ Mathar Pacady Interviews – Uncle Martin
+  - sss ~ Mathar Pacady Interviews – Mr. Julius Valladares
+  - sss ~ Mathar Pacady Interviews – Aunty Tessi
+  - sss ~ Interview
+  - sss ~ (no heading) text for landmarks
+  - sss ~ Paintings
+  - sss ~ A select History of Mumbai
   - 'sss ~ Odes and Inquisitions: Sino-Indian Connections in Recent Indian Art'
-  - 'sss ~ Paintings'
-  - 'sss ~ A select History of Mumbai'
-  - 'sss ~ Shrikrishna Report'
-  - 'sss ~ The Chinese in Mumbai'
-  - 'sss ~ The Origin of Kwan Yin or Miao Shan'
+  - >-
+    sss ~ FOLKARCHIVE: Ali Akbar Mehta in Conversation with Sumesh Sharma,
+    moderated by Latika Gupta, Bhau Daji Lad
+  - sss ~ The Chinese in Mumbai
+  - sss ~ The Origin of Kwan Yin or Miao Shan
+  - sss ~ Shrikrishna Report
+  - null
 ---
 SITE : STAGE : STRUCTURE is an archival documentary project. It is a Transmedia Installation that integrates books, objects, photographs, short films, audio narratives, and heritage walks as a way of revitalizing memories and telling a history that is absent from the formal narratives.
 
