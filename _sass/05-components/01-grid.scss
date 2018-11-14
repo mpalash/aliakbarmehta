@@ -13,12 +13,15 @@ $gutter: $s-b;
   width: 100%;
 
   @media screen and (max-width: $responsive-small) {
-    flex-flow: column nowrap;
+    .responsive {
+      flex-flow: column nowrap;
+    }
   }
 }
 .c,
 .col,
 .column {
+  position: relative;
   flex: 1 0 auto;
   padding: 0 $gutter;
 }

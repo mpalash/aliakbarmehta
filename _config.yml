@@ -33,7 +33,7 @@ collections:
   projects:
     output: true
   content:
-    output: true
+    output: false
 
 # Build settings
 markdown: kramdown

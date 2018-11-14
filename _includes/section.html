@@ -1,6 +1,6 @@
 <section class="project-content {{ section.layout }}">
   <aside class="meta">
-    <p class="pub-date">{{ section.pubdate }}</p>
+    <div><p>{{ section.layout }} • {{ section.pubdate }}</p></div>
   </aside>
   <div class="section-content" data-title="{{ section.title | split: "~" | last | strip | slugify: 'latin' }}">
     <h2>{{ section.title | split: "~" | last | strip }}</h2>
@@ -8,11 +8,11 @@
       <div class="summary">{{ section.summary | markdownify }}</div>
     {% endif %}
       <div class="full-content">{{ section.content | markdownify }}</div>
-    {% if section.summary and section.content %}
-      <a href="#" class="toggle-section" data-title="{{ section.title | split: "~" | last | strip | slugify: 'latin' }}">
-        <span class="more"></span>
-        <span class="less" style="display: none;"></span>
-      </a>
-    {% endif %}
+      {% if section.summary and section.content %}
+        <a href="#" class="toggle-section" data-title="{{ section.title | split: "~" | last | strip | slugify: 'latin' }}">
+          <span class="more"></span>
+          <span class="less" style="display: none;"></span>
+        </a>
+      {% endif %}
   </div>
 </section>

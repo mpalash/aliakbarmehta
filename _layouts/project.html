@@ -3,20 +3,26 @@ layout: default
 ---
 <article class="project">
   <span id="top"></span>
-  <div class="project-hero" style="background-image: url({{ page.hero}})">
-    <h1 class="project-title">{{ page.title | escape }}</h1>
-  </div>
+  <h1 class="project-title">{{ page.title | escape }}</h1>
+  {% if page.hero %}
+    <!-- <img class="project-hero" src="{{ page.hero}}" /> -->
+  {% endif %}
   <section class="intro txt">
     <div class="section-content">
       {{ content | markdownify }}
     </div>
   </section>
 
-  {{ page.pcontent }}
+  {% assign sections = site.content %}
+  {% assign contents = page.pcontent %}
 
-  {% assign sections = page.pcontent %}
-  {% for section in sections %}
-    {%- include section.html -%}
+  {% for content in contents %}
+    {% for section in sections %}
+      {% if section.title == content %}
+
+      {%- include section.html -%}
+
+      {% endif %}
+    {% endfor %}
   {% endfor %}
-
 </article>

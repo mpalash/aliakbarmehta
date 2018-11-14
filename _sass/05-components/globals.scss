@@ -12,12 +12,6 @@
     flex: 1 0 auto;
   }
 }
-.meta {
-  text-align: right;
-  > p {
-    @include meta;
-  }
-}
 .toggle-section {
   @extend %fa-icon;
   @extend .fas;
@@ -42,21 +36,5 @@
     font-size: 0.9rem;
     font-weight: 700;
     border-radius: $s-xs;
-  }
-}
-footer {
-  @extend .r;
-  padding: $s-xxl 0;
-  background-color: $color-blue-dark;
-  color: $color-blue;
-  font-size: 0.85rem;
-
-  div:first-child {
-    @extend .c;
-    @extend .c-2;
-  }
-  div:last-child {
-    @extend .c;
-    @extend .c-10;
   }
 }

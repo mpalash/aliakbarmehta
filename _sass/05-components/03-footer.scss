@@ -1,0 +1,16 @@
+footer {
+  box-shadow: inset $s-s 0 0 $color-warm;
+  @extend .r;
+  padding: $s-xxl 0;
+  color: $color-blue;
+  font-size: 0.85rem;
+
+  div:first-child {
+    @extend .c;
+    @extend .c-1;
+  }
+  div:last-child {
+    @extend .c;
+    @extend .c-11;
+  }
+}
