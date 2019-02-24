@@ -1,7 +1,7 @@
 ---
 title: Ballad ~ Everybody's a Jester
 parent: 'Ballad of the War that Never Was, and Other Basterdised Myths'
-layout: artwork
+type: artwork
 pubdate: '2011'
 ---
 ![](/assets/img/Everybody's a Jester Series_01.jpg)

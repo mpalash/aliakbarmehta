@@ -1,7 +1,7 @@
 ---
 title: poems ~ Harun I (Beginnings)
 parent: Poems
-layout: text
+type: text
 pubdate: '2017'
 ---
 First Words of paragraphs:

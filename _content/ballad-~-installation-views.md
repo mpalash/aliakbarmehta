@@ -1,7 +1,7 @@
 ---
 title: 'Ballad ~ Installation Views'
 parent: 'Ballad of the War that Never Was, and Other Basterdised Myths'
-layout: solo-exhibition
+type: solo-exhibition
 pubdate: '2011'
 summary: >-
   ![null](/assets/img/ballad-of-the-war-that-never-was–-installation-view-01.jpg)

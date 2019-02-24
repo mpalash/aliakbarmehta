@@ -1,7 +1,7 @@
 ---
 title: poems ~ Diagonal
 parent: Poems
-layout: text
+type: text
 pubdate: '2009'
 ---
 A wound, cut fresh,

@@ -1,7 +1,7 @@
 ---
 title: sss ~ Interview
 parent: 'SITE : STAGE : STRUCTURE'
-layout: resource
+type: resource
 pubdate: '2014'
 summary: >-
   \> What will be the focus of your talk; what will be the highlights?

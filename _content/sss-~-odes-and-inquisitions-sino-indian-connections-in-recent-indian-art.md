@@ -1,7 +1,7 @@
 ---
 title: 'sss ~ Odes and Inquisitions: Sino-Indian Connections in Recent Indian Art'
 parent: 'SITE : STAGE : STRUCTURE'
-layout: text
+type: text
 pubdate: '2014'
 summary: >-
 

@@ -1,7 +1,7 @@
 ---
 title: poems ~ Awakening
 parent: Poems
-layout: text
+type: text
 pubdate: '2004'
 ---
 Throbbing –Alive.

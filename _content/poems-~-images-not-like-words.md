@@ -1,7 +1,7 @@
 ---
 title: poems ~ Images not like words
 parent: Poems
-layout: text
+type: text
 pubdate: '2004'
 ---
 The Dark

@@ -1,7 +1,7 @@
 ---
 title: poems ~ Finding Icarus (For Tyeb Mehta)
 parent: Poems
-layout: text
+type: text
 pubdate: '2009'
 ---
 Icarus finds his wings again,

@@ -1,7 +1,7 @@
 ---
 title: 'sss ~ Paintings'
 parent: 'SITE : STAGE : STRUCTURE '
-layout: artwork
+type: artwork
 pubdate: '2014'
 summary: >-
   ![](/assets/img/site-stage-structure_paintings.jpg)

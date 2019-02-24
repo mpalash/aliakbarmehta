@@ -1,7 +1,7 @@
 ---
 title: poems ~ Stillborn
 parent: Poems
-layout: text
+type: text
 pubdate: '2004'
 summary: ''
 ---

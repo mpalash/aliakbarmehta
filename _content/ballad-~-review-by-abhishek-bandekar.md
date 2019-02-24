@@ -1,7 +1,7 @@
 ---
 title: Ballad ~ Review by Abhishek Bandekar
 parent: 'Ballad of the War that Never Was, and Other Basterdised Myths'
-layout: resource
+type: resource
 pubdate: '2011'
 summary: >-
   It is amazing how you can know an artist as a friend for well over a decade,

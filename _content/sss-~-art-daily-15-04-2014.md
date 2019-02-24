@@ -1,7 +1,7 @@
 ---
 title: 'sss ~ Art Daily, 15.04.2014'
 parent: 'SITE : STAGE : STRUCTURE'
-layout: press
+type: press
 pubdate: '2018'
 summary: ''
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'sss ~ A select History of Mumbai'
 parent: 'SITE : STAGE : STRUCTURE'
-layout: resource
+type: resource
 pubdate: '2014'
 summary: |-
   ![](/assets/img/research-text_mazgaon-history-wall-text.jpg)

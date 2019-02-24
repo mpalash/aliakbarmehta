@@ -32,7 +32,7 @@
             <h2 class="tag tag-{{ tag }}">{{ tag }}s</h2>
             <ul>
               {% for content in site.content %}
-                {% if tag == content.layout %}
+                {% if tag == content.type %}
                 <li><a href="/projects/{{ content.parent | strip | slugify: 'latin' }}#{{ content.title | split: "~" | last | strip | slugify: 'latin' }}">{{ content.title | split: "~" | last | strip }}</a> ({{ content.parent }})</li>
                 {% endif %}
               {% endfor %}

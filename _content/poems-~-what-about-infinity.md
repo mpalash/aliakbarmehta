@@ -1,7 +1,7 @@
 ---
 title: poems ~ What about Infinity
 parent: Poems
-layout: text
+type: text
 pubdate: '2010'
 summary: ''
 ---

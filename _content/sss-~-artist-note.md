@@ -1,7 +1,7 @@
 ---
 title: sss ~ Artist Note
 parent: 'SITE : STAGE : STRUCTURE'
-layout: text
+type: text
 pubdate: '2014'
 summary: >-
   It is a Transmedia Installation that integrates books, objects, photographs,

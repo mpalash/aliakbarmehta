@@ -3,7 +3,7 @@ title: >-
   sss ~ FOLKARCHIVE: Ali Akbar Mehta in Conversation with Sumesh Sharma,
   moderated by Latika Gupta, Bhau Daji Lad
 parent: 'SITE : STAGE : STRUCTURE'
-layout: talk
+type: talk
 pubdate: '2014'
 summary: '![null](/assets/img/ali-at-bdl.jpg)'
 ---

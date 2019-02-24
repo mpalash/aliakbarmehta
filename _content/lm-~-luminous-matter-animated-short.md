@@ -1,7 +1,7 @@
 ---
 title: 'LM ~ Luminous Matter, Animated Short'
 parent: Luminous Matter
-layout: artwork
+type: artwork
 pubdate: '2011'
 summary: >-
   <iframe width="560" height="315"

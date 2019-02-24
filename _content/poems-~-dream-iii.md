@@ -1,7 +1,7 @@
 ---
 title: poems ~ Dream III
 parent: 'Poems '
-layout: text
+type: text
 pubdate: '2009'
 ---
 The sun in the eyes is blinding,

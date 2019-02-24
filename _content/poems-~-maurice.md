@@ -1,7 +1,7 @@
 ---
 title: poems ~ Maurice
 parent: Poems
-layout: text
+type: text
 pubdate: '2015'
 ---
 I am not learned, I am not ignorant.

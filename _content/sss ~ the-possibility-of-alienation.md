@@ -1,7 +1,7 @@
 ---
 title: 'sss ~ The Possibility of Alienation'
 parent: 'SITE : STAGE : STRUCTURE'
-layout: text
+type: text
 pubdate: '2014'
 summary: >-
   The possibility of alienation in a city that claims cosmopolitanism as a

@@ -75,8 +75,12 @@ collections: # A list of collections the CMS should be able to edit
         searchFields: ["title"]
         valueField: "title"
         displayFields: ["title"]
-      - label: "Content Type"
+      - label: "Layout"
         name: "layout"
+        widget: "hidden"
+        default: "null"
+      - label: "Content Type"
+        name: "type"
         widget: "select"
         options: ["artwork","group-exhibition","solo-exhibition","performance","press","publication","resource","talk","text","video"]
       - label: "Date"

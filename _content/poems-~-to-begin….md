@@ -1,7 +1,7 @@
 ---
 title: poems ~ To Begin…
 parent: Poems
-layout: text
+type: text
 pubdate: '2015'
 ---
 We filed slowly, languidly into the hall

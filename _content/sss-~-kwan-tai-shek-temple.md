@@ -1,7 +1,7 @@
 ---
 title: 'sss ~ Kwan Tai Shek Temple'
 parent: 'SITE : STAGE : STRUCTURE'
-layout: artwork
+type: artwork
 pubdate: '2014'
 summary: >-
   <iframe width="560" height="315"

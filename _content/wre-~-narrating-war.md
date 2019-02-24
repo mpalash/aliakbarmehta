@@ -1,7 +1,7 @@
 ---
 title: wre ~ Narrating War
 parent: 'WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs'
-layout: text
+type: text
 pubdate: '2018'
 summary: >-
   Violence & the culture it consumes/perpetuates is a fundamental condition

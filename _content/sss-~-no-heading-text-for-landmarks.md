@@ -1,7 +1,7 @@
 ---
 title: 'sss ~ (no heading) text for landmarks'
 parent: 'SITE : STAGE : STRUCTURE'
-layout: resource
+type: resource
 pubdate: '2014'
 summary: >-
   ## Mazgaon and Wadibunder

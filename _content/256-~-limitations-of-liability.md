@@ -1,7 +1,7 @@
 ---
 title: 256 ~ Limitations of Liability
 parent: 256 Million Colours of Violence
-layout: solo-exhibition
+type: solo-exhibition
 pubdate: '2017'
 summary: >-
   ![](/assets/img/limitations-of-liability-banner-for-facebook.jpg)

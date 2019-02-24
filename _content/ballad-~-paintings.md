@@ -1,7 +1,7 @@
 ---
 title: Ballad ~ Paintings
 parent: 'Ballad of the War that Never Was, and Other Basterdised Myths '
-layout: artwork
+type: artwork
 pubdate: '2011'
 summary: Paintings (slideshow)
 ---

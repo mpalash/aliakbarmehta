@@ -1,7 +1,7 @@
 ---
 title: 'sss ~ Mazgaon Interviews – Fakhruddin and Khateeja Merchant, 2014'
 parent: 'SITE : STAGE : STRUCTURE'
-layout: artwork
+type: artwork
 pubdate: '2014'
 summary: >-
   <iframe src="https://player.vimeo.com/video/293507323" width="640"

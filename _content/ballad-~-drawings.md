@@ -1,7 +1,7 @@
 ---
 title: Ballad ~ Drawings
 parent: 'Ballad of the War that Never Was, and Other Basterdised Myths'
-layout: artwork
+type: artwork
 pubdate: '2011'
 summary: '![null](/assets/img/tao-1087.jpg)'
 ---

@@ -1,7 +1,7 @@
 ---
 title: 256 ~ Limitations of Liability at Piramal Art Foundation
 parent: 256 Million Colours of Violence
-layout: talk
+type: talk
 pubdate: '2017'
 summary: >-
   <iframe width="560" height="315"

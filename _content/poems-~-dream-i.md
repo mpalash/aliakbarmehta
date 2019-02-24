@@ -1,7 +1,7 @@
 ---
 title: poems ~ Dream I
 parent: Poems
-layout: text
+type: text
 pubdate: '2009'
 ---
 Cracked mirrors and still waters
