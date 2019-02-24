@@ -43,7 +43,7 @@ aside.meta {
       position: absolute;
       top: 0;
       right: 0;
-      padding-top: $s-s;
+      margin: $gutter 0;
       padding-right: $gutter;
       @include meta;
       color: $color-warm-dark;
