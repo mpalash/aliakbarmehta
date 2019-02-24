@@ -2,7 +2,7 @@
   <aside class="meta">
     <div><p>{{ section.layout }} • {{ section.pubdate }}</p></div>
   </aside>
-  <div class="section-content" data-title="{{ section.title | split: "~" | last | strip | slugify: 'latin' }}">
+  <div id="{{ section.title | split: "~" | last | strip | slugify: 'latin' }}" class="section-content" data-title="{{ section.title | split: "~" | last | strip | slugify: 'latin' }}">
     <h2>{{ section.title | split: "~" | last | strip }}</h2>
     {% if section.summary %}
       <div class="summary">{{ section.summary | markdownify }}</div>

@@ -23,7 +23,7 @@ $color-warm-light:   #F2F0EC;
 $color-warm:         #A09F92;
 $color-warm-dark:    #5A5652;
 
-$color-ink:          $color-warm-dark;
+$color-ink:          $color-grey-darkest;
 
 // TYPOGRAPHY
 $font-serif: 'Spectral','Merriweather', serif;
@@ -71,7 +71,7 @@ $s-xxs: 2px;
   }
 }
 @mixin txt {
-  h1, h2, h3, p {
+  h1, h2, h3, p, ul, ol {
     max-width: $max-text-width;
   }
 }

@@ -1,3 +1,15 @@
+Side texts to be made dark
+
+Ongoing projects
+Previous projects
+Individual work
+
+Performances
+Talks
+Publication
+Solo Exhibitions
+Group Exhibitions
+
 ✓ intro
 ✓ text
 artwork

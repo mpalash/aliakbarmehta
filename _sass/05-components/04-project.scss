@@ -1,6 +1,31 @@
 .project {
   box-shadow: inset $s-s 0 0 $color-warm;
 }
+h1.project-title {
+  @extend .o-1;
+  @extend .w-10;
+  margin-top: calc(1.25em + #{$s-xxl});
+  padding: 0 $gutter;
+  font-family: $title-font-family;
+  font-size: 8vw;
+  line-height: 1.1;
+  letter-spacing: -0.01em;
+
+  &.fixed {
+    position: fixed;
+    z-index: -1;
+    color: lighten($color-warm, 35%);
+  }
+
+}
+.intro {
+  @include txt;
+  padding-top: $s-l;
+  padding-bottom: $s-l;
+  div.section-content {
+    @extend .o-2;
+  }
+}
 .project-content {
   @extend .r;
   @include txt;
@@ -10,7 +35,7 @@
 }
 aside.meta {
   @extend .c;
-  @extend .c-1;
+  @extend .c-2;
   > div {
     position: absolute;
     top: 0;
@@ -31,30 +56,12 @@ aside.meta {
 }
 div.section-content {
   @extend .c;
-  @extend .c-11;
+  @extend .c-10;
   > *:first-child {
     margin-top: 0;
   }
   > *:last-child {
     margin-bottom: 0;
-  }
-}
-h1.project-title {
-  @extend .o-1;
-  @extend .w-10;
-  margin-top: calc(1.25em + #{$s-xxl});
-  padding: 0 $gutter;
-  font-family: $title-font-family;
-  font-size: 8vw;
-  line-height: 1.1;
-  letter-spacing: -0.01em;
-}
-.intro {
-  @include txt;
-  padding-top: $s-l;
-  padding-bottom: $s-l;
-  div.section-content {
-    @extend .o-1;
   }
 }
 .full-content {

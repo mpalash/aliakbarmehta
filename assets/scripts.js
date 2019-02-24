@@ -66,6 +66,13 @@ var uniqueGenres = [];
 // });
 
 $(function() {
+  // if($('h1.project-title').length){
+  //   offsetContent();
+  // }
+  // $(window).on('resize', function(){
+  //   offsetContent();
+  // });
+
   $('p:has(img)').addClass('img');
   $('a.toggle-section').on('click',function(e){
     e.preventDefault();
@@ -73,6 +80,11 @@ $(function() {
     $('.section-content[data-title=' + title + '] .full-content, .toggle-section[data-title=' + title + '] .more, .toggle-section[data-title=' + title + '] .less').toggle();
   });
 });
+
+function offsetContent(){
+  var titleHeight = $('h1.project-title').outerHeight(true);
+  $('section.intro').css('margin-top', titleHeight);
+}
 
 // document.addEventListener("DOMContentLoaded", function() {
 //   var lazyloadImages = document.querySelectorAll("p img");

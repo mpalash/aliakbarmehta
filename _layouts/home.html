@@ -11,12 +11,23 @@
         <p class="sub-site-title">{{ site.description }}</p>
 
         {% assign sortedtags = 'text,artwork,exhibition,publication,talk,video,press,resource' | split: ',' %}
-        <ul class="site-tags tags">
+        <!-- <ul class="site-tags tags">
           {% for tag in sortedtags %}
           <li class="tag tag-{{ tag }}">{{ tag }}</li>
           {% endfor %}
+        </ul> -->
+        <ul class="site-tags tags">
+          {% for tag in sortedtags %}
+          <li class="tag tag-{{ tag }}">{{ tag }}</li>
+            {% for content in site.content %}
+              {% if tag == content.layout %}
+              <h2><a href="/projects/{{ content.parent | strip | slugify: 'latin' }}#{{ content.title | split: "~" | last | strip | slugify: 'latin' }}">{{ content.title | split: "~" | last | strip }}</a></h2>
+              {% endif %}
+            {% endfor %}
+          {% endfor %}
         </ul>
 
+        <h2>All Projects</h2>
         <ul class="all-projects">
           {% for project in site.projects %}
           <li><a href="{{ project.url }}">{{ project.title }}</a></li>
