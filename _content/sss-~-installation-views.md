@@ -1,7 +1,7 @@
 ---
 title: 'sss ~ Installation Views'
 parent: 'SITE : STAGE : STRUCTURE'
-layout: exhibition
+layout: solo-exhibition
 pubdate: '2014'
 ---
 ![](/assets/img/1.-ali-akbar-mehta-site-stage-structure-2014_installation-view-©-aliakbarmehta.png)

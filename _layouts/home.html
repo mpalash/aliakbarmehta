@@ -10,29 +10,37 @@
         <h1 class="site-title">{{ site.title }}</h1>
         <p class="sub-site-title">{{ site.description }}</p>
 
-        {% assign sortedtags = 'text,artwork,exhibition,publication,talk,video,press,resource' | split: ',' %}
+        <!-- {% assign sortedtags = 'text,artwork,exhibition-group,exhibition-solo,performance,publication,talk,video,press,resource' | split: ',' %} -->
         <!-- <ul class="site-tags tags">
           {% for tag in sortedtags %}
           <li class="tag tag-{{ tag }}">{{ tag }}</li>
           {% endfor %}
         </ul> -->
-        <ul class="site-tags tags">
-          {% for tag in sortedtags %}
-          <li class="tag tag-{{ tag }}">{{ tag }}</li>
-            {% for content in site.content %}
-              {% if tag == content.layout %}
-              <h2><a href="/projects/{{ content.parent | strip | slugify: 'latin' }}#{{ content.title | split: "~" | last | strip | slugify: 'latin' }}">{{ content.title | split: "~" | last | strip }}</a></h2>
-              {% endif %}
-            {% endfor %}
-          {% endfor %}
-        </ul>
 
-        <h2>All Projects</h2>
-        <ul class="all-projects">
-          {% for project in site.projects %}
-          <li><a href="{{ project.url }}">{{ project.title }}</a></li>
+        {% assign sortedtags = 'performance,talk,publication,solo-exhibition,group-exhibition' | split: ',' %}
+        <div class="listing">
+          <div>
+            <h2 class="tag tag-projects">projects</h2>
+            <ul>
+              {% for project in site.projects %}
+              <li><a href="{{ project.url }}">{{ project.title }}</a></li>
+              {% endfor %}
+            </ul>
+          </div>
+          {% for tag in sortedtags %}
+          <div>
+            <h2 class="tag tag-{{ tag }}">{{ tag }}s</h2>
+            <ul>
+              {% for content in site.content %}
+                {% if tag == content.layout %}
+                <li><a href="/projects/{{ content.parent | strip | slugify: 'latin' }}#{{ content.title | split: "~" | last | strip | slugify: 'latin' }}">{{ content.title | split: "~" | last | strip }}</a> ({{ content.parent }})</li>
+                {% endif %}
+              {% endfor %}
+            </ul>
+          </div>
           {% endfor %}
-        </ul>
+        </div>
+
 
         <!-- <div class="switcher">
         <p>

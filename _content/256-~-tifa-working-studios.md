@@ -1,7 +1,7 @@
 ---
 title: 256 ~ TIFA Working Studios
 parent: 256 Million Colours of Violence
-layout: exhibition
+layout: group-exhibition
 pubdate: '2018'
 summary: >-
   ![null](/assets/img/ali-akbar-mehta_256-million-colours-of-violence_installation-view_tifa-working-studios-pune_2018.jpg)

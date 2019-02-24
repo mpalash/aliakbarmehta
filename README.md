@@ -1,19 +1,25 @@
 Side texts to be made dark
 
+# Front-end Categories
+
 Ongoing projects
 Previous projects
 Individual work
-
 Performances
 Talks
 Publication
 Solo Exhibitions
 Group Exhibitions
 
+# Backend Categories
+
 ✓ intro
 ✓ text
 artwork
 ✓ exhibition
+exhibition-group
+exhibition-solo
+performance
 publication
 talk
 video
