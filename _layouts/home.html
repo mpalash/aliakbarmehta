@@ -11,9 +11,9 @@
         <p class="sub-site-title">{{ site.description }}</p>
 
         {% assign sortedtags = 'performance,talk,publication,solo-exhibition,group-exhibition' | split: ',' %}
-        <div class="listing">
+        <div class="listing tags">
           <div>
-            <h2 class="tag tag-projects">projects</h2>
+            <h2 class="tag small tag-projects">projects</h2>
             <ul>
               {% for project in site.projects %}
               <li data-year="" data-genre="project"><a href="{{ project.url }}">{{ project.title }}</a>{% if project.ptype %} ({{ project.ptype }}) {% endif %}</li>
@@ -22,7 +22,7 @@
           </div>
           {% for tag in sortedtags %}
           <div>
-            <h2 class="tag tag-{{ tag }}">{{ tag }}s</h2>
+            <h2 class="tag small tag-{{ tag }}">{{ tag }}s</h2>
             <ul>
               {% for content in site.content %}
                 {% if tag == content.type %}

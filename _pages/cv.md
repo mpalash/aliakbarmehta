@@ -1,13 +1,13 @@
 ---
-layout: page
-title: CV
+layout: cv
+title: Ali's CV
 permalink: /curriculum-vitae/
 ---
-**ALI AKBAR MEHTA** 
+**ALI AKBAR MEHTA**
 
 (b. 1983, Mumbai, India)
 
-MA (Visual Culture, Curating and Contemporary Art), Aalto University, Helsinki, 2018 
+MA (Visual Culture, Curating and Contemporary Art), Aalto University, Helsinki, 2018
 
 BFA (Painting), Sir J.J. School of Art, Mumbai, 2005
 
@@ -19,9 +19,9 @@ Ali Akbar Mehta is a Trans-media artist. He is a founder-member and current Arti
 
 256 Million Colours of Violence
 
-WAR • ROOM • ECHO – Regarding the Pain of Other Cyborgs 
+WAR • ROOM • ECHO – Regarding the Pain of Other Cyborgs
 
-Contemporary Ruins of Kruunuvuori – The Perfect Ghosts of Helsinki 
+Contemporary Ruins of Kruunuvuori – The Perfect Ghosts of Helsinki
 
 Cyber Archive: Being and Doing Knowledge
 
@@ -51,7 +51,7 @@ _null.void_, Chimurenga Collective – Pan-African Space Station, Kallio Public 
 
 **Artist Talks**
 
-_Congratulations, the space has been invaded: WHAT NOW?_, Space Invaders VI, Helsinki, 2018 
+_Congratulations, the space has been invaded: WHAT NOW?_, Space Invaders VI, Helsinki, 2018
 
 _A Common Sense Manifesto of Cooking Practices for Artists_, Aalto University, Espoo, 2018
 
@@ -173,7 +173,7 @@ _Site: Stage: Structure_, suite of 17 Accordion fold and 3 artist photo-books, s
 
 **Residencies**
 
-_ARTEL 2018_, TIFA Working Studios, Pune, 2018 
+_ARTEL 2018_, TIFA Working Studios, Pune, 2018
 
 _SPACE 118_, Mumbai, 2012
 

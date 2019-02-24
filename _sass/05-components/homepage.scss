@@ -17,12 +17,37 @@
   .header-content {
     justify-content: flex-end;
   }
-  .all-projects {
-    list-style: none;
-    padding: 0;
+  .listing {
+    display: flex;
+    flex-direction: row;
+    margin: $s-l 0;
+    .tag {
+      white-space: nowrap;
+      cursor: pointer;
+    }
+    &>div:hover ul {
+      width: auto;
+      height: auto;
+      opacity: 1;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+      margin: $s-b 0;
+      width: 0;
+      height: 0;
+      opacity: 0;
+      overflow: hidden;
+      transition: opacity 0.1s ease-in, width 0.3s ease-in;
 
-    li {
-      margin: $s-s 0;
+      li {
+        margin: $s-s 0;
+      }
+    }
+  }
+  footer {
+    div {
+      @extend .p-2;
     }
   }
 }

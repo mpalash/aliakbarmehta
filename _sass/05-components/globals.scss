@@ -26,15 +26,22 @@
 .tags {
   list-style: none;
   padding: 0;
-  .tag {
-    display: inline-block;
-    padding: $s-s $s-m;
-    margin: 0 $s-s $s-s 0;
-    background-color: $color-warm;
-    color: $color-warm-dark;
-    @include small-caps;
-    font-size: 0.9rem;
-    font-weight: 700;
-    border-radius: $s-xs;
+}
+.tag {
+  display: inline-block;
+  padding: $s-s $s-m;
+  margin: 0 $s-s $s-s 0;
+  background-color: $color-warm;
+  color: $color-ink;
+  @include small-caps;
+  font-size: $font-size-small;
+  font-weight: 700;
+  border-radius: $s-xs;
+  &.small {
+    padding: $s-xs $s-b;
+    font-size: $font-size-small;
+  }
+  &.light {
+    background-color: $color-warm-light;
   }
 }

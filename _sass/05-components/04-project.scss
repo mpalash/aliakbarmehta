@@ -1,6 +1,3 @@
-.project {
-  box-shadow: inset $s-s 0 0 $color-warm;
-}
 h1.project-title {
   @extend .o-1;
   @extend .w-10;
@@ -46,11 +43,11 @@ aside.meta {
       position: absolute;
       top: 0;
       right: 0;
-      padding-top: $gutter;
+      padding-top: $s-s;
       padding-right: $gutter;
       @include meta;
-      color: $color-warm;
-      border-right: 1px solid $color-warm;
+      color: $color-warm-dark;
+      border-right: 1px solid $color-warm-dark;
     }
   }
 }

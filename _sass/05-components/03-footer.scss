@@ -2,14 +2,12 @@ footer {
   @extend .r;
   padding: $s-xxl 0;
   color: inherit;
-  font-size: 0.85rem;
+  font-size: $font-size-small;
+  letter-spacing: 0.05em;
 
-  div:first-child {
+  div {
     @extend .c;
-    @extend .c-1;
-  }
-  div:last-child {
-    @extend .c;
-    @extend .c-11;
+    @extend .c-10;
+    padding-left: calc(16.6666666667% + 16px);
   }
 }
