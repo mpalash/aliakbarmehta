@@ -43,6 +43,10 @@ collections: # A list of collections the CMS should be able to edit
       - label: "Title"
         name: "title"
         widget: "string"
+      - label: "Project Type"
+        name: "ptype"
+        widget: "select"
+        options: ["ongoing","past","individual work"]
       - label: "Hero Image"
         name: "hero"
         required: false
