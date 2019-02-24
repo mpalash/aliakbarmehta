@@ -44,10 +44,7 @@ a {
   }
 }
 p {
-  margin: 0;
-  & + p {
-    margin-top: 1.5em;
-  }
+  margin: 1.5em 0;
 }
 img {
   max-width: 100%;
