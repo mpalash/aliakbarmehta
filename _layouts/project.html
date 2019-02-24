@@ -5,14 +5,14 @@ layout: default
   <span id="top"></span>
   <h1 class="project-title fixed">{{ page.title | escape }}</h1>
   <h1 class="project-title">{{ page.title | escape }}</h1>
-  {% if page.ptype %}
-    <span>{{ project.ptype }}</span>
-  {% endif %}
   {% if page.hero %}
     <!-- <img class="project-hero" src="{{ page.hero}}" /> -->
   {% endif %}
   <section class="intro txt">
     <div class="section-content">
+      {% if page.ptype %}
+      <p class="project-ptype">{{ page.ptype }}</p>
+      {% endif %}
       {{ content | markdownify }}
     </div>
   </section>

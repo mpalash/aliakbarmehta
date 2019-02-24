@@ -10,20 +10,13 @@
         <h1 class="site-title">{{ site.title }}</h1>
         <p class="sub-site-title">{{ site.description }}</p>
 
-        <!-- {% assign sortedtags = 'text,artwork,exhibition-group,exhibition-solo,performance,publication,talk,video,press,resource' | split: ',' %} -->
-        <!-- <ul class="site-tags tags">
-          {% for tag in sortedtags %}
-          <li class="tag tag-{{ tag }}">{{ tag }}</li>
-          {% endfor %}
-        </ul> -->
-
         {% assign sortedtags = 'performance,talk,publication,solo-exhibition,group-exhibition' | split: ',' %}
         <div class="listing">
           <div>
             <h2 class="tag tag-projects">projects</h2>
             <ul>
               {% for project in site.projects %}
-              <li><a href="{{ project.url }}">{{ project.title }}</a></li>
+              <li><a href="{{ project.url }}">{{ project.title }}</a>{% if project.ptype %} ({{ project.ptype }}) {% endif %}</li>
               {% endfor %}
             </ul>
           </div>
