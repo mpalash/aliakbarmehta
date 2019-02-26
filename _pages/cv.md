@@ -1,21 +1,45 @@
 ---
 layout: cv
-title: Ali Akbar Mehta CV
+title: Biography
 permalink: /curriculum-vitae/
 ---
 # **ALI AKBAR MEHTA**
 
 (b. 1983, Mumbai, India)
 
+[www.aliakbarmehta.com](www.aliakbarmehta.com)
+
+
+
+Ali Akbar Mehta is a Trans-media artist. He is a founder-member and current Artistic Director of [Museum of Impossible Forms](www.museumofimpossibleforms.org), Helsinki. Through his research-based transmedia practice, he creates immersive cyber archives that explore collective memetic history, narratives of memory, identity, violence, and conflict. He has exhibited his projects in galleries and alternate spaces in New Delhi, Mumbai, Pune, Helsinki, and Tampere. He holds a BFA in Drawing and Painting from Sir J.J. School of Art, Mumbai, and an MA in Visual Culture, Curating, and Contemporary Art from Aalto University, Helsinki, Finland, where he completed a thesis text titled ‘Cyber Archive: Being and Doing Knowledge’. Some of his ongoing projects are ‘256 Million Colours of Violence’, ‘Contemporary Ruins of Kruunuvuori’, ‘War Room Echo – Regarding the pain of Other Cyborgs’, ‘New Frontiers: Critical enquiries for archives as Artistic Praxis’, and ‘Non-Alignment as Resistance: Towards Cyber Archives as counter-hegemonic practice’. He lives and works in Helsinki and Mumbai.
+
+## \*
+
+## Education
+
 MA (Visual Culture, Curating and Contemporary Art), Aalto University, Helsinki, 2018
 
 BFA (Painting), Sir J.J. School of Art, Mumbai, 2005
 
-Ali Akbar Mehta is a Trans-media artist. He is a founder-member and current Artistic Director of [Museum of Impossible Forms](www.museumofimpossibleforms.org), Helsinki. Through his research-based transmedia practice, he creates immersive cyber archives that explore collective memetic history, narratives of memory, identity, violence, and conflict. He has exhibited his projects in galleries and alternate spaces in New Delhi, Mumbai, Pune, Helsinki, and Tampere. He holds a BFA in Drawing and Painting from Sir J.J. School of Art, Mumbai, and an MA in Visual Culture, Curating, and Contemporary Art from Aalto University, Helsinki, Finland, where he completed a thesis text titled ‘Cyber Archive: Being and Doing Knowledge’. Some of his ongoing projects are ‘256 Million Colours of Violence’, ‘Contemporary Ruins of Kruunuvuori’, ‘War Room Echo – Regarding the pain of Other Cyborgs’, ‘New Frontiers: Critical enquiries for archives as Artistic Praxis’, and ‘Non-Alignment as Resistance: Towards Cyber Archives as counter-hegemonic practice’. He lives and works in Helsinki and Mumbai.
+\*
+
+## Experience
+
+**Artistic Producer**, M-cult Media Residency, Helsinki, 2019
+
+**Guest Lecturer**, Aalto University, Helsinki, 2018
+
+**co-Artistic Director**, Museum of Impossible Forms, Helsinki, 2018-present
+
+**Guest Lecturer**, Whistling Woods International Institute of Film, communication and Media Arts, Mumbai, 2014
+
+**Head of Post production**, Composite films, 2011-2014
+
+**Co-founder, Lead Animator and Artist**, Mareech Animated Design, 2002-2006
 
 \*
 
-## **Current Projects**
+## Current Projects
 
 Outsider at Work
 
@@ -29,7 +53,7 @@ Cyber Archive: Being and Doing Knowledge
 
 \*
 
-## **Performance**
+## Performance
 
 _(upcoming)_ **Narrating War**_,_ Vilniaus City Museum, Vilniaus, 2019
 
@@ -53,7 +77,7 @@ _(upcoming)_ **Narrating War**_,_ Vilniaus City Museum, Vilniaus, 2019
 
 \*
 
-## **Artist Talks**
+## Artist Talks
 
 **Cyber Archives**, Die Schule der Archaeutopie in conversation with Ali Akbar Mehta, Universität für angewandte Kunst Wien, Vienna, 2018
 
@@ -73,7 +97,7 @@ _(upcoming)_ **Narrating War**_,_ Vilniaus City Museum, Vilniaus, 2019
 
 \*
 
-## **Solo Exhibitions**
+## Solo Exhibitions
 
 **Limitations of Liability**, Mumbai Assembly and Harkat Studios, Mumbai, 2017
 
@@ -87,7 +111,7 @@ _(upcoming)_ **Narrating War**_,_ Vilniaus City Museum, Vilniaus, 2019
 
 \*
 
-## **Select Group Exhibitions**
+## Select Group Exhibitions
 
 **Assembly of Access**, TIFA, Pune, 2018
 
@@ -141,13 +165,13 @@ _(upcoming)_ **Narrating War**_,_ Vilniaus City Museum, Vilniaus, 2019
 
 \*
 
-## **Public projects**
+## Public projects
 
 **TRINITY: Godrej Legacy Park Silos**, Godrej One, Mumbai, India, 2015
 
 \*
 
-## **Curatorial Projects**
+## Curatorial Projects
 
 **Artistic Director**, Museum of Impossible Forms, Helsinki, 2018 – present
 
@@ -157,7 +181,7 @@ _(upcoming)_ **Narrating War**_,_ Vilniaus City Museum, Vilniaus, 2019
 
 \*
 
-## **Publication and Text**
+## Publication and Text
 
 (upcoming) **To Not Wait for the Archive**, Visual Culture and Contemporary Art Journal #5, edited by Saara Mehbouba, Paola Jallili and Else Lagerspetz, published by Aalto University, Helsinki 2018
 
@@ -177,11 +201,9 @@ _(upcoming)_ **Narrating War**_,_ Vilniaus City Museum, Vilniaus, 2019
 
 **A body split in two**, International Gallerie, Journal of Contemporary art, issue 30, 2011
 
-
-
 \*
 
-## **Residencies**
+## Residencies
 
 **To Participate in the Archive**, ARTEL 2018, TIFA Working Studios, Pune, 2018
 
@@ -189,7 +211,7 @@ _(upcoming)_ **Narrating War**_,_ Vilniaus City Museum, Vilniaus, 2019
 
 \*
 
-## **Teaching**
+## Teaching
 
 Guest lecturer, ‘**Archiving: Histories of the Present**’ at Visual Culture and Contemporary Art (ViCCA), Aalto University, Helsinki, 2018
 
@@ -199,19 +221,17 @@ Regularly conducting drawing and painting workshops as part of various NGO activ
 
 \*
 
-## **Work Experience**
-
-Artistic co-Director, Museum of Impossible Forms, Helsinki, 2018 – present
+## Other work Experience
 
 Founder Member of Museum of Impossible Forms, Helsinki, 2016 – present
-
-Communication Assistant for Visual Culture and Contemporary Art (ViCCA), Aalto University, Helsinki, 2016 – 2017
-
-Post Production and animation for Arab Strings, a performance video by artist Jowan Safadi (Palestine), 2016
 
 Member of Third Space Collective, Helsinki, 2016 ­– 2017
 
 Founder Member of D/func.t Collective, Helsinki, 2016 ­– present
+
+Communication Assistant for Visual Culture and Contemporary Art (ViCCA), Aalto University, Helsinki, 2016 – 2017
+
+Post Production and animation for Arab Strings, a performance video by artist Jowan Safadi (Palestine), 2016
 
 Post Production for ‘#7: Greed’ short film, 2015
 
