@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Ali's CV
+title: Ali Akbar Mehta CV
 permalink: /curriculum-vitae/
 ---
 # **ALI AKBAR MEHTA**
