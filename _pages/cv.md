@@ -57,7 +57,7 @@ Cyber Archive: Being and Doing Knowledge
 
 _(upcoming)_ **Narrating War**_,_ Vilniaus City Museum, Vilniaus, 2019
 
-**Narrating War**, Experimental Event VI, curated by Anna Jensen and Andrea Coyotzi Borja, a collatral event of Pori Film Festical, Pori, 2018
+**Narrating War**, Experimental Event VI, curated by Anna Jensen and Andrea Coyotzi Borja, a collateral event of Pori Film Festical, Pori, 2018
 
 **Narrating War**, Carincarina, Nova Gorica, 2018
 
