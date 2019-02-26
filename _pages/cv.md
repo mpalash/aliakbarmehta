@@ -3,7 +3,7 @@ layout: cv
 title: Ali's CV
 permalink: /curriculum-vitae/
 ---
-**ALI AKBAR MEHTA**
+# **ALI AKBAR MEHTA**
 
 (b. 1983, Mumbai, India)
 
@@ -15,7 +15,9 @@ Ali Akbar Mehta is a Trans-media artist. He is a founder-member and current Arti
 
 \*
 
-**Current Projects**
+## **Current Projects**
+
+Outsider at Work
 
 256 Million Colours of Violence
 
@@ -27,161 +29,169 @@ Cyber Archive: Being and Doing Knowledge
 
 \*
 
-**Performance**
+## **Performance**
 
-(upcoming)_ Narrating War_, Experimental Event VI (curated by Anna Jensen and Andrea Coyotzi Borja, Pori, 2018
+_(upcoming)_ **Narrating War**_,_ Vilniaus City Museum, Vilniaus, 2019
 
-(upcoming) _Narrating War_, Carincarina, Nova Gorica, 2018
+**Narrating War**, Experimental Event VI, curated by Anna Jensen and Andrea Coyotzi Borja, a collatral event of Pori Film Festical, Pori, 2018
 
-_Narrating War_, Museum of Impossible Forms, Helsinki, 2018
+**Narrating War**, Carincarina, Nova Gorica, 2018
 
-_Cyborg Archives: Can Archives Speak?_, TIFA Working Studios, Pune, 2018
+**Narrating War**, Museum of Impossible Forms, Helsinki, 2018
 
-_Narrating War_, TIFA Working Studios, Pune, 2018
+**Cyborg Archives: Can Archives Speak?**, TIFA Working Studios, Pune, 2018
 
-_Narrating War_, Memory of War, Kaapelitehdas, Helsinki, 2017
+**Narrating War**, TIFA Working Studios, Pune, 2018
 
-_Narrating War_, Clark House, Mumbai, 2017
+**Narrating War**, Memory of War, Kaapelitehdas, Helsinki, 2017
 
-_Where does poetry nest?_, curated by Giovanna Esposito Yussif, Pispala Memorial, Tampere, 2016
+**Narrating War**, Clark House, Mumbai, 2017
 
-_null.void_, Chimurenga Collective – Pan-African Space Station, Kallio Public Library, Helsinki, 2016
+**Where does poetry nest?**, curated by Giovanna Esposito Yussif, Pispala Memorial, Tampere, 2016
 
-\*
-
-**Artist Talks**
-
-_Congratulations, the space has been invaded: WHAT NOW?_, Space Invaders VI, Helsinki, 2018
-
-_A Common Sense Manifesto of Cooking Practices for Artists_, Aalto University, Espoo, 2018
-
-_Decolonial Dreaming_, Atenuim Museum, Helsinki, 2017
-
-_The Urgency of Asking Questions_, with Kevin Lobo, Piramal Museum, Mumbai, 2017
-
-_Memory and the Maximum City_, Godrej India Culture Lab, Mumbai, 2015
-
-_FOLKARCHIVE: Ali Akbar Mehta_, with Sumesh Sharma; moderated by Latika Gupta, Dr. Bhau Daji Lad City Museum, Mumbai, 2014
+**null.void**, Chimurenga Collective – Pan-African Space Station, Kallio Public Library, Helsinki, 2016
 
 \*
 
-**Solo Exhibitions**
+## **Artist Talks**
 
-_Limitations of Liability_, Mumbai Assembly and Harkat Studios, Mumbai, 2017
+**Cyber Archives**, Die Schule der Archaeutopie in conversation with Ali Akbar Mehta, Universität für angewandte Kunst Wien, Vienna, 2018
 
-_256 Million Colours of Violence_, Third Space, Helsinki, 2016
+**Archiving: Histories of the Present**, guest lecture, Visual Cultures, Curating and Contemporary Art (ViCCA), Aalto University, Helsinki
 
-_SITE: STAGE: STRUCTURE_, Clark House Initiative, Mumbai, 2014
+**Congratulations, the space has been invaded: WHAT NOW?**, Space Invaders VI, Helsinki, 2018
 
-_Of Men and Supermen_, India Art Festival, presented by TAO Art Gallery, Mumbai, 2012
+**A Common Sense Manifesto of Cooking Practices for Artists**, Aalto University, Espoo, 2018
 
-_The Ballad of The War that Never Was, and other Bastardized Myths_, TAO Art Gallery, Mumbai, 2011
+**Decolonial Dreaming**, Urbanapa 2017, Atenuim Museum, Helsinki, 2017
 
-\*
+**The Urgency of Asking Questions**, in conversation with Kevin Lobo, Piramal Museum, Mumbai, 2017
 
-**Select Group Exhibitions**
+**Memory and the Maximum City**, Godrej India Culture Lab, Mumbai, 2015
 
-_Assembly of Access, TIFA, Pune, 2018_
-
-_OUT 2, Research Pavilion: The Utopia of Access, Venice Biennale, Venice, 2017_
-
-_Ateria/The Meal, URB 2017 + Kiasma Contemporary Art Museum, Helsinki, 2017_
-
-_Immersion 2016, Espoo, 2016_
-
-_Where Does Poetry Nest?, curated by Giovanna Esposito Yussif, Galleria Emil, Tampere, 2016_
-
-_Space Invaders IV: Heterotopia, Espoo, 2016_
-
-_SOAK, D/func.t, Helsinki, 2016_
-
-_Cisspace: Construct(ed.), Otaniemi Recycling Center, Espoo, 2015_
-
-_Infinite, TAO Art Gallery, Mumbai, 2014_
-
-_Small is Beautiful – II, TAO Art Gallery, Mumbai, 2013_
-
-_Beyond the Canvas ­– Curated by Kalpana Shah and Sapna Kar, TAO Art Gallery, Mumbai, 2013_
-
-_Tagore Lost and Found ­– Curated by Bina Sarkar Ellias, India Bulls Art Gallery and Auction House, New Delhi, 2013_
-
-_Equilibrium, TAO Art Gallery, Mumbai, 2013_
-
-_Synergy, TAO Art Gallery, Mumbai, 2012_
-
-_Small is Beautiful, TAO Art Gallery, Mumbai, 2012_
-
-_Three New Voices: Dimensions in Time & Space, Art Heritage, New Delhi, 2010_
-
-_April Salon, Galerie Mirchandani + Stienruecke, Mumbai, 2010_
-
-_Evolve, TAO Art Gallery, Mumbai, 2010_
-
-_Gems of India, Unicorn Art Gallery, Dubai, 2009_
-
-_India on Canvas, charity auction, New Delhi, 2009_
-
-_The Kohinoor Selection, Unicorn Art Gallery, Dubai, 2008_
-
-_Art for Justice and Peace, Sabrang, Mumbai, 2008_
-
-_Art Smart, Mumbai, and Delhi, 2008_
-
-_India on Canvas, charity auction, Mumbai, 2007_
-
-_Celebrating India, Treo Foundation, Delhi-Calcutta-Bangalore-Mumbai-New York, 2007_
-
-
+**FOLKARCHIVE**, in conversation with Sumesh Sharma; moderated by Latika Gupta, Dr. Bhau Daji Lad City Museum, Mumbai, 2014
 
 \*
 
-**Public projects**
+## **Solo Exhibitions**
 
-_TRINITY: Godrej Legacy Park Silos_, Mumbai, India, 2015
+**Limitations of Liability**, Mumbai Assembly and Harkat Studios, Mumbai, 2017
+
+**256 Million Colours of Violence**, Third Space, Helsinki, 2016
+
+**SITE: STAGE: STRUCTURE**, Clark House Initiative, Mumbai, 2014
+
+**Of Men and Supermen**, India Art Festival, presented by TAO Art Gallery, Mumbai, 2012
+
+**The Ballad of The War that Never Was, and other Bastardized Myths**, TAO Art Gallery, Mumbai, 2011
+
+\*
+
+## **Select Group Exhibitions**
+
+**Assembly of Access**, TIFA, Pune, 2018
+
+**OUT 2**, Research Pavilion: The Utopia of Access, Venice Biennale, Venice, 2017
+
+**Ateria/The Meal**, URB 2017 + Kiasma Contemporary Art Museum, Helsinki, 2017
+
+**Immersion 2016**, Aalto University, Espoo, 2016
+
+**Where Does Poetry Nest?**, curated by Giovanna Esposito Yussif, Galleria Emil, Tampere, 2016
+
+**Space Invaders IV: Heterotopia**, Espoo, 2016
+
+**SOAK**, D/func.t, Helsinki, 2016
+
+**Cisspace: Construct(ed.)**, Otaniemi Recycling Center, Espoo, 2015
+
+**Infinite**, TAO Art Gallery, Mumbai, 2014
+
+**Small is Beautiful – II**, TAO Art Gallery, Mumbai, 2013
+
+**Beyond the Canvas**, ­Curated by Kalpana Shah and Sapna Kar, TAO Art Gallery, Mumbai, 2013
+
+**Tagore Lost and Found**, Curated by Bina Sarkar Ellias, IndiaBulls Art Gallery and Auction House, New Delhi, 2013
+
+**Equilibrium**, TAO Art Gallery, Mumbai, 2013
+
+**Synergy**, TAO Art Gallery, Mumbai, 2012
+
+**Small is Beautiful**, TAO Art Gallery, Mumbai, 2012
+
+**Three New Voices: Dimensions in Time & Space**, Art Heritage, New Delhi, 2010
+
+**April Salon**, Galerie Mirchandani + Steinruecke, Mumbai, 2010
+
+**Evolve**, TAO Art Gallery, Mumbai, 2010
+
+**Gems of India**_,_ Unicorn Art Gallery, Dubai, 2009
+
+**India on Canvas,** charity auction, New Delhi, 2009
+
+**The Kohinoor Selection**_,_ Unicorn Art Gallery, Dubai, 2008
+
+**Art for Justice and Peace**, Sabrang, Mumbai, 2008
+
+**Art Smart**, Mumbai, and Delhi, 2008
+
+**India on Canvas**, charity auction, Mumbai, 2007
+
+**Celebrating India**, Treo Foundation, Delhi-Calcutta-Bangalore-Mumbai-New York, 2007
+
+\*
+
+## **Public projects**
+
+**TRINITY: Godrej Legacy Park Silos**, Godrej One, Mumbai, India, 2015
+
+\*
+
+## **Curatorial Projects**
+
+**Artistic Director**, Museum of Impossible Forms, Helsinki, 2018 – present
+
+**MATERIAL///IMMATERIAL**, A: SPACE, Espoo, Finland, 2016 
+
+**SOAK**, D/func.t, Helsinki, Finland, 2016
+
+\*
+
+## **Publication and Text**
+
+(upcoming) **To Not Wait for the Archive**, Visual Culture and Contemporary Art Journal #5, edited by Saara Mehbouba, Paola Jallili and Else Lagerspetz, published by Aalto University, Helsinki 2018
+
+**Colours of Violence**, AROOP Journal, edited by Nancy Adajania, published by Raza Foundation, New Delhi, 2018
+
+**Cyber Archive: Archiving as a sustainable counter-hegemonic practice**, Hakara Journal, 2018
+
+**Cyber Archive: Being and Doing Knowledge**, Aalto University, 2018
+
+**Border Crossing: Reshaping the Agency of Struggle**, interview with Ranjit Hoskote, CuMMA Papers publication series, edited by Nora Sternfeld, Helsinki, 2017
+
+**The Photons of Politics: Footnotes for a New History**, RAB-RAB Journal for Political and Formal Inquiries in Art, 2017
+
+**No one at the ceremony remembers to mention the artist**, Essay for Exhibition _No one at the ceremony remembers to mention the artist_, Third Space, 2015
+
+**Site: Stage: Structure**, suite of 17 Accordion fold and 3 artist photo-books, self-published, Mumbai, 2014
+
+**A body split in two**, International Gallerie, Journal of Contemporary art, issue 30, 2011
 
 
 
 \*
 
-**Curatorial Projects**
+## **Residencies**
 
-_MATERIAL///IMMATERIAL_, A: SPACE, Espoo, Finland, 2016 SOAK, D/func.t, Helsinki, Finland, 2016
+**To Participate in the Archive**, ARTEL 2018, TIFA Working Studios, Pune, 2018
 
-
-
-\*
-
-**Publication and Text**
-
-(upcoming) _To Not Wait for the Archive_, Visual Culture and Contemporary Art Journal #5, edited by Saara Mehbouba, Paola Jallili and Else Lagerspetz, published by Aalto University, Helsinki 2018
-
-_Cyber Archive: Archiving as a sustainable counter-hegemonic practice_, Hakara Journal, 2018
-
-_Colours of Violence_, AROOP Journal, edited by Nancy Adajania, published by Raza Foundation, New Delhi, 2018
-
-_Cyber Archive: Being and Doing Knowledge_, Aalto University, 2018
-
-_Border Crossing: Reshaping the Agency of Struggle_, interview with Ranjit Hoskote, CuMMA Papers publication series, edited by Nora Sternfeld, Helsinki, 2017
-
-_The Photons of Politics: Footnotes for a New History_, RAB-RAB Journal for Political and Formal Inquiries in Art, 2017
-
-_No one at the ceremony remembers to mention the artist_, Essay for Exhibition _No one at the ceremony remembers to mention the artist_, Third Space, 2015
-
-_Site: Stage: Structure_, suite of 17 Accordion fold and 3 artist photo-books, self-published, Mumbai, 2014
+**SPACE 118**, Mumbai, 2012
 
 \*
 
-**Residencies**
+## **Teaching**
 
-_ARTEL 2018_, TIFA Working Studios, Pune, 2018
-
-_SPACE 118_, Mumbai, 2012
-
-\*
-
-**Teaching**
-
-Guest lecturer, ‘Histories of the Present’ at Visual Culture and Contemporary Art (ViCCA), Aalto University, Helsinki, 2018
+Guest lecturer, ‘**Archiving: Histories of the Present**’ at Visual Culture and Contemporary Art (ViCCA), Aalto University, Helsinki, 2018
 
 Guest Lecturer at Whistling Woods International Institute of Film, communication and Media Arts, 2014 – 2015
 
@@ -189,7 +199,7 @@ Regularly conducting drawing and painting workshops as part of various NGO activ
 
 \*
 
-**Work Experience**
+## **Work Experience**
 
 Artistic co-Director, Museum of Impossible Forms, Helsinki, 2018 – present
 
