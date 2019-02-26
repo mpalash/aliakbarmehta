@@ -1,7 +1,7 @@
 ---
 title: 'wre ~ Narrating War, Clark House, Mumbai'
 parent: 'WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs'
-type: artwork
+type: performance
 pubdate: '2017'
 summary: >-
   ![null](/assets/img/ali-akbar-mehta-narrating-war-03-clark-house-2017.jpg)
