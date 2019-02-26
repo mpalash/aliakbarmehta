@@ -9,8 +9,6 @@ permalink: /curriculum-vitae/
 
 [www.aliakbarmehta.com](www.aliakbarmehta.com)
 
-
-
 Ali Akbar Mehta is a Trans-media artist. He is a founder-member and current Artistic Director of [Museum of Impossible Forms](www.museumofimpossibleforms.org), Helsinki. Through his research-based transmedia practice, he creates immersive cyber archives that explore collective memetic history, narratives of memory, identity, violence, and conflict. He has exhibited his projects in galleries and alternate spaces in New Delhi, Mumbai, Pune, Helsinki, and Tampere. He holds a BFA in Drawing and Painting from Sir J.J. School of Art, Mumbai, and an MA in Visual Culture, Curating, and Contemporary Art from Aalto University, Helsinki, Finland, where he completed a thesis text titled ‘Cyber Archive: Being and Doing Knowledge’. Some of his ongoing projects are ‘256 Million Colours of Violence’, ‘Contemporary Ruins of Kruunuvuori’, ‘War Room Echo – Regarding the pain of Other Cyborgs’, ‘New Frontiers: Critical enquiries for archives as Artistic Praxis’, and ‘Non-Alignment as Resistance: Towards Cyber Archives as counter-hegemonic practice’. He lives and works in Helsinki and Mumbai.
 
 ## \*
@@ -83,7 +81,7 @@ _(upcoming)_ **Narrating War**_,_ Vilniaus City Museum, Vilniaus, 2019
 
 **Archiving: Histories of the Present**, guest lecture, Visual Cultures, Curating and Contemporary Art (ViCCA), Aalto University, Helsinki
 
-**Congratulations, the space has been invaded: WHAT NOW?**, Space Invaders VI, Helsinki, 2018
+**Congratulations, the space has been invaded: NOW WHAT?**, Space Invaders VI, Helsinki, 2018
 
 **A Common Sense Manifesto of Cooking Practices for Artists**, Aalto University, Espoo, 2018
 
