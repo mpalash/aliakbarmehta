@@ -1,13 +1,14 @@
 ---
 layout: project
 title: Luminous Matter
+ptype: past
 hero: /assets/img/lm1-large.jpg
 pcontent:
+  - LM ~ Prelude to Luminous Matter (Animated)
   - 'LM ~ Luminous Matter, Animated Short'
-  - 'LM ~ Press Kit'
-  - 'LM ~ Prelude to Luminous Matter (Animated)'
+  - LM ~ Press Kit
 ---
-Luminous Matter is a collaborative experimental short film, set in a parallel post-apocalyptic present, where mankind no longer exists. In a world covered with nuclear fog and left to total ruin, a rapidly evolving race of uranium-based life forms called Ouraosteus have emerged.
+[Luminous Matter](http://luminousmatter.in/) is a collaborative experimental short film, set in a parallel post-apocalyptic present, where mankind no longer exists. In a world covered with nuclear fog and left to total ruin, a rapidly evolving race of uranium-based life forms called Ouraosteus have emerged.
 
 \    \[ Ouraostes from Greek oὐρανός, Ouranos "Uranus" and οστεος, osteus "bone" ]
 
