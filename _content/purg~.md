@@ -1,5 +1,5 @@
 ---
-title: purg~
+title: purg~ stills from video
 parent: Purgatory Edit
 layout: 'null'
 type: artwork
