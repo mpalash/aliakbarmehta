@@ -1,6 +1,7 @@
 ---
 layout: project
 title: 'SITE : STAGE : STRUCTURE'
+ptype: past
 hero: /assets/img/mazgaon-docks.jpg
 pcontent:
   - sss ~ Artist Note
@@ -24,7 +25,6 @@ pcontent:
   - sss ~ The Chinese in Mumbai
   - sss ~ The Origin of Kwan Yin or Miao Shan
   - sss ~ Shrikrishna Report
-  - null
 ---
 SITE : STAGE : STRUCTURE is an archival documentary project. It is a Transmedia Installation that integrates books, objects, photographs, short films, audio narratives, and heritage walks as a way of revitalizing memories and telling a history that is absent from the formal narratives.
 
