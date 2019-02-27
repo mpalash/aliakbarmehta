@@ -1,6 +1,6 @@
 ---
 title: Kru ~ Project proposal
-parent: Decolonial Dreaming at UrbanApa
+parent: 'Contemporary Ruins of Kruunuvuori:  The Perfect Ghosts of Helsinki'
 layout: 'null'
 type: text
 pubdate: '2016'
