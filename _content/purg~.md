@@ -18,3 +18,11 @@ pubdate: '2017'
 ![](/assets/img/ali-akbar-mehta_purgatory-edit_06.png)
 
 ![](/assets/img/ali-akbar-mehta_purgatory-edit_07.png)
+
+![](/assets/img/ali-akbar-mehta_purgatory-edit_08.png)
+
+![](/assets/img/ali-akbar-mehta_purgatory-edit_09.png)
+
+![](/assets/img/ali-akbar-mehta_purgatory-edit_11.png)
+
+![](/assets/img/ali-akbar-mehta_purgatory-edit_12.png)
