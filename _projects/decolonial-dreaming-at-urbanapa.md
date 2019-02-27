@@ -1,6 +1,7 @@
 ---
 layout: project
 title: Decolonial Dreaming at UrbanApa
+ptype: past
 hero: /assets/img/fb_img_1539579471797.jpg
 ---
 Looks like I'm contemplating a plant, but actually talked about Impossible Forms and Decolonial Dreaming.
