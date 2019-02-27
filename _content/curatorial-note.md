@@ -1,5 +1,5 @@
 ---
-title: Curatorial note
+title: SAO ~ Curatorial note
 parent: SOAK
 layout: 'null'
 type: text
