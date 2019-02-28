@@ -1,5 +1,5 @@
 ---
-title: Pud~ Images
+title: Pud~ Installation views
 parent: Pudding Manifesto for Togetherness
 layout: 'null'
 type: group-exhibition
