@@ -2,7 +2,9 @@
 layout: project
 title: Purgatory Edit
 ptype: individual work
-pcontent: []
+pcontent:
+  - purg~ Purgatory edit
+  - purg~ stills from video
 ---
 The project is an interactive performance audiovisual installation, primarily using the Emotive Epoc+ as a means to 'read' the viewer’s sub conscious and semiconscious mind-states such as frustration, anxiety and excitement. These mind-states are calibrated to software and are used to generate a unique cinematic experience for each viewer. While frustration might bring forward more horrific images, a more relaxed and a meditative state of mind would be reflected in showing more peaceful scenes.
 
