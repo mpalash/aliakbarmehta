@@ -1,8 +1,11 @@
 ---
 layout: project
-title: Pudding Manifesto
+title: Pudding Manifesto for Togetherness
 ptype: individual work
-pcontent: []
+pcontent:
+  - Pud~ Proposal text
+  - Pud~ Project Report
+  - Pud~ Other Readings
 ---
 part of 
 
