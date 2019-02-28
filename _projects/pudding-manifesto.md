@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Pudding Manifesto for Togetherness
-ptype: individual work
+ptype: past
 pcontent:
   - Pud~ Proposal text
   - Pud~ Installation views
