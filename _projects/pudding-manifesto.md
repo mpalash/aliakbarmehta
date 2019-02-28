@@ -4,6 +4,7 @@ title: Pudding Manifesto for Togetherness
 ptype: individual work
 pcontent:
   - Pud~ Proposal text
+  - Pud~ Installation views
   - Pud~ Project Report
   - Pud~ Other Readings
 ---
