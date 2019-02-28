@@ -1,6 +1,6 @@
 ---
 title: Pud~ Project Report
-parent: Pudding Manifesto
+parent: Pudding Manifesto for Togetherness
 layout: 'null'
 type: resource
 pubdate: '2019'
