@@ -2,7 +2,7 @@
 title: 'UPT~ The Inescapable Manifest Destiny of the Artworld Culture:'
 parent: Unpublished Essays and text
 layout: 'null'
-type: text
+type: publication
 pubdate: '2016'
 summary: >-
   ## Defining Art through the state of the Artworld today 
