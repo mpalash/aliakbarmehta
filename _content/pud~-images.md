@@ -2,7 +2,7 @@
 title: Pud~ Images
 parent: Pudding Manifesto for Togetherness
 layout: 'null'
-type: artwork
+type: group-exhibition
 pubdate: '2016'
 ---
 ![](/assets/img/pudding-manifesto_installation-view-cropped_2016.jpg)
