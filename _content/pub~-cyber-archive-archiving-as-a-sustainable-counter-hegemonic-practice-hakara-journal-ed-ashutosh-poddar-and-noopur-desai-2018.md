@@ -5,7 +5,7 @@ title: >-
 parent: 'Published '
 layout: 'null'
 type: publication
-pubdate: '2019'
+pubdate: '2018'
 summary: >-
   Artistic practices have forced a change in how archives may be looked against
   the grain, used and even produced. Counter Archives, or specifically archives
@@ -33,13 +33,15 @@ summary: >-
   ‘how’, is the essential question that precedes the multitudes of questions
   that follow in this essay.
 ---
+__
+
+_What compromise could there be with the instrument of your repression?‘ From the series: Archiving Knowledge, hand engraved marble, 2018_
+
+__
+
 ## Two kinds of Archives
 
 In order to understand how archives as artistic practice may counter traditional institutional archives, it is important to understand how archives have functioned throughout history. Archives have traditionally worked in conjunction with the same principles that govern museums – they have been ‘petrification machines’ – collecting, encoding and storing objects, documents and data, cultural or otherwise; that has been deemed ‘valuable’ by the agency of the archival system. In Archive Fever, Derrida challenges attempts to compound arkhé and archive, exposing the way in which the concept of the archive is inescapably linked to Archontic power\[i]. He reminds us that archives are monuments, in the way in which power is reconfigured. It not merely stores and includes, but also testifies to a narrative of exclusion – what is included in the archive is due to its value, that which is excluded loses its value. But the question is, who ascribes this value to objects or documents in archives? And through what criteria? And so it makes sense that according to Archival theorist Achille Mbembe, ‘The Archive is a status’.  There is nothing original in the claim that the appraisal function forms the core of the archival discipline, but the notion of appraisal, of selection by the archivist, and the role of archives remain essentially contested ground. Despite this, the role of archives has been to ensure ‘objective’ institutional accountability.
-
-
-
-
 
 _‘The archive is both ‘History’ – the science of the state, and ‘Memory’ – the art of the stateless.’ From the series: Archiving Knowledge, hand engraved marble, 2018_
 
@@ -47,23 +49,13 @@ Hal Foster’s 2004 essay, ‘An Archival Impulse’ defined archival art as a g
 
 It is currently difficult to delineate the boundaries separating theories regarding Archives as artistic practice and those outside of it, precisely because artists have actively sought to work within the parameters afforded by archival principles, both as systemic tools, as well as to critique it. Through similarities in structure, terminology and intent, archives thus created/generated/imagined within artistic research and practice still maintain a close proximity with the archival canon. This proximity to the canon often allows for ‘archives as artistic practice’ to become absorbed within hegemonic orders that these practices strive to disrupt or complicate. What we need is a newer kind of an archive, or at least a re-imagination of what archives can mean – is it possible that archives are not only petrification machines, not only concerned with the idea of memory, of the old – but also concerned with the idea of the future, of imagination? Can archives now work within the parameters of today’s knowledge society.
 
-
-
-
-
 _’What compromise could there be with the instrument of your repression?‘ From the series: Archiving Knowledge, hand engraved marble, 2018_
-
-
 
 ## Archives as Knowledge Systems
 
 Oliver Marchart tells us that we are living in a ‘knowledge based’ society, where immaterial labour has a dominant form; and that the ability to communicate, to act autonomously and to produce knowledge are the requirements for being creative, creating and consuming knowledge. “Knowledge has to be produced somewhere \[…] once produced, it has to be transmitted \[…] this transmission will by necessity imply a pedagogical element.”\[iii] One also assumes that if knowledge is of increasing importance today, both institutions of creating and transmitting knowledge must be important – But reality disproves this assumption as we witness a deterioration due to lack of funding, ruining academies and universities; and defunding and cuts in culture sector reducing the effectiveness of artistic endeavours.
 
 Sooner or later we will reach a knowledge society without knowledge. Worse, society will transform into a society with very specific kinds of knowledge – those that have immediate relevance in the job markets. For Marchart, The role of education to impart knowledge based on economic gain is a crucial statement of fact indicating the state of government policy, the dominating corporate sectors and diminishing role of universities.
-
-
-
-
 
 _Naeem Mohaiemen, Two Meetings and a Funeral (2017),Three-channel digital video installation, color, sound, 85 min. Co-commissioned by Sharjah Art Foundation and JustFilms/Ford Foundation. Additional support by Arts Council England; Tensta Konsthall, Sweden; and Bengal Foundation, Bangladesh. Hessisches Landesmuseum, Kassel._
 
@@ -76,8 +68,6 @@ From a technological standpoint lifelogging entails two core functions: (a) coll
 The arrival of the personal computer has helped change the status of the archive in our daily lives. With the development of the idea of ‘archiving’ electronic documents, ‘archive’ has become a verb. Today, anything can be archived – The extraordinary, the ordinary and the mundane. The popular meaning of ‘archive’ today seems to embrace any group of objects – often digital – that are gathered together and actively preserved. The word can also be used to suggest somewhat imprecise notions of historicity, age or retention. The popular understanding of archive has thus moved beyond the areas on which much theoretical discourse about the archive concentrates, and this shift needs to be reflected in our theorisations of archiving – Archives no longer belong to the lawmakers and the powerful; archivists see themselves as serving society rather than the state. The archive theorist Eric Ketalaar has described this view of the archive as, ‘By the People, of the People, for the People’.
 
 Archives now regularly draw on practical theoretical approaches to reconstruct the routines in businesses, the forms of using technical and medial artefacts, the characteristics of gendered ‘performances’ or even the ‘doing knowledge’ in everyday practices. As Kenneth Goldsmith, founder of UbuWeb tells us: “The norms that are constitutive of these practices should not be understood in terms of sharing explicitly stated or statable beliefs or values, or in terms of conscious intentions – although these will certainly play a part from time to time – but rather as a matter of unreflectively acting in the same way as others, of doing what ‘one’ does.”\[vii]
-
-
 
 ## Cyber Archives
 
@@ -95,8 +85,6 @@ Cyber Archives are concerned primarily with knowledge, its grounding in both kno
 
 Simply put, Cybernetics refashions the world as a system and the subject as an agent – a cyber reality. A reality in which systems or networks combine agents in mutual communication and command. Transgressional acts, moral ambiguity induced by norm criticality, extra-binary possibilities, synthesised relationships between systems and agents, a heightened awareness of power relations, and an acute need to queer hegemony. These then are the characteristics of the cyber reality we find ourselves in. The question of how can archives perform their function within the construct of this cyber reality may not be new, but it is topical – the root and crux of all of our engagements and pursuits.
 
-
-
 ## Cyber Archives as Counter-Hegemonic
 
 Will the framework of cybernetic relations, this proposed ‘Cyber Archives’, enable us to shed the fetish for old media, and understand our own complicity in the perpetuating of the same systems and hegemonic orders we want to shed and abolish? – In order to do that, Cyber Archive directs us towards the digital tools available, as well as the further questions their use may raise and relationally our own positions as ‘Users’ of Cyber Archives. How can archives now work within the parameters of today’s knowledge society?
@@ -109,19 +97,11 @@ Made incumbent within the Contemporary Art system, archives today are made (appr
 
 Acquiescent to the rising importance of Archives, biennale curators have also given prominence to historical archives in their shows, most famously Massimiliano Gioni, whose Gwangju Biennale incorporated an enormous amount of documentary materials – from photographs of the victims of atrocities in Cambodia to Paul Fusco’s photographs of Robert F. Kennedy’s casket being transported to Arlington – and who continued this emphasis through his 2013 Venice Biennale, which displayed such archives as a group of hundreds of small model houses built by an Austrian insurance clerk named Peter Fritz. Okwui Enwezor’s seminal dOCUMENTA (11), and Carolyn Christov-Bakargiev’s much-praised dOCUMENTA (13) featured an extensive use of archives, as well as artists employing archives. dOCUMENTA (14) also saw a significant rise in archival projects – The Society of the Friends of Hadith and Forensic Architecture’s 77sqm_9:26min\[xiv] (2017), Rasheed Araeen’s The Reading Room\[xv] (2016/2017), The Precarious Archives\[xvi] (2015), Naeem Mohamaiemen’s Two Meetings and a Funeral\[xvii] (2017), or Abou Naddara’s seminal On Revolution\[xviii] (2017), amongst several others.
 
-
-
-
-
 _77sqm_9:26min, Forensic Architecture, Documenta 14, 2017 Coordinated by Ayse Gülec Commissioned by HKW, The People’s Tribunal, Initiative 6. April, and Kassel postkolonial_
 
 In November 2016, eleven years after the murder of 21 years old Halit Yozgat176, on the 6 April 2006, the People’s Tribunal “Unravelling the NSU Complex” commissioned Forensic Architecture1 to investigate the testimony Andreas Temme, who denied being a witness to the incident, and determine whether it could be truthful. The investigation conducted through combing through Internet records, Social media databases, telephone logs, Café registry; forensic evidences such as ballistic reports, decibel and smoke measurement; and categorically defining a timeline; recreated the series of events to determine true facts. Within the 77 square meters of the Internet café and the 9:26 minutes of the incident, different actors crossed paths – members of migrant communities, a state employee and the murderers – and were architecturally disposed in relation to each other. The shop was thus a microcosm of the entire social and political controversy that makes the “NSU Complex”.
 
 Despite my contestation that these (cyber) archives are not art, the archives I’m interested in can only be devised through artistic and curatorial practice and research methodologies. By this I mean practices and methods that affect certain desire towards a future that ‘affirm\[s] the agency of the individual human subject, so that it can renew its imaginative and material struggle against all that is oppressive and homogenizing in the world’\[xix], in spite of the utopian impossibilities of said future. These impossibilities are also incumbent within occupations and forms of employment where such employment is bureaucratic, as Agamben describes bureaucracy to be. ‘The question of the archive is a question of the future, the question of the future itself, the question of a response, of a promise and of a responsibility for tomorrow.’\[xx]
-
-
-
-
 
 _Amar Kanwar, Soveriegn Forest, Documenta13, 2012, In collaboration with Sudhir Pattnaik/Samadrusti and Sherna Dastur, Produced with the support of: Samadrusti, Odisha; Thyssen-Bornemisza Art Contemporary, Vienna; Centre Pompidou, Paris; Yorkshire Sculpture Park, England; Public Press, New Delhi and Documenta 13, Kassel._
 
@@ -147,11 +127,7 @@ They support and invest in a future would promote a knowledge environment hospit
 
 Cyber Archives as a sustained artistic praxis present themselves, as a model to conceive of what more egalitarian institution/para-institutions would look like.  They are practices that go beyond (transcend) socially constructed language systems and structures to engage diverse multiple sense-making systems and subjectivities that counter the sedimented socio-political systems of the world today, and critiques established historiography. They are, or aim to be, the condition of historicity itself. ‘The archive therefore is not simply a departure, a cipher for the condition of innovation: it gives a name to the way in which the new is also a return, an iteration in the true sense of the word.’\[xxi]
 
-
-
 \_\_\_\__
-
-
 
 \[i] Archontic power is therefore the political power excercised by those who represented the archive and possessed the authority to represent, interpret and make the law. The term originates with a study of the Greek word, Arkheion, or ancient Greek archives, which means the residence of the superior magistrates, the archons, ‘those who commanded’; a house; a domicile; address. This place of recognised authority where documents were led, gathered together, ordered, protected, and were made available as public records. These documents (not always just discursive writings) spoke the law, and as such they needed both a guardian and a place – the law and domiciliation.
 
