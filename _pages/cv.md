@@ -181,11 +181,11 @@ _(upcoming)_ **Narrating War**_,_ Vilniaus City Museum, Vilniaus, 2019
 
 ## Publication and Text
 
-(upcoming) **To Not Wait for the Archive**, Visual Culture and Contemporary Art Journal #5, edited by Saara Mehbouba, Paola Jallili and Else Lagerspetz, published by Aalto University, Helsinki 2018
+(upcoming) **To Not Wait for the Archive**, Visual Culture and Contemporary Art Journal #5, (ed.) Saara Mehbouba, Paola Jallili and Else Lagerspetz, published by Aalto University, Helsinki 2018
 
-**Colours of Violence**, AROOP Journal, edited by Nancy Adajania, published by Raza Foundation, New Delhi, 2018
+**Colours of Violence**, AROOP Journal, (ed.) Nancy Adajania, published by Raza Foundation, New Delhi, 2018
 
-**Cyber Archive: Archiving as a sustainable counter-hegemonic practice**, Hakara Journal, 2018
+**Cyber Archive: Archiving as a sustainable counter-hegemonic practice**, Hakara Journal, (ed.) Ashutosh Poddar and Noopur Desai, 2018
 
 **Cyber Archive: Being and Doing Knowledge**, Aalto University, 2018
 
