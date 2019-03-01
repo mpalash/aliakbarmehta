@@ -189,9 +189,9 @@ _(upcoming)_ **Narrating War**_,_ Vilniaus City Museum, Vilniaus, 2019
 
 **Cyber Archive: Being and Doing Knowledge**, Aalto University, 2018
 
-**Border Crossing: Reshaping the Agency of Struggle**, interview with Ranjit Hoskote, CuMMA Papers publication series, edited by Nora Sternfeld, Helsinki, 2017
+**Border Crossing: Reshaping the Agency of Struggle**, interview with Ranjit Hoskote, CuMMA Papers publication series, (ed.) Nora Sternfeld, Helsinki, 2017
 
-**The Photons of Politics: Footnotes for a New History**, RAB-RAB Journal for Political and Formal Inquiries in Art, 2017
+**The Photons of Politics: Footnotes for a New History**, RAB-RAB Journal for Political and Formal Inquiries in Art, (ed.) Sezgin Boynik, 2017
 
 **No one at the ceremony remembers to mention the artist**, Essay for Exhibition _No one at the ceremony remembers to mention the artist_, Third Space, 2015
 
