@@ -1,5 +1,5 @@
 ---
-title: Kru~ Perfect Ghosts
+title: Kru ~ Perfect Ghosts
 parent: 'Contemporary Ruins of Kruunuvuori:  The Perfect Ghosts of Helsinki'
 layout: 'null'
 type: text
