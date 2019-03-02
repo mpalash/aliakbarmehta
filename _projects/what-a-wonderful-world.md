@@ -2,6 +2,7 @@
 layout: project
 title: What a wonderful World
 ptype: individual work
-pcontent: []
+pcontent:
+  - Wonderful~ What a Wonderful World
 ---
 Video
