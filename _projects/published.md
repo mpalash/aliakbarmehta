@@ -13,5 +13,9 @@ pcontent:
     Published~ Border Crossing: Reshaping the Agency of Struggle - interview
     with Ranjit Hoskote, CuMMA Papers Publication Series, (ed.) Nora Sternfeld,
     2017
+  - >-
+    Published~ No one at the ceremony remembers to mention the artist, essay for
+    Vidha Saumya’s exhibition 'No one at the ceremony remembers to mention the
+    artist', Third Space, 2015
 ---
 \*
