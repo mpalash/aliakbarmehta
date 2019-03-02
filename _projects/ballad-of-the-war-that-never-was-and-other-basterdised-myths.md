@@ -5,7 +5,7 @@ ptype: past
 hero: >-
   /assets/img/ballad-of-the-war-that-never-was-2011-oil-and-acrylic-on-canvas-152-x-198-cm.jpg
 pcontent:
-  - Ballad ~ Conversation transcript with Rahul D'Souza
+  - 'Ballad ~  Conversation transcript with Rahul D''Souza '
   - Ballad ~ Drawings
   - Ballad ~ Everybody's a Jester
   - Ballad ~ Installation Views
