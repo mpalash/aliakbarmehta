@@ -7,7 +7,7 @@ layout: 'null'
 type: publication
 pubdate: '2017'
 summary: >-
-  Museum of Impossible Forms (MIF) is a cultural center for alternative
+  Museum of Impossible Forms (M{_if_}) is a cultural center for alternative
   practices in suburb of Kontula, East Helsinki, formed in 2017. As artists,
   curators, researchers, art workers and ‘Others’, a significant part of MIF’s
   practice is of enquiry, research and representations of experiences as well as
