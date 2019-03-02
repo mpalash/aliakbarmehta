@@ -1,6 +1,6 @@
 ---
 title: >-
-  Published~ Locating: The Museum of Impossible Forms, Kone Foundation Boldness
+  Published ~ Locating: The Museum of Impossible Forms, Kone Foundation Boldness
   Blog, 2017
 parent: 'Published '
 layout: 'null'
