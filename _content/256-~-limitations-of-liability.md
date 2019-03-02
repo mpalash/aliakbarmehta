@@ -1,22 +1,22 @@
 ---
 title: 256 ~ Limitations of Liability
 parent: 256 Million Colours of Violence
-type: solo-exhibition
+type: text
 pubdate: '2017'
 summary: >-
   ![](/assets/img/limitations-of-liability-banner-for-facebook.jpg)
 
 
-  Limitations of Liability was an eight day program between March 17 to 28,
-  2017, structured around ‘256 Million Colours of Violence’ – an interactive
-  survey-based-research project by contemporary transmedia artist, Ali Akbar
-  Mehta.
+  **Limitations of Liability** was an eight day program between March 17 to 28,
+  2017, structured around ‘**256 Million Colours of Violence**’ – an interactive
+  survey-based-research project by contemporary transmedia artist, **Ali Akbar
+  Mehta**.
 ---
 This interactive survey-based-research project started in 2016, now includes more than 200 entries of people from all walks of life. 256 Million Colours of Violence is available to the public for free. The exposition of the past survey results will be installed along with a participation booth at The Mumbai Assembly and Harkat studios inviting everyone to participate in the ongoing survey.
 
 Held across three venues – The Mumbai Assembly (Bandra), The Piramal Art Foundation (Lower Parel) and Harkat Studios (Versova) – the program will also include poetry recitations, talks and discussions, and a series of films screenings concerned with the subject of violence and trauma.
 
-Details below
+Details below:
 
 ![null](/assets/img/limitations-of-liability-segment-1.jpg)
 
@@ -51,10 +51,6 @@ _Big Data Ethics_
 Ali Akbar Mehta in conversation with Sameer Pitalwala discuss how most data-mining exercises and empirical scientific surveys require a culled group in order to eradicate diversity, a standardisation of the test group to remove ‘noise’. Instead, a project such as ‘256 Million Colours of Violence’ is a celebration of that noise which represents the diversity of Human experience and collective memetic history. It is also part of an ongoing discourse to reduce effects of stereo-typification through personal scrutiny of the word and meanings of ‘Violence' by asking how is the narrative experience of colour embodied, embedded and extended in the contexts of these meanings.
 
 6:30 to 8:00 pm
-
-
-
-
 
 ![null](/assets/img/limitations-of-liability-segment-2-updated.jpg)
 
@@ -124,7 +120,6 @@ Exhibition and survey continues
 8. Akrosh (2003), 20 min
    Directed by Yusuf Mehta
    6:30 pm
-
 9. Ram Ke Naam \[In the Name of God] (1992), 1h 31min		
    Directed by Anand Patwardhan
    7:45 pm
