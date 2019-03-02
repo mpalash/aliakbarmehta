@@ -1,5 +1,5 @@
 ---
-title: '256~ Limitations of Liability, Mumbai Assembly'
+title: '256 ~ Limitations of Liability, Mumbai Assembly'
 parent: 256 Million Colours of Violence
 layout: 'null'
 type: solo-exhibition
