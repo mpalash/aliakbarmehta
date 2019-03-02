@@ -1,5 +1,7 @@
 ---
-title: Ballad ~ Installation Views
+title: >-
+  Ballad ~ Ballad of the War that Never Was, and Other Basterdised Myths, TAO
+  Art Gallery
 parent: 'Ballad of the War that Never Was, and Other Basterdised Myths'
 type: solo-exhibition
 pubdate: '2011'
