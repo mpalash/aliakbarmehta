@@ -8,7 +8,7 @@ type: publication
 pubdate: '2017'
 summary: >-
   To know more about the issue click
-  [here](http://rabrab.fi/RABRAB-JOURNAL-ISSUE-04-1), or to know more about Rab
-  Rab, click [here](http://rabrab.fi/)
+  [here](http://rabrab.fi/RABRAB-JOURNAL-ISSUE-04-1), or to know more about
+  RabRab Journal, click [here](http://rabrab.fi/)
 ---
 \*
