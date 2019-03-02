@@ -1,5 +1,5 @@
 ---
-title: 256 ~ Limitations of Liability at Piramal Art Foundation
+title: '256 ~ Limitations of Liability, Piramal Art Foundation'
 parent: 256 Million Colours of Violence
 type: talk
 pubdate: '2017'
