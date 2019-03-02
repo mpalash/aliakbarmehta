@@ -1,5 +1,5 @@
 ---
-title: 256 ~ TIFA Working Studios
+title: '256 ~ Assembly of Access, TIFA Working Studios'
 parent: 256 Million Colours of Violence
 type: group-exhibition
 pubdate: '2018'
