@@ -1,8 +1,8 @@
 ---
 title: >-
-  No one at the ceremony remembers to mention the artist, essay for Vidha
-  Saumya’s exhibition No one at the ceremony remembers to mention the artist,
-  Third Space, 2015
+  Published~ No one at the ceremony remembers to mention the artist, essay for
+  Vidha Saumya’s exhibition No one at the ceremony remembers to mention the
+  artist, Third Space, 2015
 parent: 'Published '
 layout: 'null'
 type: publication
