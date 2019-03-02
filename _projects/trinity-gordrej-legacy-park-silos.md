@@ -5,4 +5,4 @@ ptype: past
 hero: /assets/img/hero-image.jpg
 pcontent: []
 ---
-TRINITY is a public art project, comissioned by Godrej Pvt. Ltd., to be installed as a permanent work in the Godrej One, Vikhroli premises.
+TRINITY is a public art project, comissioned by Godrej Pvt. Ltd., and installed as a permanent work in the Godrej One, Vikhroli premises.
