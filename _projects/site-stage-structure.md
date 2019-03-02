@@ -8,7 +8,7 @@ pcontent:
   - sss ~ The Possibility of Alienation
   - 'sss ~ Artist Book #1: Performers of Mazgaon'
   - 'sss ~ Artist Book #2: Daarukhana'
-  - sss ~ Installation Views
+  - 'sss ~ SITE : STAGE : STRUCTURE, Clark House'
   - sss ~ Kwan Tai Shek Temple
   - 'sss ~ Mazgaon Interviews – Fakhruddin and Khateeja Merchant, 2014'
   - sss ~ Mathar Pacady Interviews – Uncle Martin
