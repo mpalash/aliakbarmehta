@@ -7,4 +7,4 @@ layout: 'null'
 type: publication
 pubdate: '2018'
 ---
-Images of Publication.
+//Images of Publication.
