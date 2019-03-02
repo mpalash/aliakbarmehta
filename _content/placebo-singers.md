@@ -1,5 +1,5 @@
 ---
-title: Placebo Singers
+title: Placebo~ Placebo Singers
 parent: Placebo Singers
 type: artwork
 pubdate: '2015'
