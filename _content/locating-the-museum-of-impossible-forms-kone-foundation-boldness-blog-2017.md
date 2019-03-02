@@ -1,5 +1,7 @@
 ---
-title: 'Locating: The Museum of Impossible Forms, Kone Foundation Boldness Blog, 2017'
+title: >-
+  PUB~ Locating: The Museum of Impossible Forms, Kone Foundation Boldness Blog,
+  2017
 parent: 'Published '
 layout: 'null'
 type: publication
