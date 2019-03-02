@@ -1,5 +1,5 @@
 ---
-title: 'sss ~ Installation Views'
+title: 'sss ~ SITE : STAGE : STRUCTURE, Clark House'
 parent: 'SITE : STAGE : STRUCTURE'
 type: solo-exhibition
 pubdate: '2014'
