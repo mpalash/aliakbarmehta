@@ -9,8 +9,6 @@ summary: |-
 
 
 
-  HT_256millCOV
-
   Add a single installation image
 ---
 The project is displayed in Mumbai for the first time, in 2017.
