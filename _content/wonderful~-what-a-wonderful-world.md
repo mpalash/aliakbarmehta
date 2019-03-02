@@ -1,6 +1,6 @@
 ---
 title: Wonderful~ What a Wonderful World
-parent: Unpublished Essays and text
+parent: What a wonderful World
 layout: 'null'
 type: artwork
 pubdate: '2019'
