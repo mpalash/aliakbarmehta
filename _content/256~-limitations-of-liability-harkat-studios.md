@@ -1,5 +1,5 @@
 ---
-title: '256~ Limitations of Liability, Harkat Studios'
+title: '256 ~ Limitations of Liability, Harkat Studios'
 parent: 256 Million Colours of Violence
 layout: 'null'
 type: solo-exhibition
