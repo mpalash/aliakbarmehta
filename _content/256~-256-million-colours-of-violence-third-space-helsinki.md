@@ -1,5 +1,5 @@
 ---
-title: '256~ 256 Million Colours of Violence, Third Space, Helsinki'
+title: '256 ~ 256 Million Colours of Violence, Third Space, Helsinki'
 parent: 256 Million Colours of Violence
 layout: 'null'
 type: solo-exhibition
