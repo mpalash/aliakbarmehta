@@ -1,5 +1,5 @@
 ---
-title: TRI~ Artist Statement
+title: TRINITY ~ Artist Statement
 parent: 'TRINITY: Gordrej Legacy Park Silos'
 layout: 'null'
 type: text
