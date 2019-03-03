@@ -4,7 +4,7 @@ title: Pudding Manifesto for Togetherness
 ptype: past
 pcontent:
   - Pud~ Proposal text
-  - Pud~ Installation views
+  - Pud ~ Installation views
   - 'Pud ~ Pudding Manifesto, Video'
   - Pud~  Pledge
   - Pud~ Project Report
