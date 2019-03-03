@@ -7,6 +7,8 @@ pcontent:
   - Pud~ Installation views
   - Pud~ Project Report
   - Pud~ Other Readings
+  - 'Pud ~ Pudding Manifesto, Video'
+  - Pud~  Pledge
 ---
 part of 
 
