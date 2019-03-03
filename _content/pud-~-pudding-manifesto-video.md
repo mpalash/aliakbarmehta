@@ -11,7 +11,7 @@ summary: >-
   picture-in-picture" allowfullscreen></iframe>
 
 
-  The making of the rice pudding (Riisipuuro/Kheer) is overlapped by the audio
+  The making of the rice pudding (Riisipuuro_/Kheer_) is overlapped by the audio
   of interviews of visitors to the exhibition "Refugee, Evacuee, Migrant"
   (Finnish National Museum, 2016).
 
