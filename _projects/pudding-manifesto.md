@@ -5,10 +5,10 @@ ptype: past
 pcontent:
   - Pud~ Proposal text
   - Pud~ Installation views
-  - Pud~ Project Report
-  - Pud~ Other Readings
   - 'Pud ~ Pudding Manifesto, Video'
   - Pud~  Pledge
+  - Pud~ Project Report
+  - Pud~ Other Readings
 ---
 part of 
 
