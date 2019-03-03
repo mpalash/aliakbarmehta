@@ -27,8 +27,8 @@ null.void;
 
 ![](/assets/img/kallio-performance.png)
 
-
-
 null.void; is a Transmedia Performance-lecture recitation and Research Project. It comprises a procedural audio soundscape of glitch sounds using static and radio frequencies, and a performance recitation of a comprehensive list of every war, battle, siege, sacking, revolt and revolution spanning 5014 years of human conflict and violence.
+
+
 
 \*null.void will eventually become a part of a currently-in-developement project titled 'WAR • ROOM• ECHO: Regarding the Pain of Other Cyborgs'.
