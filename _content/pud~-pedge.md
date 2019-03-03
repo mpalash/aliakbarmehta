@@ -1,5 +1,5 @@
 ---
-title: Pud~  Pedge
+title: Pud~  Pledge
 parent: Pudding Manifesto for Togetherness
 layout: 'null'
 type: artwork
