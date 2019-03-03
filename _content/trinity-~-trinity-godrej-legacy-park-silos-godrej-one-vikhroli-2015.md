@@ -7,6 +7,8 @@ pubdate: '2015'
 summary: >-
   ![](/assets/img/ali-akbar-mehta_installation-view_-ext-01_trinity-godrej_2015.jpg)
 ---
+## Past
+
 ![](/assets/img/ali-akbar-mehta_installation-view_-past-01_trinity-godrej_2015.jpg)
 
 ![](/assets/img/ali-akbar-mehta_installation-view_-past-02_trinity-godrej_2015.jpg)
@@ -29,6 +31,18 @@ summary: >-
 
 ![](/assets/img/ali-akbar-mehta_installation-view_-past-13_trinity-godrej_2015.jpg)
 
-Present:
+## Present
 
 ![](/assets/img/ali-akbar-mehta_installation-view_-present-01_trinity-godrej_2015.jpg)
+
+![](/assets/img/ali-akbar-mehta_installation-view_-present-04_trinity-godrej_2015.jpg)
+
+![](/assets/img/ali-akbar-mehta_installation-view_-present-05_trinity-godrej_2015.jpg)
+
+## Future
+
+![](/assets/img/ali-akbar-mehta_installation-view_-future-01_trinity-godrej_2015.jpg)
+
+![](/assets/img/ali-akbar-mehta_installation-view_-future-02_trinity-godrej_2015.jpg)
+
+![](/assets/img/ali-akbar-mehta_installation-view_-ext-03_trinity-godrej_2015.jpg)
