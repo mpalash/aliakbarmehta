@@ -4,11 +4,15 @@ parent: 256 Million Colours of Violence
 layout: 'null'
 type: solo-exhibition
 pubdate: '2017'
-summary: |-
+summary: >-
   ## _Exhibition and Film Screenings_
 
 
+  __
 
-  _//Single installation view_
+
+  ![](https://raw.githubusercontent.com/mpalash/aliakbarmehta/master/assets/img/256.jpg)
 ---
-//_Poster_
+
+
+![](https://raw.githubusercontent.com/mpalash/aliakbarmehta/master/assets/img/256%20Million%20Colours%20of%20Violence_%20Poster.jpg)
