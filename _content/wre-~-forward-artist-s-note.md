@@ -9,7 +9,7 @@ summary: >-
   collected during the riots.
 
 
-  The 2002 Gujarat riots, also known as the 2002 Gujarat violence and the
+  > The 2002 Gujarat riots, also known as the 2002 Gujarat violence and the
   Gujarat pogrom, was a three-day period of inter-communal violence in the
   western Indian state of Gujarat. Following the initial incident there were
   further outbreaks of violence in Ahmedabad for three weeks; statewide, there
