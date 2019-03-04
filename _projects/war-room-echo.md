@@ -5,13 +5,13 @@ ptype: ongoing
 hero: /assets/img/pispala-performance.jpg
 pcontent:
   - 'wre ~ Forward: Artist''s Note'
-  - 'wre ~ Narrating War, Kaapelitehdas'
-  - 'wre ~ null.void, Kallio Public Library'
+  - wre ~ Why is an archive of wars required?
   - wre ~ Narrating War
-  - 'wre ~ Narrating War, Museum of Impossible Forms'
+  - 'wre ~ null.void, Kallio Public Library'
   - 'wre ~ Narrating War, Pispala, Tampere'
   - 'wre ~ Narrating War, Clark House, Mumbai'
-  - wre ~ Why is an archive of wars required?
+  - 'wre ~ Narrating War, Kaapelitehdas'
+  - 'wre ~ Narrating War, Museum of Impossible Forms'
 ---
 'WAR • ROOM • ECHO: Regarding the pain of other Cyborgs' is a unique collaborative Transmedia Performance-Installation and Research Project. It is a _gesamtkunstwerk_ on the idea of war and conflict that brings together:
 
