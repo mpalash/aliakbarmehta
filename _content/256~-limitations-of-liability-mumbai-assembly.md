@@ -28,3 +28,7 @@ As a traveling project across venues, the project in its iteration at Mumbai Ass
 ## Performance and conversation with Ramneek Singh:
 
 ![](/assets/img/ramneek-singh-performance.jpg)
+
+![](/assets/img/ramneek-singh-performance-2.jpg)
+
+![](/assets/img/ramneek-and-ali-in-conversation.jpg)
