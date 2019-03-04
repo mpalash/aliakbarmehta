@@ -32,3 +32,25 @@ As a traveling project across venues, the project in its iteration at Mumbai Ass
 ![](/assets/img/ramneek-singh-performance-2.jpg)
 
 ![](/assets/img/ramneek-and-ali-in-conversation.jpg)
+
+
+
+## In conversation with Simpreet Singh:
+
+![](/assets/img/ali-akbar-mehta-and-simpreet-singh.jpg)
+
+
+
+## In conversation with Sameer Pitalwala:
+
+![](https://raw.githubusercontent.com/mpalash/aliakbarmehta/master/assets/img/17349776_10155070904842482_1079691273007613877_o.jpg)
+
+![](/assets/img/audience-2.jpg)
+
+Filling the form
+
+![](/assets/img/filling-the-form.jpg)
+
+![](/assets/img/ali-ken.jpg)
+
+![](/assets/img/colours-of-violence.png)
