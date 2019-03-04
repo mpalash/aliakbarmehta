@@ -5,7 +5,7 @@ ptype: ongoing
 hero: /assets/img/pispala-performance.jpg
 pcontent:
   - 'wre ~ Forward: Artist''s Note'
-  - wre ~ Why is an archive of wars required?
+  - wre ~  Why is an archive of wars required?
   - wre ~ Narrating War
   - 'wre ~ null.void, Kallio Public Library'
   - 'wre ~ Narrating War, Pispala, Tampere'
