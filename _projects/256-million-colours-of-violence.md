@@ -11,5 +11,8 @@ pcontent:
   - '256 ~ Limitations of Liability, Piramal Art Foundation'
   - '256 ~ Limitations of Liability, Harkat Studios'
   - '256 ~ Assembly of Access, TIFA Working Studios'
+  - >-
+    256 ~ Colours of Violence, AROOP III - Totems and Taboos, (ed.) Nancy
+    Adajania, published by Raza Foundation, New Delhi, 2018
 ---
 256 Million Colours of Violence is an interactive and participatory survey-based artistic project ([www.256millioncoloursofviolence.com](www.256millioncoloursofviolence.com)) that challenges political-religious-socio-economic quadrangle to create new visual vocabulary where participants become co-archivists. Through 77 questions on gender, race, ethnicity, privilege, social class, minimum wage, & other pressing issues, participants seek & share subliminal associations of ‘Colours of Violence’.
