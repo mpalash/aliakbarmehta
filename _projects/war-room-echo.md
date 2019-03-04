@@ -12,6 +12,11 @@ pcontent:
   - 'wre ~ Narrating War, Clark House, Mumbai'
   - 'wre ~ Narrating War, Kaapelitehdas'
   - 'wre ~ Narrating War, Museum of Impossible Forms'
+  - 'Wre ~ Narrating War, Carinarina, Nova Gorcia, 2018'
+  - >-
+    WRE ~ Narrating War, Experimental Event VI – La Torre de Babel, curated by
+    Anna Jensen and Andrea Coyotzi Borja, collateral event of Pori Film
+    Festival, 2018
 ---
 'WAR • ROOM • ECHO: Regarding the pain of other Cyborgs' is a unique collaborative Transmedia Performance-Installation and Research Project. It is a _gesamtkunstwerk_ on the idea of war and conflict that brings together:
 
