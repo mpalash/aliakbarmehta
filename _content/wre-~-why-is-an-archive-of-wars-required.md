@@ -14,15 +14,17 @@ summary: >-
 
   __
 ---
-**Intervention to update existing War Studies: **
+**Intervention to update existing War Studies:** 
 
-**“The United Nations defines "major wars" as military conflicts inflicting 1,000 battlefield deaths per year. In 1965, there were 10 major wars under way. The new millennium began with much of the world consumed in armed conflict or cultivating an uncertain peace. As of mid-2005, there were eight Major Wars under way \[down from 15 at the end of 2003], with as many as two dozen "lesser" conflicts ongoing with varying degrees of intensity. Most of these are civil or "intrastate" wars, fueled as much by racial, ethnic, or religious animosities as by ideological fervor. Most victims are civilians, a feature that distinguishes modern conflicts.”  **
+> **“The United Nations defines "major wars" as military conflicts inflicting 1,000 battlefield deaths per year. In 1965, there were 10 major wars under way. The new millennium began with much of the world consumed in armed conflict or cultivating an uncertain peace. As of mid-2005, there were eight Major Wars under way \[down from 15 at the end of 2003], with as many as two dozen "lesser" conflicts ongoing with varying degrees of intensity. Most of these are civil or "intrastate" wars, fueled as much by racial, ethnic, or religious animosities as by ideological fervor. Most victims are civilians, a feature that distinguishes modern conflicts.”**
+>
+>   
 
 Currently, over 50 current engagements exist across the globe that could be considered wars or conflicts within ongoing wars.
 
-Although wars in human history have been extensively documented and analysed, investigated and deconstructed; they are often done through a western lens, thereby invisibalising histories of conflict in non-western regions, except when citing western involvement and/or interest. These histories of non-western states are considered as being secondary in the global context, as evidenced by publications such as ‘A Dictionary of War’, by George Childs Kohn, (2006). The book, considered ‘an authoritative source’ regarding war studies and reference, contains only 1,500 entries of ‘notable wars’. As an encyclopaedic compendium, such a publication is unavoidably incomplete. The project lists 5600 conflicts (incomplete), and 31 active conflicts in the world today.
+Although wars in human history have been extensively documented and analysed, investigated and deconstructed; they are often done through a western lens, thereby invisibalising histories of conflict in non-western regions, except when citing western involvement and/or interest. These histories of non-western states are considered as being secondary in the global context, as evidenced by publications such as ‘A Dictionary of War’, by George Childs Kohn, (2006). The book, considered ‘an authoritative source’ regarding war studies and reference, contains only 1,500 entries of ‘notable wars’. As an encyclopedic compendium, such a publication is unavoidably incomplete. The project lists 5600 conflicts (incomplete), and 31 active conflicts in the world today.
 
-**Decolonising education through alternate pedagogy: **
+**Decolonising education through alternate pedagogy:** 
 
 Educational institutions such as schools, colleges and universities further perpetuate these fragmented and misinformed histories when choosing to focus on local histories and briefly touching upon a selected global history, often in the forms of ‘the top 5 revolutions in the world’ or ‘the 50 most violent wars’. This sensationalised and abridged history often creates the myth that the history of wars is not so bad, and/or that there weren’t too many of them . Similarly, War and conflict Museums all over the world choose to recite only a piece of the narrative, and therefore fall back into the rigour mortis of regionalised telling of history, where each excludes itself from an interconnected network of information. 
 
