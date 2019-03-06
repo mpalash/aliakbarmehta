@@ -55,9 +55,9 @@ New Frontiers: Critical inquiries for archives as Artistic Praxis
 
 ## Performance
 
-_(upcoming)_ **Narrating War**_,_ Vilniaus City Museum, Vilniaus, 2019
+_(upcoming)_ **Narrating War**_,_ Vilnius City Museum, Vilnius, 2019
 
-**Narrating War**, Experimental Event VI, curated by Anna Jensen and Andrea Coyotzi Borja, a collateral event of Pori Film Festical, Pori, 2018
+**Narrating War**, Experimental Event VI, curated by Anna Jensen and Andrea Coyotzi Borja, a collateral event of Pori Film Festival, Pori, 2018
 
 **Narrating War**, Carincarina, Nova Gorica, 2018
 
@@ -201,7 +201,7 @@ _(upcoming_) **To Not Wait for the Archive**, Visual Culture and Contemporary Ar
 
 **FOOD and Other Practices at the Arthouse**, Visual Culture and Contemporary Art Journal #4, (ed.) Ali akbar Mehta and Vidha Saumya, Published by Aalto University, Espoo, 2018
 
-****[**Locating: The Museum of Impossible Forms**](https://koneensaatio.fi/en/museum-of-impossible-forms/), Kone Foundation Boldness Blog, Helsinki, 2017
+\***\*[**Locating: The Museum of Impossible Forms\*\*](https://koneensaatio.fi/en/museum-of-impossible-forms/), Kone Foundation Boldness Blog, Helsinki, 2017
 
 **Border Crossing: Reshaping the Agency of Struggle**, interview with Ranjit Hoskote, CuMMA Papers publication series, (ed.) Nora Sternfeld, Helsinki, 2017
 
@@ -225,9 +225,9 @@ _(upcoming_) **To Not Wait for the Archive**, Visual Culture and Contemporary Ar
 
 ## Teaching
 
-Guest lecturer, ‘**Archiving: Histories of the Present**’ at Visual Culture and Contemporary Art (ViCCA), Aalto University, Helsinki, 2018
+Guest lecturer, ‘**Archiving: Histories of the Present**’, Visual Culture and Contemporary Art (ViCCA), Aalto University, Helsinki, 2018
 
-Guest Lecturer at Whistling Woods International Institute of Film, communication and Media Arts, 2014 – 2015
+Guest Lecturer, Whistling Woods International Institute of Film, communication and Media Arts, 2014 – 2015
 
 Regularly conducting drawing and painting workshops as part of various NGO activities and schools (for children of 10 to 15 years) Teach India, Dear Imagination, The Oberoi International IB School, 2011 ­– 2013
 
@@ -243,26 +243,26 @@ _Founder Member,_ D/func.t Collective, Helsinki, 2016 ­– present
 
 _Communication Assistant,_ Visual Culture and Contemporary Art (ViCCA), Aalto University, Helsinki, 2016 – 2017
 
-_Post Production_ and _animation,_ **_Arab Strings_**, a performance video by artist Jowan Safadi (Palestine), 2016
+_Post Production_ and _animation,_ _**Arab Strings**_, a performance video by artist Jowan Safadi (Palestine), 2016
 
 _Post Production_, ‘#7: Greed’ short film, 2015
 
-_Co-conceived and Head of Post Production,_ _**Relics of Eden**_, a short fictional film by COMPOSITE Films, 2014 ­
+_Co-conceived and Head of Post Production,_ **_Relics of Eden_**, a short fictional film by COMPOSITE Films, 2014 ­
 
-_Head of Post Production_, **_What a Wonderful World_**, an independently produced post-apocalyptic themed experimental video, 2014
+_Head of Post Production_, _**What a Wonderful World**_, an independently produced post-apocalyptic themed experimental video, 2014
 
 _Freelance Artist and Character Designer, **TUMBAD**_, feature-length live-action film produced by Recyclewala Films, 2013 ­– 2014
 
-_Consulting head of Post Production and freelance Artist,_ for **_various Digital content projects_** by COMPOSITE Films(QuickHeal Antivirus, La15 Patisserie, Fizzy foods, and KNM Airlines), 2012 – 2016
+_Consulting head of Post Production and freelance Artist,_ for _**various Digital content projects**_ by COMPOSITE Films(QuickHeal Antivirus, La15 Patisserie, Fizzy foods, and KNM Airlines), 2012 – 2016
 
-_Creative Director and Head of Post Production,_ _**Luminous Matter**_, a stop-motion animated short film by COMPOSITE Films, 2011 – 2013
+_Creative Director and Head of Post Production,_ **_Luminous Matter_**, a stop-motion animated short film by COMPOSITE Films, 2011 – 2013
 
 Screened at Austria Film Festival 2013, Jaipur Film Festival, 2013, Leeds Film Festival, 2012, DIGICON Tokyo, 2012, FICCI Frames, Mumbai 2012
 
-_Co ­­­­­– ­founder, Lead Animator and artist,_ _**Mareech Animated Design**_, an animation studio specializing in 3D animation and Visual Effects for Film and Television, 2002 – 2007
+_Co ­­­­­– ­founder, Lead Animator and artist,_ **_Mareech Animated Design_**, an animation studio specializing in 3D animation and Visual Effects for Film and Television, 2002 – 2007
 
-Co-written and performed, **_Aham: What’s going on?_**, a full-length play performed at Prithvi Theatre, Mumbai, 2004 – 2006
+Co-written and performed, _**Aham: What’s going on?**_, a full-length play performed at Prithvi Theatre, Mumbai, 2004 – 2006
 
 Graduated from Sir J.J. School of (Fine) Art, 2005
 
-Directed and edited, _**Untitled**_, a documentary short film on Sir J.J. School of Art, 2004
+Directed and edited, **_Untitled_**, a documentary short film on Sir J.J. School of Art, 2004
