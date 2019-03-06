@@ -16,13 +16,13 @@ pcontent:
   - sss ~ Mathar Pacady Interviews – Mr. Julius Valladares
   - sss ~ Mathar Pacady Interviews – Aunty Tessi
   - sss ~ Interview
-  - sss ~ *Landmarks
   - sss ~ Paintings
-  - sss ~ A select History of Mumbai
   - 'sss ~ Odes and Inquisitions: Sino-Indian Connections in Recent Indian Art'
   - >-
     sss ~ FOLKARCHIVE: Ali Akbar Mehta in Conversation with Sumesh Sharma,
     moderated by Latika Gupta, Bhau Daji Lad
+  - sss ~ A select History of Mumbai
+  - sss ~ *Landmarks
   - sss ~ The Chinese in Mumbai
   - sss ~ The Origin of Kwan Yin or Miao Shan
   - sss ~ Shrikrishna Report
