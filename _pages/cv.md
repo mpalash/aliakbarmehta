@@ -77,6 +77,8 @@ _(upcoming)_ **Narrating War**_,_ Vilniaus City Museum, Vilniaus, 2019
 
 ## Artist Talks
 
+**Re:Musing the Museum, Part II**, Kiasma International Museum, Helsinki, 2018
+
 **Cyber Archives**, Die Schule der Archaeutopie in conversation with Ali Akbar Mehta, Universität für angewandte Kunst Wien, Vienna, 2018
 
 **Archiving: Histories of the Present**, guest lecture, Visual Cultures, Curating and Contemporary Art (ViCCA), Aalto University, Helsinki
@@ -111,6 +113,8 @@ _(upcoming)_ **Narrating War**_,_ Vilniaus City Museum, Vilniaus, 2019
 
 ## Select Group Exhibitions
 
+_(upcoming)_ **DirectKontact**, Pixelache Festival, Helsinki, 2019
+
 **No Corners**, TAO Art Gallery, Mumbai, 2018
 
 **Assembly of Access**, TIFA, Pune, 2018
@@ -126,6 +130,8 @@ _(upcoming)_ **Narrating War**_,_ Vilniaus City Museum, Vilniaus, 2019
 **Space Invaders IV: Heterotopia**, Espoo, 2016
 
 **SOAK**, D/func.t, Helsinki, 2016
+
+**\*Whose History is it anyway?**, Aalto University, Espoo, 2016
 
 **Cisspace: Construct(ed.)**, Otaniemi Recycling Center, Espoo, 2015
 
@@ -183,23 +189,27 @@ _(upcoming)_ **Narrating War**_,_ Vilniaus City Museum, Vilniaus, 2019
 
 ## Publication and Text
 
-(upcoming) **To Not Wait for the Archive**, Visual Culture and Contemporary Art Journal #5, (ed.) Saara Mehbouba, Paola Jallili and Else Lagerspetz, published by Aalto University, Helsinki 2018
+_(upcoming_) **To Not Wait for the Archive**, Visual Culture and Contemporary Art Journal #5, (ed.) Saara Mehbouba, Paola Jallili and Else Lagerspetz, published by Aalto University, Helsinki 2018
 
-**Colours of Violence**, AROOP Journal, (ed.) Nancy Adajania, published by Raza Foundation, New Delhi, 2018
+**Colours of Violence**, AROOP: Totems and Taboos, volume 3, (ed.) Nancy Adajania, published by Raza Foundation, New Delhi, 2018
 
-**Cyber Archive: Archiving as a sustainable counter-hegemonic practice**, Hakara Journal, (ed.) Ashutosh Poddar and Noopur Desai, 2018
+**Cyber Archive: Archiving as a sustainable counter-hegemonic practice**, Hakara Journal: _Form / Play_, edition 06, (ed.) Ashutosh Poddar and Noopur Desai, Pune, 2018
 
-**Cyber Archive: Being and Doing Knowledge**, Aalto University, 2018
+**Cyber Archive: Being and Doing Knowledge**, Aalto University, Espoo, 2018
+
+**FOOD and Other Practices at the Arthouse**, Visual Culture and Contemporary Art Journal #4, Published by Aalto University, Espoo, 2018
+
+**Locating: The Museum of Impossible Forms**, Kone Foundation Boldness Blog, Helsinki, 2017
 
 **Border Crossing: Reshaping the Agency of Struggle**, interview with Ranjit Hoskote, CuMMA Papers publication series, (ed.) Nora Sternfeld, Helsinki, 2017
 
-**The Photons of Politics: Footnotes for a New History**, RAB-RAB Journal for Political and Formal Inquiries in Art, (ed.) Sezgin Boynik, 2017
+**The Photons of Politics: Footnotes for a New History**, RAB-RAB Journal for Political and Formal Inquiries in Art, issue#4.01, (ed.) Sezgin Boynik, Helsinki, 2017
 
-**No one at the ceremony remembers to mention the artist**, Essay for Exhibition _No one at the ceremony remembers to mention the artist_, Third Space, 2015
+**No one at the ceremony remembers to mention the artist**, Essay for Exhibition _No one at the ceremony remembers to mention the artist_, Third Space, Helsinki, 2015
 
 **Site: Stage: Structure**, suite of 17 Accordion fold and 3 artist photo-books, self-published, Mumbai, 2014
 
-**A body split in two**, International Gallerie, Journal of Contemporary art, issue 30, 2011
+**A body split in two**, International Gallerie, Journal of Contemporary art, issue 30, (ed.) Bina Sarkar Ellias, Mumbai, 2011
 
 \*
 
