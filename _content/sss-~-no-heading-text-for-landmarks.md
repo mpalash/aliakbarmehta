@@ -1,5 +1,5 @@
 ---
-title: 'sss ~ (no heading) text for landmarks'
+title: sss ~ *Landmarks
 parent: 'SITE : STAGE : STRUCTURE'
 type: resource
 pubdate: '2014'
