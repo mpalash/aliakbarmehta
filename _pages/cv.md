@@ -39,15 +39,17 @@ BFA (Painting), Sir J.J. School of Art, Mumbai, 2005
 
 ## Current Projects
 
-Outsider at Work
+Outsiders at Work (www.outsidersatwork.wordpress.com)
 
-256 Million Colours of Violence
+256 Million Colours of Violence (www.256millioncoloursofviolence.com)
 
-WAR • ROOM • ECHO – Regarding the Pain of Other Cyborgs
+WAR • ROOM • ECHO :: Regarding the Pain of Other Cyborgs
 
-Contemporary Ruins of Kruunuvuori – The Perfect Ghosts of Helsinki
+Contemporary Ruins of Kruunuvuori: The Perfect Ghosts of Helsinki
 
 Cyber Archive: Being and Doing Knowledge
+
+New Frontiers: Critical inquiries for archives as Artistic Praxis
 
 \*
 
@@ -233,34 +235,34 @@ Regularly conducting drawing and painting workshops as part of various NGO activ
 
 ## Other work Experience
 
-Founder Member of Museum of Impossible Forms, Helsinki, 2016 – present
+_Founder Member,_  Museum of Impossible Forms, Helsinki, 2016 – present
 
-Member of Third Space Collective, Helsinki, 2016 ­– 2017
+_Member,_ Third Space Collective, Helsinki, 2016 ­– 2017
 
-Founder Member of D/func.t Collective, Helsinki, 2016 ­– present
+_Founder Member,_ D/func.t Collective, Helsinki, 2016 ­– present
 
-Communication Assistant for Visual Culture and Contemporary Art (ViCCA), Aalto University, Helsinki, 2016 – 2017
+_Communication Assistant,_ Visual Culture and Contemporary Art (ViCCA), Aalto University, Helsinki, 2016 – 2017
 
-Post Production and animation for Arab Strings, a performance video by artist Jowan Safadi (Palestine), 2016
+_Post Production_ and _animation,_ **_Arab Strings_**, a performance video by artist Jowan Safadi (Palestine), 2016
 
-Post Production for ‘#7: Greed’ short film, 2015
+_Post Production_, ‘#7: Greed’ short film, 2015
 
-Co-conceived and Head of Post Production with COMPOSITE Films for Relics of Eden, a short fictional film, 2014 ­– present
+_Co-conceived and Head of Post Production,_ _**Relics of Eden**_, a short fictional film by COMPOSITE Films, 2014 ­
 
-Head of Post Production for What a Wonderful World, an independently produced post-apocalyptic themed experimental video, 2014
+_Head of Post Production_, **_What a Wonderful World_**, an independently produced post-apocalyptic themed experimental video, 2014
 
-Freelance Artist and Character Designer working with Recyclewala Films for TUMBAD, feature-length live-action film, 2013 ­– 2014
+_Freelance Artist and Character Designer, **TUMBAD**_, feature-length live-action film produced by Recyclewala Films, 2013 ­– 2014
 
-Consulting head of Post Production and freelance Artist for COMPOSITE Films, working on various Digital content projects (QuickHeal Antivirus, La15 Patisserie, Fizzy foods, and KNM Airlines), 2012 – 2016
+_Consulting head of Post Production and freelance Artist,_ for **_various Digital content projects_** by COMPOSITE Films(QuickHeal Antivirus, La15 Patisserie, Fizzy foods, and KNM Airlines), 2012 – 2016
 
-Creative Director and Head of Post Production with COMPOSITE Films for Luminous Matter, a stop-motion animated short film, 2011 – 2013
+_Creative Director and Head of Post Production,_ _**Luminous Matter**_, a stop-motion animated short film by COMPOSITE Films, 2011 – 2013
 
 Screened at Austria Film Festival 2013, Jaipur Film Festival, 2013, Leeds Film Festival, 2012, DIGICON Tokyo, 2012, FICCI Frames, Mumbai 2012
 
-Co ­­­­­– ­founder, Lead Animator and artist at Mareech Animated Design, an animation studio specializing in 3D animation and Visual Effects for Film and Television, 2002 – 2007
+_Co ­­­­­– ­founder, Lead Animator and artist,_ _**Mareech Animated Design**_, an animation studio specializing in 3D animation and Visual Effects for Film and Television, 2002 – 2007
 
-Co-written and performed, Aham: What’s going on?, a full-length play performed at Prithvi Theatre, Mumbai, 2004 – 2006
+Co-written and performed, **_Aham: What’s going on?_**, a full-length play performed at Prithvi Theatre, Mumbai, 2004 – 2006
 
 Graduated from Sir J.J. School of (Fine) Art, 2005
 
-Directed and edited, Untitled, documentary short film on Sir J.J. School of Art, 2004
+Directed and edited, _**Untitled**_, a documentary short film on Sir J.J. School of Art, 2004
