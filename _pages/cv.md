@@ -111,6 +111,8 @@ _(upcoming)_ **Narrating War**_,_ Vilniaus City Museum, Vilniaus, 2019
 
 ## Select Group Exhibitions
 
+**No Corners**, TAO Art Gallery, Mumbai, 2018
+
 **Assembly of Access**, TIFA, Pune, 2018
 
 **OUT 2**, Research Pavilion: The Utopia of Access, Venice Biennale, Venice, 2017
