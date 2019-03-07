@@ -1,32 +1,19 @@
 ---
-title: 'UPT~ The Inescapable Manifest Destiny of the Artworld Culture:'
-parent: Unpublished Essays and text
-layout: 'null'
-type: publication
+layout: content
+title: 'The Inescapable Manifest Destiny of the Artworld Culture:'
+layout: content
+tag: unpublished
 pubdate: '2016'
-summary: >-
-  ## Defining Art through the state of the Artworld today 
-
-
-  In the theoretical once upon a time, and probably the actual one, everyone (or
-  at least most) read about art. Everyone went to the theater. Everyone knew the
-  composer of the day. Everyone discussed the arts and everyone loved them.
-
-
-  Then the 20th century happened. In the words of composer and critic Theodor
-  Adorno, “New music has taken upon itself all of the darkness and guilt of the
-  world.” Sure he was referring to music but the assertion could just as easily
-  be broadened to include the entire world of art. European and American artists
-  and composers and writers in the early 20th century saw violence like the
-  world hadn’t seen for hundreds of years. The manifold amount of changes
-  wrought by technology and innovation in fin de siècle Europe and America meant
-  nothing about life before would ever be the same. Then World War One and World
-  War Two turned the world completely upside down. How could we go back to the
-  way the world was before? The answer was that we couldn’t.
-
-
-  Modernism was here.
 ---
+## Defining Art through the state of the Artworld today
+
+In the theoretical once upon a time, and probably the actual one, everyone (or at least most) read about art. Everyone went to the theater. Everyone knew the composer of the day. Everyone discussed the arts and everyone loved them.
+
+
+Then the 20th century happened. In the words of composer and critic Theodor Adorno, “New music has taken upon itself all of the darkness and guilt of the world.” Sure he was referring to music but the assertion could just as easily be broadened to include the entire world of art. European and American artists and composers and writers in the early 20th century saw violence like the world hadn’t seen for hundreds of years. The manifold amount of changes wrought by technology and innovation in fin de siècle Europe and America meant nothing about life before would ever be the same. Then World War One and World War Two turned the world completely upside down. How could we go back to the way the world was before? The answer was that we couldn’t.
+
+Modernism was here.
+
 This sense of unease and uncertainty about the future and growing economic disparity, complicated by death on an unforeseen scale, inevitably made its way into the art world with dramatic results. “Everything purely aesthetic has no cultural value,” philosopher Otto Weininger once said, more or less capturing the zeitgeist of art in the early 20th century.The bourgeois worship of art, in the words of Alex Ross, turned modern artists away from aesthetics at the same time as it “made possible the extremes of modern art.”
 
 Artists were infallible, as they had been for many years, but all of a sudden artists began increasingly isolating themselves. Adamantly rejecting the tastes of the masses, their creations became more and more difficult, almost impossible for most people to understand, but we were more or less forced to accept them. The incomprehensibility of life demanded nothing less.
@@ -37,7 +24,7 @@ We have witnessed the period in the history of art during which the art market b
 
 
 
-The contemporary art world is a loose network of over lapping subcultures held together by a belief in art. They span the globe but cluster in art capitals such as New York, London, Los Angeles, and Berlin. Vibrant art communities can be found in places like Glasgow, Vancouver, and Milan, but they are hinterlands to the extent that the artists working in them have often made an active choice to stay there. Still, the art world is more polycentric than it was in the twentieth century, when Paris, then New York held sway. 
+The contemporary art world is a loose network of over lapping subcultures held together by a belief in art. They span the globe but cluster in art capitals such as New York, London, Los Angeles, and Berlin. Vibrant art communities can be found in places like Glasgow, Vancouver, and Milan, but they are hinterlands to the extent that the artists working in them have often made an active choice to stay there. Still, the art world is more polycentric than it was in the twentieth century, when Paris, then New York held sway.
 
 
 
@@ -45,7 +32,7 @@ Art world insiders tend to play one of six distinct roles: artist, dealer, curat
 
 
 
-It’s important to bear in mind that the art world is much broader than the art market. The market refers to the people who buy and sell works (that is, dealers, collectors, auction-houses), but many art world players (the critics, curators, and artists themselves) are not directly involved in this commercial activity on a regular basis. 
+It’s important to bear in mind that the art world is much broader than the art market. The market refers to the people who buy and sell works (that is, dealers, collectors, auction-houses), but many art world players (the critics, curators, and artists themselves) are not directly involved in this commercial activity on a regular basis.
 
 
 
@@ -53,7 +40,7 @@ The art market operates in an economic model that considers more than supply and
 
 
 
-The art world is a sphere where many people don't just work but reside full-time. It's a "symbolic economy" where people swap thoughts and where cultural worth is debated rather than determined by brute wealth. Although the art world is frequently characterized as a class-less scene where artists from lower -middle-class backgrounds drink champagne with high-priced hedge-fund managers, scholarly curators, fashion designers, and other "creatives," you'd be mistaken if you thought this world was egalitarian or democratic. Art is about experimenting and ideas, but it has also become about excellence and exclusion. In a society where everyone is looking for a little distinction, it can be an intoxicating combination. 
+The art world is a sphere where many people don't just work but reside full-time. It's a "symbolic economy" where people swap thoughts and where cultural worth is debated rather than determined by brute wealth. Although the art world is frequently characterized as a class-less scene where artists from lower -middle-class backgrounds drink champagne with high-priced hedge-fund managers, scholarly curators, fashion designers, and other "creatives," you'd be mistaken if you thought this world was egalitarian or democratic. Art is about experimenting and ideas, but it has also become about excellence and exclusion. In a society where everyone is looking for a little distinction, it can be an intoxicating combination.
 
 
 
@@ -69,7 +56,7 @@ We are more educated than before, and we have developed appetites for more cultu
 
 
 
-Ironically, another reason why art gained in popularity is that it became so expensive, or continues to become increasingly expensive. The art market aided by PR and the media, have positioned the work of Art as a luxury good and a status symbol. In its own ‘Art Boom’ in 2002, India saw the shift away from the collector and the rise of the ‘Investor’, who bought works for the sheer projected value of the work in terms of investments and returns for fixed periods of time. India’s premier Art Fair, The India Art Fair, launched in 2008, saw several hedge fund directors, investors and other key players in its inaugural year. In 2011, the Ministry of Culture declared the India Art Fair a “temporary museum” in order to promote the art market.  Certainly people who don’t just collect but stockpile art has grown from hundreds to thousands in the last decade. They are positioned as solid assets that won't melt into air. Auction houses have also courted people who might previously have felt excluded from buying art. And their visible promise of resale engendered the idea that contemporary art is a good investment and brought "greater liquidity" to the market. 
+Ironically, another reason why art gained in popularity is that it became so expensive, or continues to become increasingly expensive. The art market aided by PR and the media, have positioned the work of Art as a luxury good and a status symbol. In its own ‘Art Boom’ in 2002, India saw the shift away from the collector and the rise of the ‘Investor’, who bought works for the sheer projected value of the work in terms of investments and returns for fixed periods of time. India’s premier Art Fair, The India Art Fair, launched in 2008, saw several hedge fund directors, investors and other key players in its inaugural year. In 2011, the Ministry of Culture declared the India Art Fair a “temporary museum” in order to promote the art market.  Certainly people who don’t just collect but stockpile art has grown from hundreds to thousands in the last decade. They are positioned as solid assets that won't melt into air. Auction houses have also courted people who might previously have felt excluded from buying art. And their visible promise of resale engendered the idea that contemporary art is a good investment and brought "greater liquidity" to the market.
 
 
 
@@ -79,11 +66,11 @@ If the Art world shared one principle, it would probably be that nothing is more
 
 In the context of George Dickie’s definition of Art in The Art Circle (1997):
 
-“A work of art is an artifact of a kind to be presented to an art world public. An artist is a person who participates with understanding in the making of a work of art. A public is a set of persons the members of which are prepared in some degree to understand an object which is presented to them.” it is also important to explore other roles, of key players and institutions, old and new, with a new lens. Now more than ever, when work by living artists accounts for a larger part of the curriculum, it is worth understanding art’s first contexts and he valuation processes it undergoes between the studio and its arrival in the permanent collection of a museum (or the dumpster, or any one of a vast range of intermediate locations). As curator Robert Storr said, "The function of museums is to make art worthless again. They take the work out of the market and put it in a place where it becomes part of the common wealth." Great works do not just arise; they are made—not just by artists and their assistants but also by the dealers, curators, critics, and collectors who "support" the work. This is not to say that art isn't great or that the art that makes it into the museum doesn't deserve to be there. Not at all. It's just that collective belief is neither as simple nor as mysterious as one might imagine. 
+“A work of art is an artifact of a kind to be presented to an art world public. An artist is a person who participates with understanding in the making of a work of art. A public is a set of persons the members of which are prepared in some degree to understand an object which is presented to them.” it is also important to explore other roles, of key players and institutions, old and new, with a new lens. Now more than ever, when work by living artists accounts for a larger part of the curriculum, it is worth understanding art’s first contexts and he valuation processes it undergoes between the studio and its arrival in the permanent collection of a museum (or the dumpster, or any one of a vast range of intermediate locations). As curator Robert Storr said, "The function of museums is to make art worthless again. They take the work out of the market and put it in a place where it becomes part of the common wealth." Great works do not just arise; they are made—not just by artists and their assistants but also by the dealers, curators, critics, and collectors who "support" the work. This is not to say that art isn't great or that the art that makes it into the museum doesn't deserve to be there. Not at all. It's just that collective belief is neither as simple nor as mysterious as one might imagine.
 
-The Auction house and the Art School are traditional institutions; marking in a sense the Birth and death of the Artist and his/her art. Auctions tend to be artist-free zones, which act as an end point—some say a morgue—for works of art. By contrast, the Art school is an incubator of sorts, where students transform themselves into artists and learn the vocabulary of their trade. The speed and wealth of the auction room couldn't be further away from the thoughtful, low-budget life of the art school, but they are both crucial to understanding how this world works. 
+The Auction house and the Art School are traditional institutions; marking in a sense the Birth and death of the Artist and his/her art. Auctions tend to be artist-free zones, which act as an end point—some say a morgue—for works of art. By contrast, the Art school is an incubator of sorts, where students transform themselves into artists and learn the vocabulary of their trade. The speed and wealth of the auction room couldn't be further away from the thoughtful, low-budget life of the art school, but they are both crucial to understanding how this world works.
 
-"The Fair" and "The Studio Visit" are relatively new institutions and have an oppositional rapport; one is about consumption, the other production. Whereas the studio is an optimal place for understanding the work of a single artist, an art fair is a swanky trade show where the crowds and the congested display of works make it difficult to concentrate on any particular work. 
+"The Fair" and "The Studio Visit" are relatively new institutions and have an oppositional rapport; one is about consumption, the other production. Whereas the studio is an optimal place for understanding the work of a single artist, an art fair is a swanky trade show where the crowds and the congested display of works make it difficult to concentrate on any particular work.
 
 The art world is not a "system" or smooth-functioning machine but rather a conflicted cluster of subcultures—each of which embraces different definitions of art. For the Auction House, art is positioned principally as an investment and luxury good. For the critic, writer and curator, it is an intellectual endeavor, lifestyle, and occupation. “The Fair" presents it as a fetish and leisure activity—a slightly different commodity to that seen at the auction. Art is a museum attraction, media story, and evidence of an artist's worth; art is an excuse for words; it's something to debate and promote; art is an alibi for networking, an international curiosity, and, most importantly, the chief ingredient in a good show.
 

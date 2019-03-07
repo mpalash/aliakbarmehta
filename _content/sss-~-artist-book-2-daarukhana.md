@@ -1,7 +1,8 @@
 ---
+layout: content
 title: 'sss ~ Artist Book #2: Daarukhana'
 parent: 'SITE : STAGE : STRUCTURE'
-type: artwork
+tag: artwork
 pubdate: '2014'
 summary: '![null](/assets/img/slide15.jpg)'
 ---

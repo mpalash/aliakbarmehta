@@ -1,8 +1,9 @@
 ---
+layout: content
 title: Pud ~ Installation views
 parent: Pudding Manifesto for Togetherness
-layout: 'null'
-type: group-exhibition
+layout: content
+tag: group-exhibition
 pubdate: '2016'
 summary: >-
   ![](https://raw.githubusercontent.com/mpalash/aliakbarmehta/master/assets/img/pudding-manifesto_installation-view-cropped_2016.jpg)

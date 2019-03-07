@@ -1,9 +1,9 @@
 ---
-layout: project
+layout: content
 title: 'TRINITY: Gordrej Legacy Park Silos'
-ptype: past
+tag: "past project"
 hero: /assets/img/hero-image.jpg
-pcontent:
+children:
   - TRI~ Artist Statement
   - 'TRINITY ~ TRINITY: Godrej Legacy Park silos, Godrej One, Vikhroli, 2015'
 ---

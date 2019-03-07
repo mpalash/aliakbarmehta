@@ -1,8 +1,9 @@
 ---
+layout: content
 title: Pud~ Project Report
 parent: Pudding Manifesto for Togetherness
-layout: 'null'
-type: resource
+layout: content
+tag: resource
 pubdate: '2019'
 summary: >-
   What is questioned:

@@ -1,7 +1,8 @@
 ---
+layout: content
 title: poems ~ Dream II
 parent: Poems
-type: text
+tag: text
 pubdate: '2009'
 ---
 Passing a herd of flying baby pink elephants,

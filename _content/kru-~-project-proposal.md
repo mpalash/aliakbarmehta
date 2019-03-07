@@ -1,8 +1,9 @@
 ---
+layout: content
 title: Kru ~ Project proposal
 parent: 'Contemporary Ruins of Kruunuvuori:  The Perfect Ghosts of Helsinki'
-layout: 'null'
-type: text
+layout: content
+tag: text
 pubdate: '2016'
 summary: >-
   Contemporary Ruins of Kruunuvuori is a ‘Visual Anthropology Research Project’

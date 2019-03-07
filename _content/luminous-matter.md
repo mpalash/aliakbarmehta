@@ -1,9 +1,9 @@
 ---
-layout: project
+layout: content
 title: Luminous Matter
-ptype: past
+tag: "past project"
 hero: /assets/img/lm1-large.jpg
-pcontent:
+children:
   - LM ~ Prelude to Luminous Matter (Animated)
   - 'LM ~ Luminous Matter, Animated Short'
   - LM ~ Press Kit

@@ -1,7 +1,8 @@
 ---
+layout: content
 title: poems ~ Transition
 parent: Poems
-type: text
+tag: text
 pubdate: '2004'
 ---
 The End

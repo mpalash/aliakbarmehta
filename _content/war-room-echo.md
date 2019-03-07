@@ -1,9 +1,9 @@
 ---
-layout: project
+layout: content
 title: 'WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs'
-ptype: ongoing
+tag: "ongoing project"
 hero: /assets/img/pispala-performance.jpg
-pcontent:
+children:
   - 'wre ~ Forward: Artist''s Note'
   - wre ~  Why is an archive of wars required?
   - wre ~ Narrating War

@@ -1,7 +1,8 @@
 ---
+layout: content
 title: 'SI ~ Congratulations, the Space is invaded: Now What?'
 parent: Space Invader VI – Living Together
-type: talk
+tag: talk
 pubdate: '2018'
 summary: '<https://www.facebook.com/vidha.saumya/videos/10156306353767482/>'
 ---

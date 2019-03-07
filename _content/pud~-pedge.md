@@ -1,8 +1,9 @@
 ---
+layout: content
 title: Pud~  Pledge
 parent: Pudding Manifesto for Togetherness
-layout: 'null'
-type: artwork
+layout: content
+tag: artwork
 pubdate: '2016'
 summary: >-
   <iframe width="560" height="315"

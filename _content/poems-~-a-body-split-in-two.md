@@ -1,7 +1,8 @@
 ---
+layout: content
 title: poems ~ A body split in two
 parent: Poems
-type: text
+tag: text
 pubdate: '2010'
 ---
 A Body split in two, not mine anymore

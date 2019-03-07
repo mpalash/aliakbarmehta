@@ -1,7 +1,8 @@
 ---
+layout: content
 title: Ballad ~ The Harlequin Series
 parent: 'Ballad of the War that Never Was, and Other Basterdised Myths'
-type: artwork
+tag: artwork
 pubdate: '2011'
 ---
 ![](/assets/img/Ali Akbar Mehta_Harlequin Series; To Glory in Self, like some kind of New Monster, 2010, Archival print on Hahnemuhle paper, 182 x 121 cm.jpg)

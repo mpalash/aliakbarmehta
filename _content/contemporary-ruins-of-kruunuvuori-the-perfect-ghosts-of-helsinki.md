@@ -1,10 +1,10 @@
 ---
-layout: project
+layout: content
 title: 'Contemporary Ruins of Kruunuvuori:  The Perfect Ghosts of Helsinki'
-ptype: ongoing
+tag: "ongoing project"
 hero: >-
   https://raw.githubusercontent.com/mpalash/aliakbarmehta/master/assets/img/symbiosis-image.jpg
-pcontent:
+children:
   - Kru~ Perfect Ghosts
   - Kru ~ Project proposal
 ---

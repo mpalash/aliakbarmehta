@@ -1,8 +1,9 @@
 ---
+layout: content
 title: TRINITY ~ Artist Statement
 parent: 'TRINITY: Gordrej Legacy Park Silos'
-layout: 'null'
-type: text
+layout: content
+tag: text
 pubdate: '2019'
 summary: >-
   An exhibition is always an act of placing artworks and understanding the

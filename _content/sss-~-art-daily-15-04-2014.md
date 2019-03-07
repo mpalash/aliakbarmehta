@@ -1,8 +1,9 @@
 ---
+layout: content
 title: 'sss ~ Art Daily, 15.04.2014'
 parent: 'SITE : STAGE : STRUCTURE'
-type: press
+tag: press
 pubdate: '2018'
 summary: ''
 ---
-http://artdaily.com/news/72160/Solo-exhibition-of-works-by-Ali-Akbar-Mehta-opens-at-Clark-House-Bombay#.WvmVEMi-nMV
+http://artdaily.com/news/72160/"solo exhibition"-of-works-by-Ali-Akbar-Mehta-opens-at-Clark-House-Bombay#.WvmVEMi-nMV

@@ -1,8 +1,9 @@
 ---
+layout: content
 title: Pud~ Other Readings
 parent: Pudding Manifesto
-layout: 'null'
-type: resource
+layout: content
+tag: resource
 pubdate: '2019'
 ---
 Eating Culture: The Poetics and Politics of Food, Tobias Döring, Markus Heide, Susanne Muehleisen, 2003

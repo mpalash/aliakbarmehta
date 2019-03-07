@@ -1,8 +1,9 @@
 ---
+layout: content
 title: Pud~ Proposal text
 parent: Pudding Manifesto
-layout: 'null'
-type: text
+layout: content
+tag: text
 pubdate: '2019'
 summary: >-
   The Pudding manifesto (2016) is a collaborative performance installation in

@@ -1,6 +1,6 @@
 ---
-layout: project
+layout: content
 title: Rebirth
-ptype: individual work
+tag: "individual work"
 ---
 ![null](/assets/img/aarish-painting.jpg)

@@ -1,7 +1,8 @@
 ---
+layout: content
 title: poems ~ Harun II (Ends)
 parent: Poems
-type: text
+tag: text
 pubdate: '2017'
 ---
 Last words of paragraphs:

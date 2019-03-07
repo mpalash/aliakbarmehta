@@ -1,9 +1,9 @@
 ---
-layout: project
+layout: content
 title: 256 Million Colours of Violence
-ptype: ongoing
+tag: "ongoing project"
 hero: /assets/img/screen-shot-2018-09-26-at-13.04.19.png
-pcontent:
+children:
   - 256 ~ Artist Statement
   - '256 ~ 256 Million Colours of Violence, Third Space, Helsinki'
   - 256 ~ Limitations of Liability

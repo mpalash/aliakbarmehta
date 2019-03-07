@@ -1,7 +1,7 @@
 ---
-title: Placebo~ Placebo Singers
-parent: Placebo Singers
-type: artwork
+layout: content
+title: Placebo Singers
+tag: "individual work"
 pubdate: '2015'
 summary: ''
 ---

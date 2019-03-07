@@ -1,8 +1,8 @@
 ---
-layout: project
+layout: content
 title: Purgatory Edit
-ptype: individual work
-pcontent:
+tag: "individual work"
+children:
   - purg~ Purgatory edit
   - purg~ stills from video
 ---

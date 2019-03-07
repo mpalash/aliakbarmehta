@@ -1,7 +1,8 @@
 ---
+layout: content
 title: 'wre ~ Narrating War, Museum of Impossible Forms'
 parent: 'WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs'
-type: performance
+tag: performance
 pubdate: '2018'
 summary: >-
   <iframe src="https://player.vimeo.com/video/297712769" width="640"

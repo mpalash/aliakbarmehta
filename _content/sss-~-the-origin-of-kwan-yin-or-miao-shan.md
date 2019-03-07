@@ -1,7 +1,8 @@
 ---
+layout: content
 title: 'sss ~ The Origin of Kwan Yin or Miao Shan'
 parent: 'SITE : STAGE : STRUCTURE'
-type: resource
+tag: resource
 pubdate: '2014'
 summary: >-
   There are many legends about the origin of Kwan Yin. This is one of the most

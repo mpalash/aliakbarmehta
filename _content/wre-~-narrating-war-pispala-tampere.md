@@ -1,7 +1,8 @@
 ---
+layout: content
 title: 'wre ~ Narrating War, Pispala, Tampere'
 parent: 'WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs'
-type: performance
+tag: performance
 pubdate: '2016'
 summary: >-
   <iframe width="560" height="315"

@@ -1,7 +1,8 @@
 ---
+layout: content
 title: 'sss ~ The Chinese in Mumbai'
 parent: 'SITE : STAGE : STRUCTURE'
-type: resource
+tag: resource
 pubdate: '2014'
 summary: >-
   In the early 19th century, hundreds of Chinese labourers joined the East India

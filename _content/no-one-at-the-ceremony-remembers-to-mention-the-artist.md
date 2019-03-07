@@ -1,23 +1,15 @@
 ---
+layout: content
 title: >-
-  Published~ No one at the ceremony remembers to mention the artist, essay for
-  Vidha Saumya’s exhibition 'No one at the ceremony remembers to mention the
-  artist', Third Space, 2015
-parent: 'Published '
-layout: 'null'
-type: publication
+  No one at the ceremony remembers to mention the artist
+layout: content
+tag: publication
 pubdate: '2015'
-summary: >-
-  In her current body of work, Vidha Saumya questions through history and
-  theories of present times, the importance, placement and relevance of what
-  have come to be established as icons of ‘nation’ and perceived culture. On
-  view are 30 photographs, made using existing photographs and an instructional
-  template process invented by her called ‘how to make a monument disappear’;
-  and a companion series of 7 photographs called ‘becoming Mannerheim’. Each
-  include the same basic elements – the Mannerheim statue missing from the
-  plinth in the background suggesting a disjointed context, where individuals,
-  ceremonies or other activities start seeming meaningless.
 ---
+## Essay for Vidha Saumya’s exhibition 'No one at the ceremony remembers to mention the artist', Third Space, 2015
+
+In her current body of work, Vidha Saumya questions through history and theories of present times, the importance, placement and relevance of what have come to be established as icons of ‘nation’ and perceived culture. On view are 30 photographs, made using existing photographs and an instructional template process invented by her called ‘how to make a monument disappear’; and a companion series of 7 photographs called ‘becoming Mannerheim’. Each include the same basic elements – the Mannerheim statue missing from the plinth in the background suggesting a disjointed context, where individuals, ceremonies or other activities start seeming meaningless.
+
 This process begins with a stark and sudden undoing of the built up ideas around the Mannerheim image. Instead of slowly erasing it from memory, Vidha takes the proverbial axe and chops/ severs the image with a sudden blow. By removing the primary object/subject of the original photograph – the Mannerheim Equestrian statue, Vidha nulls the intention of the original image, putting it in a kind of exitential crisis – here we as viewers must supplement it with a new meaning, a secular, more cosmopolitan meaning. We start looking at the secondary protagonists of the image – the tourist, the students, the bicyle group, the procession, the ceremony – all intending a certain relationship with the monument. We see them now independent of the monument’s shadowy grasp.
 
 ## _“…This questioning of history, national identity, patriotism, masculine ideas of heroic values started unraveling what I took for granted as an accepted history. I was thinking about artistic interventions through mediums of iconoclasm, argument, research and update to follow up on these questions.”_

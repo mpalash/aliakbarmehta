@@ -1,8 +1,9 @@
 ---
+layout: content
 title: Kru ~ Perfect Ghosts
 parent: 'Contemporary Ruins of Kruunuvuori:  The Perfect Ghosts of Helsinki'
-layout: 'null'
-type: text
+layout: content
+tag: text
 pubdate: '2015'
 summary: >-
   In in the midst of an old forest, next to a pond that could be anywhere in

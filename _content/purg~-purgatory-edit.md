@@ -1,8 +1,9 @@
 ---
+layout: content
 title: purg~ Purgatory edit
 parent: Purgatory Edit
-layout: 'null'
-type: artwork
+layout: content
+tag: artwork
 pubdate: '2017'
 ---
 

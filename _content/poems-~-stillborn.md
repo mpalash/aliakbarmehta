@@ -1,7 +1,8 @@
 ---
+layout: content
 title: poems ~ Stillborn
 parent: Poems
-type: text
+tag: text
 pubdate: '2004'
 summary: ''
 ---

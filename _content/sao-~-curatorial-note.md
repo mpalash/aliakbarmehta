@@ -1,8 +1,9 @@
 ---
+layout: content
 title: SAO ~ Curatorial note
 parent: SOAK
-layout: 'null'
-type: text
+layout: content
+tag: text
 pubdate: '2016'
 summary: >-
   An exhibition is always an act of placing artworks and understanding the

@@ -1,7 +1,8 @@
 ---
+layout: content
 title: 'wre ~ Forward: Artist''s Note'
 parent: 'WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs'
-type: text
+tag: text
 pubdate: '2014'
 summary: >-
   In 2002, my father, Yusuf Mehta, was commissioned to make a short documentary

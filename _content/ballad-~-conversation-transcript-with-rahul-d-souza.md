@@ -1,7 +1,8 @@
 ---
+layout: content
 title: 'Ballad ~  Conversation transcript with Rahul D''Souza '
 parent: 'Ballad of the War that Never Was, and Other Basterdised Myths'
-type: text
+tag: text
 pubdate: '2014'
 summary: >-
   Ali Akbar Mehta talks candidly with Rahul D'Souza about his first solo

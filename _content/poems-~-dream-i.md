@@ -1,7 +1,8 @@
 ---
+layout: content
 title: poems ~ Dream I
 parent: Poems
-type: text
+tag: text
 pubdate: '2009'
 ---
 Cracked mirrors and still waters

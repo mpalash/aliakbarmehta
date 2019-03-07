@@ -1,7 +1,8 @@
 ---
+layout: content
 title: 'sss ~ Mathar Pacady Interviews – Aunty Tessi'
 parent: 'SITE : STAGE : STRUCTURE'
-type: artwork
+tag: artwork
 pubdate: '2014'
 summary: >-
   <iframe width="560" height="315"

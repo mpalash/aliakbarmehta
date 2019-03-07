@@ -1,7 +1,8 @@
 ---
+layout: content
 title: 256 ~ Artist Statement
 parent: 256 Million Colours of Violence
-type: text
+tag: text
 pubdate: '2016'
 summary: >-
   256 Million Colours of Violence is a survey based interactive archival

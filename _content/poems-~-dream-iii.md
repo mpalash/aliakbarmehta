@@ -1,7 +1,8 @@
 ---
+layout: content
 title: poems ~ Dream III
 parent: 'Poems '
-type: text
+tag: text
 pubdate: '2009'
 ---
 The sun in the eyes is blinding,

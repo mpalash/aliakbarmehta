@@ -1,7 +1,8 @@
 ---
+layout: content
 title: poems ~ Soliloquy in Four Parts
 parent: Poems
-type: text
+tag: text
 pubdate: '2010'
 ---
 **I**

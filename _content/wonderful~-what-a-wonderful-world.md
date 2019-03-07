@@ -1,8 +1,9 @@
 ---
+layout: content
 title: Wonderful~ What a Wonderful World
 parent: What a wonderful World
-layout: 'null'
-type: artwork
+layout: content
+tag: artwork
 pubdate: '2019'
 summary: >-
   Set in a post Apocalyptic World, What a wonderful World is a short ‘music’

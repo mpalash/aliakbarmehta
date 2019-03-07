@@ -1,8 +1,8 @@
 ---
-layout: project
+layout: content
 title: Cyber Archive
-ptype: ongoing
-pcontent:
+tag: "ongoing project"
+children:
   - >-
     Cyber  ~ Cyber Archive: Being and Doing Knowledge, MA thesis, Aalto
     University, 2018

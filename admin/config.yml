@@ -29,68 +29,33 @@ collections: # A list of collections the CMS should be able to edit
         widget: "markdown"
     meta: # Meta data fields. Just like fields, but without any preview element
       - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss"}
-  - name: "project" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Project" # Used in the UI, ie.: "New Post"
-    folder: "_projects" # The path to the folder where the documents are stored
-    sort: "date:desc" # Default is title:asc
-    create: true # Allow users to create new documents in this collection
-    slug: "{{slug}}"
-    fields: # The fields each document in this collection have
-      - label: "Layout"
-        name: "layout"
-        widget: "hidden"
-        default: "project"
-      - label: "Title"
-        name: "title"
-        widget: "string"
-      - label: "Project Type"
-        name: "ptype"
-        widget: "select"
-        options: ["ongoing","past","individual work"]
-      - label: "Hero Image"
-        name: "hero"
-        required: false
-        widget: "image"
-      - label: "Body"
-        name: "body"
-        widget: "markdown"
-      - label: "Project Content"
-        name: "pcontent"
-        required: false
-        widget: "list"
-        field: {label: "Content", name: "children", widget: "relation", collection: "content", searchFields: ["title"], valueField: "title", displayFields: ["title"]}
-    meta: # Meta data fields. Just like fields, but without any preview element
-      - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss"}
   - name: "content" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Project Content" # Used in the UI, ie.: "New Post"
+    label: "Content" # Used in the UI, ie.: "New Post"
     folder: "_content" # The path to the folder where the documents are stored
-    sort: "date:desc" # Default is title:asc
+    sort: "title:asc" # Default is title:asc
     create: true # Allow users to create new documents in this collection
-    slug: "{{slug}}"
+    slug: "{{tag}}/{{title}}"
     fields: # The fields each document in this collection have
       - label: "Title"
         name: "title"
         required: false
         widget: "string"
-      - label: "Parent Project"
-        name: "parent"
-        widget: "relation"
-        collection: "project"
-        searchFields: ["title"]
-        valueField: "title"
-        displayFields: ["title"]
       - label: "Layout"
         name: "layout"
         widget: "hidden"
-        default: "null"
-      - label: "Content Type"
-        name: "type"
+        default: content
+      - label: "Tag"
+        name: "tag"
         widget: "select"
-        options: ["artwork","group-exhibition","solo-exhibition","performance","press","publication","resource","talk","text","video"]
+        options: ["ongoing project","past project","individual work","artwork","group exhibition","solo exhibition","performance","press","publication","unpublished","resource","talk","text","video"]
       - label: "Date"
         name: "pubdate"
         widget: "date"
         format: "YYYY"
+      - label: "Hero Image"
+        name: "hero"
+        required: false
+        widget: "image"
       - label: "Summary"
         name: "summary"
         required: false
@@ -98,5 +63,18 @@ collections: # A list of collections the CMS should be able to edit
       - label: "Body"
         name: "body"
         widget: "markdown"
+      - label: "Parent"
+        name: "parent"
+        required: false
+        widget: "relation"
+        collection: "project"
+        searchFields: ["title"]
+        valueField: "title"
+        displayFields: ["title"]
+      - label: "Children"
+        name: "children"
+        required: false
+        widget: "list"
+        field: {label: "Content", name: "children", widget: "relation", collection: "content", searchFields: ["title"], valueField: "title", displayFields: ["title"]}
     meta: # Meta data fields. Just like fields, but without any preview element
       - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss"}

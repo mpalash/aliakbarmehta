@@ -30,16 +30,13 @@ social:
 collections:
   pages:
     output: true
-  projects:
-    output: true
   content:
-    output: false
+    output: true
 
 # Build settings
 markdown: kramdown
 include:
   - _pages
-  - _projects
   - _content
 exclude:
   - Gemfile

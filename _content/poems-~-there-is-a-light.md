@@ -1,7 +1,8 @@
 ---
+layout: content
 title: poems ~ There is a Light
 parent: Poems
-type: text
+tag: text
 pubdate: '2017'
 summary: (A plageurised script with hybrid inserts)
 ---

@@ -1,8 +1,8 @@
 ---
-layout: project
+layout: content
 title: Of Men and Supermen
-ptype: past
-pcontent: []
+tag: "past project"
+children: []
 ---
 Of Men and Supermen is about the nature of truth, the hidden and the apparent and the difference between the real and fictional.
 

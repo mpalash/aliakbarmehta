@@ -10,15 +10,15 @@ layout: default
   {% endif %}
   <section class="intro txt">
     <div class="section-content">
-      {% if page.ptype %}
-      <p class="project-ptype tag small light">{{ page.ptype }}</p>
+      {% if page.tag %}
+      <p class="project-ptype tag small light">{{ page.tag }}</p>
       {% endif %}
       {{ content | markdownify }}
     </div>
   </section>
 
   {% assign sections = site.content %}
-  {% assign contents = page.pcontent %}
+  {% assign contents = page.children %}
 
   {% for content in contents %}
     {% for section in sections %}

@@ -1,10 +1,11 @@
 ---
+layout: content
 title: >-
   Cyber  ~ Cyber Archive: Being and Doing Knowledge, MA thesis, Aalto
   University, 2018
 parent: Cyber Archive
-layout: 'null'
-type: publication
+layout: content
+tag: publication
 pubdate: '2018'
 summary: >-
   Although State and institutional archives are historically considered

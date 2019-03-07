@@ -1,7 +1,8 @@
 ---
+layout: content
 title: poems ~ Excerpts from ‘Giddh’
 parent: Poems
-type: text
+tag: text
 pubdate: '2007'
 ---
 Threshold,

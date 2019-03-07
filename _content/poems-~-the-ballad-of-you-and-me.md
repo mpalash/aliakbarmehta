@@ -1,7 +1,8 @@
 ---
+layout: content
 title: poems ~ The Ballad of you and me
 parent: Poems
-type: text
+tag: text
 pubdate: '2014'
 ---
 The Dark; side of the Night,

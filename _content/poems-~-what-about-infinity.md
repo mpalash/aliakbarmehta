@@ -1,7 +1,8 @@
 ---
+layout: content
 title: poems ~ What about Infinity
 parent: Poems
-type: text
+tag: text
 pubdate: '2010'
 summary: ''
 ---

@@ -1,9 +1,9 @@
 ---
-layout: project
+layout: content
 title: 'SITE : STAGE : STRUCTURE'
-ptype: past
+tag: "past project"
 hero: /assets/img/mazgaon-docks.jpg
-pcontent:
+children:
   - sss ~ Artist Note
   - sss ~ The Possibility of Alienation
   - 'sss ~ Artist Book #1: Performers of Mazgaon'

@@ -1,8 +1,9 @@
 ---
+layout: content
 title: purg~ stills from video
 parent: Purgatory Edit
-layout: 'null'
-type: artwork
+layout: content
+tag: artwork
 pubdate: '2017'
 ---
 ![](https://raw.githubusercontent.com/mpalash/aliakbarmehta/master/assets/img/ali-akbar-mehta_purgatory-edit_01.jpg)

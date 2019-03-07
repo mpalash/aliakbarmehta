@@ -1,8 +1,9 @@
 ---
+layout: content
 title: '256 ~ 256 Million Colours of Violence, Third Space, Helsinki'
 parent: 256 Million Colours of Violence
-layout: 'null'
-type: solo-exhibition
+layout: content
+tag: "solo exhibition"
 pubdate: '2016'
 summary: >-
   ![](/assets/img/ali-akbar-mehta_256-million-colours-of-violence_installation-view-01_third-space-helsinkie_2016.jpg)

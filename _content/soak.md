@@ -1,9 +1,9 @@
 ---
-layout: project
+layout: content
 title: SOAK
-ptype: past
+tag: "past project"
 hero: /assets/img/soak-exhibition.jpg
-pcontent:
+children:
   - SAO ~ Curatorial note
 ---
 Identity is always that which you Identify with.

@@ -1,8 +1,8 @@
 ---
-layout: project
+layout: content
 title: What a wonderful World
-ptype: individual work
-pcontent:
+tag: "individual work"
+children:
   - Wonderful~ What a Wonderful World
 ---
 Video

@@ -1,8 +1,9 @@
 ---
+layout: content
 title: '256 ~ Limitations of Liability, Mumbai Assembly'
 parent: 256 Million Colours of Violence
-layout: 'null'
-type: solo-exhibition
+layout: content
+tag: "solo exhibition"
 pubdate: '2019'
 summary: >-
   ## _Exhibition and Artist Talks_

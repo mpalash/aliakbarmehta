@@ -1,7 +1,8 @@
 ---
+layout: content
 title: Ballad ~ Somewhere between Science and Subjectivity
 parent: 'Ballad of the War that Never Was, and Other Basterdised Myths'
-type: text
+tag: text
 pubdate: '2011'
 summary: >-
   Rahul D'souza

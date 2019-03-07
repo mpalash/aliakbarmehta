@@ -1,8 +1,8 @@
 ---
-layout: project
+layout: content
 title: Poems
-ptype: ongoing
-pcontent:
+tag: "ongoing project"
+children:
   - poems ~ A body split in two
   - poems ~ Awakening
   - poems ~ Diagonal

@@ -1,8 +1,9 @@
 ---
+layout: content
 title: 'Cyber ~ Archiving Knowledge, sculptures'
 parent: Cyber Archive
-layout: 'null'
-type: artwork
+layout: content
+tag: artwork
 pubdate: '2018'
 summary: '![](/assets/img/ali-akbar-mehta-archiving-knowledge_01-2008.jpg)'
 ---

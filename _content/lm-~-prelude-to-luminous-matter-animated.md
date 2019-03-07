@@ -1,7 +1,8 @@
 ---
+layout: content
 title: LM ~ Prelude to Luminous Matter (Animated)
 parent: Luminous Matter
-type: artwork
+tag: artwork
 pubdate: '2011'
 summary: >-
   <iframe width="560" height="315"

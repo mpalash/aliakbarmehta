@@ -10,23 +10,20 @@
         <h1 class="site-title">{{ site.title }}</h1>
         <p class="sub-site-title">{{ site.description }}</p>
 
-        {% assign sortedtags = 'performance,talk,publication,solo-exhibition,group-exhibition,press,resource' | split: ',' %}
+        {% assign sortedtags = 'ongoing project,past project,individual work,performance,talk,publication,unpublished,solo exhibition,group exhibition,press,resource' | split: ',' %}
         <div class="listing tags">
-          <div>
-            <h2 class="tag small tag-projects">project</h2>
-            <ul>
-              {% for project in site.projects %}
-              <li data-year="" data-genre="project"><a href="{{ project.url }}">{{ project.title }}</a>{% if project.ptype %} ({{ project.ptype }}) {% endif %}</li>
-              {% endfor %}
-            </ul>
-          </div>
           {% for tag in sortedtags %}
           <div>
             <h2 class="tag small tag-{{ tag }}">{{ tag }}</h2>
             <ul>
               {% for content in site.content %}
-                {% if tag == content.type %}
-                <li data-year="{{ content.pubdate }}" data-genre="{{ content.type }}"><a href="/projects/{{ content.parent | strip | slugify: 'latin' }}#{{ content.title | split: "~" | last | strip | slugify: 'latin' }}">{{ content.title | split: "~" | last | strip }}</a> ({{ content.parent }})</li>
+                {% if tag == content.tag %}
+                <li data-year="{{ content.pubdate }}" data-genre="{{ content.tag }}">
+                  {% if content.parent %}
+                    <a href="/content/{{ content.parent | strip | slugify: 'latin' }}#{{ content.title | split: "~" | last | strip | slugify: 'latin' }}">{{ content.title | split: "~" | last | strip }}</a> ({{ content.parent }})</li>
+                  {% else %}
+                    <a href="/content/{{ content.title | split: "~" | last | strip | slugify: 'latin' }}">{{ content.title | split: "~" | last | strip }}</a></li>
+                  {% endif %}
                 {% endif %}
               {% endfor %}
             </ul>

@@ -1,7 +1,7 @@
 ---
-layout: project
+layout: content
 title: Decolonial Dreaming at UrbanApa
-ptype: past
+tag: "past project"
 hero: /assets/img/fb_img_1539579471797.jpg
 ---
 Looks like I'm contemplating a plant, but actually talked about Impossible Forms and Decolonial Dreaming.
@@ -12,7 +12,7 @@ One of the important tools to engage with decoloniality is to unsettle the notio
 
 
 
-A way to delve further would be to understand that notions of cultural superiority have existed before Western colonisation. A term that comes to mind is 'ethnocentricism', which loosely translates to 'my culture is better than yours'. This idea of dealing with otherness has shaped our social and political structures, defined our ethics and pervaded our philosophy. To unsettle this reality, think of every human grouping, border, wall, social structure and ethical norm as a division of human. 
+A way to delve further would be to understand that notions of cultural superiority have existed before Western colonisation. A term that comes to mind is 'ethnocentricism', which loosely translates to 'my culture is better than yours'. This idea of dealing with otherness has shaped our social and political structures, defined our ethics and pervaded our philosophy. To unsettle this reality, think of every human grouping, border, wall, social structure and ethical norm as a division of human.
 
 Not just of labour, but of labourers...
 

@@ -1,7 +1,8 @@
 ---
+layout: content
 title: wre ~  Why is an archive of wars required?
 parent: 'WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs'
-type: text
+tag: text
 pubdate: '2014'
 summary: >-
   The French poet Eugene Guillevic, whose ‘Charnel Houses’ (1947) is one of the

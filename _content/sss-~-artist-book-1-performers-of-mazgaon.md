@@ -1,7 +1,8 @@
 ---
+layout: content
 title: 'sss ~ Artist Book #1: Performers of Mazgaon'
 parent: 'SITE : STAGE : STRUCTURE'
-type: artwork
+tag: artwork
 pubdate: '2014'
 summary: '![](/assets/img/slide13.jpg)'
 ---

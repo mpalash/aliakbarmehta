@@ -1,8 +1,8 @@
 ---
-layout: project
+layout: content
 title: To Whomsoever it May Concern
-ptype: individual work
-pcontent: []
+tag: "individual work"
+children: []
 ---
 ![](/assets/img/ali-akbar-mehta_to-whomsoever-it-may-concern_tao-art-gallery_cc_2018.jpg)
 

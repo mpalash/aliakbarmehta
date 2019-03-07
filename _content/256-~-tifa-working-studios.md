@@ -1,7 +1,8 @@
 ---
+layout: content
 title: '256 ~ Assembly of Access, TIFA Working Studios'
 parent: 256 Million Colours of Violence
-type: group-exhibition
+tag: group-exhibition
 pubdate: '2018'
 summary: >-
   ![null](/assets/img/ali-akbar-mehta_256-million-colours-of-violence_installation-view_tifa-working-studios-pune_2018.jpg)

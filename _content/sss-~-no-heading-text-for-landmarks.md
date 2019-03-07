@@ -1,7 +1,8 @@
 ---
+layout: content
 title: sss ~ *Landmarks
 parent: 'SITE : STAGE : STRUCTURE'
-type: resource
+tag: resource
 pubdate: '2014'
 summary: >-
   ## Mazgaon and Wadibunder

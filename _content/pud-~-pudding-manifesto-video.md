@@ -1,8 +1,9 @@
 ---
+layout: content
 title: 'Pud ~ Pudding Manifesto, Video'
 parent: Pudding Manifesto for Togetherness
-layout: 'null'
-type: artwork
+layout: content
+tag: artwork
 pubdate: '2019'
 summary: >-
   <iframe width="560" height="315"

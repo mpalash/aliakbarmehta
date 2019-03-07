@@ -1,7 +1,8 @@
 ---
+layout: content
 title: 'sss ~ SITE : STAGE : STRUCTURE, Clark House'
 parent: 'SITE : STAGE : STRUCTURE'
-type: solo-exhibition
+tag: "solo exhibition"
 pubdate: '2014'
 ---
 ![](/assets/img/1.-ali-akbar-mehta-site-stage-structure-2014_installation-view-©-aliakbarmehta.png)

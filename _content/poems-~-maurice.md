@@ -1,7 +1,8 @@
 ---
+layout: content
 title: poems ~ Maurice
 parent: Poems
-type: text
+tag: text
 pubdate: '2015'
 ---
 I am not learned, I am not ignorant.

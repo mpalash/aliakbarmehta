@@ -1,8 +1,8 @@
 ---
-title: UPT~ On Superheroes and Science fiction
-parent: Unpublished Essays and text
-layout: 'null'
-type: publication
+layout: content
+title: On Superheroes and Science fiction
+layout: content
+tag: unpublished
 pubdate: '2013'
 ---
 > _You know, I’m quite keen on comic books. Especially the ones about superheroes. I find the whole mythology surrounding superheroes fascinating._

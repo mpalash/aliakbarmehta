@@ -1,8 +1,8 @@
 ---
-layout: project
+layout: content
 title: Pudding Manifesto for Togetherness
-ptype: past
-pcontent:
+tag: "past project"
+children:
   - Pud~ Proposal text
   - Pud ~ Installation views
   - 'Pud ~ Pudding Manifesto, Video'
