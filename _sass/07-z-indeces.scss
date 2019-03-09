@@ -1,3 +1,7 @@
 .site-header {
   z-index: 900;
 }
+.listing>div:hover ul,
+.listing>div ul:hover {
+  z-index: 50;
+}

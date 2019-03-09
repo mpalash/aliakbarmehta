@@ -3,16 +3,19 @@ layout: default
 ---
 <article class="project">
   <span id="top"></span>
+  {% if page.hero %}
+    <img class="project-hero top" src="{{ page.hero}}" />
+  {% endif %}
+  <aside class="project-tag meta">
+    <div><p>{{ page.tag }}</p></div>
+  </aside>
   <h1 class="project-title fixed">{{ page.title | escape }}</h1>
   <h1 class="project-title">{{ page.title | escape }}</h1>
   {% if page.hero %}
-    <!-- <img class="project-hero" src="{{ page.hero}}" /> -->
+    <img class="project-hero" src="{{ page.hero}}" />
   {% endif %}
   <section class="intro txt">
     <div class="section-content">
-      {% if page.tag %}
-      <p class="project-ptype tag small light">{{ page.tag }}</p>
-      {% endif %}
       {{ content | markdownify }}
     </div>
   </section>

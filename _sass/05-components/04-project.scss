@@ -1,8 +1,8 @@
 h1.project-title {
   @extend .o-1;
   @extend .w-10;
-  margin-top: calc(1.25em + #{$s-xxl});
   padding: 0 $gutter;
+  margin-top: $s-xxxl*1.75;
   font-family: $title-font-family;
   font-size: 8vw;
   line-height: 1.1;
@@ -14,6 +14,23 @@ h1.project-title {
     color: lighten($color-warm, 35%);
   }
 
+}
+.project-tag p {
+  @extend .o-1;
+  margin-right: $s-xxxl*1.75 !important;
+  padding: 0 $gutter;
+}
+.project-hero {
+  display: block;
+  @extend .o-2;
+  @extend .w-10;
+  padding: 0 $gutter;
+  max-width: $max-text-width;
+  &.top {
+    position: absolute;
+    top: $s-xxxl;
+    transform: translateY(-100%);
+  }
 }
 .intro {
   @include txt;
