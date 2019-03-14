@@ -20,7 +20,7 @@
         {% assign sortedcontent = site.content | sort: 'pubdate' | reverse %}
         <div class="listing tags">
           <div>
-            <h2 class="tag small tag-projects">projects</h2>
+            <h2 class="tag small tag-project">projects</h2>
             <ul>
               {% for tag in projects %}
               {% for content in sortedcontent %}
@@ -38,7 +38,7 @@
           </div>
           {% for tag in sortedtags1 %}
           <div>
-            <h2 class="tag small tag-{{ tag }}">{{ tag }}</h2>
+            <h2 class="tag small tag-{{ tag }}">{{ tag }}s</h2>
             <ul>
               {% for content in sortedcontent %}
                 {% if tag == content.tag %}
@@ -54,7 +54,7 @@
           </div>
           {% endfor %}
           <div>
-            <h2 class="tag small tag-exhibitions">exhibitions</h2>
+            <h2 class="tag small tag-exhibition">exhibitions</h2>
             <ul>
               {% for tag in exhibitions %}
               {% for content in sortedcontent %}
@@ -71,7 +71,7 @@
             </ul>
           </div>
           <div>
-            <h2 class="tag small tag-publications">publications</h2>
+            <h2 class="tag small tag-publication">publications</h2>
             <ul>
               {% for tag in publications %}
               {% for content in sortedcontent %}

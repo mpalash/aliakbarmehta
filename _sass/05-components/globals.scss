@@ -44,4 +44,11 @@
   &.light {
     background-color: $color-warm-light;
   }
+  &-project { background-color: $color-project;}
+  &-performance { background-color: $color-performance;}
+  &-talk { background-color: $color-talk;}
+  &-exhibition { background-color: $color-exhibition;}
+  &-publication { background-color: $color-publication;}
+  &-press { background-color: $color-press;}
+  &-resource { background-color: $color-resource;}
 }
