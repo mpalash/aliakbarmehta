@@ -1,7 +1,6 @@
 ---
 layout: content
 title: On Superheroes and Science fiction
-layout: content
 tag: unpublished
 pubdate: '2013'
 ---

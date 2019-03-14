@@ -2,7 +2,6 @@
 layout: content
 title: Pud ~ Installation views
 parent: Pudding Manifesto for Togetherness
-layout: content
 tag: group-exhibition
 pubdate: '2016'
 summary: >-

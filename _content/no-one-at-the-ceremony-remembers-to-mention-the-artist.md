@@ -2,7 +2,6 @@
 layout: content
 title: >-
   No one at the ceremony remembers to mention the artist
-layout: content
 tag: publication
 pubdate: '2015'
 ---

@@ -3,7 +3,6 @@ layout: content
 title: >-
   Border Crossing: Reshaping the Agency of Struggle - interview with
   Ranjit Hoskote, CuMMA Papers Publication Series, (ed.) Nora Sternfeld, 2017
-layout: content
 tag: publication
 pubdate: '2017'
 ---

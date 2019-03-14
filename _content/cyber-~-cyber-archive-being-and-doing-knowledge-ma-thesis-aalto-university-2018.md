@@ -4,7 +4,6 @@ title: >-
   Cyber  ~ Cyber Archive: Being and Doing Knowledge, MA thesis, Aalto
   University, 2018
 parent: Cyber Archive
-layout: content
 tag: publication
 pubdate: '2018'
 summary: >-
@@ -40,7 +39,7 @@ summary: >-
   future. It offers practical tools, ‘gifts’ and methods to navigate this
   network, and establish conclusive models towards methodologies for Cyber
   Archives as artistic practice – creating Knowledge Communities, Cyber public
-  zones of contact and Para-Institutions. 
+  zones of contact and Para-Institutions.
 
 
   The thesis is framed through the question: How can ‘archives transformed by

@@ -2,7 +2,6 @@
 layout: content
 title: '256 ~ Limitations of Liability, Harkat Studios'
 parent: 256 Million Colours of Violence
-layout: content
 tag: "solo exhibition"
 pubdate: '2017'
 summary: >-

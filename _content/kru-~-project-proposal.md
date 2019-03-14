@@ -2,7 +2,6 @@
 layout: content
 title: Kru ~ Project proposal
 parent: 'Contemporary Ruins of Kruunuvuori:  The Perfect Ghosts of Helsinki'
-layout: content
 tag: text
 pubdate: '2016'
 summary: >-
@@ -15,25 +14,25 @@ summary: >-
   around the themes of ‘aesthetics of waste and heritage’; ‘materiality of
   memory’; and ‘significance of Things’.
 ---
-Ruins rarely fit into the imagination of the Contemporary. In our everyday comprehension ruins bring to mind ancient and enchanted monumental structures; an archaeological dream world featuring celebrities such as Machu Picchu, Pompeii and Angkor Wat. Yet never have so many ruins been produced; so many things been victimized and made redundant, so many sites been abandoned. Closed shopping malls, abandoned military sites, industrial wastelands, derelict mining towns, empty apartment houses, withering capitalist and communist monuments. A ghostly world of decaying modern debris mostly left out of academic concerns and conventional histories, ruins still play a marginal role in the political economy of the past and present; instead becoming a play between absence and presence. 
+Ruins rarely fit into the imagination of the Contemporary. In our everyday comprehension ruins bring to mind ancient and enchanted monumental structures; an archaeological dream world featuring celebrities such as Machu Picchu, Pompeii and Angkor Wat. Yet never have so many ruins been produced; so many things been victimized and made redundant, so many sites been abandoned. Closed shopping malls, abandoned military sites, industrial wastelands, derelict mining towns, empty apartment houses, withering capitalist and communist monuments. A ghostly world of decaying modern debris mostly left out of academic concerns and conventional histories, ruins still play a marginal role in the political economy of the past and present; instead becoming a play between absence and presence.
 
 The project will be presented as a Transmedia Installation comprising:
 
 a.	Large format photgraphy and photobooks
 
-b.	Objects and ethnographic reconstructions 
+b.	Objects and ethnographic reconstructions
 
 c.	Short documentary films
 
 d.	Audio narratives and conversations
 
-e.	Heritage walks. 
+e.	Heritage walks.
 
 
 
 ## About Kruunovuori
 
-In the midst of an old forest, next to a pond that could be anywhere in wilderness is the area of Kruunuvuori, which in the etymology of Suomi means ‘The Crown Mountain’. It is about three kilometers from the heart of Helsinki, and plays host to ghost-like old villas hidden amidst its forest – left at the mercy of nature, with only the slow inevitable passing of time as its constant companion. 
+In the midst of an old forest, next to a pond that could be anywhere in wilderness is the area of Kruunuvuori, which in the etymology of Suomi means ‘The Crown Mountain’. It is about three kilometers from the heart of Helsinki, and plays host to ghost-like old villas hidden amidst its forest – left at the mercy of nature, with only the slow inevitable passing of time as its constant companion.
 
 The Kruunuvuori Villas – one of Helsinki’s most treasured and publicly well-known secrets, may probably not exist for much longer. Of all the villas surviving their various states of ruins, only a few seem to be structurally sound enough to be conserved as Heritage Sites. Despite the presumably indefinite building ban, the demolition of almost all of the villas, through subversive fires and arson, could very well be imminent. The vast majority of villas are dilapidated, collapsed or burned. Last arson was on June 04, 2015; when the red cottage (Lilla Kronberg) turned into heaps of coal. In 2011, Helsinki city Museum was conducting a study of three of the villas for heritage protection, but since then nothing has been heard. One of the potentially to-be-protected villas has been destroyed as a result of arson. The museovirastokin mapping found that two of the Kruunuvuoren villas are still active and urgent measures may still be salvageable, although the refurbishment would probably be too expensive an option.
 
@@ -49,9 +48,9 @@ The project maps Kruunuvuori in the contexts of site, stage and structure. This 
 
 
 
-a.	Site: a position in context to its environment. An absolute location in terms of its cultural context, historical memory and national identity; 
+a.	Site: a position in context to its environment. An absolute location in terms of its cultural context, historical memory and national identity;
 
-b.	Stage: where site can be looked as transformative spaces of 'performance of the everyday; 
+b.	Stage: where site can be looked as transformative spaces of 'performance of the everyday;
 
 c.	Structure: where mode of building, construction; arrangement of parts, elements, or constituents can be looked as key ingredients that make up a space.
 

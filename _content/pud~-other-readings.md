@@ -2,7 +2,6 @@
 layout: content
 title: Pud~ Other Readings
 parent: Pudding Manifesto
-layout: content
 tag: resource
 pubdate: '2019'
 ---

@@ -2,7 +2,6 @@
 layout: content
 title: purg~ Purgatory edit
 parent: Purgatory Edit
-layout: content
 tag: artwork
 pubdate: '2017'
 ---

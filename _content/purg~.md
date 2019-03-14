@@ -2,7 +2,6 @@
 layout: content
 title: purg~ stills from video
 parent: Purgatory Edit
-layout: content
 tag: artwork
 pubdate: '2017'
 ---

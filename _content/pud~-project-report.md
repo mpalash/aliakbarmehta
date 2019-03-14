@@ -2,7 +2,6 @@
 layout: content
 title: Pud~ Project Report
 parent: Pudding Manifesto for Togetherness
-layout: content
 tag: resource
 pubdate: '2019'
 summary: >-
@@ -21,13 +20,13 @@ summary: >-
   collective history of an entire people, and becomes the shared collective
   experience of humanity.
 ---
-We confronted what is chosen to be remembered and what we choose to forget, specifically in the Finnish context – The paradoxical relationship that Finland has with colonialism, of historically being in the role of the victim and now becoming the perpatrator, while also writing its history from an ‘Exceptionalist’ approach, cooperation with nazi-Germany and occupation of Russian territory during The second World War and denying its direct and indirect participation in colonialist and racist international projects. 
+We confronted what is chosen to be remembered and what we choose to forget, specifically in the Finnish context – The paradoxical relationship that Finland has with colonialism, of historically being in the role of the victim and now becoming the perpatrator, while also writing its history from an ‘Exceptionalist’ approach, cooperation with nazi-Germany and occupation of Russian territory during The second World War and denying its direct and indirect participation in colonialist and racist international projects.
 
 During the second day of our seminar, we visited the Finnish National History museum, where the Pop-up exhibition ‘Migrant, evacuee, Human’ was on display. The exhibition aims to present a transparent and clear understanding of the Finnish context in the ‘Refugee Crisis’ by showcasing examples of various Finnish and other regional communities in ambiguous states of arrival/departure. The problematic nature of the exhibition resides in its oversimplification and obvious smoothing over of the projected idea of the ‘Crisis’: Instead of relevant informations pertaining to the complex histories of war and migration, the exhibition offers comfortable examples of integration and usefulness of refugees within the larger Finnish social framework.
 
 What is furthermore implicit in this presentation is the fact that by mounting such an exhibition the museum – as an official “national” institution – situates the nation as culturally “open” in the larger European Union  (while its border politics are not open at all). It also gives a cursory nod to having ‘dealt with’ the topical subject of the Refugee crises. To put it in a nutshell: In an educational and enlightening mode, the exhibition provides nothing, while having given the sense of feeling a false nationalistic pride.
 
-In the post-Cold War world, decades after the conception of the Europa Utopia project the ‘European Union’ – "United in diversity", – comes under direct threat by its own actions – the lack of sympathy towards close to 20 million human beings. An ideological death of the founding principles, that can only be averted if its citizens realise that they have replaced the former motto with a new one, that borrows directly from the Nazi-period – ‘Europe for Europeans’. 
+In the post-Cold War world, decades after the conception of the Europa Utopia project the ‘European Union’ – "United in diversity", – comes under direct threat by its own actions – the lack of sympathy towards close to 20 million human beings. An ideological death of the founding principles, that can only be averted if its citizens realise that they have replaced the former motto with a new one, that borrows directly from the Nazi-period – ‘Europe for Europeans’.
 
 This is presented in the patriarchal and hegemonic way the information is presented in the exhibition. Specifically, in the context of work produced, we questioned the Pop-up exhibition, its strategies of display, the way it sought to alienate the refugees in the guise of talking about them, and lastly, the choice of where it was displayed.
 
@@ -35,11 +34,11 @@ This is presented in the patriarchal and hegemonic way the information is presen
 
 How was it followed:
 
-We responded to this by first conceiving of an augmented exhibition, placed in the same space and time, overlapping the exhibition ‘refugee, evacuee, human’. 
+We responded to this by first conceiving of an augmented exhibition, placed in the same space and time, overlapping the exhibition ‘refugee, evacuee, human’.
 
 This exhibition, in its execution aimed to create a parallel virtual tour, using innovative technologies and the integrated smart devices. Using a proprietary ‘app’, we wanted to use augmented reality to overlap a counter exhibition as a way to subvert the existing exhibition and allow for a more participatory and integrated exhibition –to recreate the exhibition in the same format of the current exhibition, using key placements of photographs, objects and personal memories to allow for a unique socio-political intervention, rather than treating the idea of the exhibition as a static response to the world around us.
 
-The act of creating this counter exhibition was to subvert the discourse and redirect it to the required channels – to create an archive of existing material and consolidate it to create a coherent understanding of unfolding events, and to create new contextual material through documentation and interviews of local people in Helsinki and surrounding cities. 
+The act of creating this counter exhibition was to subvert the discourse and redirect it to the required channels – to create an archive of existing material and consolidate it to create a coherent understanding of unfolding events, and to create new contextual material through documentation and interviews of local people in Helsinki and surrounding cities.
 
 The counter exhibition would have acted as constructive criticism ¬¬– enabling a new way of how we respond to future exhibitions. It will allow for community participation. By giving the audience the power to intervene, it would have made the exhibition not just an end in itsef but a means to disseminate information that actively leads to newer explorations.
 
@@ -71,6 +70,6 @@ Reflection:
 
 This project encountered us with the complexity and broadness of the issue we were referring to.  It was a challenge for us to re-direct our project in a more focused and at the same time open ended way. We wanted to make a simple and suggestive gesture that enclosed important and complex content. The writing of the manifesto made us question our role as ‘formenters’ of ‘togetherness’ and our own collective opinions about politics.  We had to choose between formulating our manifesto in a very simple and ironic way or in a very elaborated and explicitly critical way. This was a complicated decision to make and encountered us with the weight of language, questioning very closely the use we gave to it, because we often found it problematic. The end result was satisfying in the way that we could condense our ideas into a simple and powerful gesture.
 
- 
+
 
 Our involvement in project was not completely pragmatic but rather quite emotional, as we all find the core question a very imperative one, an important issue that should be dealt with respect and thought. As the dynamic between the group gathered some tension, for unrelated reasons, we experience the instance of separation first hand – we observed the irony of us facilitating togetherness. Regardless of this minor tension we succeeded at finalising the work.

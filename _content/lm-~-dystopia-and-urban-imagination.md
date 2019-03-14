@@ -2,7 +2,6 @@
 layout: content
 title: LM ~ Dystopia and Urban Imagination
 parent: Luminous Matter
-layout: content
 tag: resource
 pubdate: '2011'
 summary: |-

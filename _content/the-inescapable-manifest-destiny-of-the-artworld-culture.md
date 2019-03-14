@@ -1,7 +1,6 @@
 ---
 layout: content
 title: 'The Inescapable Manifest Destiny of the Artworld Culture:'
-layout: content
 tag: unpublished
 pubdate: '2016'
 ---

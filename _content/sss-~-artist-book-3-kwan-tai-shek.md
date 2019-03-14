@@ -2,7 +2,6 @@
 layout: content
 title: 'sss ~ Artist Book #3: Kwan Tai Shek'
 parent: 'SITE : STAGE : STRUCTURE'
-layout: content
 tag: artwork
 pubdate: '2014'
 summary: >-

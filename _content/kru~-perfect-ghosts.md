@@ -2,7 +2,6 @@
 layout: content
 title: Kru ~ Perfect Ghosts
 parent: 'Contemporary Ruins of Kruunuvuori:  The Perfect Ghosts of Helsinki'
-layout: content
 tag: text
 pubdate: '2015'
 summary: >-

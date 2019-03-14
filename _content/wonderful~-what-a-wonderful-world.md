@@ -2,7 +2,6 @@
 layout: content
 title: Wonderful~ What a Wonderful World
 parent: What a wonderful World
-layout: content
 tag: artwork
 pubdate: '2019'
 summary: >-

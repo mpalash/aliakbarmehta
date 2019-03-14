@@ -2,7 +2,6 @@
 layout: content
 title: 'TRINITY ~ TRINITY: Godrej Legacy Park silos, Godrej One, Vikhroli, 2015'
 parent: 'TRINITY: Gordrej Legacy Park Silos'
-layout: content
 tag: "solo exhibition"
 pubdate: '2015'
 summary: >-

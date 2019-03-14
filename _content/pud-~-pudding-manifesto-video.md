@@ -2,7 +2,6 @@
 layout: content
 title: 'Pud ~ Pudding Manifesto, Video'
 parent: Pudding Manifesto for Togetherness
-layout: content
 tag: artwork
 pubdate: '2019'
 summary: >-

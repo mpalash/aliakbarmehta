@@ -2,7 +2,6 @@
 layout: content
 title: Pud~ Proposal text
 parent: Pudding Manifesto
-layout: content
 tag: text
 pubdate: '2019'
 summary: >-
@@ -16,7 +15,7 @@ summary: >-
   otherwise rhetorical discourse on refugee integration and assimilation into
   the homogenous social soup.
 ---
-_In the post-Cold War world flags count and so do other symbols of cultural identity, including crosses, crescents, and even head coverings, because culture counts, and cultural identity is what is most meaningful to most people. People are discovering new but often old identities and marching under new but often old flags which lead to wars with new but often old enemies. One grim Weltanschauung for this new era was well expressed by the Venetian nationalist demagogue in Michael Oibdin's novel, Dead Lagoon: "There can be no true friends without true enemies. Unless we hate what we are not, we cannot love what we are. These are the old truths we are painfully rediscovering after a century and more of sentimental cant. Those who deny them deny their family, their heritage, their culture, their birthright, their very selves! They will not lightly be forgiven."_ 
+_In the post-Cold War world flags count and so do other symbols of cultural identity, including crosses, crescents, and even head coverings, because culture counts, and cultural identity is what is most meaningful to most people. People are discovering new but often old identities and marching under new but often old flags which lead to wars with new but often old enemies. One grim Weltanschauung for this new era was well expressed by the Venetian nationalist demagogue in Michael Oibdin's novel, Dead Lagoon: "There can be no true friends without true enemies. Unless we hate what we are not, we cannot love what we are. These are the old truths we are painfully rediscovering after a century and more of sentimental cant. Those who deny them deny their family, their heritage, their culture, their birthright, their very selves! They will not lightly be forgiven."_
 
 In the post-Cold War world, the most important distinctions among peoples are not ideological, political, or economic. They are cultural. Peoples and nations are attempting to answer the most basic question humans can face: Who are we? And they are answering that question in the traditional way human beings have answered it, by reference to the things that mean most to them. People define themselves in terms of ancestry, religion, language, history, values, customs, and institutions. They identify with cultural groups: tribes, ethnic groups, religious communities, nations, and, at the broadest level, civilizations. People use politics not just to advance their interests but also to define their identity. We know who we are only when we know who we are not and often only when we know whom we are against.
 

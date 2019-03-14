@@ -2,7 +2,6 @@
 layout: content
 title: TRINITY ~ Artist Statement
 parent: 'TRINITY: Gordrej Legacy Park Silos'
-layout: content
 tag: text
 pubdate: '2019'
 summary: >-
