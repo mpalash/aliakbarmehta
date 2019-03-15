@@ -64,6 +64,7 @@ $s-s:   8px;
 $s-xs:  4px;
 $s-xxs: 2px;
 
+// MIXINS
 @mixin small-caps {
   text-transform: uppercase;
   letter-spacing: 0.05em;
