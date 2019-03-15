@@ -3,6 +3,7 @@ h1.project-title {
   @extend .w-10;
   padding: 0 $gutter;
   margin-top: $s-xxxl*1.75;
+  color: $color-warm-dark;
   font-family: $title-font-family;
   font-size: 8vw;
   line-height: 1.1;
@@ -45,7 +46,7 @@ h1.project-title {
   @include txt;
   padding-top: $s-l;
   padding-bottom: $s-l;
-  min-height: $s-xxl * 2.5;
+  min-height: $s-xxxl * 2;
 }
 aside.meta {
   @extend .c;

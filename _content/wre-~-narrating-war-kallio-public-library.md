@@ -12,21 +12,21 @@ summary: >-
 
   A 3 minute excerpt of my radio performance, which was a One Hour Reading
   session of Wars from 2000 to 2011, at Kallio Public Library as part of
-  Chimurenga’s Pan African Space Station live radio broadcast. 
+  Chimurenga’s Pan African Space Station live radio broadcast.
 
 
   For the full one hour radio broadcast of the performance, check out The
   Chimurenga Archives at <http://panafricanspacestation.org.za/>
 ---
-{ 
+{
 
-null.void; 
+null.void;
 
 // a sermon of nothingness and a space odyssey of zero movement and tycho magnetic anomalies
 
 }
 
-![](/assets/img/kallio-performance.png)
+![](/assets/img/kallio-performance.jpg)
 
 null.void; is a Transmedia Performance-lecture recitation and Research Project. It comprises a procedural audio soundscape of glitch sounds using static and radio frequencies, and a performance recitation of a comprehensive list of every war, battle, siege, sacking, revolt and revolution spanning 5014 years of human conflict and violence.
 
