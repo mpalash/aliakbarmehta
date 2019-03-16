@@ -1,7 +1,8 @@
 ---
-layout: content
 title: Poems
-tag: "ongoing project"
+layout: content
+tag: publication
+pubdate: '2011'
 children:
   - poems ~ A body split in two
   - poems ~ Awakening
