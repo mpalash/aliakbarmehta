@@ -1,8 +1,12 @@
 ---
-layout: content
 title: Of Men and Supermen
-tag: "past project"
-children: []
+layout: content
+tag: past project
+pubdate: '2019'
+children:
+  - >-
+    Of Men ~ Of Men and Supermen, India Art Festival, by TAO Art Gallery,
+    Mumbai, 2012
 ---
 Of Men and Supermen is about the nature of truth, the hidden and the apparent and the difference between the real and fictional.
 
