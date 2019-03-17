@@ -11,8 +11,8 @@ children:
   - 'Cyber ~ Archiving Knowledge, sculptures'
   - ' Cyber Archive: Questions'
   - >-
-    Cyber Archive: Archiving as a sustainable counter-hegemonic practice, Hakara
-    Journal, (ed.) Ashutosh Poddar and Noopur Desai, 2018
+    Cyber ~ Cyber Archive: Archiving as a sustainable counter-hegemonic
+    practice, Hakara Journal, (ed.) Ashutosh Poddar and Noopur Desai, 2018
   - >-
     Cyber ~ To Not Wait for the Archive: Home and Labour mired in the
     complications of Invisibalisation, Visual Culture and Contemporary Art
