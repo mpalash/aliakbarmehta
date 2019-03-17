@@ -4,7 +4,7 @@ title: >-
   complications of Invisibalisation
 layout: content
 tag: publication
-pubdate: '2018'
+pubdate: '2019'
 summary: >-
   The idea of _home and labour_ itself has been mired in the complications of
   invisibilization of labor, the misdirection of value and surplus, and the
