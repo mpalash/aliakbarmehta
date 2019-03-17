@@ -3,7 +3,7 @@ title: >-
   Cyber ~ To Not Wait for the Archive: Home and Labour mired in the
   complications of Invisibalisation, Visual Culture and Contemporary Art Journal
   #5, (ed.) Saara Mahbouba, Paola Jallili and Else Lagerspetz, published by
-  Aalto University, Helsinki 2018
+  Aalto University, Helsinki 2019
 layout: content
 tag: publication
 pubdate: '2019'
