@@ -3,6 +3,7 @@ title: Cyber Archive
 layout: content
 tag: ongoing project
 pubdate: '2018'
+hero: /assets/img/cyber-archive_hero-image.png
 children:
   - >-
     Cyber  ~ Cyber Archive: Being and Doing Knowledge, MA thesis, Aalto
