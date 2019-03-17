@@ -1,7 +1,8 @@
 ---
-layout: content
 title: What a wonderful World
-tag: "individual work"
+layout: content
+tag: individual work
+pubdate: '2014'
 children:
   - Wonderful~ What a Wonderful World
 ---
