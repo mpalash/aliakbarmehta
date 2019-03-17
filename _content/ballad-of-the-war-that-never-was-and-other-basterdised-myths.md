@@ -1,7 +1,8 @@
 ---
-layout: content
 title: 'Ballad of the War that Never Was, and Other Basterdised Myths'
-tag: "past project"
+layout: content
+tag: past project
+pubdate: '2011'
 hero: >-
   /assets/img/ballad-of-the-war-that-never-was-2011-oil-and-acrylic-on-canvas-152-x-198-cm.jpg
 children:
