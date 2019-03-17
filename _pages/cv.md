@@ -201,7 +201,7 @@ _(upcoming)_ **DirectKontact**, Pixelache Festival, Helsinki, 2019
 
 **FOOD and Other Practices at the Arthouse**, Visual Culture and Contemporary Art Journal #4, (ed.) Ali akbar Mehta and Vidha Saumya, Published by Aalto University, Espoo, 2018
 
-[Locating: The Museum of Impossible Forms](https://koneensaatio.fi/en/museum-of-impossible-forms/), Kone Foundation Boldness Blog, Helsinki, 2017
+[**Locating: The Museum of Impossible Forms**](https://koneensaatio.fi/en/museum-of-impossible-forms/), Kone Foundation Boldness Blog, Helsinki, 2017
 
 **Border Crossing: Reshaping the Agency of Struggle**, interview with Ranjit Hoskote, CuMMA Papers publication series, (ed.) Nora Sternfeld, Helsinki, 2017
 
