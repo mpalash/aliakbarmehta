@@ -1,5 +1,5 @@
 ---
-title: 'What is the colour of violence?, Hindustan Times, 2017'
+title: 'press ~ What is the colour of violence?, Hindustan Times, 2017'
 layout: content
 tag: press
 pubdate: '2017'
