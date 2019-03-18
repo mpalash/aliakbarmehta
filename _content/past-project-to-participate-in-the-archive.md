@@ -2,7 +2,7 @@
 title: To Participate in the Archive
 layout: content
 tag: past project
-pubdate: '2019'
+pubdate: '2018'
 summary: >-
   From January 5, to Febuary 6, 2018, I was invited with several other artists
   and practitioners within the field of archiving to be a artist-in-residence at
