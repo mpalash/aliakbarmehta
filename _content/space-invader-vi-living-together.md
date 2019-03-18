@@ -1,6 +1,8 @@
 ---
-layout: content
 title: Space Invader VI – Living Together
+layout: content
+tag: talk
+pubdate: '2018'
 hero: /assets/img/congratulations_space-invaders-vi.jpg
 children:
   - 'SI ~ Congratulations, the Space is invaded: Now What?'
