@@ -10,6 +10,7 @@ summary: >-
 children:
   - 'Cyber ~ Archiving Knowledge, sculptures'
   - 'Cyber ~ Cyborg Archives: Can Archives Speak?'
+  - 'Assembly of Access, TIFA Working Studios, 2018'
 ---
 The curatorial framework, set by artist/curator Vidisha Fadescha was "To Participate in the Archive".
 
