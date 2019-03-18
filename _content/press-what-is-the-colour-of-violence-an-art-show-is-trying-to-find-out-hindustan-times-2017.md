@@ -1,7 +1,5 @@
 ---
-title: >-
-  What is the colour of violence? An art show is trying to find out, Hindustan
-  Times, 2017
+title: 'What is the colour of violence?, Hindustan Times, 2017'
 layout: content
 tag: press
 pubdate: '2017'
