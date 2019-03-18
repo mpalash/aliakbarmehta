@@ -1,14 +1,12 @@
 ---
-title: >-
-  talk ~ Congratulations, the Space is invaded: Now What?, Space Invader VI -
-  Living Together, Helsinki, 2018
+title: 'talk ~ Congratulations, the Space is invaded: Now What?'
 layout: content
 tag: talk
 pubdate: '2018'
 hero: /assets/img/Congratulations_Space Invaders VI.jpg
 summary: >-
-  An artist talk at ‘SPACE INVADERS VI - Living Together’ titled,
-  “Congratulations, the Space is invaded: Now What?”
+  “Congratulations, the Space is invaded: Now What?”, at SPACE INVADERS VI -
+  'Living Together’, Helsinki, 2018
 
 
   By looking at the repeated gestures of Space Invasion and subsequent
