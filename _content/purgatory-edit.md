@@ -1,7 +1,8 @@
 ---
+title: work ~ Purgatory Edit
 layout: content
-title: Purgatory Edit
-tag: "individual work"
+tag: individual work
+pubdate: '2017'
 children:
   - purg~ Purgatory edit
   - purg~ stills from video
