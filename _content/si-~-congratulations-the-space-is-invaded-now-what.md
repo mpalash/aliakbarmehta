@@ -1,10 +1,11 @@
 ---
+title: 'talk ~ Congratulations, the Space is invaded: Now What?'
 layout: content
-title: 'SI ~ Congratulations, the Space is invaded: Now What?'
-parent: Space Invader VI – Living Together
 tag: talk
 pubdate: '2018'
+hero: /assets/img/Congratulations_Space Invaders VI.jpg
 summary: '<https://www.facebook.com/vidha.saumya/videos/10156306353767482/>'
+parent: Space Invader VI – Living Together
 ---
 By looking at the repeated gestures of Space Invasion and subsequent post-revolution spaces, we understand that the main difficulty in post-revolution spaces is maintaining the changed status quo, and to not revert back into sedimented hegemonies of power.
 
