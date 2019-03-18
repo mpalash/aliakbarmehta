@@ -1,7 +1,7 @@
 ---
 title: What a Wonderful World
 layout: content
-tag: individual work
+tag: video
 pubdate: '2014'
 summary: >-
   Set in a post Apocalyptic World, What a wonderful World is a short ‘music’
