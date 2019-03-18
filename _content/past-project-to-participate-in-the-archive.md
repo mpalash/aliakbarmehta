@@ -9,6 +9,7 @@ summary: >-
   the [ARTEL2018](http://tifa.edu.in/artel/), TIFA Working Studios.
 children:
   - 'Cyber ~ Archiving Knowledge, sculptures'
+  - 'Cyber ~ Cyborg Archives: Can Archives Speak?'
 ---
 The curatorial framework, set by artist/curator Vidisha Fadescha was "To Participate in the Archive".
 
