@@ -1,5 +1,5 @@
 ---
-title: 'talk ~ Re-Musing the Museum, Kiasma Museum Contemporary Art, 2018'
+title: 'talk ~ Re-Musing the Museum: Part II, Kiasma Museum Contemporary Art, 2018'
 layout: content
 tag: talk
 pubdate: '2018'
