@@ -1,8 +1,7 @@
 ---
-layout: content
 title: Ballad ~ Review by Abhishek Bandekar
-parent: 'Ballad of the War that Never Was, and Other Basterdised Myths'
-tag: resource
+layout: content
+tag: press
 pubdate: '2011'
 summary: >-
   It is amazing how you can know an artist as a friend for well over a decade,
@@ -11,6 +10,7 @@ summary: >-
   annoying retreats into absence and isolation aside, his has been the voice
   that has spoken to me time and again from beyond the veneer of superficial
   film-informed notions of dosti.
+parent: 'Ballad of the War that Never Was, and Other Basterdised Myths'
 ---
 To see, nay experience, Ali’s staggering and overwhelming collection of paintings in his first solo show was speaking to Ali in the non-diegetic. I’ve had these conversations with him, agreed non-emphatically over a society that has increasingly become desensitized to violence, both physical and emotional. And yet, witnessing on canvas all that has been spoken and that which has been unexpressed thanks to the finite nature of language, written or spoken; I was rendered speechless and in awe to respond clinically to what was a series of works that had hit me in the gut.
 
