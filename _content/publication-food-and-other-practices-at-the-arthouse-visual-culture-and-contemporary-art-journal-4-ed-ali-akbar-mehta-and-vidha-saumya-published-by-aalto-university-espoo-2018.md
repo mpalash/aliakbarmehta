@@ -1,7 +1,7 @@
 ---
 title: >-
   FOOD and Other Practices at the Arthouse, Visual Culture and Contemporary Art
-  Journal #4, (ed.) Ali akbar Mehta and Vidha Saumya, Published by Aalto
+  Journal #4, (ed.) Ali Akbar Mehta and Vidha Saumya, Published by Aalto
   University, Espoo, 2018
 layout: content
 tag: publication
