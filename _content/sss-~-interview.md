@@ -1,8 +1,7 @@
 ---
-layout: content
 title: sss ~ Interview
-parent: 'SITE : STAGE : STRUCTURE'
-tag: resource
+layout: content
+tag: press
 pubdate: '2014'
 summary: >-
   \> What will be the focus of your talk; what will be the highlights?
@@ -23,6 +22,7 @@ summary: >-
   the dry dock. Here I fight nostalgia by documenting it, recreating it through
   videos, conversations and staging ethnographic reconstructions of people’s
   homes.
+parent: 'SITE : STAGE : STRUCTURE'
 ---
 \> Tell us a bit about yourself and your work. 
 
