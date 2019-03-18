@@ -19,9 +19,7 @@ Good evening,
 
 My name is Ali Akbar Mehta. For those of you who do not know me, I am a Transmedia artist, living now in Helsinki since 2015. My practice involves creating immersive archives that orbit the themes of violence, conflict and trauma. I am also one of the founding members of Museum of Impossible Forms, and currently one of the three Artistic Directors that are involved in the core programming of the space.
 
-I am here to briefly talk about ethical and political action within a museum space, and share some of the work we do at Museum of Impossible Forms.
-
-
+I am here to briefly talk about ethical and political action within a museum space, and share some of the work we do at Museum of Impossible Forms. I can begin by providing some kind of a contextual framework that seems relevant in why we do... what we do at Museum of Impossible Forms:
 
 We are living in a ‘knowledge based’ society, where intellectual labour has a dominant form; and that the ability to communicate, to act autonomously and to produce knowledge are the requirements for being creative, creating and consuming knowledge. “Knowledge has to be produced somewhere \[…] once produced, it has to be transmitted \[…] this transmission will by necessity imply a pedagogical element.” One also assumes that if knowledge is of increasing importance today, institutions of both creating and transmitting knowledge must be important – But reality disproves this assumption as we witness a deterioration due to lack of funding, thereby ruining academies, universities and institutions; and defunding and cuts in culture sector reducing the effectiveness of artistic endeavours.
 
@@ -29,15 +27,9 @@ Sooner or later we will reach a knowledge society without knowledge. Worse, soci
 
 The burden of producing knowledge is therefore increasingly shifted onto the individual ‘User’. The ‘User’ here is simultaneously an archivist/ artist/ curator/ author/ researcher/ participant/ audience. Museum of Impossible Forms recognizes the implied urgency within this crucial fact and its own role as a para-institution focusing on alternate pedagogy.
 
-
-
 \*\*
 
-
-
-
-
-The question that we at Museum of Impossible Forms are asking is, “How can we propose an alternative?”
+And so, The question that we at Museum of Impossible Forms are asking is, “How can we propose an alternative?”
 
 Where is our agency?
 
@@ -63,15 +55,13 @@ Where is our agency?
 >
 > To be heard?
 
-
-
 Ethnocentrism is a dominant, normative and often hegemonic thinking that would have all of us, as individuals, believe that ‘My Culture is better than yours’.
 
 Conversely, The act of being a student is a performative act. It is an act that actively disengages with the statement of ethnocentrism, and states instead that ‘your knowledge is better than mine’. As students those who profess to be in a state of learning) we hope and claim to seek that knowledge by a seemingly simple acknowledgement ‘Your Culture is better than mine’. Of course, this statement is at least partially utopian if not terribly presumptuous. But I make it in the face of the current ethnocentricity that has seemingly shaped our understanding of history, a history of struggle, of conflict and violence, and other relations of power structures. 
 
 In postcolonial theory, unlearning dominant knowledge has been repeatedly discussed as an important practice for challenging the value-encoding apparatus from inside the structure of knowledge production. Is it even possible to simply leave dominant knowledge behind?  For Nora Sternfeld, the answer is clear – there is simply no way back to a time or place before the history of relations of power and violence that are responsible for what we know today. For her, it is an absurd position, one that may even support the hegemonic power relations at play; “unlearning” is not merely interested in finding ways to avoid hegemony, but instead in formulating counter-hegemonic processes. Unlearning therefore neither involves imagining going back to a time before the current power relations were in place, nor a clear-cut correction process. It is about naming and thereby socially transforming histories of violence and spaces of agency created by resistance and struggles for liberation. In this sense, it is a form of learning that actively rejects dominant, privileged, exclusionary and violent forms of knowledge and acting, which we still often understand as education, and knowledge. 
 
-For me , Museum of Impossible Forms is a partial response towards the fulfilment of a responsibility to facilitate and/or empower the facilitation of a new kind of para-institution. The main aim of all activities, events, and programs, is to continue to investigate the foundation on which M{if} is proposed, which is: To create a space that facilitates the creation of emancipatory knowledge that upholds the principles of decoloniality and equality, within a larger framework of ‘Alternative Pedagogy’ and ‘Para Institutional Spaces’, as a space for learning, unlearning and relearning.
+For me , Museum of Impossible Forms is a partial response towards the engulfment of a responsibility to facilitate and/or empower the facilitation of a new kind of para-institution. The main aim of all activities, events, and programs, is to continue to investigate the foundation on which M{if} is proposed, which is: To create a space that facilitates the creation of emancipatory knowledge that upholds the principles of decoloniality and equality, within a larger framework of ‘Alternative Pedagogy’ and ‘Para Institutional Spaces’, as a space for learning, unlearning and relearning.
 
 We at Museum of Impossible Forms wish to complicate the words ‘Museum’, and ‘Impossible’. For us, the word museum already contains within it the contemporary notions of the para-museum, the counter museum, the anti-museum. Museum no longer represent the ivory towers and petrification machines, where objects are preserved and inventoried in accordance with their cultural and historical ‘value’. Rather, they must take upon themselves to (re)establish their relationship to society and take on the role of being educational.
 
@@ -81,7 +71,7 @@ Where ‘post’ in Post Adolescent, Post Modern, Post Human, Post Jargon, Post 
 
 As the poet and philosopher Sun Ra has said, 
 
-**_“The possible has been tried and failed. Now it's time to try the impossible.”_**
+_**“The possible has been tried and failed. Now it's time to try the impossible.”**_
 
 And so , if you will repeat after me, “Museums: 
 
@@ -112,8 +102,6 @@ In a former time, such criticism would not have been valid or even necessary. Ma
 
 The language of critique is effective – not because it keeps separate the terms of the master and the slave, the mercantilist and the Marxist – to the extent to which it overcomes the given grounds of opposition and opens up a space of translation: a hybrid place where the construction of a political object that is new – neither the one nor the other – properly alienates our political expectations and changes the way we recognise the moment of politics. According to Galloway, “The challenge lies in conceiving of the time of political action and understanding as opening up a space that can accept and regulate, the differential structure of the moment of intervention, without rushing to produce a unity of the social antagonism or contradiction.”
 
-
-
 The question is no longer the same that Hannah Arendt asked:
 
 “Can we use the master’s tools to take down the master’s house?” 
@@ -125,8 +113,6 @@ Today the question is
 It is a critical method applied towards learning, unlearning and relearning its subject of enquiry, through the shedding of the illusion of predestination and the Superego. It is especially useful in ascertaining other methods and fields of making sense of the world. It resonates with the post-structural theories of first invalidating all truths, and subsequently, through a process of theoretical reasoning and a praxis of ‘doing the everyday’ formulating newer – updated socio-political values. The act of tenderness in essential in the way toward “learning to learn from below” as in Gayatri Chakravorty Spivak’s formulation, or, as Souleymane Bachir Diagne puts it, learning from others in order to live together. Such learning, for Adam Szymczyk, allows us, as artists to imagine a symmetrical situation of the encounter of equals, and not not an asmmetrical power relationship between the soveriegn and the subaltern.
 
 Whatever the archive may not do, it must do this. It must be unflinchingly non-selective, and be cognizant of our differences, our diversity, our plurality; but it must also highlight our affinities, our intersections, our togetherness – in order to counter alienation by providing spaces for familiarisation. Familiarisation is the key function for the archive of today, the act of familiarising ourselves to each other is the crucial task we face. Through it we present ourselves ‘\[…] only as members of a biological species which has a remarkable history, and whose disappearance none of us can desire’, rather than as beings who present themselves to each other as unrecognisable aliens, self censored and segregated into claims of uniqueness and markers of identity that can have no ultimate meaning.
-
-
 
 ## Museum of Impossible Forms:
 
@@ -172,8 +158,6 @@ For example:
 > Its library consists of books, zines, pamphlets and music, films and other material that is not usually available in public libraries, with specific leaning towards works on decoloniality, anti-racism. intersectionality, feminism and queer theory. Within the operations of the library is our creative writing programmes, which contribute to the library through self-published texts, published under the Publishing Table project.
 >
 > The Publishing Table hosts regular book and zine-making workshops, similarly contributing to the library and archive. The Publishing table is also central in producing an annual edition of The Impossible Reader, a critical publication to consolidate practices, events and programs at M{if}, the first edition of which will be available by summer of 2019.
-
-
 
 ## The centre/margin binary:
 
@@ -226,8 +210,6 @@ To simply summarise, Museum of Impossible Forms currently facilitates :
 These are not just ongoing events, but represent a slow work of building communities, where often the work is invisible and hidden by necessity. These events are the tip of the iceberg, and often defy easy categoraisation
 
 To conclude, I would like to ask you to participate in the reading of this poem by Saul Williams, by repating each line that begins with the word 'hack'
-
-
 
 > _"Hack into dietary sustenance_
 >
