@@ -23,6 +23,6 @@ summary: >-
   make space?'
 parent: Space Invader VI – Living Together
 ---
-To hear a recording of the talk, click [here](https://www.facebook.com/vidha.saumya/videos/10156306353767482/)
+To see recording of the talk, click [here](https://www.facebook.com/vidha.saumya/videos/10156306353767482/)
 
 To learn more about Space Invaders, click [here](https://www.publics.fi/calendar/space-invaders-vi/)
