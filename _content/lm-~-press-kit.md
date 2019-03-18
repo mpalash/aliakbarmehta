@@ -1,8 +1,8 @@
 ---
-layout: content
 title: LM ~ Press Kit
-parent: Luminous Matter
-tag: resource
+layout: content
+tag: press
 pubdate: '2011'
+parent: Luminous Matter
 ---
 Press Kit PDF
