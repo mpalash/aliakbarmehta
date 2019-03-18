@@ -1,6 +1,6 @@
 ---
 title: >-
-  THE BB ART SHOWCASE: ALI AKBAR MEHTA, A MULTIDISCIPLINARY ARTIST FROM MUMBA,
+  THE BB ART SHOWCASE: ALI AKBAR MEHTA, A Multidisciplinary Artist from Mumbai,
   Be Beautiful, 2015
 layout: content
 tag: press
