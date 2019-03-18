@@ -1,5 +1,5 @@
 ---
-title: 'Does violence have a colour?, Mid-day, 2017'
+title: 'press ~ Does violence have a colour?, Mid-day, 2017'
 layout: content
 tag: press
 pubdate: '2017'
