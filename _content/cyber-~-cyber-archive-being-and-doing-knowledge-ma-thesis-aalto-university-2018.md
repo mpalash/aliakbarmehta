@@ -5,6 +5,7 @@ title: >-
 layout: content
 tag: publication
 pubdate: '2018'
+hero: /assets/img/cyber-archive_hero-image.png
 summary: >-
   The thesis is framed through the question: How can ‘archives transformed by
   the use of digital technologies’ be studied within the framework of
