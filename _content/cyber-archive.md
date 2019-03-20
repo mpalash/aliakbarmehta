@@ -11,9 +11,9 @@ children:
     University, 2018
   - 'Cyber ~ Archiving Knowledge, sculptures'
   - ' Cyber Archive: Questions'
+  - 'Cyber ~ Cyber Archive: Archiving as a sustainable counter-hegemonic practice'
   - >-
-    Cyber ~ Cyber Archive: Archiving as a sustainable counter-hegemonic practice
-  - >-
-    Cyber ~ To Not Wait for the Archive: Home and Labour mired in the complications of Invisibalisation
+    Cyber ~ To Not Wait for the Archive: Home and Labour mired in the
+    complications of Invisibalisation
 ---
 Cyber archive is less of an artistic project, more of a curatorial framework.
