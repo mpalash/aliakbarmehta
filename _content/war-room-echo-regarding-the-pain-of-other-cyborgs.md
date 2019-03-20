@@ -2,6 +2,7 @@
 layout: content
 title: 'WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs'
 tag: "ongoing project"
+pubdate: '2018'
 hero: /assets/img/pispala-performance.jpg
 children:
   - 'wre ~ Forward: Artist''s Note'

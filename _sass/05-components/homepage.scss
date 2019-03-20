@@ -40,18 +40,19 @@
       top: $s-b;
       left: 0;
       list-style: none;
-      padding: $s-s $s-m;
+      padding: 0;
       margin: $s-b 0;
       background-color: $color-warm-dark;
-      border: 1px solid $color-warm;
+      // border: 1px solid $color-warm;
       border-radius: $s-xs;
-      width: $s-xxxl * 3;
+      width: $s-xxxl * 5;
       visibility: hidden;
       opacity: 0;
       transition: opacity 0.1s ease-in, width 0.3s ease-in;
 
       li {
-        margin: $s-s 0;
+        margin: $s-xs 0;
+        font-size: 0.9rem;
       }
     }
   }

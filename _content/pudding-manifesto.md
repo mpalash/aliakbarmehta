@@ -2,6 +2,7 @@
 layout: content
 title: Pudding Manifesto for Togetherness
 tag: "past project"
+pubdate: '2016'
 children:
   - Pud~ Proposal text
   - Pud ~ Installation views
@@ -10,7 +11,7 @@ children:
   - Pud~ Project Report
   - Pud~ Other Readings
 ---
-part of 
+part of
 
 **EXPLORING HISTORICAL AND THEORECTICAL ROOTS**
 
