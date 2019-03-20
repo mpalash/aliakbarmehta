@@ -40,6 +40,10 @@ collections: # A list of collections the CMS should be able to edit
         name: "title"
         required: false
         widget: "string"
+      - label: "Subtitle"
+        name: "subtitle"
+        required: false
+        widget: "string"
       - label: "Layout"
         name: "layout"
         widget: "hidden"
@@ -67,7 +71,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "parent"
         required: false
         widget: "relation"
-        collection: "project"
+        collection: "content"
         searchFields: ["title"]
         valueField: "title"
         displayFields: ["title"]
