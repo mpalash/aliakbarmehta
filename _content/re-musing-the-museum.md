@@ -1,5 +1,6 @@
 ---
-title: 'talk ~ Re-Musing the Museum: Part II, Kiasma Museum of Contemporary Art, 2018'
+title: 'Re-Musing the Museum: Part II'
+subtitle: Kiasma Museum of Contemporary Art, 2018
 layout: content
 tag: talk
 pubdate: '2018'
@@ -15,7 +16,7 @@ children: []
 ---
 ## Re-Musing the Museum, Part II
 
-Good evening, 
+Good evening,
 
 My name is Ali Akbar Mehta. For those of you who do not know me, I am a Transmedia artist, living now in Helsinki since 2015. My practice involves creating immersive archives that orbit the themes of violence, conflict and trauma. I am also one of the founding members of Museum of Impossible Forms, and currently one of the three Artistic Directors that are involved in the core programming of the space.
 
@@ -57,9 +58,9 @@ Where is our agency?
 
 Ethnocentrism is a dominant, normative and often hegemonic thinking that would have all of us, as individuals, believe that ‘My Culture is better than yours’.
 
-Conversely, The act of being a student is a performative act. It is an act that actively disengages with the statement of ethnocentrism, and states instead that ‘your knowledge is better than mine’. As students those who profess to be in a state of learning) we hope and claim to seek that knowledge by a seemingly simple acknowledgement ‘Your Culture is better than mine’. Of course, this statement is at least partially utopian if not terribly presumptuous. But I make it in the face of the current ethnocentricity that has seemingly shaped our understanding of history, a history of struggle, of conflict and violence, and other relations of power structures. 
+Conversely, The act of being a student is a performative act. It is an act that actively disengages with the statement of ethnocentrism, and states instead that ‘your knowledge is better than mine’. As students those who profess to be in a state of learning) we hope and claim to seek that knowledge by a seemingly simple acknowledgement ‘Your Culture is better than mine’. Of course, this statement is at least partially utopian if not terribly presumptuous. But I make it in the face of the current ethnocentricity that has seemingly shaped our understanding of history, a history of struggle, of conflict and violence, and other relations of power structures.
 
-In postcolonial theory, unlearning dominant knowledge has been repeatedly discussed as an important practice for challenging the value-encoding apparatus from inside the structure of knowledge production. Is it even possible to simply leave dominant knowledge behind?  For Nora Sternfeld, the answer is clear – there is simply no way back to a time or place before the history of relations of power and violence that are responsible for what we know today. For her, it is an absurd position, one that may even support the hegemonic power relations at play; “unlearning” is not merely interested in finding ways to avoid hegemony, but instead in formulating counter-hegemonic processes. Unlearning therefore neither involves imagining going back to a time before the current power relations were in place, nor a clear-cut correction process. It is about naming and thereby socially transforming histories of violence and spaces of agency created by resistance and struggles for liberation. In this sense, it is a form of learning that actively rejects dominant, privileged, exclusionary and violent forms of knowledge and acting, which we still often understand as education, and knowledge. 
+In postcolonial theory, unlearning dominant knowledge has been repeatedly discussed as an important practice for challenging the value-encoding apparatus from inside the structure of knowledge production. Is it even possible to simply leave dominant knowledge behind?  For Nora Sternfeld, the answer is clear – there is simply no way back to a time or place before the history of relations of power and violence that are responsible for what we know today. For her, it is an absurd position, one that may even support the hegemonic power relations at play; “unlearning” is not merely interested in finding ways to avoid hegemony, but instead in formulating counter-hegemonic processes. Unlearning therefore neither involves imagining going back to a time before the current power relations were in place, nor a clear-cut correction process. It is about naming and thereby socially transforming histories of violence and spaces of agency created by resistance and struggles for liberation. In this sense, it is a form of learning that actively rejects dominant, privileged, exclusionary and violent forms of knowledge and acting, which we still often understand as education, and knowledge.
 
 For me , Museum of Impossible Forms is a partial response towards the engulfment of a responsibility to facilitate and/or empower the facilitation of a new kind of para-institution. The main aim of all activities, events, and programs, is to continue to investigate the foundation on which M{if} is proposed, which is: To create a space that facilitates the creation of emancipatory knowledge that upholds the principles of decoloniality and equality, within a larger framework of ‘Alternative Pedagogy’ and ‘Para Institutional Spaces’, as a space for learning, unlearning and relearning.
 
@@ -69,11 +70,11 @@ Museums today must ask on a regular basis, what must be done? Not just for itsel
 
 Where ‘post’ in Post Adolescent, Post Modern, Post Human, Post Jargon, Post Truth, Post Fordist, Post History, Post Colonial, Post Humour, Post Meaning, Post Apocalyptic, Post Graduate, means, ‘In crisis of’.
 
-As the poet and philosopher Sun Ra has said, 
+As the poet and philosopher Sun Ra has said,
 
 **_“The possible has been tried and failed. Now it's time to try the impossible.”_**
 
-And so , if you will repeat after me, “Museums: 
+And so , if you will repeat after me, “Museums:
 
 1. Museums, are archives of knowledge
 2. Museums, preserve patrimony and cultural heritage against vandalism, oblivion, or decay
@@ -90,13 +91,13 @@ As a ‘User’ working to create immersive archives, working with archives and 
 
 If we looks at the similarities between archives and museums, we realise that archives have traditionally worked in conjunction with the same principles that govern museums – they have been ‘petrification machines’ – collecting, encoding and storing objects, documents and data, cultural or otherwise; that has been deemed ‘valuable’ by the agency of the archival system. In Archive Fever, Derrida challenges attempts to compound arkhé and archive, exposing the way in which the concept of the archive is inescapably linked to Archontic power. He reminds us that archives are monuments, in the way in which power is reconfigured. It not merely stores and includes, but also testifies to a narrative of exclusion – what is included in the archive is due to its value, that which is excluded loses its value. But the question is, who ascribes this value to objects or documents in archives? And through what criteria? And so it makes sense that according to Archival theorist Achille Mbembe, ‘The Archive is a status’.
 
-For me, The real issue concerns archiving/museum building as a possible form of critical art, the ways in which artistic practices can contribute to questioning the dominant hegemony. Once we accept that identities are never pre-given but that they are always the result of processes of identification, that they are discursively constructed, the question that arises is the type of identity that critical artistic practices should aim at fostering. 
+For me, The real issue concerns archiving/museum building as a possible form of critical art, the ways in which artistic practices can contribute to questioning the dominant hegemony. Once we accept that identities are never pre-given but that they are always the result of processes of identification, that they are discursively constructed, the question that arises is the type of identity that critical artistic practices should aim at fostering.
 
 Peter Mayo, who writes on both Gramsci and Freire, asks a simple question that all political education must ask itself: “what side are we on when \[we] teach, educate and act?” As students (those who profess to be in a state of learning), we may ask – what side are we on when we learn and act? What is it that we learn, how do we learn it, and what do we communicate once it is learnt?
 
 As beginnings – arche, and their types (archetypes) are formulated, naturalised and assimilated into the way we think about culture, they become standards that generate tendencies of further cultural production. If our culture – our knowledge – truly encompasses everything that we know, then this knowledge is not selective. And so neither can the gaze that views this knowledge, our reflective gaze – our archive.
 
-The ‘postmodern condition’ has now cornered us in a seemingly impossible situation. We are compelled to seek alternate histories in order to achieve an impossible balance between knowledge and the power it produces. Globalisation has created a condition where a subsequent ‘clash of civilisations’ has thrown us against each other in ways we are still seeking to explain. We are in the throes of the effects of our condition, where we are yet to understand completely its cause. The post-structural thinking that sought to decentralise the structures, and expose ideological domination, have fallen prey to its own dogmatic tools – a dogma of predestination, as well as the capitalist Superego Paradox. 
+The ‘postmodern condition’ has now cornered us in a seemingly impossible situation. We are compelled to seek alternate histories in order to achieve an impossible balance between knowledge and the power it produces. Globalisation has created a condition where a subsequent ‘clash of civilisations’ has thrown us against each other in ways we are still seeking to explain. We are in the throes of the effects of our condition, where we are yet to understand completely its cause. The post-structural thinking that sought to decentralise the structures, and expose ideological domination, have fallen prey to its own dogmatic tools – a dogma of predestination, as well as the capitalist Superego Paradox.
 
 In a former time, such criticism would not have been valid or even necessary. Marx was writing against a system that laid no specific claims to the apparatus of knowledge production itself – even if it was fuelled by a persistent and pernicious form of ideological misrecognition. Yet, today the situation is entirely reversed. ‘The new spirit of capitalism is found in brainwork, self-measurement and self-fashioning, perpetual critique and innovation, data creation and extraction. In short, doing capitalist work and doing intellectual work – of any variety, bourgeois or progressive – are more aligned today than they have ever been.’
 
@@ -104,9 +105,9 @@ The language of critique is effective – not because it keeps separate the term
 
 The question is no longer the same that Hannah Arendt asked:
 
-“Can we use the master’s tools to take down the master’s house?” 
+“Can we use the master’s tools to take down the master’s house?”
 
-Today the question is 
+Today the question is
 
 “Can we still use our own tools now that the master has taken them up?”
 
@@ -116,7 +117,7 @@ Whatever the archive may not do, it must do this. It must be unflinchingly non-s
 
 ## Museum of Impossible Forms:
 
-Museum of Impossible Forms (M{if}) is a ‘culture centre’ that started operating in Kontula in the spring of 2017, seeking to become an integral part of the evolving sociopolitical and cultural lives of Kontula. 
+Museum of Impossible Forms (M{if}) is a ‘culture centre’ that started operating in Kontula in the spring of 2017, seeking to become an integral part of the evolving sociopolitical and cultural lives of Kontula.
 
 M{if} is also the coming together of a collective of people – artists, curators, pedagogists, philosophers and facilitators – art and cultural workers who believe in the need for this space. M{if } consists of  
 
@@ -147,9 +148,9 @@ Beyond these individuals, Museum of Impossible Forms works with a number of coll
 * Chimurenga Collective, SA
 * Clark House Initiative, Mumbai
 
-As artists, curators, researchers, art workers and ‘Others’, a significant part of MIF’s practice is of enquiry, research and representations of experiences as well as parallel personal and public histories. We are striving towards legibility – a vocabulary. 
+As artists, curators, researchers, art workers and ‘Others’, a significant part of MIF’s practice is of enquiry, research and representations of experiences as well as parallel personal and public histories. We are striving towards legibility – a vocabulary.
 
-At its core, M{if} houses a multilingual library and multimedia archive; as well a workshop and exhibition space. It facilitates curated discursive art programs, with an opportunity for norm-critical dialogue framed within the discourse of decoloniality, postcolonial feminism, and queer theory. 
+At its core, M{if} houses a multilingual library and multimedia archive; as well a workshop and exhibition space. It facilitates curated discursive art programs, with an opportunity for norm-critical dialogue framed within the discourse of decoloniality, postcolonial feminism, and queer theory.
 
 M{if} entangles different realities and experiences – with collaboration, participation and a space for audience that is prompted by ideas of utopia and oppression, history and the future, borders, time, art and technology, and, more importantly, community. Live conversations, travelogues, discussion sessions and performances, and exhibitions of new and archival material interrogate our shared histories and forge new collaborations across time and space.
 
@@ -163,7 +164,7 @@ For example:
 
 M{if} began two years ago, with funding from Kone Foundation that allows M{if} to be a free space. The Museum of Impossible Forms is a free space, which means that it does not charge artists a monetary fee to use the space. It is a free space with the mandate to avail our resources (archive, library, workshop) and expertise to the surrounding community. All the events organised in the space have so far been free also for the audience to attend, and our principle is, with the help of funding, to keep the events free. Furthermore, we intend to compensate invited guests, artists, curators and speakers to support the integrity and ethics of cultural labor which is all too often underpaid, and underappreciated.
 
-Although several artist-run spaces exist in Helsinki, and are ‘free’, ie. They do not charge artists and collaborators a fee for the use of its premises; they often operate out of the centre. 
+Although several artist-run spaces exist in Helsinki, and are ‘free’, ie. They do not charge artists and collaborators a fee for the use of its premises; they often operate out of the centre.
 
 M{if} is interested in ‘working in the margin’. Margin here is used in a socio-political sense: as opposed to the commercial center, the historic center, & the political center. M{if} shifts the site of culture away from a centralised & elitist position. Our aim is not to import culture into “cultural deserts,” but to co-generate it with the community, as its own creative common. Freed from its economic shackles, for us the domain of ‘the museum’ not only provides knowledge to be free as an option, but as ‘inevitable destination’. We need to look around us for examples of this in action. Beyond social media platforms such as facebook and Instagram, where we can see an increasing rise of artists-led archiving of their own selves and their work, where sharing is prioritised over the market, and freely shared knowledge defines its own currency
 
@@ -175,13 +176,13 @@ As such, the Uniqueness of M{if} also lies in the composition of its members and
 
 The programming at M{if} is roughly divided into two kinds of programming: one, that belongs to and is rooted within the art world and its activities; The other is located within the physicality of being in Kontula.
 
-Kontula was conceived of as a Utopian project marking 50 years of Finnish Independence, largely constructed in the 1960s and 1970s. With the end of the cold war in the 1990’s, Kontula witnessed the devastating effect of economic crisis as well as an influx of immigrants and refugees from the Middle East, Africa, Eastern Europe and Russia. Today, the business ventures of Kontula Mall that also houses MIF, serve the needs of a growing demographic change (Iraqi and Syrian eating houses, immigrant run barbershops, hairdressers and bakeries) have created hybrid sites practicing the politics of togetherness, by reviving dying shopping malls to serve its own needs, engages the performativity of its own culture and as a contemporary institution remaking its own center. 
+Kontula was conceived of as a Utopian project marking 50 years of Finnish Independence, largely constructed in the 1960s and 1970s. With the end of the cold war in the 1990’s, Kontula witnessed the devastating effect of economic crisis as well as an influx of immigrants and refugees from the Middle East, Africa, Eastern Europe and Russia. Today, the business ventures of Kontula Mall that also houses MIF, serve the needs of a growing demographic change (Iraqi and Syrian eating houses, immigrant run barbershops, hairdressers and bakeries) have created hybrid sites practicing the politics of togetherness, by reviving dying shopping malls to serve its own needs, engages the performativity of its own culture and as a contemporary institution remaking its own center.
 
-Today, we are witnessing a shift in the business ventures of Kontula that serve the needs of a growing demographic change – Iraqi and Syrian eating houses, immigrant runned barbershops, hairdressers and bakeries, that clearly do not seek to assimilate, replace or unify – but rather to create hybrid sites practicing the politics of togetherness. It is a different kind of gentrification, wherein dying shopping malls are revived by the area communities to serve its needs. THESE are the contexts of counter-hegemonic intervention that we want to nestle our artistic and curatorial praxis within. 
+Today, we are witnessing a shift in the business ventures of Kontula that serve the needs of a growing demographic change – Iraqi and Syrian eating houses, immigrant runned barbershops, hairdressers and bakeries, that clearly do not seek to assimilate, replace or unify – but rather to create hybrid sites practicing the politics of togetherness. It is a different kind of gentrification, wherein dying shopping malls are revived by the area communities to serve its needs. THESE are the contexts of counter-hegemonic intervention that we want to nestle our artistic and curatorial praxis within.
 
 Establishing Museum of Impossible Forms specifically in Kontula, has both conceptual and personal significance for its members. For us, it is in part an attempt to Put down roots, to find comfort in a space that allows us the space to loiter, hang out and to just be.
 
-I can explain – Museum of Impossible Forms is in one of the buildings of the Old Arcade style malls of Kontula. As you exit the metro, you enter a space of multiple entry and exits, an open-access space, a loosely crafted network of shops, cafes, bars and squares, a garden/park and a children’s playing area. The mall forms an ecosystem of various co-inhabitants. For example, one of the neighbouring spaces of M{if} is a prayer room. Often when the prayer room is closed, people who intend to go to it, end up waiting in M{if}, often hanging out and often end up participating in an ongoing discussion, seminar, screening etc. 
+I can explain – Museum of Impossible Forms is in one of the buildings of the Old Arcade style malls of Kontula. As you exit the metro, you enter a space of multiple entry and exits, an open-access space, a loosely crafted network of shops, cafes, bars and squares, a garden/park and a children’s playing area. The mall forms an ecosystem of various co-inhabitants. For example, one of the neighbouring spaces of M{if} is a prayer room. Often when the prayer room is closed, people who intend to go to it, end up waiting in M{if}, often hanging out and often end up participating in an ongoing discussion, seminar, screening etc.
 
 M{if} not only sits on the margins of multiple worlds in Kontula and Helsinki, but bridges them within the folds of its space and its transdisciplinarity.
 

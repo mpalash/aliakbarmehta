@@ -1,5 +1,5 @@
 ---
-title: 'talk ~ Congratulations, the Space is invaded: Now What?'
+title: 'Congratulations, the Space is invaded: Now What?'
 layout: content
 tag: talk
 pubdate: '2018'

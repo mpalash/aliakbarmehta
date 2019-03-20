@@ -1,8 +1,8 @@
 ---
 layout: content
 title: >-
-  Ballad ~ Not on Noah’s Ark, but on the Raft of the Medusa: Recent Works by Ali
-  Akbar Mehta
+  Ballad ~ Not on Noah’s Ark, but on the Raft of the Medusa
+subtitle: Recent Works by Ali Akbar Mehta
 parent: 'Ballad of the War that Never Was, and Other Basterdised Myths'
 tag: text
 pubdate: '2011'

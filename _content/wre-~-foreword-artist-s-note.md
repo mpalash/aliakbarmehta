@@ -1,6 +1,6 @@
 ---
 layout: content
-title: 'wre ~ Forward: Artist''s Note'
+title: 'wre ~ Foreword: Artist''s Note'
 parent: 'WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs'
 tag: text
 pubdate: '2014'

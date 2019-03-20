@@ -1,5 +1,5 @@
 ---
-title: purg~ stills from video
+title: purg ~ stills from video
 layout: content
 tag: artwork
 pubdate: '2017'

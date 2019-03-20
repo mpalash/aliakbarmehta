@@ -1,5 +1,5 @@
 ---
-title: 'press ~ The Spaces Are Alive, Design Owl, 2016'
+title: The Spaces Are Alive, Design Owl, 2016
 layout: content
 tag: press
 pubdate: '2016'

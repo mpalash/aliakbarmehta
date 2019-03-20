@@ -1,5 +1,6 @@
 ---
-title: 'Maunula Remix, mcult, Maunula House, 2018'
+title: Maunula Remix
+subtitle: mcult, Maunula House, 2018
 layout: content
 tag: talk
 pubdate: '2018'

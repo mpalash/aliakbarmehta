@@ -1,8 +1,10 @@
 ---
 layout: content
 title: >-
-  sss ~ FOLKARCHIVE: Ali Akbar Mehta in Conversation with Sumesh Sharma,
-  moderated by Latika Gupta, Bhau Daji Lad
+  sss ~ FOLKARCHIVE: Ali Akbar Mehta
+subtitle: >-
+  in Conversation with Sumesh Sharma,
+  moderated by Latika Gupta, Dr. Bhau Daji Lad Museum
 parent: 'SITE : STAGE : STRUCTURE'
 tag: talk
 pubdate: '2014'

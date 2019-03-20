@@ -1,7 +1,7 @@
 ---
 title: >-
-  Cyber  ~ Cyber Archive: Being and Doing Knowledge, MA thesis, Aalto
-  University, 2018
+  Cyber  ~ Cyber Archive: Being and Doing Knowledge
+subtitle: MA thesis, Aalto University, 2018
 layout: content
 tag: publication
 pubdate: '2018'
