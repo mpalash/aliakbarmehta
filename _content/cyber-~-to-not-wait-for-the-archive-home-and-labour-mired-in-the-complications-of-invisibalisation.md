@@ -1,9 +1,7 @@
 ---
-title: >-
-  Cyber ~ To Not Wait for the Archive: Home and Labour mired in the
-  complications of Invisibalisation, Visual Culture and Contemporary Art Journal
-  #5, (ed.) Saara Mahbouba, Paola Jallili and Else Lagerspetz, published by
-  Aalto University, Helsinki 2019
+title: Cyber ~ To Not Wait for the Archive
+subtitle: >-
+  Home and Labour mired in the complications of Invisibalisation, Visual Culture and Contemporary Art Journal #5, (ed.) Saara Mahbouba, Paola Jallili and Else Lagerspetz, published by Aalto University, Helsinki 2019
 layout: content
 tag: publication
 pubdate: '2019'
@@ -22,6 +20,6 @@ summary: >-
   an experimental poetics of belonging”.
 children: []
 ---
-The home is therefore a critical commons and the question becomes how do we want to work to preserve it. This act (of preservation) becomes a tender act, essential in the way toward “learning to learn from below” as in Gayatri Chakravorty Spivak’s formulation, or, as Souleymane Bachir Diagne puts it, learning from others in order to live together. Such learning, for Adam Szymczyk, allows us, as artists, to imagine a symmetrical situation of the encounter of equals, and not an asymmetrical power relationship between the sovereign and the subaltern. 
+The home is therefore a critical commons and the question becomes how do we want to work to preserve it. This act (of preservation) becomes a tender act, essential in the way toward “learning to learn from below” as in Gayatri Chakravorty Spivak’s formulation, or, as Souleymane Bachir Diagne puts it, learning from others in order to live together. Such learning, for Adam Szymczyk, allows us, as artists, to imagine a symmetrical situation of the encounter of equals, and not an asymmetrical power relationship between the sovereign and the subaltern.
 
 The home in its formulation as a critical commons can perhaps find resonance in the ideas of Cyber Archives as yet another kind of a critical commons, where to me both are a “transitive engagement”, based on confident encounters (of equals), on the understanding that the Self and the Other need not be locked in the simplistic binaries of either communion or antagonism, hostage to fragmentation or subjugation, but that they can instead weave together a fabric of “adjacencies and distances”, “irrespective of a shared colonial history, which is no longer the only or the most important criterion for an intersection, encounter, or exchange among dissimilar subjectivities \[…]” When such identities are thus unmasked, de-naturalized and dissolved, we are free to work out new forms of dialogue and interaction across difference, a new and redeeming solidarity.
