@@ -1,5 +1,5 @@
 ---
-title: 'press ~ Site Specific, Mumbai Mirror, 2014'
+title: 'Site Specific, Mumbai Mirror, 2014'
 layout: content
 tag: press
 pubdate: '2014'
