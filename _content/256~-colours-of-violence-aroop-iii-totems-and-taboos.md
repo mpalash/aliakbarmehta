@@ -4,7 +4,6 @@ subtitle: '(ed.) Nancy Adajania, published by Raza Foundation, New Delhi, 2018'
 layout: content
 tag: publication
 pubdate: '2018'
-summary: '![](/assets/img/aroop-page-1.jpg)'
 parent: 256 Million Colours of Violence
 ---
 ![](/assets/img/aroop-page-1.jpg)

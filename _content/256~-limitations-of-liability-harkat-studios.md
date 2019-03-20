@@ -7,4 +7,5 @@ tag: "solo exhibition"
 pubdate: '2017'
 ---
 ![](https://raw.githubusercontent.com/mpalash/aliakbarmehta/master/assets/img/256.jpg)
+
 ![](https://raw.githubusercontent.com/mpalash/aliakbarmehta/master/assets/img/256%20Million%20Colours%20of%20Violence_%20Poster.jpg)
