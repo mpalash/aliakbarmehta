@@ -8,4 +8,6 @@ summary: 'https://www.designowl.com/designquest/godrej-legacy-park/'
 parent: 'TRINITY: Gordrej Legacy Park Silos'
 children: []
 ---
-\*
+![](/assets/img/designowl_silo.jpg)
+
+Read [here](https://www.designowl.com/designquest/godrej-legacy-park/)
