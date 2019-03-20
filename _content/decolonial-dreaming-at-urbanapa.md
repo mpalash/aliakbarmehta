@@ -1,5 +1,6 @@
 ---
-title: 'Decolonial Dreaming, Urbanapa 2017, Atenuim Museum, Helsinki, 2017'
+title: 'Decolonial Dreaming, Urbanapa 2017'
+subtitle: 'Ateneum Museum, Helsinki, 2017'
 layout: content
 tag: talk
 pubdate: '2017'
