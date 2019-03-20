@@ -5,11 +5,11 @@ title: >-
 layout: content
 tag: publication
 pubdate: '2018'
-summary: '![](/assets/img/aroop-page-1.png)'
+summary: '![](/assets/img/aroop-page-1.jpg)'
 parent: 256 Million Colours of Violence
 ---
-![](/assets/img/aroop-page-3.png)
+![](/assets/img/aroop-page-3.jpg)
 
 ![](https://raw.githubusercontent.com/mpalash/aliakbarmehta/master/assets/img/aroop-page-4.png)
 
-![](/assets/img/aroop-page-2.png)
+![](/assets/img/aroop-page-2.jpg)
