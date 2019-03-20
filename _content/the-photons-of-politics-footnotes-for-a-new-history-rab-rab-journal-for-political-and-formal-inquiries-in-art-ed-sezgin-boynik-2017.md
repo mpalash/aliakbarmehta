@@ -1,5 +1,5 @@
 ---
-title: 'pub ~ The Photons of Politics: Footnotes for a New History'
+title: 'The Photons of Politics: Footnotes for a New History'
 subtitle: >-
   RAB-RAB Journal for Political and Formal Inquiries in Art, (ed.) Sezgin
   Boynik, 2017
