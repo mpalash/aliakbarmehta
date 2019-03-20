@@ -1,6 +1,6 @@
 ---
 layout: content
-title: 256 ~ Artist Statement
+title: 256 ~ Artist Statement, 2016
 parent: 256 Million Colours of Violence
 tag: text
 pubdate: '2016'

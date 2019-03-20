@@ -15,10 +15,11 @@ summary: >-
   2017, structured around ‘**256 Million Colours of Violence**’ – an interactive
   survey-based-research project by contemporary transmedia artist, **Ali Akbar
   Mehta**.
----
-This interactive survey-based-research project started in 2016, now includes more than 200 entries of people from all walks of life. 256 Million Colours of Violence is available to the public for free. The exposition of the past survey results will be installed along with a participation booth at The Mumbai Assembly and Harkat studios inviting everyone to participate in the ongoing survey.
 
-Held across three venues – The Mumbai Assembly (Bandra), The Piramal Art Foundation (Lower Parel) and Harkat Studios (Versova) – the program will also include poetry recitations, talks and discussions, and a series of films screenings concerned with the subject of violence and trauma.
+  This interactive survey-based-research project started in 2016, now includes more than 200 entries of people from all walks of life. 256 Million Colours of Violence is available to the public for free. The exposition of the past survey results will be installed along with a participation booth at The Mumbai Assembly and Harkat studios inviting everyone to participate in the ongoing survey.
+---
+
+Held across three venues – The Mumbai Assembly (Bandra), The Piramal Art Foundation (Lower Parel) and Harkat Studios (Versova) – the program also included poetry recitations, talks and discussions, and a series of films screenings concerned with the subject of violence and trauma.
 
 Details below:
 
