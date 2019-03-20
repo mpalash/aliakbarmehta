@@ -1,6 +1,6 @@
 ---
 title: 'Cyber ~ Cyber Archive: Archiving as a sustainable counter-hegemonic practice'
-subtitle: Hakara Journal, (ed.) Ashutosh Poddar and Noopur Desai, 2018
+subtitle: 'Hakara Journal, (ed.) Ashutosh Poddar and Noopur Desai, 2018'
 layout: content
 tag: publication
 pubdate: '2018'
@@ -16,6 +16,7 @@ summary: >-
   archives that I’m interested in are not ‘art’ per se, but that archives are
   primarily in service to knowledge – its production, its transmission, and its
   retention for future use.
+parent: Cyber Archive
 ---
 
 
