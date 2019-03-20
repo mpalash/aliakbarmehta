@@ -1,7 +1,6 @@
 ---
-title: >-
-  press ~ An art project explores the association between colours and violence,
-  Hindustan Times, 2017
+title: An art project explores the association between colours and violence
+subtitle: 'Hindustan Times, 2017'
 layout: content
 tag: press
 pubdate: '2017'
