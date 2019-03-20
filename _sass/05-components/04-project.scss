@@ -87,7 +87,11 @@ div.section-content {
   > *:last-child {
     margin-bottom: 0;
   }
+  h4 {
+    font-weight: bold;
+    max-width: $max-text-width;
+  }
 }
-.full-content {
+.summary + .full-content {
   display: none;
 }

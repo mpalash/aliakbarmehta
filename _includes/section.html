@@ -4,8 +4,8 @@
   </aside>
   <div class="section-content" data-title="{{ section.title | split: "~" | last | strip | slugify: 'latin' }}">
     <h2>{{ section.title | split: "~" | last | strip }}</h2>
-    {% if page.subtitle %}
-      <h4>{{ page.subtitle | escape }}</h4>
+    {% if section.subtitle %}
+      <h4>{{ section.subtitle | escape }}</h4>
     {% endif %}
     {% if section.summary %}
       <div class="summary">{{ section.summary | markdownify }}</div>

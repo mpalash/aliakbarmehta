@@ -16,8 +16,6 @@ children:
     practice, Hakara Journal, (ed.) Ashutosh Poddar and Noopur Desai, 2018
   - >-
     Cyber ~ To Not Wait for the Archive: Home and Labour mired in the
-    complications of Invisibalisation, Visual Culture and Contemporary Art
-    Journal #5, (ed.) Saara Mahbouba, Paola Jallili and Else Lagerspetz,
-    published by Aalto University, Helsinki 2019
+    complications of Invisibalisation
 ---
 Cyber archive is less of an artistic project, more of a curatorial framework.
