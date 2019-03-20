@@ -71,7 +71,7 @@ Where ‘post’ in Post Adolescent, Post Modern, Post Human, Post Jargon, Post 
 
 As the poet and philosopher Sun Ra has said, 
 
-_**“The possible has been tried and failed. Now it's time to try the impossible.”**_
+**_“The possible has been tried and failed. Now it's time to try the impossible.”_**
 
 And so , if you will repeat after me, “Museums: 
 
