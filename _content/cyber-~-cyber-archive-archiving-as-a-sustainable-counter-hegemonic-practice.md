@@ -1,5 +1,5 @@
 ---
-title: Cyber ~ Cyber Archive: Archiving as a sustainable counter-hegemonic practice
+title: 'Cyber ~ Cyber Archive: Archiving as a sustainable counter-hegemonic practice'
 subtitle: Hakara Journal, (ed.) Ashutosh Poddar and Noopur Desai, 2018
 layout: content
 tag: publication

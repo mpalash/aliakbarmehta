@@ -1,5 +1,5 @@
 ---
-title: Locating: The Museum of Impossible Forms
+title: 'Locating: The Museum of Impossible Forms'
 subtitle: Kone Foundation Boldness Blog, 2017
 layout: content
 tag: publication
