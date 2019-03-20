@@ -1,7 +1,8 @@
 ---
-layout: content
 title: Rebirth
-tag: "individual work"
+subtitle: 'Oil and acrylic on canvas, 48 x 72 in., 2010'
+layout: content
+tag: individual work
 pubdate: '2010'
 ---
-![null](/assets/img/aarish-painting.jpg)
+![](/assets/img/Ali Akbar Mehta_Rebirth_2009.jpg)
