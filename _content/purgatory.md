@@ -8,6 +8,6 @@ children: []
 ---
 Purgatory
 
-Oil and acrylic on Canvas, 
+Oil and acrylic on Canvas,
 
 2010
