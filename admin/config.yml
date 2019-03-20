@@ -34,7 +34,7 @@ collections: # A list of collections the CMS should be able to edit
     folder: "_content" # The path to the folder where the documents are stored
     sort: "title:asc" # Default is title:asc
     create: true # Allow users to create new documents in this collection
-    slug: "{{tag}}/{{title}}"
+    slug: "{{title}}"
     fields: # The fields each document in this collection have
       - label: "Title"
         name: "title"
