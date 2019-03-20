@@ -1,5 +1,6 @@
 ---
-title: 'Contemporary Ruins of Kruunuvuori:  The Perfect Ghosts of Helsinki'
+title: Contemporary Ruins of Kruunuvuori
+subtitle: '  The Perfect Ghosts of Helsinki'
 layout: content
 tag: ongoing project
 pubdate: '2015'
