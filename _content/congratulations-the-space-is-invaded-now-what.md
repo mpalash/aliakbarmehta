@@ -21,7 +21,6 @@ summary: >-
   together, 'How, may archives help us to not have to start from zero, when
   Invading Spaces? What to do after Invading Space? How can we take space to
   make space?'
-parent: Space Invader VI – Living Together
 ---
 To see recording of the talk, click [here](https://www.facebook.com/vidha.saumya/videos/10156306353767482/)
 

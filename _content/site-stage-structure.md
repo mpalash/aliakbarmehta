@@ -22,14 +22,12 @@ children:
   - sss ~ Mathar Pacady Interviews – Mr. Julius Valladares
   - sss ~ Mathar Pacady Interviews – Aunty Tessi
   - sss ~ Paintings
-  - >-
-    sss ~ FOLKARCHIVE: Ali Akbar Mehta in Conversation with Sumesh Sharma,
-    moderated by Latika Gupta, Bhau Daji Lad
+  - 'sss ~ FOLKARCHIVE: Ali Akbar Mehta'
+  - sss ~ Memory and the Maximum City
   - 'sss ~ Odes and Inquisitions: Sino-Indian Connections in Recent Indian Art'
   - sss ~ Interview
-  - >-
-    press ~ THE BB ART SHOWCASE: ALI AKBAR MEHTA, A Multidisciplinary Artist
-    from Mumbai, Be Beautiful, 2015
+  - 'THE BB ART SHOWCASE: ALI AKBAR MEHTA'
+  - 'sss ~ Art Daily, 15.04.2014'
   - sss ~ A select History of Mumbai
   - sss ~ *Landmarks
   - sss ~ The Chinese in Mumbai

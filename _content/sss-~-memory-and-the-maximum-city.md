@@ -17,6 +17,7 @@ summary: >-
   with this project began and in the subsequent conversation with members of the
   audience and fellow speakers, discussed the importance of alternative methods
   of history-building and the importance of oral histories.
+parent: 'SITE : STAGE : STRUCTURE'
 children: []
 ---
 > _"In this talk held at the Godrej India Culture Lab on 9th January 2015, Anusha Yadav (founder of the Indian Memory Project) and Dr. Indira Chowdhury (President of the International Oral History Association) took the audience on a nostalgic journey of the city's past using sound, photographs and much more. Artist Ali Akbar Mehta who displayed his exhibit titled 'Site: Stage: Structure' at the event was also part of the Q&A that took place after the presentations."_
