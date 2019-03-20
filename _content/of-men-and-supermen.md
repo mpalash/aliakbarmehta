@@ -3,7 +3,7 @@ title: Of Men and Supermen
 layout: content
 tag: past project
 pubdate: '2019'
-children:
+children: Of Men ~ Of Men and Supermen
   - >-
     Of Men ~ Of Men and Supermen, India Art Festival, by TAO Art Gallery,
     Mumbai, 2012
