@@ -1,7 +1,10 @@
 ---
-title: 'Cyber ~ To Not Wait for the Archive: Home and Labour mired in the complications of Invisibalisation'
+title: >-
+  Cyber ~ To Not Wait for the Archive: Home and Labour mired in the
+  complications of Invisibalisation
 subtitle: >-
-  Visual Culture and Contemporary Art Journal #5, (ed.) Saara Mahbouba, Paola Jallili and Else Lagerspetz, published by Aalto University, Helsinki 2019
+  Visual Culture and Contemporary Art Journal #5, (ed.) Saara Mahbouba, Paola
+  Jallili and Else Lagerspetz, published by Aalto University, Helsinki 2019
 layout: content
 tag: publication
 pubdate: '2019'
@@ -18,6 +21,7 @@ summary: >-
   opened up through an “active seeking out of engagement, exchange, and
   intersection through the modes of mutuality, collaboration, and emplacement,
   an experimental poetics of belonging”.
+parent: Cyber Archive
 children: []
 ---
 The home is therefore a critical commons and the question becomes how do we want to work to preserve it. This act (of preservation) becomes a tender act, essential in the way toward “learning to learn from below” as in Gayatri Chakravorty Spivak’s formulation, or, as Souleymane Bachir Diagne puts it, learning from others in order to live together. Such learning, for Adam Szymczyk, allows us, as artists, to imagine a symmetrical situation of the encounter of equals, and not an asymmetrical power relationship between the sovereign and the subaltern.
