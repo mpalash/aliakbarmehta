@@ -3,10 +3,11 @@ h1.project-title {
   @extend .w-10;
   padding: 0 $gutter;
   margin-top: $s-xxxl*1.75;
+  margin-bottom: 0;
   color: $color-warm-dark;
   font-family: $title-font-family;
-  font-size: 8vw;
-  line-height: 1.1;
+  font-size: 7vw;
+  line-height: 1.05;
   letter-spacing: -0.01em;
 
   &.fixed {
@@ -15,6 +16,14 @@ h1.project-title {
     color: lighten($color-warm, 35%);
   }
 
+}
+.project-subtitle {
+  @extend .o-1;
+  @extend .w-9;
+  padding: 0 $gutter;
+  margin-top: 0;
+  margin-bottom: $s-xxl;
+  color: $color-warm-dark;
 }
 .project-tag p {
   @extend .o-1;

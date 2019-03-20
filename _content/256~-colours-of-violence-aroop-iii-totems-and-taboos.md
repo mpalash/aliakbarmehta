@@ -1,5 +1,5 @@
 ---
-title: '256 ~ Colours of Violence, AROOP III – ''Totems and Taboos'''
+title: '256 ~ Colours of Violence, AROOP III - Totems and Taboos'
 subtitle: '(ed.) Nancy Adajania, published by Raza Foundation, New Delhi, 2018'
 layout: content
 tag: publication
