@@ -29,7 +29,7 @@
                   {% if content.parent %}
                     <a href="/content/{{ content.parent | strip | slugify: 'latin' }}#{{ content.title | split: "~" | last | strip | slugify: 'latin' }}">{{ content.pubdate }} • {{ content.title | split: "~" | last | strip }}</a> ({{ content.parent }})</li>
                   {% else %}
-                    <a href="/content/{{ content.title | split: "~" | last | strip | slugify: 'latin' }}">{{ content.title | split: "~" | last | strip }}</a></li>
+                    <a href="/content/{{ content.title | split: "~" | last | strip | slugify: 'latin' }}">{{ content.pubdate }} • {{ content.title | split: "~" | last | strip }}</a></li>
                   {% endif %}
                 {% endif %}
               {% endfor %}
@@ -46,7 +46,7 @@
                   {% if content.parent %}
                     <a href="/content/{{ content.parent | strip | slugify: 'latin' }}#{{ content.title | split: "~" | last | strip | slugify: 'latin' }}">{{ content.pubdate }} • {{ content.title | split: "~" | last | strip }}</a> ({{ content.parent }})</li>
                   {% else %}
-                    <a href="/content/{{ content.title | split: "~" | last | strip | slugify: 'latin' }}">{{ content.title | split: "~" | last | strip }}</a></li>
+                    <a href="/content/{{ content.title | split: "~" | last | strip | slugify: 'latin' }}">{{ content.pubdate }} • {{ content.title | split: "~" | last | strip }}</a></li>
                   {% endif %}
                 {% endif %}
               {% endfor %}
@@ -63,7 +63,7 @@
                   {% if content.parent %}
                     <a href="/content/{{ content.parent | strip | slugify: 'latin' }}#{{ content.title | split: "~" | last | strip | slugify: 'latin' }}">{{ content.pubdate }} • {{ content.title | split: "~" | last | strip }}</a> ({{ content.parent }})</li>
                   {% else %}
-                    <a href="/content/{{ content.title | split: "~" | last | strip | slugify: 'latin' }}">{{ content.title | split: "~" | last | strip }}</a></li>
+                    <a href="/content/{{ content.title | split: "~" | last | strip | slugify: 'latin' }}">{{ content.pubdate }} • {{ content.title | split: "~" | last | strip }}</a></li>
                   {% endif %}
                 {% endif %}
               {% endfor %}
@@ -80,7 +80,7 @@
                   {% if content.parent %}
                     <a href="/content/{{ content.parent | strip | slugify: 'latin' }}#{{ content.title | split: "~" | last | strip | slugify: 'latin' }}">{{ content.pubdate }} • {{ content.title | split: "~" | last | strip }}</a> ({{ content.parent }})</li>
                   {% else %}
-                    <a href="/content/{{ content.title | split: "~" | last | strip | slugify: 'latin' }}">{{ content.title | split: "~" | last | strip }}</a></li>
+                    <a href="/content/{{ content.title | split: "~" | last | strip | slugify: 'latin' }}">{{ content.pubdate }} • {{ content.title | split: "~" | last | strip }}</a></li>
                   {% endif %}
                 {% endif %}
               {% endfor %}
@@ -97,7 +97,7 @@
                   {% if content.parent %}
                     <a href="/content/{{ content.parent | strip | slugify: 'latin' }}#{{ content.title | split: "~" | last | strip | slugify: 'latin' }}">{{ content.pubdate }} • {{ content.title | split: "~" | last | strip }}</a> ({{ content.parent }})</li>
                   {% else %}
-                    <a href="/content/{{ content.title | split: "~" | last | strip | slugify: 'latin' }}">{{ content.title | split: "~" | last | strip }}</a></li>
+                    <a href="/content/{{ content.title | split: "~" | last | strip | slugify: 'latin' }}">{{ content.pubdate }} • {{ content.title | split: "~" | last | strip }}</a></li>
                   {% endif %}
                 {% endif %}
               {% endfor %}
