@@ -4,6 +4,8 @@ Array.prototype.unique = function() {
   });
 };
 
+
+
 var years = [];
 var genres = [];
 var uniqueYears = [];
