@@ -15,9 +15,9 @@ children:
   - 'sss ~ Artist Book #1: Performers of Mazgaon'
   - 'sss ~ Artist Book #2: Daarukhana'
   - 'sss ~ Artist Book #3: Kwan Tai Shek'
-  - 'sss ~ SITE : STAGE : STRUCTURE, Clark House'
+  - 'sss ~ SITE : STAGE : STRUCTURE, Clark House, Mumbai'
   - sss ~ Kwan Tai Shek Temple
-  - 'sss ~ Mazgaon Interviews – Fakhruddin and Khateeja Merchant, 2014'
+  - 'sss ~ Mazgaon Interviews – Fakhruddin and Khateeja Merchant'
   - sss ~ Mathar Pacady Interviews – Uncle Martin
   - sss ~ Mathar Pacady Interviews – Mr. Julius Valladares
   - sss ~ Mathar Pacady Interviews – Aunty Tessi

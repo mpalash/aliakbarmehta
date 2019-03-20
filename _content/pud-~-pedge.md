@@ -10,7 +10,6 @@ summary: >-
   allow="accelerometer; autoplay; encrypted-media; gyroscope;
   picture-in-picture" allowfullscreen></iframe>
 
-
   As per the rules of the 'Pudding Manifesto for Togetherness', the members of
   audience wishing to participate, sign the pledge to uphold the manifesto.
 ---

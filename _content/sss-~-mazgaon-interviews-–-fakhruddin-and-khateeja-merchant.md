@@ -1,6 +1,6 @@
 ---
 layout: content
-title: 'sss ~ Mazgaon Interviews – Fakhruddin and Khateeja Merchant, 2014'
+title: 'sss ~ Mazgaon Interviews – Fakhruddin and Khateeja Merchant'
 parent: 'SITE : STAGE : STRUCTURE'
 tag: artwork
 pubdate: '2014'

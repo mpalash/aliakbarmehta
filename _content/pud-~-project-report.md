@@ -5,8 +5,7 @@ parent: Pudding Manifesto for Togetherness
 tag: resource
 pubdate: '2019'
 summary: >-
-  What is questioned:
-
+  **What is questioned:**
 
   The Seminar started with explorations towards notions and strategies of nation
   building, The issue of living amongst each other and the issue of the
@@ -31,8 +30,7 @@ In the post-Cold War world, decades after the conception of the Europa Utopia pr
 This is presented in the patriarchal and hegemonic way the information is presented in the exhibition. Specifically, in the context of work produced, we questioned the Pop-up exhibition, its strategies of display, the way it sought to alienate the refugees in the guise of talking about them, and lastly, the choice of where it was displayed.
 
 
-
-How was it followed:
+**How was it followed:**
 
 We responded to this by first conceiving of an augmented exhibition, placed in the same space and time, overlapping the exhibition ‘refugee, evacuee, human’.
 
@@ -45,8 +43,7 @@ The counter exhibition would have acted as constructive criticism ¬¬– enabli
 This exhibition as a virtual augmented reality overlap is not limited to this particular exhibition, but as a template can be applied to other exhibitions in the future.
 
 
-
-Steps + interventions:
+**Steps + interventions:**
 
 Although, we initially responded to the exhibition, we felt that we outgrew the need to directly place ourselves into the exhibition. Time and resources also seemd inadequate to responsibly  attempt an project of this magnitude. We decided to narrow our focus to a few specific aspects – We chose to react primarily to the idea that a space of a casual eating area was chosen to display a serious subject such as the refugee crisis. We reacted by inverting the methodology by emphasising the context through the act of eating, and by creating an active engagement of the subject of togetherness, through food, the act of integration of the recipes and the physical act of digesting it.
 
@@ -64,12 +61,8 @@ These interviews’ audio is played along with the visual act of cooking the Pud
 
 The documentation of our process has been one of the methods we used to approach the work. In addition to the interviews, we have some video material from our discussion, which follows our decision making. The opening has been filmed in the same way, to provide additional documentation. Not all the material we produced is being used.
 
-
-
-Reflection:
+***Reflection:***
 
 This project encountered us with the complexity and broadness of the issue we were referring to.  It was a challenge for us to re-direct our project in a more focused and at the same time open ended way. We wanted to make a simple and suggestive gesture that enclosed important and complex content. The writing of the manifesto made us question our role as ‘formenters’ of ‘togetherness’ and our own collective opinions about politics.  We had to choose between formulating our manifesto in a very simple and ironic way or in a very elaborated and explicitly critical way. This was a complicated decision to make and encountered us with the weight of language, questioning very closely the use we gave to it, because we often found it problematic. The end result was satisfying in the way that we could condense our ideas into a simple and powerful gesture.
-
-
 
 Our involvement in project was not completely pragmatic but rather quite emotional, as we all find the core question a very imperative one, an important issue that should be dealt with respect and thought. As the dynamic between the group gathered some tension, for unrelated reasons, we experience the instance of separation first hand – we observed the irony of us facilitating togetherness. Regardless of this minor tension we succeeded at finalising the work.
