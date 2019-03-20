@@ -29,7 +29,7 @@ children:
   - 'THE BB ART SHOWCASE: ALI AKBAR MEHTA'
   - 'sss ~ Art Daily, 15.04.2014'
   - sss ~ A select History of Mumbai
-  - sss ~ *Landmarks
+  - sss ~ Hidden Histories of Mazgoan
   - sss ~ The Chinese in Mumbai
   - sss ~ The Origin of Kwan Yin or Miao Shan
   - sss ~ Shrikrishna Report
