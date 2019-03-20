@@ -9,7 +9,7 @@ permalink: /curriculum-vitae/
 
 [www.aliakbarmehta.com](www.aliakbarmehta.com)
 
-Ali Akbar Mehta is a Trans-media artist. He is a founder-member and current Artistic Director of [Museum of Impossible Forms](www.museumofimpossibleforms.org), Helsinki. Through his research-based transmedia practice, he creates immersive cyber archives that explore collective memetic history, narratives of memory, identity, violence, and conflict. He has exhibited his projects in galleries and alternate spaces in Mumbai, New Delhi, Pune, Helsinki, Tampere, Venice, Nova Goriza, and Vilnius. He holds a BFA in Drawing and Painting from [Sir J.J. School of Art,](http://www.sirjjschoolofart.in/) Mumbai, and an MA in Visual Culture, Curating, and Contemporary Art from [Aalto University](https://www.aalto.fi/), Helsinki, Finland, where he completed a thesis text titled ‘Cyber Archive: Being and Doing Knowledge’. Some of his ongoing projects are ‘256 Million Colours of Violence’, ‘Contemporary Ruins of Kruunuvuori’, ‘War Room Echo – Regarding the pain of Other Cyborgs’, ‘New Frontiers: Critical enquiries for archives as Artistic Praxis’, and ‘Non-Alignment as Resistance: Towards Cyber Archives as counter-hegemonic practice’. He lives and works in Helsinki and Mumbai.
+Ali Akbar Mehta is a Trans-media artist. He is a founder-member and current Artistic Director of [Museum of Impossible Forms](www.museumofimpossibleforms.org), Helsinki. Through his research-based transmedia practice, he creates immersive cyber archives that explore collective memetic history, narratives of memory, identity, violence, and conflict. He has exhibited his projects in galleries and alternate spaces in Mumbai, New Delhi, Pune, Helsinki, Tampere, Pori, Venice, Nova Goriza, and Vilnius. He holds a BFA in Drawing and Painting from [Sir J.J. School of Art,](http://www.sirjjschoolofart.in/) Mumbai, and an MA in Visual Culture, Curating, and Contemporary Art from [Aalto University](https://www.aalto.fi/), Helsinki, Finland, where he completed a thesis text titled ‘Cyber Archive: Being and Doing Knowledge’. Some of his ongoing projects are ‘256 Million Colours of Violence’, ‘Contemporary Ruins of Kruunuvuori’, ‘War Room Echo – Regarding the pain of Other Cyborgs’, ‘New Frontiers: Critical enquiries for archives as Artistic Praxis’, and ‘Non-Alignment as Resistance: Towards Cyber Archives as counter-hegemonic practice’. He lives and works in Helsinki and Mumbai.
 
 ## \*
 
@@ -79,8 +79,6 @@ _(upcoming)_ **Narrating War**_,_ Vilnius City Museum, Vilnius, 2019
 
 ## Artist Talks
 
-**Maunula Remix,** mcult, Maunula House, Helsinki, 2018
-
 **Re:Musing the Museum, Part II**, Kiasma International Museum, Helsinki, 2018
 
 **Cyber Archives**, Die Schule der Archaeutopie in conversation with Ali Akbar Mehta, Universität für angewandte Kunst Wien, Vienna, 2018
@@ -117,7 +115,7 @@ _(upcoming)_ **Narrating War**_,_ Vilnius City Museum, Vilnius, 2019
 
 ## Select Group Exhibitions
 
-_(upcoming)_ **DirectKontact**, Pixelache Festival, Helsinki, 2019
+_(upcoming)_ **direct-contact**//feedback, Pixelache Festival, Helsinki, 2019
 
 **No Corners**, TAO Art Gallery, Mumbai, 2018
 
@@ -185,7 +183,7 @@ _(upcoming)_ **DirectKontact**, Pixelache Festival, Helsinki, 2019
 
 **Artistic Director**, Museum of Impossible Forms, Helsinki, 2018 – present
 
-**MATERIAL///IMMATERIAL**, A: SPACE, Espoo, Finland, 2016 
+**MATERIAL///IMMATERIAL**, A: SPACE, Espoo, Finland, 2016
 
 **SOAK**, D/func.t, Helsinki, Finland, 2016
 
@@ -201,9 +199,9 @@ _(upcoming)_ **DirectKontact**, Pixelache Festival, Helsinki, 2019
 
 **Cyber Archive: Being and Doing Knowledge**, Aalto University, Espoo, 2018
 
-**FOOD and Other Practices at the Arthouse**, Visual Culture and Contemporary Art Journal #4, (ed.) Ali akbar Mehta and Vidha Saumya, Published by Aalto University, Espoo, 2018
+**FOOD and Other Practices at the Arthouse**, Visual Culture and Contemporary Art Journal #4, (ed.) Ali Akbar Mehta and Vidha Saumya, Published by Aalto University, Espoo, 2018
 
-[**Locating: The Museum of Impossible Forms**](https://koneensaatio.fi/en/museum-of-impossible-forms/), Kone Foundation Boldness Blog, Helsinki, 2017
+\***\*[**Locating: The Museum of Impossible Forms\*\*](https://koneensaatio.fi/en/museum-of-impossible-forms/), Kone Foundation Boldness Blog, Helsinki, 2017
 
 **Border Crossing: Reshaping the Agency of Struggle**, interview with Ranjit Hoskote, CuMMA Papers publication series, (ed.) Nora Sternfeld, Helsinki, 2017
 
