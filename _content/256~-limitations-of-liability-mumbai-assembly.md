@@ -15,22 +15,26 @@ As a traveling project across venues, the project in its iteration at Mumbai Ass
 ![](/assets/img/opening-night.jpg)
 ![](/assets/img/audience-3.jpg)
 
-## Performance and conversation with Ramneek Singh:
+## Performance and conversation with Ramneek Singh
 
 ![](/assets/img/ramneek-singh-performance.jpg)
 ![](/assets/img/ramneek-singh-performance-2.jpg)
 ![](/assets/img/ramneek-and-ali-in-conversation.jpg)
 
-## In conversation with Simpreet Singh:
+## In conversation with Simpreet Singh
 
 ![](/assets/img/ali-akbar-mehta-and-simpreet-singh.jpg)
 ![](/assets/img/audience-2.jpg)
 
-## In conversation with Sameer Pitalwala:
+## In conversation with Sameer Pitalwala
 
 ![](/assets/img/Ali Akbar Mehta_Limitations of Liability_Mumbai Assembly_Sameer Pitalwala_2016.jpg)
 
-##Filling the form
+
+
+## Filling the form
+
+## 
 ![](/assets/img/filling-the-form.jpg)
 ![](/assets/img/ali-ken.jpg)
 ![](/assets/img/colours-of-violence.png)
