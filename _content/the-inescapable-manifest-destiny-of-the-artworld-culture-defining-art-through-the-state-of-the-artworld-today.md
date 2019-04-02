@@ -5,12 +5,11 @@ subtitle: by Ali Akbar Mehta
 tag: unpublished
 pubdate: '2016'
 summary: >-
+  In the theoretical once upon a time, and probably the actual one, everyone (or at least most) read about art. Everyone went to the theater. Everyone knew the composer of the day. Everyone discussed the arts and everyone loved them.
 
-In the theoretical once upon a time, and probably the actual one, everyone (or at least most) read about art. Everyone went to the theater. Everyone knew the composer of the day. Everyone discussed the arts and everyone loved them.
+  Then the 20th century happened. In the words of composer and critic Theodor Adorno, “New music has taken upon itself all of the darkness and guilt of the world.” Sure he was referring to music but the assertion could just as easily be broadened to include the entire world of art. European and American artists and composers and writers in the early 20th century saw violence like the world hadn’t seen for hundreds of years. The manifold amount of changes wrought by technology and innovation in fin de siècle Europe and America meant nothing about life before would ever be the same. Then World War One and World War Two turned the world completely upside down. How could we go back to the way the world was before? The answer was that we couldn’t.
 
-Then the 20th century happened. In the words of composer and critic Theodor Adorno, “New music has taken upon itself all of the darkness and guilt of the world.” Sure he was referring to music but the assertion could just as easily be broadened to include the entire world of art. European and American artists and composers and writers in the early 20th century saw violence like the world hadn’t seen for hundreds of years. The manifold amount of changes wrought by technology and innovation in fin de siècle Europe and America meant nothing about life before would ever be the same. Then World War One and World War Two turned the world completely upside down. How could we go back to the way the world was before? The answer was that we couldn’t.
-
-Modernism was here.
+  Modernism was here.
 ---
 
 This sense of unease and uncertainty about the future and growing economic disparity, complicated by death on an unforeseen scale, inevitably made its way into the art world with dramatic results. “Everything purely aesthetic has no cultural value,” philosopher Otto Weininger once said, more or less capturing the zeitgeist of art in the early 20th century.The bourgeois worship of art, in the words of Alex Ross, turned modern artists away from aesthetics at the same time as it “made possible the extremes of modern art.”
