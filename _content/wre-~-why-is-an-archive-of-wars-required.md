@@ -18,7 +18,6 @@ summary: >-
 
 > _“The United Nations defines "major wars" as military conflicts inflicting 1,000 battlefield deaths per year. In 1965, there were 10 major wars under way. The new millennium began with much of the world consumed in armed conflict or cultivating an uncertain peace. As of mid-2005, there were eight Major Wars under way \[down from 15 at the end of 2003], with as many as two dozen "lesser" conflicts ongoing with varying degrees of intensity. Most of these are civil or "intrastate" wars, fueled as much by racial, ethnic, or religious animosities as by ideological fervor. Most victims are civilians, a feature that distinguishes modern conflicts.”_
 >
->   
 
 Currently, over 50 current engagements exist across the globe that could be considered wars or conflicts within ongoing wars.
 
