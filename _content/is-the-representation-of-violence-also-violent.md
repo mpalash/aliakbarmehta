@@ -1,6 +1,6 @@
 ---
 title: Is the representation of violence also violent?
-subtitle: 'sandcasted aluminium, 2017'
+subtitle: ''
 layout: content
 tag: individual work
 pubdate: '2017'
