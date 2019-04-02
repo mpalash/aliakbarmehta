@@ -1,6 +1,6 @@
 ---
 layout: content
-title: 'wre ~ Narrating War, Kaapelitehdas'
+title: 'wre ~ Narrating War, Kaapelitehdas, Helsinki'
 parent: 'WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs'
 tag: performance
 pubdate: '2017'

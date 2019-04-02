@@ -1,6 +1,6 @@
 ---
 layout: content
-title: 'wre ~ Narrating War, Kallio Public Library'
+title: 'wre ~ Narrating War, Kallio Public Library, Helsinki'
 subtitle: null.void; // a sermon of nothingness and a space odyssey of zero movement and tycho magnetic anomalies
 parent: 'WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs'
 tag: performance

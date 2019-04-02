@@ -1,5 +1,5 @@
 ---
-title: 'wre ~ Narrating War, Museum of Impossible Forms'
+title: 'wre ~ Narrating War, Museum of Impossible Forms, Helsinki'
 subtitle: curated by Vishnu Vardhani
 layout: content
 tag: performance
