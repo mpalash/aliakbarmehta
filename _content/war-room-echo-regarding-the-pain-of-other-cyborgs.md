@@ -26,7 +26,5 @@ children:
 5. A memorial style installation of the War List mimicking vertical graves.
 
 ![](/assets/img/ali-akbar-mehta_simulated-view-of-performance_wre-proposal.jpg)
-
 ![](/assets/img/ali-akbar-mehta_simulated-view-of-installation_wre-proposal.jpg)
-
 ![](/assets/img/ali-akbar-mehta_simulated-view-of-memorial-wall_wre-proposal.jpg)

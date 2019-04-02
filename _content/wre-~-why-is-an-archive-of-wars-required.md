@@ -13,7 +13,6 @@ summary: >-
   no longer degrading.’_
 
 
-  __
 ---
 **Intervention to update existing War Studies:**
 

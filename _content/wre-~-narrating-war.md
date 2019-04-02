@@ -35,15 +35,9 @@ The length of this performance varies depending on available time, and may be de
 Previously, Narrating War has been performed in its evolving iterations, at:
 
 • Experimental Event IV: La Torre de Babel, curated by Anna Jensen and Andrea Coyotzi Borja, Pori, 2018
-
 •	Museum of Impossible Forms, Helsinki, 2018;
-
 •	TIFA Working Studios, Pune, 2018;
-
 •	Memory of War, Kaapelitehdas, Helsinki, 2017;
-
 •	Clark House, Mumbai, 2017
-
 •	Where does poetry nest?, curated by Giovanna Esposito Yussif, Pispala Memorial, Tampere, 2016
-
 •	Pan-African Space Station, Chimurenga Collective, curated by Ahmed Al Nawas, Kallio Public Library, Helsinki, 2016
