@@ -1,5 +1,5 @@
 ---
-title: LM ~ Press Kit
+title: LM ~ Luminous Matter Press Kit
 layout: content
 tag: press
 pubdate: '2011'

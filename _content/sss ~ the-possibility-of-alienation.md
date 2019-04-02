@@ -1,6 +1,7 @@
 ---
 layout: content
 title: 'sss ~ The Possibility of Alienation'
+subtitle: 'wirtten by Sumesh Sharma – co-curator, Clark House Initiative, Mumbai  '
 parent: 'SITE : STAGE : STRUCTURE'
 tag: text
 pubdate: '2014'
@@ -28,5 +29,3 @@ Mazgaon was a geography of military intrigue and was fought over for by the Abys
 Ali Akbar Mehta maps Matharpacady, the remnants of Chinatown, his Bohri grandparent’s apartment and the Wadi Bunder where ships are brought to be torn apart on the dry dock. Here he fights nostalgia by documenting it, recreating it through videos, conversations and staging ethnographic reconstructions of people’s homes within Clark House.  The structure of the art space, which is of an early 20th century colonial apartment, lends itself with ease to these interventions.  Through these interventions Ali stages a dramatic critique on the ghettoisation of the city on communal lines into two communal flanks of east and west after riots of 1993.  Alienation manifests in drawings of superheroes who stretch across the city’s skyline, these are drawn on gateway paper illuminated using the reflection of light and mirror. They are placed aside scenes of the Mazgaon recreated by a poster painter who refers through Ali’s photographs while rendering them using a palette of colour scene in the colonial Bombay School and often used to stage revisits to the city’s history by Bollywood.  Site, Structure and Stage thus reclaims a space by revisiting certain histories purposefully ignored in writing the city’s history by creating narratives around architecture, language, mercantile culture and personal histories around a site that demarcates a certain geography.
 
 Sumesh Sharma
-
-Curator, Clark House

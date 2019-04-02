@@ -1,0 +1,13 @@
+---
+title: 'wre ~ Narrating War, Experimental Event VI – La Torre de Babel, Pori'
+subtitle: >-
+  curated by Anna Jensen and Andrea Coyotzi Borja, collateral event of Pori Film
+  Festival, 2018
+layout: content
+tag: performance
+pubdate: '2018'
+parent: 'WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs'
+---
+![](/assets/img/ali-akbar-mehta_narratng-war_experimental-event-iv_2018.jpg)
+
+See a live stream of the performance [here](https://www.facebook.com/aliakbarmehta/videos/10161149738290054/)

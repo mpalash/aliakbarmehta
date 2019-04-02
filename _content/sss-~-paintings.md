@@ -19,6 +19,3 @@ pubdate: '2014'
 ![](/assets/img/installation-view_lores.jpg)
 
 Paintings for SITE : STAGE : STRUCTURE were commissioned to be made in a 'Museum style' referring to colonial paintings of Mumbai.
-
-
-(more text to be included)
