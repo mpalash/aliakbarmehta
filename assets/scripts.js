@@ -97,6 +97,8 @@ function makeGallery(){
       $(this).wrap('<div></div>');
       if( alt != '' && alt != null && alt != 'null') {
         $(this).parent().append('<span class="img-caption">' + alt + '</span>');
+      } else {
+        $(this).parent().append('<span class="img-caption"></span>');
       }
     });
   });

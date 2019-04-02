@@ -6,13 +6,27 @@ p.img {
   overflow-x: auto;
   overflow-y: hidden;
   justify-content: flex-start;
-  align-items: flex-start;
+  align-items: stretch;
   max-width: calc((100vw * 0.8333333) - 32px) !important;
-  box-shadow: -8px 0 0 rgba($color-white,1), -20vw 0 0 rgba($color-warm-light,1);
+  // box-shadow: -16px 0 0 rgba($color-white,1), -20vw 0 0 rgba($color-warm-light,1);
+
+  &::-webkit-scrollbar-track {
+  	background-color: $color-warm-light;
+  }
+  &::-webkit-scrollbar {
+  	height: 1px;
+  	background-color: transparent;
+  }
+  &::-webkit-scrollbar-thumb {
+  	background-color: $color-warm-dark;
+  }
 
   div {
     flex: 0 0 auto;
-    margin-right: $s-s;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    margin-right: $s-b;
   }
   img {
     display: block;
@@ -22,5 +36,7 @@ p.img {
 }
 .img-caption {
   display: block;
+  height: $s-l;
+  padding: $s-xs 0;
   color: $color-warm-dark;
 }
