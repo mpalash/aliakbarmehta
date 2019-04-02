@@ -5,7 +5,7 @@ parent: 'SITE : STAGE : STRUCTURE'
 tag: resource
 pubdate: '2014'
 summary: >-
-  Hidden Histories of Mazgoan
+  'Hidden Histories of Mazgoan' are the accumulated research notes and trivia, gathered through online research, interviews, and conversations with local historians and residents.
 ---
 ## Mazgaon and Wadibunder
 

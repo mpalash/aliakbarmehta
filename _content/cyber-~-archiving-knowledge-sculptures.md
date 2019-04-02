@@ -4,8 +4,9 @@ title: 'Cyber ~ Archiving Knowledge, sculptures'
 parent: Cyber Archive
 tag: artwork
 pubdate: '2018'
-summary: '![](/assets/img/ali-akbar-mehta-archiving-knowledge_01-2008.jpg)'
+
 ---
+![](/assets/img/ali-akbar-mehta-archiving-knowledge_01-2008.jpg)
 ![](/assets/img/ali-akbar-mehta-archiving-knowledge_02-2008.jpg)
 ![](/assets/img/ali-akbar-mehta-archiving-knowledge_03-2008.jpg)
 ![](/assets/img/ali-akbar-mehta-archiving-knowledge_04-2008.jpg)

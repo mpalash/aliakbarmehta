@@ -4,7 +4,6 @@ subtitle: 'Hindustan Times, 2017'
 layout: content
 tag: press
 pubdate: '2017'
-summary: ''
 children: []
 ---
 ![](/assets/img/ht_256millcov.jpg)

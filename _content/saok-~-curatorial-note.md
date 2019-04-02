@@ -1,6 +1,6 @@
 ---
 layout: content
-title: SAO ~ Curatorial note
+title: Soak ~ Curatorial note,
 parent: SOAK
 tag: text
 pubdate: '2016'

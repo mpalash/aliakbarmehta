@@ -1,9 +1,9 @@
 ---
 title: Purgatory
-subtitle: 'Oil and acrylic on canvas, 60 x 84 in., 2010'
+subtitle:
 layout: content
 tag: individual work
 pubdate: '2010'
 children: []
 ---
-![](/assets/img/purgatory.jpeg)
+![Purgatory, oil and acrylic on canvas, 60 x 84 in., 2010](/assets/img/purgatory.jpeg)

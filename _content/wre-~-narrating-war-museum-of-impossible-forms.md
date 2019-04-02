@@ -4,7 +4,6 @@ subtitle: curated by Vishnu Vardhani
 layout: content
 tag: performance
 pubdate: '2018'
-summary: ''
 parent: 'WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs'
 ---
 <iframe src="https://player.vimeo.com/video/297712769" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

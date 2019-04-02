@@ -10,7 +10,7 @@ summary: >-
   collected during the riots.
 
 
-  > The 2002 Gujarat riots, also known as the 2002 Gujarat violence and the
+  >The 2002 Gujarat riots, also known as the 2002 Gujarat violence and the
   Gujarat pogrom, was a three-day period of inter-communal violence in the
   western Indian state of Gujarat. Following the initial incident there were
   further outbreaks of violence in Ahmedabad for three weeks; statewide, there
@@ -22,9 +22,7 @@ summary: >-
   attack on the train was a “staged trigger” for what was actually premeditated
   violence.
 ---
-In 2002, my father, Yusuf Mehta, was commissioned to make a short documentary film on the Godhra riots in Gujarat, India, using amateur and found footage collected during the riots.
 
-The 2002 Gujarat riots, also known as the 2002 Gujarat violence and the Gujarat pogrom, was a three-day period of inter-communal violence in the western Indian state of Gujarat. Following the initial incident there were further outbreaks of violence in Ahmedabad for three weeks; statewide, there were further outbreaks of mass killings against the minority Muslim population for three months. The burning of a train in Godhra on 27 February 2002, which caused the deaths of 58 Hindu pilgrims karsevaks returning from Ayodhya, is believed to have triggered the violence. Some commentators, however, hold the view that the attacks had been planned, were well orchestrated, and that the attack on the train was a “staged trigger” for what was actually premeditated violence.
 
 According to official figures, the riots resulted in the deaths of 790 Muslims and 254 Hindus; 2,500 people were injured non-fatally, and 223 more were reported missing. Other sources estimate that up to 2,000 Muslims died. There were instances of rape, children being burned alive, and widespread looting and destruction of property. The Chief Minister at that time, Narendra Modi, currently the Prime Minister – has been accused of initiating and condoning the violence, as have police and government officials who allegedly directed the rioters and gave lists of Muslim-owned properties to them.
 

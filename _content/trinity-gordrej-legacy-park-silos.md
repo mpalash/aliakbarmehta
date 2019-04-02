@@ -9,4 +9,4 @@ children:
   - 'TRINITY ~ TRINITY: Godrej Legacy Park silos'
   - 'The Spaces Are Alive'
 ---
-TRINITY is a public art project, comissioned by Godrej Pvt. Ltd., and installed as a permanent work in the Godrej One, Vikhroli premises.
+TRINITY is a public art project, commissioned by Godrej Pvt. Ltd., and installed as a permanent work in the Godrej One, Vikhroli premises.

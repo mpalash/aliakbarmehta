@@ -22,6 +22,4 @@ The Mumbai Assembly (Bandra), The Piramal Art Foundation (Lower Parel) Harkat St
 
 
 
-You can know more about the survey and participate here:
-
-www.256milioncoloursofviolence.com
+You can know more about the survey and participate at [www.256milioncoloursofviolence.com](www.256milioncoloursofviolence.com)

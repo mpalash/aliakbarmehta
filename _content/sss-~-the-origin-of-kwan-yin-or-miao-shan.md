@@ -1,14 +1,16 @@
 ---
 layout: content
 title: 'sss ~ The Origin of Kwan Yin or Miao Shan'
+subtitle: '' 
 parent: 'SITE : STAGE : STRUCTURE'
 tag: resource
 pubdate: '2014'
 summary: >-
   There are many legends about the origin of Kwan Yin. This is one of the most
   popular.
+
+  Once upon a time in 17th century China, there was a tyrant king named Miao Zhang who had no respect for religion. He had three daughters, of which the youngest was named Miao Shan. At the time of Miao Shan’s birth the Earth trembled and wonderful fragrance of flower blossoms sprang up around the land. The people of the kingdom said that they saw the signs of a holy incarnation on her body...
 ---
-Once upon a time in 17th century China, there was a tyrant king named Miao Zhang who had no respect for religion. He had three daughters, of which the youngest was named Miao Shan. At the time of Miao Shan’s birth the Earth trembled and wonderful fragrance of flower blossoms sprang up around the land. The people of the kingdom said that they saw the signs of a holy incarnation on her body.
 
 Miao Shan grew up to be kind and generous and was loved by all. When Miao Shan got older the king wanted to find a husband for her, she told her father she would only marry if by doing so she would be able to alleviate the suffering of all mankind. The king became enraged when she heard of her devotion to helping others, and forced her to slave away at menial tasks. Her mother and two sisters admonished her to no avail. They were very mean to Miao Shan, making her work all day cleaning, sewing, and cooking. She tried her best to make them happy.
 
