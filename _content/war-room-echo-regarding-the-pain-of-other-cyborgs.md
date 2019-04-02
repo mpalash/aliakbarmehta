@@ -24,3 +24,9 @@ children:
 3. A data generated soundscape based on the live typing of the list;
 4. Cameras that automatically take photographs when triggered by the soundscape, creating a continual photographic documentation transforming the viewer into an active performer; and
 5. A memorial style installation of the War List mimicking vertical graves.
+
+![](/assets/img/ali-akbar-mehta_simulated-view-of-performance_wre-proposal.jpg)
+
+![](/assets/img/ali-akbar-mehta_simulated-view-of-installation_wre-proposal.jpg)
+
+![](/assets/img/ali-akbar-mehta_simulated-view-of-memorial-wall_wre-proposal.jpg)
