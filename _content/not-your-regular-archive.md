@@ -4,7 +4,6 @@ subtitle: 'Sakal Times, 2018'
 layout: content
 tag: press
 pubdate: '2018'
-summary: ''
 parent: 256 Million Colours of Violence
 children: []
 ---

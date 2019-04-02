@@ -5,8 +5,8 @@ subtitie: A Multidisciplinary Artist from Mumbai, Be Beautiful, 2015
 layout: content
 tag: press
 pubdate: '2015'
-
 children: []
 ---
 //Image
-Read more [here](https://www.bebeautiful.in/lifestyle/art-and-culture/bb-art-showcase-ali-akbar-mehta-multidisciplinary-artist-from-mumbai)
+
+Read [here](https://www.bebeautiful.in/lifestyle/art-and-culture/bb-art-showcase-ali-akbar-mehta-multidisciplinary-artist-from-mumbai)

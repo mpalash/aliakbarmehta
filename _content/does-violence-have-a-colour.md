@@ -4,7 +4,6 @@ subtitle: 'Mid-day, 2017'
 layout: content
 tag: press
 pubdate: '2017'
-summary: ''
 children: []
 ---
 ![](/assets/img/midday_256millcov.jpg)
