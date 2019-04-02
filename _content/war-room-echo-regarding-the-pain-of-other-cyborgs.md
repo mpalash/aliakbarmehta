@@ -8,13 +8,13 @@ children:
   - 'wre ~ Foreword: Artist''s Note'
   - wre ~  Why is an archive of wars required?
   - wre ~ Narrating War
-  - 'wre ~ null.void, Kallio Public Library'
+  - 'wre ~ Narrating War, Kallio Public Library, Helsinki'
   - 'wre ~ Narrating War, Pispala, Tampere'
   - 'wre ~ Narrating War, Clark House, Mumbai'
-  - 'wre ~ Narrating War, Kaapelitehdas'
-  - 'wre ~ Narrating War, Museum of Impossible Forms'
-  - 'wre ~ Narrating War, Carinarina, Nova Gorcia, 2018'
-  - 'wre ~ Narrating War, Experimental Event VI – La Torre de Babel'
+  - 'wre ~ Narrating War, Kaapelitehdas, Helsinki'
+  - 'wre ~ Narrating War, Museum of Impossible Forms, Helsinki'
+  - 'wre ~ Narrating War, Carinarina, Nova Gorcia'
+  - 'wre ~ Narrating War, Experimental Event VI – La Torre de Babel, Pori'
   - wre ~ null.void
 ---
 'WAR • ROOM • ECHO: Regarding the pain of other Cyborgs' is a unique collaborative Transmedia Performance-Installation and Research Project. It is a _gesamtkunstwerk_ on the idea of war and conflict that brings together:
