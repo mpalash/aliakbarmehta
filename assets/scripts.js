@@ -69,7 +69,6 @@ $(function() {
   fixvids();
   makeGallery();
 
-
   $('a.toggle-section').on('click',function(e){
     e.preventDefault();
     var title = $(this).data('title');
@@ -83,12 +82,10 @@ function offsetContent(){
 }
 function makeGallery(){
   var pimg = $('p:has(img)');
-  console.log(pimg);
   pimg.each(function(){
     var p = $(this);
     var i = p.find('img');
     var len = i.length;
-    console.log(p, len);
     if (len > 1) {
       p.addClass('img');
     }
