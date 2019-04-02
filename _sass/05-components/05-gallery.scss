@@ -6,14 +6,21 @@ p.img {
   overflow-x: auto;
   overflow-y: hidden;
   justify-content: flex-start;
-  align-items: center;
-  width: 100% !important;
-  max-width: none;
+  align-items: flex-start;
+  max-width: calc((100vw * 0.8333333) - 32px) !important;
   box-shadow: -8px 0 0 rgba($color-white,1), -20vw 0 0 rgba($color-warm-light,1);
 
-  img {
+  div {
     flex: 0 0 auto;
     margin-right: $s-s;
-    height: 640px;
   }
+  img {
+    display: block;
+    max-height: 480px;
+    max-width: none;
+  }
+}
+.img-caption {
+  display: block;
+  color: $color-warm-dark;
 }

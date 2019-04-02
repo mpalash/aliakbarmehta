@@ -4,8 +4,6 @@ Array.prototype.unique = function() {
   });
 };
 
-
-
 var years = [];
 var genres = [];
 var uniqueYears = [];
@@ -68,14 +66,10 @@ var uniqueGenres = [];
 // });
 
 $(function() {
-  // if($('h1.project-title').length){
-  //   offsetContent();
-  // }
-  // $(window).on('resize', function(){
-  //   offsetContent();
-  // });
+  fixvids();
+  makeGallery();
 
-  $('p:has(img)').addClass('img');
+
   $('a.toggle-section').on('click',function(e){
     e.preventDefault();
     var title = $(this).data('title');
@@ -86,6 +80,26 @@ $(function() {
 function offsetContent(){
   var titleHeight = $('h1.project-title').outerHeight(true);
   $('section.intro').css('margin-top', titleHeight);
+}
+function makeGallery(){
+  var pimg = $('p:has(img)');
+  console.log(pimg);
+  pimg.each(function(){
+    var p = $(this);
+    var i = p.find('img');
+    var len = i.length;
+    console.log(p, len);
+    if (len > 1) {
+      p.addClass('img');
+    }
+    i.each(function(){
+      var alt = $(this).attr('alt');
+      $(this).wrap('<div></div>');
+      if( alt != '' && alt != null && alt != 'null') {
+        $(this).parent().append('<span class="img-caption">' + alt + '</span>');
+      }
+    });
+  });
 }
 
 // document.addEventListener("DOMContentLoaded", function() {
