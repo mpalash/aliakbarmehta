@@ -2,7 +2,7 @@
 title: 'plank ~ Small is Beautiful – II, TAO Art Gallery, Mumbai'
 layout: content
 tag: group exhibition
-pubdate: '2019'
+pubdate: '2013'
 parent: Planktonian People
 children: []
 ---
