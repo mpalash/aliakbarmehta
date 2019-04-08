@@ -3,7 +3,7 @@ title: Cyber Archive
 layout: content
 tag: ongoing project
 pubdate: '2018'
-hero: /assets/img/cyber-archive_hero-image.png
+hero: /assets/img/cyber-archive_hero-image.jpg
 children:
   - 'Cyber ~ Cyborg Archives: Can Archives Speak?'
   - 'Cyber ~ Cyber Archive: Being and Doing Knowledge'
