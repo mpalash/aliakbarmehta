@@ -1,5 +1,6 @@
 ---
 title: 'Cyber ~ Cyborg Archives: Can Archives Speak?'
+subtitle: 'Performance directed by Ali akbar Mehta, TIFA Working Studios, Pune'
 layout: content
 tag: performance
 pubdate: '2018'
