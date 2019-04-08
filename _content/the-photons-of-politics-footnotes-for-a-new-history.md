@@ -7,4 +7,6 @@ layout: content
 tag: publication
 pubdate: '2017'
 ---
+![](/assets/img/ali-akbar-mehta_the-photons-of-politics_1.-cover-page_2017.jpg)
+
 To know more about the issue click [here](http://rabrab.fi/RABRAB-JOURNAL-ISSUE-04-1), or to know more about RabRab Journal, click [here](http://rabrab.fi/)
