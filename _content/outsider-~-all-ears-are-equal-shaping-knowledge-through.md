@@ -8,6 +8,6 @@ hero: /assets/img/images-01.jpg
 parent: 'Outsider ~ All Ears are Equal: Shaping Knowledge through '
 children: []
 ---
-![All Ears Are Equal: Shaping Knowledge through Sound  | In conversation with Tuike and Simo Alitalo](/assets/img/tuike-and-simo-01.jpg)
+![](/assets/img/tuike-and-simo-01.jpg)
 
 Read the interview [here](https://outsidersatwork.wordpress.com/all-ears-are-equal/)
