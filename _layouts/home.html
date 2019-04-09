@@ -4,6 +4,8 @@
   {%- include head.html -%}
 
   <body>
+    <script src="{{ "/assets/boids.js" | relative_url }}"></script>
+    
     <main class="page-content home r" aria-label="Content">
       {%- include header.html -%}
       <div class="c c-12 p-2">
@@ -16,7 +18,7 @@
         {% assign exhibitions = 'solo exhibition,group exhibition' | split: ',' %}
         {% assign text = 'text,unpublished' | split: ',' %}
         {% assign publications = 'publication' | split: ',' %}
-        {% assign sortedtags2 = 'press,resource' | split: ',' %}
+        {% assign sortedtags2 = 'press' | split: ',' %}
 
         {% assign sortedcontent = site.content | sort: 'pubdate' | reverse %}
         <div class="listing tags">
@@ -79,7 +81,9 @@
                 {% if tag == content.tag %}
                 <li data-year="{{ content.pubdate }}" data-genre="{{ content.tag }}">
                   {% if content.parent %}
-                    <a href="/content/{{ content.parent | strip | slugify: 'latin' }}#{{ content.title | split: "~" | last | strip | slugify: 'latin' }}">{{ content.pubdate }} • {{ content.title | split: "~" | last | strip }}</a></li>
+                    {% if content.parent != 'Poems' %}
+                      <a href="/content/{{ content.parent | strip | slugify: 'latin' }}#{{ content.title | split: "~" | last | strip | slugify: 'latin' }}">{{ content.pubdate }} • {{ content.title | split: "~" | last | strip }}</a></li>
+                    {% endif %}
                   {% else %}
                     <a href="/content/{{ content.title | split: "~" | last | strip | slugify: 'latin' }}">{{ content.pubdate }} • {{ content.title | split: "~" | last | strip }}</a></li>
                   {% endif %}

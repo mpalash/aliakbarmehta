@@ -56,6 +56,9 @@ h1.project-title {
   padding-top: $s-l;
   padding-bottom: $s-l;
   min-height: $s-xxxl * 2;
+  &.resource {
+    background-color: rgba($color-resource, 0.15);
+  }
 }
 aside.meta {
   @extend .c;
