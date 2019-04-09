@@ -10,6 +10,9 @@ summary: >-
 children:
   - 'Cyber ~ Archiving Knowledge, sculptures'
   - 'participate ~ Cyborg Archives: Can Archives Speak?'
+  - >-
+    participate ~ Cyborg Archives: GarbageInGarbageOut, TIFA Working Studios,
+    Pune
   - '256 ~ Assembly of Access, TIFA Working Studios'
 ---
 The curatorial framework, set by artist/curator Vidisha Fadescha was "To Participate in the Archive".
