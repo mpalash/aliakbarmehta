@@ -74,7 +74,7 @@
           <div>
             <h2 class="tag small tag-text">texts</h2>
             <ul>
-              {% for tag in publications %}
+              {% for tag in texts %}
               {% for content in sortedcontent %}
                 {% if tag == content.tag %}
                 <li data-year="{{ content.pubdate }}" data-genre="{{ content.tag }}">
