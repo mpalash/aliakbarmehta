@@ -17,7 +17,7 @@ children:
 ---
 From January 5, to Febuary 6, 2018, I was invited with several other artists and practitioners within the field of archiving to be a artist-in-residence at the [ARTEL2018](http://tifa.edu.in/artel/), TIFA Working Studios, Pune. The curatorial framework for ARTEL2018 was defined by artist/curator Vidisha Fadescha as "_To Participate in the Archive"_.
 
-During my month-long residency I produced new work and took the opportunity to reiterate existing work in new formulations. I did this in the form of five performance and installation experiments under the framework of **_Cyborg Archives_**:
+During my month-long residency I produced new work and took the opportunity to reiterate existing work in new formulations. I did this in the form of five performance and installation experiments under the framework of _**Cyborg Archives**_:
 
 1. Cyborg Archives: _\#ArchivingKnowledge_
 2. Cyborg Archives: 256 Million Colours of Violence
@@ -31,6 +31,6 @@ _Every body is an archive, and every archive is an embodiment of knowledge._
 
 _The series of performance installations replace the familiar technology we depend upon, with human cognition and brain power, to explore how archives function, what can they do, and what are their limits."_ 
 
-__
+
 
 Overall, it was an opportunity interact with my fellow residents, volunteers and employees of the residency; and to consolidate my practice within the lens of 'Archiving as Artistic Praxis'. The residency has been the instrumental towards helping me formulate and consolidate the direction of my MA thesis at Aalto University, Helsinki, titled "**Cyber Archive: Being and Doing Knowledge**".
