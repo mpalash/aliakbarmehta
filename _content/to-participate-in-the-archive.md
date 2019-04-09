@@ -3,20 +3,30 @@ title: To Participate in the Archive
 layout: content
 tag: past project
 pubdate: '2018'
-summary: >-
-  From January 5, to Febuary 6, 2018, I was invited with several other artists
-  and practitioners within the field of archiving to be a artist-in-residence at
-  the [ARTEL2018](http://tifa.edu.in/artel/), TIFA Working Studios.
+summary: ''
 children:
   - 'Cyber ~ Archiving Knowledge, sculptures'
-  - 'participate ~ Cyborg Archives: Can Archives Speak?'
   - >-
     participate ~ Cyborg Archives: GarbageInGarbageOut, TIFA Working Studios,
     Pune
-  - '256 ~ Assembly of Access, TIFA Working Studios'
+  - 'participate ~ Cyborg Archives: Can Archives Speak?'
 ---
-The curatorial framework, set by artist/curator Vidisha Fadescha was "To Participate in the Archive".
+From January 5, to Febuary 6, 2018, I was invited with several other artists and practitioners within the field of archiving to be a artist-in-residence at the [ARTEL2018](http://tifa.edu.in/artel/), TIFA Working Studios, Pune. The curatorial framework for ARTEL2018 was defined by artist/curator Vidisha Fadescha as "_To Participate in the Archive"_.
 
-During my month-long residency, I interacted with my fellow residents, volunteers and employees of the residency and produced new work and reproduced some old work.
+During my month-long residency I produced new work and took the opportunity to reiterate existing work in new formulations. I did this in the form of five performance and installation experiments under the framework of **_Cyborg Archives_**:
 
-Overall, it was an opportunity to consolidate my practice within the lens of 'archiving as artistic praxis' and has been the instrumental towards helping me formulate and consolodate several notes for my thesis "Cyber Archive: Being and Doing Knowledge".
+1. Cyborg Archives: _\#ArchivingKnowledge_
+2. Cyborg Archives: 256 Million Colours of Violence
+3. Cyborg Archives: WAR • ROOM • ECHO
+4. Cyborg Archives: GarbageInGarbageOut
+5. Cyborg Archives: _Can Archives Speak?_
+
+_"We live in a networked world where we no longer just shape the communication technology around us, but are shaped by it in return. We are already Cyborgs, not the sci-fi amalgamations of flesh and flesh and wires, but in a more profound sense – a human/technology symbiont; and so are our archives._
+
+_Every body is an archive, and every archive is an embodiment of knowledge._
+
+_The series of performance installations replace the familiar technology we depend upon, with human cognition and brain power, to explore how archives function, what can they do, and what are their limits."_ 
+
+__
+
+Overall, it was an opportunity interact with my fellow residents, volunteers and employees of the residency; and to consolidate my practice within the lens of 'Archiving as Artistic Praxis'. The residency has been the instrumental towards helping me formulate and consolidate the direction of my MA thesis at Aalto University, Helsinki, titled "**Cyber Archive: Being and Doing Knowledge**".
