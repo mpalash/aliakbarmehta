@@ -1,4 +1,4 @@
-<section id="{{ section.title | split: "~" | last | strip | slugify: 'latin' }}" class="project-content {{ section.layout }}">
+<section id="{{ section.title | split: "~" | last | strip | slugify: 'latin' }}" class="project-content {{ section.tag }}">
   <aside class="meta">
     <div><p>{{ section.tag }} • {{ section.pubdate }}</p></div>
   </aside>
