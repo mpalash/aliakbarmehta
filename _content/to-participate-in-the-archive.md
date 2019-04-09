@@ -6,7 +6,9 @@ pubdate: '2018'
 summary: ''
 children:
   - 'Cyber ~ Archiving Knowledge, sculptures'
-  - 'participate ~ Cyborg Archives: 256 Million Colours of Violence'
+  - >-
+    participate ~ Cyborg Archives: 256 Million Colours of Violence, TIFA Working
+    Studios, Pune
   - 'participate ~ Cyborg Archives: WAR • ROOM • ECHO, TIFA Working Studios, Pune'
   - >-
     participate ~ Cyborg Archives: GarbageInGarbageOut, TIFA Working Studios,
