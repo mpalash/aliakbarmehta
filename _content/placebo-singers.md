@@ -5,6 +5,4 @@ tag: "individual work"
 pubdate: '2015'
 summary: ''
 ---
-![](/assets/img/ali-akbar-mehta-placebo-singers-2015.jpg)
-
-Graphite and Charcoal on hahnemuhle Paper, 2015
+![Placebo Singers, graphite and charcoal on Hahnemühle paper, 2015](/assets/img/ali-akbar-mehta-placebo-singers-2015.jpg)

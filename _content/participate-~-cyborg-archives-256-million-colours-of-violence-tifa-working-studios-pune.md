@@ -1,5 +1,5 @@
 ---
-title: 'participate ~ Cyborg Archives: 256 Million Colours of Violence'
+title: 'participate ~ Cyborg Archives: 256 Million Colours of Violence, TIFA Working Studios, Pune'
 subtitle: ''
 layout: content
 tag: artwork
@@ -7,7 +7,7 @@ pubdate: '2018'
 parent: To Participate in the Archive
 children: []
 ---
-_Cyborg Archives: 256 Million Colours of Violence_ is the fifth in a series of five performance and participatory installations, exhibited as part of the culmination of my residency at TIFA Working Studios
+_Cyborg Archives: 256 Million Colours of Violence_ is the second in a series of five performance and participatory installations, exhibited as part of the culmination of my residency at TIFA Working Studios
 
 ![](/assets/img/ali-akbar-mehta_256-million-colours-of-violence_installation-view_tifa-working-studios-pune_2018.jpg)
 
