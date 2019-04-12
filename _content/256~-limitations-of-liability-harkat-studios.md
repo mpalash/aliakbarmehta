@@ -6,5 +6,17 @@ tag: solo exhibition
 pubdate: '2017'
 parent: 256 Million Colours of Violence
 ---
-![](/assets/img/Ali Akbar Mehta_256 Poster_Limitations of Liability_Harkat_2017.jpg)
-![](/assets/img/Ali Akbar Mehta_256 Million Colours of Violence_ Poster.jpg)
+![](/assets/img/ali-akbar-mehta_limitation-of-liability_harkat-studio_installation-view-02_2017.jpg)
+
+![](/assets/img/ali-akbar-mehta_limitation-of-liability_harkat-studio_installation-view-01_2017.jpg)
+
+![](/assets/img/ali-akbar-mehta_limitation-of-liability_harkat-studio_film-screening03_2017.jpg)
+
+![](/assets/img/ali-akbar-mehta_limitation-of-liability_harkat-studio_film-screening02_2017.jpg)
+
+![](/assets/img/ali-akbar-mehta_limitation-of-liability_harkat-studio_film-screening04_2017.jpg)
+
+![](/assets/img/ali-akbar-mehta_limitation-of-liability_harkat-studio_film-screening01_2017.jpg)
+
+!\[](/assets/img/Ali Akbar Mehta_256 Poster_Limitations of Liability_Harkat_2017.jpg)
+!\[](/assets/img/Ali Akbar Mehta_256 Million Colours of Violence_ Poster.jpg)
