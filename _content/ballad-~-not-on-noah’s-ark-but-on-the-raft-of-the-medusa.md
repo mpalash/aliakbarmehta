@@ -1,9 +1,7 @@
 ---
+title: 'Ballad ~ Not on Noah’s Ark, but on the Raft of the Medusa'
+subtitle: 'Essay by Ranjit Hoskote, Mumbai, 2011'
 layout: content
-title: >-
-  Ballad ~ Not on Noah’s Ark, but on the Raft of the Medusa
-subtitle: Recent Works by Ali Akbar Mehta
-parent: 'Ballad of the War that Never Was, and Other Basterdised Myths'
 tag: text
 pubdate: '2011'
 summary: >-
@@ -17,6 +15,7 @@ summary: >-
   obliged either to neutralise himself to these horrors and provocations; nor is
   he afraid of exploring the regimes of consciousness that lie beneath the
   sanctioned threshold of sanity.
+parent: 'Ballad of the War that Never Was, and Other Basterdised Myths'
 ---
 And so the jesters, harlequins, cerecloth-swaddled zombies and explosion- flayed refugees who populate Ali Akbar Mehta’s paintings and digital works are not strangers. Not at all, for we know them intimately well, these figures who dominate the 1983-born Mehta’s first solo exhibition: they are ourselves an hour from now, a decade from now, in the near future, or at any moment. Allegories of the present, veiled thinly as a post apocalyptic future, Mehta’s works alternate, tonally, between melancholia and the ludic, between Lent and Carnival. They emerge from a long tradition of critique-through-image that turns our conventions of time, space, gravity and propriety topsy-turvy: a tradition that counts, among its major exponents, Hieronymus Bosch and Pieter Brueghel.
 
