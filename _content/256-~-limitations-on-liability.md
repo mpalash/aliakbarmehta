@@ -1,7 +1,6 @@
 ---
-layout: content
 title: '256 ~ Limitations of Liability, Piramal Art Foundation'
-parent: 256 Million Colours of Violence
+layout: content
 tag: talk
 pubdate: '2017'
 summary: >-
@@ -10,7 +9,14 @@ summary: >-
   allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
-  Ali Akbar Mehta talks to Kevin Lobo about his project '256 Million Colours of Violence' and the urgency of asking questions. They discuss tools of inquiry used and attempt to dissect the various narratives presented through the survey. Inquiries into colour, violence and their perceptions can lead to multiple directions – the conversation looks at how the narrative experience of colour may be embodied, embedded and extended in the contexts of these meanings.
+  Ali Akbar Mehta talks to Kevin Lobo about his project '256 Million Colours of
+  Violence' and the urgency of asking questions. They discuss tools of inquiry
+  used and attempt to dissect the various narratives presented through the
+  survey. Inquiries into colour, violence and their perceptions can lead to
+  multiple directions – the conversation looks at how the narrative experience
+  of colour may be embodied, embedded and extended in the contexts of these
+  meanings.
+parent: 256 Million Colours of Violence
 ---
 The conversation was conducted in Piramal Museum of Art, as part of Limitations of Liability, an eight day program between March 17 to 28, 2017, structured around ‘256 Million Colours of Violence’ – an interactive survey-based-research project, asking people 'What according to you, is the Colour of Violence?'.
 
@@ -20,6 +26,4 @@ Limitations of Liability (`link to exhibition`) was held across three venues:
 
 The Mumbai Assembly (Bandra), The Piramal Art Foundation (Lower Parel) Harkat Studios (Versova)
 
-
-
-You can know more about the survey and participate at [www.256milioncoloursofviolence.com](www.256milioncoloursofviolence.com)
+You can know more about the survey and participate at [www.256milioncoloursofviolence.com](http://www.256millioncoloursofviolence.com)
