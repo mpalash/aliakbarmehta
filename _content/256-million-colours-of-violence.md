@@ -11,7 +11,9 @@ children:
   - '256 ~ Limitations of Liability, Mumbai Assembly'
   - '256 ~ Limitations of Liability, Piramal Art Foundation'
   - '256 ~ Limitations of Liability, Harkat Studios'
-  - '256 ~ Assembly of Access, TIFA Working Studios'
+  - >-
+    participate ~ Cyborg Archives: 256 Million Colours of Violence, TIFA Working
+    Studios, Pune
   - '256 ~ Colours of Violence, AROOP III - Totems and Taboos'
   - In Conversation with Ali Akbar Mehta
   - Not your Regular Archive
