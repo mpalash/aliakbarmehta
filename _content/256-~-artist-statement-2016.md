@@ -1,7 +1,6 @@
 ---
+title: '256 ~ Artist Statement, 2016'
 layout: content
-title: 256 ~ Artist Statement, 2016
-parent: 256 Million Colours of Violence
 tag: text
 pubdate: '2016'
 summary: >-
@@ -11,6 +10,7 @@ summary: >-
   unfolding after the Malegaon Blasts \[1] (2006, India). Now, a decade after
   the event, this response has grown to encompass several other events in a
   world that is radically changing.
+parent: 256 Million Colours of Violence
 ---
 An inquiry into colour can lead to multiple directions. Colour is troubled light – a violently oscillating frequency entering our optical system that is translated by the visual cortex of our brain. When Newton split light into the visible colour spectrum it was science.Colours have become symbolic of emotions and thoughts, taking on animate qualities and connotations that surpass their scientific properties. Colour is a central feature of social life yet its value in sociological theory is ambiguous. Colour in its perception is familiar and intuitive and subjective in its meaning where we seldom understand it beyond the parameters of our own consentual social reality.
 
