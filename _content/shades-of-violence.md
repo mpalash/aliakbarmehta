@@ -1,5 +1,5 @@
 ---
-title: An art project explores the association between colours and violence
+title: Shades of Violence
 subtitle: 'Hindustan Times, 2017'
 layout: content
 tag: press
