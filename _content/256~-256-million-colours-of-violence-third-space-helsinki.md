@@ -1,10 +1,9 @@
 ---
-layout: content
 title: '256 ~ 256 Million Colours of Violence, Third Space, Helsinki'
-parent: 256 Million Colours of Violence
-tag: "solo exhibition"
+layout: content
+tag: solo exhibition
 pubdate: '2016'
-
+parent: 256 Million Colours of Violence
 ---
 ![](/assets/img/ali-akbar-mehta_256-million-colours-of-violence_installation-view-01_third-space-helsinkie_2016.jpg)
 ![](/assets/img/ali-akbar-mehta_256-million-colours-of-violence_installation-view-04_third-space-helsinkie_2016.jpg)
@@ -20,5 +19,4 @@ The first iteration of **256 Million Colours of Violence** is exhibited in
 Third Space, Helsinki, 2016. Through this exhibition, a first public encounter
 with this format of online survey takes place.
 
-Visit the project:
-[www.256millioncoloursofviolence.com](www.256millioncoloursofviolence.com)
+You can know more about the survey and participate at [www.256milioncoloursofviolence.com](http://www.256millioncoloursofviolence.com/)
