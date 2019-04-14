@@ -1,5 +1,6 @@
 ---
 title: SOAK
+subtitle: 'Curated by by Ali Akbar Mehta, Martina Adela, and Ru Zham'
 layout: content
 tag: past project
 pubdate: '2016'
