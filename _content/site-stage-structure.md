@@ -2,7 +2,7 @@
 title: 'SITE : STAGE : STRUCTURE'
 layout: content
 tag: past project
-pubdate: '2019'
+pubdate: '2014'
 hero: /assets/img/mazgaon-docks.jpg
 summary: >-
   SITE : STAGE : STRUCTURE is an archival documentary project. It is a
@@ -12,10 +12,10 @@ summary: >-
 children:
   - 'SITE : STAGE : STRUCTURE'
   - sss ~ The Possibility of Alienation
+  - 'sss ~ SITE : STAGE : STRUCTURE, Clark House, Mumbai'
   - 'sss ~ Artist Book #1: Performers of Mazgaon'
   - 'sss ~ Artist Book #2: Daarukhana'
   - 'sss ~ Artist Book #3: Kwan Tai Shek'
-  - 'sss ~ SITE : STAGE : STRUCTURE, Clark House, Mumbai'
   - sss ~ Kwan Tai Shek Temple
   - sss ~ Mazgaon Interviews – Fakhruddin and Khateeja Merchant
   - sss ~ Mathar Pacady Interviews – Uncle Martin
