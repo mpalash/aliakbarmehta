@@ -1,9 +1,9 @@
 ---
+title: 'Ballad ~  In Conversation with Rahul D''Souza '
+subtitle: ''
 layout: content
-title: 'Ballad ~  Conversation transcript with Rahul D''Souza '
-parent: 'Ballad of the War that Never Was, and Other Basterdised Myths'
 tag: text
-pubdate: '2014'
+pubdate: '2011'
 summary: >-
   Ali Akbar Mehta talks candidly with Rahul D'Souza about his first solo
   exhibition, “Ballad of the War that Never Was and other Bastardised Myths”
@@ -19,6 +19,7 @@ summary: >-
   actually came from an increasing preoccupation that I have been having with
   the idea of violence, of how our world is governed by responses that are
   majorly violent...**
+parent: 'Ballad of the War that Never Was, and Other Basterdised Myths'
 ---
 **The opening line of my Artist Statement says, “Interactions between individuals, communities and nations are driven largely by instinct to establish dominance in territory”. When I considered the title I wanted it to be representative of the whole body of my work. I realised that most of my work had to do with the nature of the violence we experience – consciously or unconsciously; whether it is intra-personal relationships or international events. Since I'm not speaking about the whole idea of a specifically driven war, a specific political context or a social context I thought it would be interesting to call it “The War that Never Was”.**
 
@@ -90,9 +91,9 @@ RD: Let's then revisit violence. What can be said of the hero depicted in your w
 
 RD: Then this is very far removed from the myth of Sisyphus. This is a real sacrifice.
 
-**AM: That (sacrifice and redemption) is actually the title of one of my works, The Identity of Violence Series: Sacrifice and Redemption , with the grey back ground and the red hands.
+**AM: That (sacrifice and redemption) is actually the title of one of my works, The Identity of Violence Series: Sacrifice and Redemption , with the grey back ground and the red hands.**
 
-Ambiguity plays a very important part in my work. How the viewer defines the work for himself and how the viewer is contextualising the work forms in a very fundamental and intrinsic sense what the work would mean to that viewer.**
+**Ambiguity plays a very important part in my work. How the viewer defines the work for himself and how the viewer is contextualising the work forms in a very fundamental and intrinsic sense what the work would mean to that viewer.**
 
 RD: Are you afraid then that the names would lend meaning then to the viewer? You name each of them and assign a meaning and forgo complete abstraction and ambiguity.
 
@@ -152,11 +153,11 @@ RD: Then we don't have to go any further than Kerala where in Kathakali the acto
 
 RD: Let's talk about being at a particular place and the transition to where you are right now. When considering the fact that this is your first solo exhibition and you are putting all your work together, stuff that may or may not have been exhibited in group shows earlier marking a particular point in the journey of all your considerations into the human condition and this is what people are going to see. Without trying to create or impose a certain idea on people, what do you hope people understand about your work?
 
-**AM: I think what I would like the viewer to take back with them is the idea that over here is a work which doesn't have a specific social context but it has a very specific human context. Here we are talking about something which is much more fundamental and deeper. It is very primal, the primary image, in relation to archetypes and how it affects us.
+**AM: I think what I would like the viewer to take back with them is the idea that over here is a work which doesn't have a specific social context but it has a very specific human context. Here we are talking about something which is much more fundamental and deeper. It is very primal, the primary image, in relation to archetypes and how it affects us.**
 
-I want people to be affected emotionally at first, but they should question the work in relation to themselves and have that kind of a dialogue. Maybe be disturbed or unsettled but then try and find their answers to those turbulences, through this intrinsic idea of violence, of our existence in this particular time.
+**I want people to be affected emotionally at first, but they should question the work in relation to themselves and have that kind of a dialogue. Maybe be disturbed or unsettled but then try and find their answers to those turbulences, through this intrinsic idea of violence, of our existence in this particular time.**
 
-I want to take the viewers into this world that has been created; it is very different from the everyday reality of their existence. To look into the worlds, to see the images, to take the images into their depths.**
+**I want to take the viewers into this world that has been created; it is very different from the everyday reality of their existence. To look into the worlds, to see the images, to take the images into their depths.**
 
 RD: So you want the viewer to engage with a deep consideration of the world you have created by making sense of its inner working. You've drawn on mythology, particularly its modern version, would you want the audience to go back and consider this deep way of looking at the world which does not instantly strike you as real until you recognise it in its natural environment – our world?
 
@@ -164,12 +165,12 @@ RD: So you want the viewer to engage with a deep consideration of the world you 
 
 RD: What I mean by deep is that our generation has taken it to imply any type of spiritual, holistic enquiry which would not necessarily be considered deep in the conventional sense though it might be.
 
-**AM: What I mean by childhood is a lot of these images that we are talking about, including existing archetypes and myths were created in the childhood of our existence. They have that very raw, emotive content, which we would associate with our own individual childhood – things like good and evil. Why do comics and mythic parallels start affecting us so much when we are children? Why do things like the enigmatic nature of people or the mysteries behind every day, simple, mundane, banal things seem so apparent when we were children because I think we tend to think very differently and it is that sense of childhood rawness that I want people to experience in a sense also?
+**AM: What I mean by childhood is a lot of these images that we are talking about, including existing archetypes and myths were created in the childhood of our existence. They have that very raw, emotive content, which we would associate with our own individual childhood – things like good and evil. Why do comics and mythic parallels start affecting us so much when we are children? Why do things like the enigmatic nature of people or the mysteries behind every day, simple, mundane, banal things seem so apparent when we were children because I think we tend to think very differently and it is that sense of childhood rawness that I want people to experience in a sense also?**
 
-Another series of works which is there is the whole photographic work where the stated intention is going into a childhood memory, where these characters, at least for me, had a certain kind of mystery, a certain kind of enigma like the golawala or a beggar who came in front of your car window or anyone else who occupies the street. They were there for a fleeting moment and then they would disappear. They became characters. I would always imagine, wonder about where they came from, what their lives must be like.**
+**Another series of works which is there is the whole photographic work where the stated intention is going into a childhood memory, where these characters, at least for me, had a certain kind of mystery, a certain kind of enigma like the golawala or a beggar who came in front of your car window or anyone else who occupies the street. They were there for a fleeting moment and then they would disappear. They became characters. I would always imagine, wonder about where they came from, what their lives must be like.**
 
 RD: So you implied the emotion that you feel or you imagine when you think about them through the perspective of the harlequin.
 
 **AM: As one grows up mysteries start dissipating, as we start to know things become less mysterious and what also inversely starts happening is that we start losing interest. We start to not see these people. I want to make them visible again and to infuse them with that sense of mystery and enigma. It is this revisiting that I am expecting, on a certain level, the viewer to have.**
 
-****
+- - -
