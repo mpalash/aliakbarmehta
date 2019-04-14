@@ -2,7 +2,7 @@
 title: wre ~ Narrating War
 layout: content
 tag: text
-pubdate: '2018'
+pubdate: '2016'
 summary: >-
   Violence & the culture it consumes/perpetuates is a fundamental condition
   lodged in the core of human experience. It is simultaneously private, public,
