@@ -1,10 +1,10 @@
 ---
-layout: content
 title: 'TRINITY ~ TRINITY: Godrej Legacy Park silos'
-parent: 'TRINITY: Gordrej Legacy Park Silos'
-tag: "solo exhibition"
+subtitle: 'Godrej ONE, Vikhroli, Mumbai'
+layout: content
+tag: solo exhibition
 pubdate: '2015'
-
+parent: 'TRINITY: Gordrej Legacy Park Silos'
 ---
 ![](/assets/img/ali-akbar-mehta_installation-view_-ext-01_trinity-godrej_2015.jpg)
 ![](/assets/img/ali-akbar-mehta_installation-view_-past-01_trinity-godrej_2015.jpg)
