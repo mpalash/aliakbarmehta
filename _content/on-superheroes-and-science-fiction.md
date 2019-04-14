@@ -1,7 +1,8 @@
 ---
-layout: content
 title: On Superheroes and Science fiction
-tag: unpublished
+subtitle: Essay by Aliakbar Mehta (unpublished)
+layout: content
+tag: text
 pubdate: '2013'
 ---
 > _You know, I’m quite keen on comic books. Especially the ones about superheroes. I find the whole mythology surrounding superheroes fascinating._
