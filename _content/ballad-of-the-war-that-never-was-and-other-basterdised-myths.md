@@ -6,9 +6,7 @@ pubdate: '2011'
 hero: >-
   /assets/img/ballad-of-the-war-that-never-was-2011-oil-and-acrylic-on-canvas-152-x-198-cm.jpg
 children:
-  - >-
-    Ballad ~ Not on Noah’s Ark, but on the Raft of the Medusa: Recent Works by
-    Ali Akbar Mehta
+  - 'Ballad ~ Not on Noah’s Ark, but on the Raft of the Medusa'
   - 'Ballad ~  Conversation transcript with Rahul D''Souza '
   - >-
     Ballad ~ Ballad of the War that Never Was, and Other Basterdised Myths, TAO
