@@ -1,8 +1,7 @@
 ---
-layout: content
 title: 'sss ~ Odes and Inquisitions: Sino-Indian Connections in Recent Indian Art'
-subtite: by Ryan Holmberg, published in Yishu, Journal of Chinese Contemporary Art, 2014
-parent: 'SITE : STAGE : STRUCTURE'
+subtitle: Essay by Ryan Holmberg
+layout: content
 tag: text
 pubdate: '2014'
 summary: >-
@@ -11,6 +10,7 @@ summary: >-
   atop a hillock, the garden park literally lifts you out of the noise from
   which even the surrounding neighborhood of Mazagaon, sedate by Mumbai
   standards, cannot escape.
+parent: 'SITE : STAGE : STRUCTURE'
 ---
 
 
