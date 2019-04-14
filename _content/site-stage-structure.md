@@ -10,7 +10,7 @@ summary: >-
   films, audio narratives, and heritage walks as a way of revitalizing memories
   and telling a history that is absent from the formal narratives.
 children:
-  - sss ~ Artist Note
+  - 'SITE : STAGE : STRUCTURE'
   - sss ~ The Possibility of Alienation
   - 'sss ~ Artist Book #1: Performers of Mazgaon'
   - 'sss ~ Artist Book #2: Daarukhana'
@@ -28,7 +28,7 @@ children:
   - sss ~ Interview
   - Chinese fortunes and other Mumbai memories
   - 'The BB Art Showcase: Ali Akbar Mehta'
-  - sss ~ The Possibility Of Alienation
+  - sss ~ The Possibility Of Alienation – Ali Akbar Mehta
   - Site Specific
   - sss ~ A select History of Mumbai
   - sss ~ Hidden Histories of Mazgoan
