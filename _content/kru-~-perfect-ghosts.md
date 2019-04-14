@@ -1,8 +1,7 @@
 ---
-layout: content
 title: Kru ~ Perfect Ghosts
-subtitle: A brief historical record of the Kruunuvuori Villas, by Ali Akbar Mehta
-parent: 'Contemporary Ruins of Kruunuvuori:  The Perfect Ghosts of Helsinki'
+subtitle: 'A brief historical record of the Kruunuvuori Villas, by Ali Akbar Mehta'
+layout: content
 tag: text
 pubdate: '2015'
 summary: >-
@@ -13,6 +12,7 @@ summary: >-
   hidden amidst ancient forest left at the mercy of nature, with only the slow
   inevitable passing of time as its companion. Dilapidated and forgotten for
   decades, these villas still struggle against elements and time.
+parent: Contemporary Ruins of Kruunuvuori
 ---
 The Kruunuvuori villas – one of Helsinki’s oddest and simultanously the most treasured and the most publicly well known secrets, may probably not exist for much long longer – (many believe that the year 2015 is the last year of the presumably indefinite building ban that it was placed under, and so the demolition of almost all of the villas could very well take place in the Summer of 2016). Of all the villas surviving their various states of ruins, only a few seem to be structurally sound enough to be conserved as Heritage Sites, although that they will be done so, is doubtful.
 
