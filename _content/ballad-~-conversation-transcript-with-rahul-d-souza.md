@@ -2,7 +2,7 @@
 title: 'Ballad ~  In Conversation with Rahul D''Souza '
 subtitle: ''
 layout: content
-tag: text
+tag: press
 pubdate: '2011'
 summary: >-
   Ali Akbar Mehta talks candidly with Rahul D'Souza about his first solo
