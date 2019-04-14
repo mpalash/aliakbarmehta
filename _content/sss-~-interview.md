@@ -1,6 +1,6 @@
 ---
 title: sss ~ Interview
-subtitle: Interview by
+subtitle: ''
 layout: content
 tag: press
 pubdate: '2014'
