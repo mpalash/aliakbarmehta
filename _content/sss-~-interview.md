@@ -11,9 +11,7 @@ summary: >-
   SITE : STAGE : STRUCTURE is an archival project based within and around the
   geographical location of Mazgaon and Wadibunder. It is a Transmedia
   installation integrating books, photographs, video documentation, audio
-  narratives and heritage walks as a way of revitalizing memories and telling a
-
-  history that is absent from the formal narratives.
+  narratives and heritage walks as a way of revitalizing memories and telling a history that is absent from the formal narratives.
 
 
   The highlight of the exhibition are the paintings, each presenting an

@@ -1,5 +1,5 @@
 ---
-title: purg~ Purgatory edit
+title: purg ~ Purgatory edit
 layout: content
 tag: artwork
 pubdate: '2017'

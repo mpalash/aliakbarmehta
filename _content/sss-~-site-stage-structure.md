@@ -1,7 +1,7 @@
 ---
 layout: content
-title: sss ~ Artist Note
-subtitle: written by Ali Akbar Mehta
+title: sss ~ SITE : STAGE : STRUCTURE
+subtitle: Artist Statement by Ali Akbar Mehta
 parent: 'SITE : STAGE : STRUCTURE'
 tag: text
 pubdate: '2014'
