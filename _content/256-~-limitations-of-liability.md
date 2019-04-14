@@ -15,9 +15,9 @@ summary: >-
   This interactive survey-based-research project started in 2016, now includes more than 200 entries of people from all walks of life. 256 Million Colours of Violence is available to the public for free. The exposition of the past survey results will be installed along with a participation booth at The Mumbai Assembly and Harkat studios inviting everyone to participate in the ongoing survey.
 ---
 
-![null](/assets/img/limitations-of-liability-segment-1.jpg)
-![null](/assets/img/limitations-of-liability-segment-2-updated.jpg)
-![null](/assets/img/limitations-of-liability-segment-3.jpg)
+![](/assets/img/limitations-of-liability-segment-1.jpg)
+![](/assets/img/limitations-of-liability-segment-2-updated.jpg)
+![](/assets/img/limitations-of-liability-segment-3.jpg)
 
 Held across three venues – The Mumbai Assembly (Bandra), The Piramal Art Foundation (Lower Parel) and Harkat Studios (Versova) – the program also included poetry recitations, talks and discussions, and a series of films screenings concerned with the subject of violence and trauma.
 
