@@ -17,7 +17,7 @@ children:
   - 'sss ~ Artist Book #3: Kwan Tai Shek'
   - 'sss ~ SITE : STAGE : STRUCTURE, Clark House, Mumbai'
   - sss ~ Kwan Tai Shek Temple
-  - 'sss ~ Mazgaon Interviews – Fakhruddin and Khateeja Merchant'
+  - sss ~ Mazgaon Interviews – Fakhruddin and Khateeja Merchant
   - sss ~ Mathar Pacady Interviews – Uncle Martin
   - sss ~ Mathar Pacady Interviews – Mr. Julius Valladares
   - sss ~ Mathar Pacady Interviews – Aunty Tessi
@@ -26,6 +26,7 @@ children:
   - sss ~ Memory and the Maximum City
   - 'sss ~ Odes and Inquisitions: Sino-Indian Connections in Recent Indian Art'
   - sss ~ Interview
+  - Chinese fortunes and other Mumbai memories
   - 'THE BB ART SHOWCASE: ALI AKBAR MEHTA'
   - 'sss ~ Art Daily, 15.04.2014'
   - sss ~ A select History of Mumbai
