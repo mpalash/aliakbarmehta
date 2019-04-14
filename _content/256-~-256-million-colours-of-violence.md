@@ -1,5 +1,6 @@
 ---
-title: '256 ~ Artist Statement, 2016'
+title: '256 ~ 256 Million Colours of Violence, 2016'
+subtitle: Artist Statement by Ali Akbar Mehta
 layout: content
 tag: text
 pubdate: '2016'

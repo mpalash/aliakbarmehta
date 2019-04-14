@@ -1,6 +1,6 @@
 ---
 layout: content
-title: Kru ~ Project proposal
+title: Kru ~ Proposal for Contemporary Ruins of Kruunuvuori
 parent: 'Contemporary Ruins of Kruunuvuori:  The Perfect Ghosts of Helsinki'
 tag: text
 pubdate: '2016'
