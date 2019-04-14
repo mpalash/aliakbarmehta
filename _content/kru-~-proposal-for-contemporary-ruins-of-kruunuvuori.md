@@ -1,7 +1,7 @@
 ---
-layout: content
 title: Kru ~ Proposal for Contemporary Ruins of Kruunuvuori
-parent: 'Contemporary Ruins of Kruunuvuori:  The Perfect Ghosts of Helsinki'
+subtitle: Project Proposal by Ali Akbar Mehta
+layout: content
 tag: text
 pubdate: '2016'
 summary: >-
@@ -13,6 +13,7 @@ summary: >-
   marginalization of derelict materiality, the exhibition will be structured
   around the themes of ‘aesthetics of waste and heritage’; ‘materiality of
   memory’; and ‘significance of Things’.
+parent: Contemporary Ruins of Kruunuvuori
 ---
 Ruins rarely fit into the imagination of the Contemporary. In our everyday comprehension ruins bring to mind ancient and enchanted monumental structures; an archaeological dream world featuring celebrities such as Machu Picchu, Pompeii and Angkor Wat. Yet never have so many ruins been produced; so many things been victimized and made redundant, so many sites been abandoned. Closed shopping malls, abandoned military sites, industrial wastelands, derelict mining towns, empty apartment houses, withering capitalist and communist monuments. A ghostly world of decaying modern debris mostly left out of academic concerns and conventional histories, ruins still play a marginal role in the political economy of the past and present; instead becoming a play between absence and presence.
 
