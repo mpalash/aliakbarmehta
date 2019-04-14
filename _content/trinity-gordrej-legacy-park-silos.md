@@ -1,12 +1,13 @@
 ---
 title: 'TRINITY: Gordrej Legacy Park Silos'
+subtitle: ''
 layout: content
 tag: past project
-pubdate: '2019'
+pubdate: '2015'
 hero: /assets/img/hero-image.jpg
 children:
-  - TRINITY ~ Artist Statement
+  - 'TRINITY ~ TRINITY: Past, Present, and Future'
   - 'TRINITY ~ TRINITY: Godrej Legacy Park silos'
-  - 'The Spaces Are Alive'
+  - The Spaces Are Alive
 ---
 TRINITY is a public art project, commissioned by Godrej Pvt. Ltd., and installed as a permanent work in the Godrej One, Vikhroli premises.
