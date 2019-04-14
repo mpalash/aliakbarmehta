@@ -15,7 +15,7 @@ children:
   - >-
     Ballad ~ Ballad of the War that Never Was, and Other Basterdised Myths, TAO
     Art Gallery
-  - 'Ballad ~  In Conversation with Rahul D''Souza '
+  - Ballad ~  In A Liminal Age
   - Ballad ~ Comprehending Violence
 ---
 _"Mehta is an explorer charting a demon-haunted world that balances precariously between compassion and oppression, instability and militarisation; the mushroom cloud of nuclear annihilation is always billowing on its horizon."_
