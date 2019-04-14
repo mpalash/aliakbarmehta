@@ -8,14 +8,14 @@ hero: >-
 children:
   - 'Ballad ~ Not on Noah’s Ark, but on the Raft of the Medusa'
   - 'Ballad ~  Conversation transcript with Rahul D''Souza '
-  - >-
-    Ballad ~ Ballad of the War that Never Was, and Other Basterdised Myths, TAO
-    Art Gallery
   - Ballad ~ Paintings
   - Ballad ~ Drawings
   - Ballad ~ The Harlequin Series
   - Ballad ~ Everybody's a Jester
-  - Ballad ~ Somewhere between Science and Subjectivity
+  - >-
+    Ballad ~ Ballad of the War that Never Was, and Other Basterdised Myths, TAO
+    Art Gallery
   - Ballad ~ Comprehending Violence
+  - Ballad ~ Somewhere between Science and Subjectivity
 ---
 _"Mehta is an explorer charting a demon-haunted world that balances precariously between compassion and oppression, instability and militarisation; the mushroom cloud of nuclear annihilation is always billowing on its horizon."_
