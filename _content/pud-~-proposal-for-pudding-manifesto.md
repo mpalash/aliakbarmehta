@@ -1,6 +1,6 @@
 ---
 layout: content
-title: Pud ~ Proposal text
+title: Pud ~ Proposal for Pudding Manifesto
 parent: Pudding Manifesto for Togetherness
 tag: text
 pubdate: '2019'
