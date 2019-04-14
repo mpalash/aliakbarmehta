@@ -16,6 +16,6 @@ children:
   - Ballad ~ The Harlequin Series
   - Ballad ~ Everybody's a Jester
   - Ballad ~ Somewhere between Science and Subjectivity
-  - Ballad ~ Review by Abhishek Bandekar
+  - Ballad ~ Comprehending Violence
 ---
 _"Mehta is an explorer charting a demon-haunted world that balances precariously between compassion and oppression, instability and militarisation; the mushroom cloud of nuclear annihilation is always billowing on its horizon."_
