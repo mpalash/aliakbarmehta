@@ -2,7 +2,7 @@
 title: 256 Million Colours of Violence
 layout: content
 tag: ongoing project
-pubdate: '2016'
+pubdate: '2019'
 hero: /assets/img/screen-shot-2018-09-26-at-13.04.19.png
 children:
   - '256 ~ Artist Statement, 2016'
