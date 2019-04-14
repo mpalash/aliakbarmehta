@@ -1,6 +1,6 @@
 ---
-title: 'Ballad ~  In Conversation with Rahul D''Souza '
-subtitle: ''
+title: Ballad ~  In A Liminal Age
+subtitle: Interview by Rahul D'Souza
 layout: content
 tag: press
 pubdate: '2011'
