@@ -3,7 +3,7 @@ layout: content
 title: Pud ~ Proposal for Pudding Manifesto
 parent: Pudding Manifesto for Togetherness
 tag: text
-pubdate: '2019'
+pubdate: '2016'
 summary: >-
   The Pudding manifesto (2016) is a collaborative performance installation in
   which is embedded a manifesto that presents in satirical humour the benefits
