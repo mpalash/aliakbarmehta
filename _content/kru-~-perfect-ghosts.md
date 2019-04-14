@@ -1,6 +1,7 @@
 ---
 layout: content
 title: Kru ~ Perfect Ghosts
+subtitle: A brief historical record of the Kruunuvuori Villas, by Ali Akbar Mehta
 parent: 'Contemporary Ruins of Kruunuvuori:  The Perfect Ghosts of Helsinki'
 tag: text
 pubdate: '2015'
@@ -40,9 +41,3 @@ The vast majority of villas are dilapidated, collapsed or burned. Last arson was
 The Crown Mountain is a mysterious place, ideally seen and experienced in person. Amongst the woods and fog stands this beautifully sad monument, a decaying memory of the old glory days of the aristocracy and high bourgeoisie that still resists the ravages of wind, snow and builders without scruples.
 
 The possibility of alienation in a city that claims cosmopolitanism as a constant, cannot be attributed to the loss of cultural space specifically due to revisits to the city’s history, but bizarrely it has and specifically in particular covering up of history that attempts to erase many diverse histories. The Project aims to shed light and make people aware of the forgotten public and personal histories related to the Kruunuvuori Villas. it fights nostalgia by documenting it, recreating it through videos, conversations, staging ethnographic reconstructions and most importantly through a dissemination of information that is misconstrued and twisted to hide facts in plain sight.
-
-
-
-Ali Akbar Mehta
-
-2015
