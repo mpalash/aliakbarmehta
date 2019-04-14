@@ -19,7 +19,6 @@ summary: >-
   ongoing survey.
 parent: 256 Million Colours of Violence
 ---
-
 ![](/assets/img/limitations-of-liability-segment-1.jpg)
 ![](/assets/img/limitations-of-liability-segment-2-updated.jpg)
 ![](/assets/img/limitations-of-liability-segment-3.jpg)
@@ -28,14 +27,9 @@ Held across three venues – The Mumbai Assembly (Bandra), The Piramal Art Found
 
 Details below:
 
-
-
-
 **THE MUMBAI ASSEMBLY**
 
-
 March 17 – 19, 2017
-
 
 March 17, 2017
 
@@ -49,7 +43,6 @@ Following a spoken word performance by Ramneek Singh, a conversation between Art
 
 6:30 – 7:30 pm
 
-
 March 18, 2017		
 
 _Manifestation of Violence_
@@ -57,7 +50,6 @@ _Manifestation of Violence_
 Ali Akbar Mehta and Simpreet Singh discuss how the project is addressing the notion of freely given information, conditional agreements and consent – to corporations and governments, as opposed to an artist project. Simpreet Singh brings his knowledge and experience of having worked with the 'Right to Information Act; (RTI) to similarly pursue and make visible those truths that are important to us.
 
 6:30 to 8:00 pm
-
 
 March 19, 2017		
 
@@ -69,22 +61,17 @@ Ali Akbar Mehta in conversation with Sameer Pitalwala discuss how most data-mini
 
 **PIRAMAL ART FOUNDATION**
 
-
 March 24, 2017
-
 
 The Urgency of Asking Questions: Ali Akbar Mehta in conversation with Kevin Lobo
 
 7:00 – 8:30pm
 
-
 **HARKAT STUDIO**
 
 March 25 – 28, 2017
 
-
 March 25, 2017
-
 
 256 Million Colours of Violence  
 
@@ -93,7 +80,6 @@ Project Preview
 6:00 – 9:00 pm
 
 March 26, 2017
-
 
 Films Screenings**\***
 
@@ -104,7 +90,6 @@ Exhibition and survey continues
 10 am – 9 pm
 
 March 27-28, 2017
-
 
 Exhibition and survey continues
 
