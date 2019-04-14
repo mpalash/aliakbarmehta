@@ -28,7 +28,8 @@ children:
   - sss ~ Interview
   - Chinese fortunes and other Mumbai memories
   - 'THE BB ART SHOWCASE: ALI AKBAR MEHTA'
-  - 'sss ~ Art Daily, 15.04.2014'
+  - sss ~ The Possibility Of Alienation
+  - Site Specific
   - sss ~ A select History of Mumbai
   - sss ~ Hidden Histories of Mazgoan
   - sss ~ The Chinese in Mumbai
