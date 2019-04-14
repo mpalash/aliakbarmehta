@@ -5,17 +5,25 @@ layout: content
 tag: text
 pubdate: '2014'
 summary: >-
-
   The Joseph Batista Gardens is one of the pleasantest places in Mumbai. Sitting
   atop a hillock, the garden park literally lifts you out of the noise from
   which even the surrounding neighborhood of Mazagaon, sedate by Mumbai
   standards, cannot escape.
+
+
+  To the north and west one gains a distinct view of the many mildew-stained
+  high-rises that contribute to one of the highest population densities in the
+  world. To the south, one sees rows upon rows of warehouses and train sheds.
+  And to the east, a clear view of the city’s historical _raison d’etre:_ Mumbai
+  harbor, populated now with freight and naval ships, once open a time with
+  frigates and opium clippers. It is not a picturesque view, for towering in the
+  middle is a massive, yellow gantry crane inscribed with the words “Mazagaon
+  Dock Limited, Shipbuilders to the Nation.” As advertised, this is India’s top
+  shipyard, creating warships and submarines for the Indian Navy, offshore
+  platforms for the oil industry, and tankers and cargo carriers for commercial
+  shipping.
 parent: 'SITE : STAGE : STRUCTURE'
 ---
-
-
-To the north and west one gains a distinct view of the many mildew-stained high-rises that contribute to one of the highest population densities in the world. To the south, one sees rows upon rows of warehouses and train sheds. And to the east, a clear view of the city’s historical *raison d’etre:* Mumbai harbor, populated now with freight and naval ships, once open a time with frigates and opium clippers. It is not a picturesque view, for towering in the middle is a massive, yellow gantry crane inscribed with the words “Mazagaon Dock Limited, Shipbuilders to the Nation.” As advertised, this is India’s top shipyard, creating warships and submarines for the Indian Navy, offshore platforms for the oil industry, and tankers and cargo carriers for commercial shipping.
-
 The site of Mumbai’s former Chinatown, centered on Nawab Tank Road, lies in the crane’s shadow. The dockside location reminds one that the basis of the overseas Chinese community in India, like in most places across Asia, was the centrality of China in international maritime trade in the early modern and colonial eras. Until the eighteenth century, Mazagaon was hardly more than a Portuguese fort surrounded by fishing villages. Both pleasantly verdant and conveniently adjacent to one of the best natural harbors in Bombay, the place was bound to change when Zoroastrian Parsi merchants and the East India Company made Bombay the new commercial center of Western India. By the mid nineteenth century, Mazagaon had become a fashionable suburb for Europeans and Parsi merchants, populated with many churches, private villas, and even a couple of luxury hotels.  The shipyard dates back to the early nineteenth century. That is where the Chinese worked, reportedly mainly as nut and bolt fitters. What remains of that community, like the much larger one in Kolkata, is composed primarily of Cantonese, Hakka, and Hupei – which is to say, ethnic groups from the Pearl River Delta area and the main inland areas impacted by the opium trade that was developed by the Portuguese and the British in the late eighteenth and early nineteenth centuries.
 
 While Kolkata’s Chinatown holds on, Mumbai’s has been almost lost to oblivion. It registers so weakly in the city’s memory that even most lifelong Mumbaikars have never heard of it. Even at its height, Bombay’s Chinatown paled in comparison with that in Kolkata, which accounts for more than 90 percent of the country’s Chinese-Indian population.  One has to dig for mention of Chinese residents in histories of colonial Bombay. When they do appear, they are merely one name in the colorful and multilingual crowd of traders and immigrants from across Asia, Africa, and the Middle East that made Bombay famous as the most cosmopolitan place in the Orient. “Chinese with pig-tails; Japanese in the latest European attire; Malays in English jackets and loose turbans; Bukharans in tall sheep skin caps and woollen gabardines,” closes Commissioner of Police S. M. Edwardes in his account of the ingredients of Bombay’s melting pot streets in the first decade of the twentieth century. Also in “certain clubs in the city where a man may purchase nightly oblivion for the modest sum of two or three annas” – which is to say, in the opium dens –“the proprietor of the club may be a Musalman; his patrons may be Hindus, Christians or Chinese.” Intoxication, Edwardes observes, overcomes “distinctions of race, creed and sovereignty”  – not unlike, say, money and commerce did in the street. But when the sun went down (or, if you were an addict, when the sun came up), Bombay’s various ethnic groups returned to homes in communities that were more often than not segregated from one another.
@@ -38,15 +46,10 @@ Ryan Holmberg
 
 2014
 
-
-
-
 \*
 
 Ryan Holmberg is an art and comics historian. After receiving his PhD in Japanese Art History from Yale University in 2007, he taught at the University of Chicago, City University of New York, and the University of Southern California. He is a frequent contributor to Art in America, Artforum, Yishu, and The Comics Journal, and is editor of two lines of translated manga from PictureBox, Inc. in New York: Ten Cent Manga, which focuses on the impact of American comics and mass entertainment on Japanese manga, and Masters of Alternative Manga. As a Sainsbury Fellow, Ryan is undertaking research that would eventually lead to the publication of his book project Garo and the Birth of Alternative Manga.
 
 Ryan happened to walk in one fine day into Clark House, when he was researching a piece on Sino-Indian Connections in Recent Indian Art, which was published in the January/February 2015 volume of YISHU.
-
-
 
 http://yishu-online.com/browse-articles/?779
