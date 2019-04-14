@@ -1,14 +1,15 @@
 ---
+title: 'TRINITY ~ TRINITY: Past, Present, and Future'
+subtitle: Artist Statement by Ali aKbar Mehta and vidha Saumya
 layout: content
-title: TRINITY ~ Artist Statement
-parent: 'TRINITY: Gordrej Legacy Park Silos'
 tag: text
-pubdate: '2019'
+pubdate: '2015'
 summary: >-
   An exhibition is always an act of placing artworks and understanding the
   importance of engaging with a site and, at the same time producing a polylogue
   with other spaces. A place is no fixed thing – it has an episodic history and
   takes its particular aspect through an intense immersion.
+parent: 'TRINITY: Gordrej Legacy Park Silos'
 ---
 We recognise the Godrej Complex as a space devoted to natural and technical sciences, and have treated its representation as a live entity, rather than a museum of dead objects – creating contexts that represent different physical, psychological, historical, cultural realms and realities.
 
