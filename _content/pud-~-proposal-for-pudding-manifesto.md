@@ -1,7 +1,6 @@
 ---
-layout: content
 title: Pud ~ Proposal for Pudding Manifesto
-parent: Pudding Manifesto for Togetherness
+layout: content
 tag: text
 pubdate: '2016'
 summary: >-
@@ -14,6 +13,7 @@ summary: >-
   therefore a symbolic act of consumption becomes an innovative catalyst for the
   otherwise rhetorical discourse on refugee integration and assimilation into
   the homogenous social soup.
+parent: Pudding Manifesto for Togetherness
 ---
 _In the post-Cold War world flags count and so do other symbols of cultural identity, including crosses, crescents, and even head coverings, because culture counts, and cultural identity is what is most meaningful to most people. People are discovering new but often old identities and marching under new but often old flags which lead to wars with new but often old enemies. One grim Weltanschauung for this new era was well expressed by the Venetian nationalist demagogue in Michael Oibdin's novel, Dead Lagoon: "There can be no true friends without true enemies. Unless we hate what we are not, we cannot love what we are. These are the old truths we are painfully rediscovering after a century and more of sentimental cant. Those who deny them deny their family, their heritage, their culture, their birthright, their very selves! They will not lightly be forgiven."_
 
@@ -23,4 +23,58 @@ Food has always operated in circulation between the local and the global, migrat
 
 Rice Pudding is a dish made from rice mixed with water or milk and other ingredients such as cinnamon and raisins. Recipes can greatly vary even within a single country. Names of Rice Pudding in the world (alphabetical order):
 
-Arroz con leche, Arroz con dulce, Arroz en leche, Arroz doce, Arroz de leite, Arroz-esne, Banana rice pudding, Bubur Sumsum, Budino di Riso, Сутлијаш or Благ ориз, Сутлијаш/Sutlijaš, Сутляш or Мляко с ориз, Dudhapak, Firni, Grjónagrautur, Ketan hitam , Kheer, Kiribath, Milchreis, Mlečni riž or Rižev pudding, Mliečna ryža, Moghli, Morocho, Muhalibiyya, Молочна рисова каша, Orez cu lapte, Payasam, Phinni/Paayesh, Pudding Orez, Pulut hitam, Ρυζόγαλο, Рисовый пудинг Risovwe pudding, Riisipuuro, Rijstebrij, Rijstpap, Risgrynsgröt, Risengrød, Risengrynsgrøt, Riz au lait, Riz bi haleeb, Riža na mlijeku Ryż na mleku, Shir-berenj, Shola-e zard, Şorbeşîr, Sütlaç, Sutlija, Sutlijas, Sylt(i)jash or Qumësht me Oriz, Tameloriz, Tsamporado, Teurgoule, Tejberizs and Zarda wa haleeb.
+* Arroz con leche, 
+* Arroz con dulce, 
+* Arroz en leche, 
+* Arroz doce, 
+* Arroz de leite, 
+* Arroz-esne, 
+* Banana rice pudding, 
+* Bubur Sumsum, 
+* Budino di Riso, 
+* Сутлијаш or Благ ориз, 
+* Сутлијаш/Sutlijaš, 
+* Сутляш or Мляко с ориз, 
+* Dudhapak, 
+* Firni, 
+* Grjónagrautur, 
+* Ketan hitam , 
+* Kheer, 
+* Kiribath, 
+* Milchreis, 
+* Mlečni riž or Rižev pudding, 
+* Mliečna ryža, 
+* Moghli, 
+* Morocho, 
+* Muhalibiyya, 
+* Молочна рисова каша, 
+* Orez cu lapte, 
+* Payasam, 
+* Phinni/Paayesh, 
+* Pudding Orez, 
+* Pulut hitam, 
+* Ρυζόγαλο, 
+* Рисовый пудинг 
+* Risovwe pudding, 
+* Riisipuuro, 
+* Rijstebrij, 
+* Rijstpap, 
+* Risgrynsgröt, 
+* Risengrød, 
+* Risengrynsgrøt, 
+* Riz au lait, 
+* Riz bi haleeb, 
+* Riža na mlijeku 
+* Ryż na mleku, 
+* Shir-berenj, 
+* Shola-e zard, 
+* Şorbeşîr, 
+* Sütlaç, 
+* Sutlija, 
+* Sutlijas, 
+* Sylt(i)jash or Qumësht me Oriz, 
+* Tameloriz, 
+* Tsamporado, 
+* Teurgoule, 
+* Tejberizs, and 
+* Zarda wa haleeb.
