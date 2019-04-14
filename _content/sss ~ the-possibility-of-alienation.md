@@ -1,8 +1,9 @@
 ---
+title: sss ~ The Possibility of Alienation
+subtitle: >-
+  Exhibition Essay by Sumesh Sharma – co-curator, Clark House Initiative,
+  Mumbai  
 layout: content
-title: 'sss ~ The Possibility of Alienation'
-subtitle: 'wirtten by Sumesh Sharma – co-curator, Clark House Initiative, Mumbai  '
-parent: 'SITE : STAGE : STRUCTURE'
 tag: text
 pubdate: '2014'
 summary: >-
@@ -19,6 +20,7 @@ summary: >-
   the stretch.  Here ‘Mumbaikars’ stare into the homes from the cars of a
   community whom they might not easily find in the endogamous housing societies
   of Bombay.
+parent: 'SITE : STAGE : STRUCTURE'
 ---
 
 
