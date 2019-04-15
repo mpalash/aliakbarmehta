@@ -1,16 +1,14 @@
 ---
 layout: content
 title: Ballad ~ Somewhere between Science and Subjectivity
-subtitle: Interview by Rahul D'Souza 
+subtitle: Interview by Rahul D'Souza
 parent: 'Ballad of the War that Never Was, and Other Basterdised Myths'
 tag: text
 pubdate: '2011'
 summary: >-
-Meera Nanda's concept of a hyper-spiritual and hyper-religious India, as a direct consequence of a global interest in Indic spiritualism and religion, is an interesting medium through which we can evaluate the identity of an Indian artist. With the world's eyes on India as a culture, how can Indians portray themselves to be genuine? And consequently, how Indian are artists, writers, dancers, actors etc?             
+  Meera Nanda's concept of a hyper-spiritual and hyper-religious India, as a direct consequence of a global interest in Indic spiritualism and religion, is an interesting medium through which we can evaluate the identity of an Indian artist. With the world's eyes on India as a culture, how can Indians portray themselves to be genuine? And consequently, how Indian are artists, writers, dancers, actors etc?             
 
-Can Ali be an Indian artist under these circumstances? Will his urban, western influences enable him to portray the true world of an Indian?
-
-
+  Can Ali be an Indian artist under these circumstances? Will his urban, western influences enable him to portray the true world of an Indian?
 ---
 
 _I am as honest as I can be about the way I see the world. I have an urban Indian upbringing. It is as influenced by the west as it is by India. I also have an interest in Japanese animation. I do not restrict my sphere of influence to one culture, nor do I try to channel just one culture through my work._

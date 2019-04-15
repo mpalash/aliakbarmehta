@@ -1,6 +1,6 @@
 ---
 layout: content
-title: sss ~ SITE : STAGE : STRUCTURE
+title: 'sss ~ SITE : STAGE : STRUCTURE'
 subtitle: Artist Statement by Ali Akbar Mehta
 parent: 'SITE : STAGE : STRUCTURE'
 tag: text
