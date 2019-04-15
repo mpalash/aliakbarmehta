@@ -5,7 +5,7 @@ layout: content
 tag: text
 pubdate: '2019'
 hero: /assets/img/images-01.jpg
-parent: 'Outsider ~ All Ears are Equal: Shaping Knowledge through '
+parent: 'Outsiders at Work'
 children: []
 ---
 ![](/assets/img/tuike-and-simo-01.jpg)
