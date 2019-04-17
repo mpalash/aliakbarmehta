@@ -1,11 +1,9 @@
 ---
-title: >-
-  Cyber ~ Cyber Archive: Archiving as a sustainable counter-hegemonic practice,
-  Hakara Journal, (ed.) Ashutosh Poddar and Noopur Desai, 2018
+title: 'Cyber ~ Cyber Archive: Archiving as a sustainable counter-hegemonic practice'
+subtitle: 'Hakara Journal, (ed.) Ashutosh Poddar and Noopur Desai'
 layout: content
 tag: publication
 pubdate: '2018'
-
 ---
 Artistic practices have forced a change in how archives may be looked against
 the grain, used and even produced. Counter Archives, or specifically archives
