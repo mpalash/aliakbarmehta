@@ -1,8 +1,9 @@
 ---
-layout: content
 title: Tasher Desh
-tag: "individual work"
+layout: content
+tag: individual work
 pubdate: '2013'
-children: []
+children:
+  - Tasher ~ Tagore Lost and Found
 ---
 Lenticular Print

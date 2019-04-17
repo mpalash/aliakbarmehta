@@ -4,7 +4,6 @@ subtitle: 'TIFA Working Studios, 2018'
 layout: content
 tag: group exhibition
 pubdate: '2018'
-summary: ''
 parent: To Participate in the Archive
 children: []
 ---
