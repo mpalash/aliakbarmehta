@@ -1,8 +1,8 @@
 ---
-layout: content
 title: Tasher Desh
-tag: "individual work"
+layout: content
+tag: individual work
 pubdate: '2013'
 children: []
 ---
-Lenticular Print
+![](/assets/img/tasher-desh-2013-lenticular-and-vinyl-on-archival-mount-96x114-cm-edition-2.jpg)
