@@ -1,7 +1,6 @@
 ---
-title: >-
-  IS ~ ‘IS/NOT: Sculpture for the Post-Truth Era’, Aalto University Learning
-  Centre, Helsinki
+title: 'IS ~ IS/NOT: Sculpture for the Post-Truth Era'
+subtitle: 'Aalto University Learning Centre, Helsinki'
 layout: content
 tag: group exhibition
 pubdate: '2017'
