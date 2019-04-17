@@ -1,4 +1,4 @@
-function fixvids() {
+function fixVids() {
   /*
    * Grab all iframes on the page or return
    */

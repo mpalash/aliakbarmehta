@@ -40,3 +40,13 @@ p.img {
   padding: $s-xs 0;
   color: $color-warm-dark;
 }
+.gallery-btn {
+  @extend %fa-icon;
+  @extend .fas;
+  color: inherit;
+  font-size: $font-size-large;
+  text-decoration: none !important;
+  cursor: pointer;
+  &.left:before { content: fa-content($fa-var-chevron-circle-left); margin-right: $s-s; }
+  &.right:before { content: fa-content($fa-var-chevron-circle-right); }
+}

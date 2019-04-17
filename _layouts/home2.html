@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body>
+    <script src="{{ "/assets/boids.js" | relative_url }}"></script>
+
+    <main class="page-content home r" aria-label="Content">
+      {%- include header.html -%}
+      <div class="c c-12 p-2">
+        <h1 class="site-title">{{ site.title }}</h1>
+        <p class="sub-site-title">{{site.description}}</p>
+      </div>
+      <div class="c c-12">
+        {% assign projects = 'ongoing project,past project,individual work' | split: ',' %}
+        {% assign sortedtags1 = 'performance,talk' | split: ',' %}
+        {% assign exhibitions = 'solo exhibition,group exhibition' | split: ',' %}
+        {% assign text = 'text,unpublished' | split: ',' %}
+        {% assign publications = 'publication' | split: ',' %}
+        {% assign sortedtags2 = 'press' | split: ',' %}
+
+        {% assign sortedcontent = site.content | sort: 'pubdate' | reverse %}
+        <div class="all-projects hide">
+          {% for content in sortedcontent %}
+            <li class="project-year-genre" data-year="{{ content.pubdate }}" data-genre="{{ content.tag | replace: ' ', '-' }}">
+            {% if content.parent %}
+              <a href="/content/{{ content.parent | strip | slugify: 'latin' }}#{{ content.title | split: "~" | last | strip | slugify: 'latin' }}" >{{ content.title | split: "~" | last | strip }}</a>
+            {% else %}
+              <a href="/content/{{ content.title | split: "~" | last | strip | slugify: 'latin' }}">{{ content.title | split: "~" | last | strip }}</a>
+            {% endif %}
+            </li>
+          {% endfor %}
+        </div>
+
+        <!-- <div class="listing tags">
+          <div>
+            <h2 class="tag small tag-project">projects</h2>
+            <ul>
+              {% for tag in projects %}
+              {% for content in sortedcontent %}
+                {% if tag == content.tag %}
+                <li data-year="{{ content.pubdate }}" data-genre="{{ content.tag }}">
+                  {% if content.parent %}
+                    <a href="/content/{{ content.parent | strip | slugify: 'latin' }}#{{ content.title | split: "~" | last | strip | slugify: 'latin' }}">{{ content.pubdate }} • {{ content.title | split: "~" | last | strip }}</a></li>
+                  {% else %}
+                    <a href="/content/{{ content.title | split: "~" | last | strip | slugify: 'latin' }}">{{ content.pubdate }} • {{ content.title | split: "~" | last | strip }}</a></li>
+                  {% endif %}
+                {% endif %}
+              {% endfor %}
+              {% endfor %}
+            </ul>
+          </div>
+          {% for tag in sortedtags1 %}
+          <div>
+            <h2 class="tag small tag-{{ tag }}">{{ tag }}s</h2>
+            <ul>
+              {% for content in sortedcontent %}
+                {% if tag == content.tag %}
+                <li data-year="{{ content.pubdate }}" data-genre="{{ content.tag }}">
+                  {% if content.parent %}
+                    <a href="/content/{{ content.parent | strip | slugify: 'latin' }}#{{ content.title | split: "~" | last | strip | slugify: 'latin' }}">{{ content.pubdate }} • {{ content.title | split: "~" | last | strip }}</a></li>
+                  {% else %}
+                    <a href="/content/{{ content.title | split: "~" | last | strip | slugify: 'latin' }}">{{ content.pubdate }} • {{ content.title | split: "~" | last | strip }}</a></li>
+                  {% endif %}
+                {% endif %}
+              {% endfor %}
+            </ul>
+          </div>
+          {% endfor %}
+          <div>
+            <h2 class="tag small tag-exhibition">exhibitions</h2>
+            <ul>
+              {% for tag in exhibitions %}
+              {% for content in sortedcontent %}
+                {% if tag == content.tag %}
+                <li data-year="{{ content.pubdate }}" data-genre="{{ content.tag }}">
+                  {% if content.parent %}
+                    <a href="/content/{{ content.parent | strip | slugify: 'latin' }}#{{ content.title | split: "~" | last | strip | slugify: 'latin' }}">{{ content.pubdate }} • {{ content.title | split: "~" | last | strip }}</a></li>
+                  {% else %}
+                    <a href="/content/{{ content.title | split: "~" | last | strip | slugify: 'latin' }}">{{ content.pubdate }} • {{ content.title | split: "~" | last | strip }}</a></li>
+                  {% endif %}
+                {% endif %}
+              {% endfor %}
+              {% endfor %}
+            </ul>
+          </div>
+          <div>
+            <h2 class="tag small tag-text">texts</h2>
+            <ul>
+              {% for tag in text %}
+              {% for content in sortedcontent %}
+                {% if tag == content.tag %}
+                <li data-year="{{ content.pubdate }}" data-genre="{{ content.tag }}">
+                  {% if content.parent %}
+                    {% if content.parent != 'Poems' %}
+                      <a href="/content/{{ content.parent | strip | slugify: 'latin' }}#{{ content.title | split: "~" | last | strip | slugify: 'latin' }}">{{ content.pubdate }} • {{ content.title | split: "~" | last | strip }}</a></li>
+                    {% endif %}
+                  {% else %}
+                    <a href="/content/{{ content.title | split: "~" | last | strip | slugify: 'latin' }}">{{ content.pubdate }} • {{ content.title | split: "~" | last | strip }}</a></li>
+                  {% endif %}
+                {% endif %}
+              {% endfor %}
+              {% endfor %}
+            </ul>
+          </div>
+          <div>
+            <h2 class="tag small tag-publication">publications</h2>
+            <ul>
+              {% for tag in publications %}
+              {% for content in sortedcontent %}
+                {% if tag == content.tag %}
+                <li data-year="{{ content.pubdate }}" data-genre="{{ content.tag }}">
+                  {% if content.parent %}
+                    <a href="/content/{{ content.parent | strip | slugify: 'latin' }}#{{ content.title | split: "~" | last | strip | slugify: 'latin' }}">{{ content.pubdate }} • {{ content.title | split: "~" | last | strip }}</a></li>
+                  {% else %}
+                    <a href="/content/{{ content.title | split: "~" | last | strip | slugify: 'latin' }}">{{ content.pubdate }} • {{ content.title | split: "~" | last | strip }}</a></li>
+                  {% endif %}
+                {% endif %}
+              {% endfor %}
+              {% endfor %}
+            </ul>
+          </div>
+          {% for tag in sortedtags2 %}
+          <div>
+            <h2 class="tag small tag-{{ tag }}">{{ tag }}</h2>
+            <ul>
+              {% for content in sortedcontent %}
+                {% if tag == content.tag %}
+                <li data-year="{{ content.pubdate }}" data-genre="{{ content.tag }}">
+                  {% if content.parent %}
+                    <a href="/content/{{ content.parent | strip | slugify: 'latin' }}#{{ content.title | split: "~" | last | strip | slugify: 'latin' }}">{{ content.pubdate }} • {{ content.title | split: "~" | last | strip }}</a></li>
+                  {% else %}
+                    <a href="/content/{{ content.title | split: "~" | last | strip | slugify: 'latin' }}">{{ content.pubdate }} • {{ content.title | split: "~" | last | strip }}</a></li>
+                  {% endif %}
+                {% endif %}
+              {% endfor %}
+            </ul>
+          </div>
+          {% endfor %}
+        </div> -->
+
+
+        <div class="switcher">
+        <p>
+          <b>
+            <a class="switcher-year" href="#">Date</a> •
+            <a class="switcher-genre" href="#">Genre</a>
+          </b>
+        </p>
+        <div class="by-year"></div>
+        <div class="by-genre hide"></div>
+        </div>
+      </div>
+      {%- include footer.html -%}
+    </main>
+  </body>
+
+</html>

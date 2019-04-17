@@ -47,6 +47,7 @@ header {
   .top:before { content: fa-content($fa-var-arrow-to-top); }
   .cv:before { content: fa-content($fa-var-file-alt); }
   .contact:before { content: fa-content($fa-var-envelope); }
+  .follow:before { content: fa-content($fa-var-arrow-right); }
 }
 
 .home header {
