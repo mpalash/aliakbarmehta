@@ -19,9 +19,9 @@ children:
   - 'participate ~ Cyborg Archives: Can Archives Speak?'
   - participate ~ Assembly of Access
 ---
-From January 5, to Febuary 6, 2018, I was invited with several other artists and practitioners within the field of archiving to be a artist-in-residence at the [ARTEL2018](http://tifa.edu.in/artel/), TIFA Working Studios, Pune. The curatorial framework for ARTEL2018 was defined by artist/curator Vidisha Fadescha as "_To Participate in the Archive"_.
+From January 5, to Febuary 6, 2018, I was invited with several other artists and practitioners within the field of archiving to be a artist-in-residence at the [ARTEL2018](http://tifa.edu.in/artel/), TIFA Working Studios, Pune. The curatorial framework for ARTEL2018 was defined by artist/curator [Vidisha Fadescha](http://vidisha-fadescha.com/ASSEMBLY-OF-ACCESS) as "_To Participate in the Archive"_.
 
-During my month-long residency I produced new work and took the opportunity to reiterate existing work in new formulations. I did this in the form of five performance and installation experiments under the framework of **_Cyborg Archives_**:
+During my month-long residency I produced new work and took the opportunity to reiterate existing work in new formulations. I did this in the form of five performance and installation experiments under the framework of _**Cyborg Archives**_:
 
 1. Cyborg Archives: _\#ArchivingKnowledge_
 2. Cyborg Archives: 256 Million Colours of Violence
