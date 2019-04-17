@@ -10,7 +10,6 @@ parent: Tasher Desh
 children: []
 ---
 ![](/assets/img/ali-akbar-mehta_tasher-desh_painted-with-text.jpg)
-
 ![](/assets/img/ali-akbar-mehta_tasher-desh_original-with-text.jpg)
 
 Tasher Desh (Kingdom of Cards), 2012, Lenticular print and vinyl on archival board, 88 x 114 cm
