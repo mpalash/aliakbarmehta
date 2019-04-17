@@ -12,6 +12,8 @@ _GarbageinGarbageOut_ is the fourth in a series of five performance and particip
 Members of the audience were invited to participate 'in the archive' by interacting with the simplified manifestation of a cyber] archive through a series of controlled statements and requests. 'The archive', in this case performed by Luv Mehtani, was bound by a scripted introductory and closing statements, and with instructions to invite questions/statements from the audience.
 
 ![](/assets/img/ali-akbar-mehta_cyborg-archives_artist-s-instructions_2018.jpg)
+
+
 ![](/assets/img/ali-akbar-mehta_cyborg-archives_performance-view_2018.jpg)
 ![](/assets/img/ali-akbar-mehta_performance-view_cyborg-archive-garbageingarbageout_tifa-working-studios_2018.jpg.jpg)
 ![](/assets/img/ali-akbar-mehta_performance-detail-02_cyborg-archive-error-archive_tifa-working-studios_2018.png)
