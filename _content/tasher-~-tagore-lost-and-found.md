@@ -9,4 +9,6 @@ pubdate: '2013'
 parent: Tasher Desh
 children: []
 ---
-![](/assets/img/tasher-desh-2013-lenticular-and-vinyl-on-archival-mount-96x114-cm-edition-2.jpg)
+![](/assets/img/ali-akbar-mehta_tasher-desh_painted-with-text.jpg)
+
+![](/assets/img/ali-akbar-mehta_tasher-desh_original-with-text.jpg)
