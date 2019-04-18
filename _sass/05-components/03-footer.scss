@@ -1,6 +1,6 @@
 footer {
   @extend .r;
-  padding: $s-xxl 0;
+  padding: $s-b 0;
   color: $color-ink;
   font-size: $font-size-small;
   letter-spacing: 0.05em;
@@ -9,5 +9,10 @@ footer {
     @extend .c;
     @extend .c-10;
     padding-left: calc(16.6666666667% + 16px);
+  }
+}
+.home footer {
+  div {
+    padding-left: calc(8.3333333333% + 16px);
   }
 }

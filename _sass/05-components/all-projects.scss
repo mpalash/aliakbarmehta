@@ -1,3 +1,25 @@
+.timeline {
+  position: fixed;
+  bottom: $s-xl;
+  left: 0;
+  right: 0;
+}
+.switcher-year,
+.switcher-genre {
+  @extend %fa-icon;
+  @extend .far;
+  text-decoration: none !important;
+  text-align: center;
+  display: inline-block;
+  width: $s-xl;
+  height: $s-xl;
+  line-height: $s-xl;
+  background-color: $color-ink;
+  border-radius: 50%;
+}
+.switcher-year:before { content: fa-content($fa-var-calendar); }
+.switcher-genre:before { content: fa-content($fa-var-tag); }
+
 .by-year,
 .by-genre {
   display: flex;
@@ -19,6 +41,15 @@
 
   & > div {
     flex: 1 0 auto;
+    &:first-child {
+      margin-left: calc(8.333333% - 16px);
+    }
+
+    & > span {
+      display: block;
+      padding: $s-s 0;
+      @include meta;
+    }
   }
   ul {
     display: flex;
@@ -29,7 +60,7 @@
     list-style: none;
     max-width: none !important;
     width: 880px !important;
-    height: 400px;
+    height: 368px;
 
     li {
       margin-bottom: 4px;
