@@ -14,6 +14,11 @@
   .site-title {
     font-size: 3rem;
   }
+  .site-intro {
+    padding-top: $s-l;
+    max-height: 560px;
+    overflow: scroll;
+  }
   .header-content {
     justify-content: flex-end;
   }

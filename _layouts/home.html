@@ -10,7 +10,7 @@
       {%- include header.html -%}
       <div class="c c-12 p-1">
         <h1 class="site-title">{{ site.title }}</h1>
-        <p class="sub-site-title">{{sub.site.title}}</p>
+        <p class="sub-site-title">{{ site.description }}</p>
 
 
         {% assign projects = 'ongoing project,past project,individual work' | split: ',' %}

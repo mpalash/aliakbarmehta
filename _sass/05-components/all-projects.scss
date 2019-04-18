@@ -46,8 +46,11 @@
     }
 
     & > span {
-      display: block;
-      padding: $s-s 0;
+      display: inline-block;
+      margin-bottom: $s-s;
+      padding: $s-xxs $s-b;
+      border-radius: $s-xs;
+      background-color: $color-ink;
       @include meta;
     }
   }
