@@ -1,5 +1,5 @@
 ---
-title: Harlequin Series; We are such stuff As dreams are made on
+title: We are such stuff As dreams are made on
 layout: content
 tag: individual work
 pubdate: '2010'
