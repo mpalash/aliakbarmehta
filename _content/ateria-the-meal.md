@@ -9,3 +9,5 @@ children: []
 Project in collaboration with Kiasma Theatre and students of Visual Culture and Contemporary Art (ViCCA), Aalto University, Helsinki.
 
 The exhibition was envisaged as a three day project, that stemmed from the continued practice of cooking within the University campus, and cementing the kitchen as the central node in pedagogy, community building and the continued engagements forming friendships and peerhood.
+
+![](/assets/img/Ateria 09.JPG)
