@@ -10,6 +10,11 @@ Project in collaboration with Kiasma Theatre and students of Visual Culture and 
 
 The exhibition was envisaged as a three day project at [Kiasma Museum of Contemporary Art](https://kiasma.fi/en/), Helsinki, that stemmed from the continued practice of cooking within the University campus, cementing the kitchen as the central node in pedagogy, community building and the continued engagements forming friendships and peerhood.
 
+"**The Meal** is a series of art works including community meals. A three day event of food and art, comprising of gatherings, conversations, interventions, participatory actions and performances, and of course, food. It is an act of coming together, meeting new people, cooking, eating and building a community. It is about having conversations leading to deeper knowledge of the world around us, and allowing an extensive exploration of each others’ cultures, personalities and worldviews. _The Meal is free and open to all._
+
+The Meal will be happening on the lawn and theatre space of Kiasma and is hosted by MA students of Aalto University’s ViCCA (Visual Culture and Contemporary Art) program in collaboration with Kiasma Museum and URB 2017."
+
+
 
 ![](/assets/img/Ateria 09.jpg)
 ![](/assets/img/Ateria 04.jpg)
@@ -44,3 +49,69 @@ The exhibition was envisaged as a three day project at [Kiasma Museum of Contemp
 ![](/assets/img/Ateria 14.jpg)
 ![](/assets/img/Ateria 15.jpg)
 ![](/assets/img/Ateria 17.jpg)
+
+Soup 1
+
+Potatoes
+Chickpeas, Kidney beans, Broad beans
+Tomatoes
+Carrots
+Celery
+Onions
+Tomato Puree
+Garlic
+Plucked Parsley
+Olive Oil
+Rosemary
+Black Pepper
+Salt
+
+**Process:**
+
+Prep
+Wash and chop peeled potatoes
+Peel and crush ginger and garlic
+Chop onions into chunks
+Dice tomatoes, celery and carrot
+
+Cook
+Heat oil
+Add peppercorns, rosemary - let it brown
+Add chopped onion - saute till translucent
+Add crushed ginger and garlic
+Add diced celery, carrot and tomatoes
+Add chopped potatoes and beans
+Cook while stirring occasionally
+Add tomato puree and water
+Cook till potatoes and beans are tender
+Add salt to taste
+Serve with plucked parsley
+
+
+Soup 2
+
+Potatoes
+Lentils
+Garlic
+Cumin
+Sumak
+Kurkuma
+Salt
+Olive Oil
+Lemon
+Chives
+
+**Process:**
+
+Prep
+• Wash and chop peeled potatoes
+• Wash lentils
+
+Cook
+Roast lentils without oil in the pan
+Add oil to heat in pan, add cumin
+Add whole cloves of garlic
+Add chopped potatoes
+Add Kurkuma, salt and water.
+Cook till potatoes are soft.
+Serve with chopped chives, Sumac and cumin powder and a squeeze of lime/lemon and a wedge
