@@ -14,104 +14,107 @@ The exhibition was envisaged as a three day project at [Kiasma Museum of Contemp
 
 The Meal will be happening on the lawn and theatre space of Kiasma and is hosted by MA students of Aalto University’s ViCCA (Visual Culture and Contemporary Art) program in collaboration with Kiasma Museum and URB 2017."
 
+!\[](/assets/img/Ateria 09.jpg)
+!\[](/assets/img/Ateria 04.jpg)
+!\[](/assets/img/Ateria 12.jpg)
+!\[](/assets/img/Ateria 11.jpg)
+!\[](/assets/img/Ateria 01.jpg)
+!\[](/assets/img/Ateria 27.jpg)
+!\[](/assets/img/Ateria 28.jpg)
+!\[](/assets/img/Ateria 05.jpg)
+!\[](/assets/img/Ateria 13.jpg)
+!\[](/assets/img/Ateria 10.jpg)
+!\[](/assets/img/Ateria 33.jpg)
+!\[](/assets/img/Ateria 03.jpg)
+!\[](/assets/img/Ateria 26.jpg)
+!\[](/assets/img/Ateria 19.jpg)
+!\[](/assets/img/Ateria 30.jpg)
+!\[](/assets/img/Ateria 31.jpg)
+!\[](/assets/img/Ateria 32.jpg)
+!\[](/assets/img/Ateria 16.jpg)
+!\[](/assets/img/Ateria 24.jpg)
+!\[](/assets/img/Ateria 25.jpg)
+!\[](/assets/img/Ateria 21.jpg)
+!\[](/assets/img/Ateria 06.jpg)
+!\[](/assets/img/Ateria 29.jpg)
+!\[](/assets/img/Ateria 18.jpg)
+!\[](/assets/img/Ateria 07.jpg)
+!\[](/assets/img/Ateria 20.jpg)
+!\[](/assets/img/Ateria 22.jpg)
+!\[](/assets/img/Ateria 23.jpg)
+!\[](/assets/img/Ateria 08.jpg)
+!\[](/assets/img/Ateria 02.jpg)
+!\[](/assets/img/Ateria 14.jpg)
+!\[](/assets/img/Ateria 15.jpg)
+!\[](/assets/img/Ateria 17.jpg)
 
+**Soup 1**
 
-![](/assets/img/Ateria 09.jpg)
-![](/assets/img/Ateria 04.jpg)
-![](/assets/img/Ateria 12.jpg)
-![](/assets/img/Ateria 11.jpg)
-![](/assets/img/Ateria 01.jpg)
-![](/assets/img/Ateria 27.jpg)
-![](/assets/img/Ateria 28.jpg)
-![](/assets/img/Ateria 05.jpg)
-![](/assets/img/Ateria 13.jpg)
-![](/assets/img/Ateria 10.jpg)
-![](/assets/img/Ateria 33.jpg)
-![](/assets/img/Ateria 03.jpg)
-![](/assets/img/Ateria 26.jpg)
-![](/assets/img/Ateria 19.jpg)
-![](/assets/img/Ateria 30.jpg)
-![](/assets/img/Ateria 31.jpg)
-![](/assets/img/Ateria 32.jpg)
-![](/assets/img/Ateria 16.jpg)
-![](/assets/img/Ateria 24.jpg)
-![](/assets/img/Ateria 25.jpg)
-![](/assets/img/Ateria 21.jpg)
-![](/assets/img/Ateria 06.jpg)
-![](/assets/img/Ateria 29.jpg)
-![](/assets/img/Ateria 18.jpg)
-![](/assets/img/Ateria 07.jpg)
-![](/assets/img/Ateria 20.jpg)
-![](/assets/img/Ateria 22.jpg)
-![](/assets/img/Ateria 23.jpg)
-![](/assets/img/Ateria 08.jpg)
-![](/assets/img/Ateria 02.jpg)
-![](/assets/img/Ateria 14.jpg)
-![](/assets/img/Ateria 15.jpg)
-![](/assets/img/Ateria 17.jpg)
-
-Soup 1
-
-Potatoes
-Chickpeas, Kidney beans, Broad beans
-Tomatoes
-Carrots
-Celery
-Onions
-Tomato Puree
-Garlic
-Plucked Parsley
-Olive Oil
-Rosemary
-Black Pepper
-Salt
+* Potatoes
+* Chickpeas, Kidney beans, Broad beans
+* Tomatoes
+* Carrots
+* Celery
+* Onions
+* Tomato Puree
+* Garlic
+* Plucked Parsley
+* Olive Oil
+* Rosemary
+* Black Pepper
+* Salt
 
 **Process:**
 
 Prep
-Wash and chop peeled potatoes
-Peel and crush ginger and garlic
-Chop onions into chunks
-Dice tomatoes, celery and carrot
+
+1. Wash and chop peeled potatoes
+2. Peel and crush ginger and garlic
+3. Chop onions into chunks
+4. Dice tomatoes, celery and carrot
 
 Cook
-Heat oil
-Add peppercorns, rosemary - let it brown
-Add chopped onion - saute till translucent
-Add crushed ginger and garlic
-Add diced celery, carrot and tomatoes
-Add chopped potatoes and beans
-Cook while stirring occasionally
-Add tomato puree and water
-Cook till potatoes and beans are tender
-Add salt to taste
-Serve with plucked parsley
+
+1. Heat oil
+2. Add peppercorns, rosemary - let it brown
+3. Add chopped onion - saute till translucent
+4. Add crushed ginger and garlic
+5. Add diced celery, carrot and tomatoes
+6. Add chopped potatoes and beans
+7. Cook while stirring occasionally
+8. Add tomato puree and water
+9. Cook till potatoes and beans are tender
+10. Add salt to taste
+11. Serve with plucked parsley
 
 
-Soup 2
 
-Potatoes
-Lentils
-Garlic
-Cumin
-Sumak
-Kurkuma
-Salt
-Olive Oil
-Lemon
-Chives
+**Soup 2**
+
+* Potatoes
+* Lentils
+* Garlic
+* Cumin
+* Sumac
+* Kurkuma
+* Salt
+* Olive Oil
+* Lemon
+* Chives
 
 **Process:**
 
 Prep
-• Wash and chop peeled potatoes
-• Wash lentils
+
+1. Wash and chop peeled potatoes
+2. Wash lentils
 
 Cook
-Roast lentils without oil in the pan
-Add oil to heat in pan, add cumin
-Add whole cloves of garlic
-Add chopped potatoes
-Add Kurkuma, salt and water.
-Cook till potatoes are soft.
-Serve with chopped chives, Sumac and cumin powder and a squeeze of lime/lemon and a wedge
+
+1. Roast lentils without oil in the pan
+2. Add oil to heat in pan, add cumin
+3. Add whole cloves of garlic
+4. Add chopped potatoes
+5. Add Kurkuma, salt and water.
+6. Cook till potatoes are soft.
+7. Serve with chopped chives, Sumac and cumin powder and a squeeze of lime/lemon and a wedge
