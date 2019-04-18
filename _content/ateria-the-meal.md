@@ -10,7 +10,7 @@ Project in collaboration with Kiasma Theatre and students of Visual Culture and 
 
 The exhibition was envisaged as a three day project at [Kiasma Museum of Contemporary Art](https://kiasma.fi/en/), Helsinki, that stemmed from the continued practice of cooking within the University campus, cementing the kitchen as the central node in pedagogy, community building and the continued engagements forming friendships and peerhood.
 
-<<<<<<< HEAD
+
 ![](/assets/img/Ateria 09.jpg)
 ![](/assets/img/Ateria 01.jpg)
 ![](/assets/img/Ateria 02.jpg)
