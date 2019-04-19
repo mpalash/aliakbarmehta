@@ -25,9 +25,10 @@ children:
   - 'sss ~ FOLKARCHIVE: Ali Akbar Mehta'
   - sss ~ Memory and the Maximum City
   - 'sss ~ Odes and Inquisitions: Sino-Indian Connections in Recent Indian Art'
-  - sss ~ Interview
   - Chinese fortunes and other Mumbai memories
+  - Memory & the Maximum City
   - 'The BB Art Showcase: Ali Akbar Mehta'
+  - sss ~ Interview
   - sss ~ The Possibility Of Alienation – Ali Akbar Mehta
   - Site Specific
   - sss ~ A select History of Mumbai
