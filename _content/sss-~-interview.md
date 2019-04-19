@@ -4,6 +4,7 @@ subtitle: ''
 layout: content
 tag: press
 pubdate: '2014'
+hero: /assets/img/7.-ali-akbar-mehta-site-stage-structure-2014-©-aliakbarmehta.jpg
 summary: >-
   **\> What will be the focus of your talk; what will be the highlights?**
 
@@ -11,7 +12,8 @@ summary: >-
   SITE : STAGE : STRUCTURE is an archival project based within and around the
   geographical location of Mazgaon and Wadibunder. It is a Transmedia
   installation integrating books, photographs, video documentation, audio
-  narratives and heritage walks as a way of revitalizing memories and telling a history that is absent from the formal narratives.
+  narratives and heritage walks as a way of revitalizing memories and telling a
+  history that is absent from the formal narratives.
 
 
   The highlight of the exhibition are the paintings, each presenting an
