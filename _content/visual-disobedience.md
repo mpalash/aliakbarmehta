@@ -1,5 +1,5 @@
 ---
-title: Visual Disobedience
+title: Of men ~ Visual Disobedience
 subtitle: 'Interview by Kevin Lobo, for Visual Disobedience'
 layout: content
 tag: press
