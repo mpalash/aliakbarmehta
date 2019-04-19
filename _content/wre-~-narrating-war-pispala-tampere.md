@@ -16,11 +16,11 @@ summary: >-
 
 
   This reading took place at The Memorial of the Red Guards, on September 6,
-  2016. 
+  2016.
 
 
   The Red Gaurds died during the Finnish Civil War in Pispala, Tampere. The
-  inscription in the stone says, 
+  inscription in the stone says,
 
 
   > _‘On this Pispala ridge, the Red Guard in Tampere last stood with weopans in
@@ -28,7 +28,7 @@ summary: >-
 ---
 ![null](/assets/img/pispala-library-03.jpg)
 
-The project is ongoing and a copy of the book in its current state is donated to the Pispala Library on the occasion of the exhibition, ‘Where does poetry nest?’, on 6th September, 2016 in memory of the over 5000 year old Civil War that the world, it seems, has not seen enough of.
+The project is ongoing and a copy of the book in its current state is donated to the [Pispala Library](http://www.hirvikatu10.net/wordpress.1/?page_id=8) on the occasion of the exhibition, ‘Where does poetry nest?’, on 6th September, 2016 in memory of the over 5000 year old Civil War that the world, it seems, has not seen enough of.
 
 ![](/assets/img/pispala-library-01.jpg)
 
