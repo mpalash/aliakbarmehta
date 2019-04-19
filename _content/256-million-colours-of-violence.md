@@ -16,9 +16,9 @@ children:
     Studios, Pune
   - '256 ~ Colours of Violence, AROOP III - Totems and Taboos'
   - In Conversation with Ali Akbar Mehta
-  - Not your Regular Archive
-  - Does violence have a colour?
-  - Shades of Violence
-  - What is the colour of violence?
+  - 256 ~ Not your Regular Archive
+  - 256 ~ Does violence have a colour?
+  - 256 ~ Shades of Violence
+  - 256 ~ What is the colour of violence?
 ---
 256 Million Colours of Violence is an interactive and participatory survey-based artistic project ([www.256millioncoloursofviolence.com](http://www.256millioncoloursofviolence.com/)) that challenges political-religious-socio-economic quadrangle to create new visual vocabulary where participants become co-archivists. Through 77 questions on gender, race, ethnicity, privilege, social class, minimum wage, & other pressing issues, participants seek & share subliminal associations of ‘Colours of Violence’.

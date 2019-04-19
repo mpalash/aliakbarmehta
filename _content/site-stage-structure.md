@@ -11,7 +11,7 @@ summary: >-
   and telling a history that is absent from the formal narratives.
 children:
   - 'SITE : STAGE : STRUCTURE'
-  - sss ~ The Possibility of Alienation
+  -  sss ~ The Possibility of Alienation
   - 'sss ~ SITE : STAGE : STRUCTURE, Clark House, Mumbai'
   - 'sss ~ Artist Book #1: Performers of Mazgaon'
   - 'sss ~ Artist Book #2: Daarukhana'
@@ -25,12 +25,12 @@ children:
   - 'sss ~ FOLKARCHIVE: Ali Akbar Mehta'
   - sss ~ Memory and the Maximum City
   - 'sss ~ Odes and Inquisitions: Sino-Indian Connections in Recent Indian Art'
-  - Chinese fortunes and other Mumbai memories
-  - Memory & the Maximum City
-  - 'The BB Art Showcase: Ali Akbar Mehta'
+  - sss ~ Chinese fortunes and other Mumbai memories
+  - sss ~ Memory & the Maximum City
+  - 'sss ~ The BB Art Showcase: Ali Akbar Mehta'
   - sss ~ Interview
   - sss ~ The Possibility Of Alienation – Ali Akbar Mehta
-  - Site Specific
+  - sss ~ Site Specific
   - sss ~ A select History of Mumbai
   - sss ~ Hidden Histories of Mazgoan
   - sss ~ The Chinese in Mumbai

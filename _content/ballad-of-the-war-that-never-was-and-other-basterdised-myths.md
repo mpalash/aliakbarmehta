@@ -12,8 +12,7 @@ children:
   - Ballad ~ Drawings
   - Ballad ~ The Harlequin Series
   - Ballad ~ Everybody's a Jester
-  - >-
-    Ballad ~ Ballad of the War that Never Was, and Other Basterdised Myths, TAO
+  - Ballad ~ Ballad of the War that Never Was, and Other Basterdised Myths, TAO
     Art Gallery
   - Ballad ~  In A Liminal Age
   - Ballad ~ Comprehending Violence
