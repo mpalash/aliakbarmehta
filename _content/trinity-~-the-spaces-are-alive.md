@@ -1,5 +1,5 @@
 ---
-title: The Spaces Are Alive
+title: trinity ~ The Spaces Are Alive
 subtitle: Design Owl, 2016
 layout: content
 tag: press

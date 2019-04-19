@@ -1,5 +1,5 @@
 ---
-title: Memory & the Maximum City
+title: sss ~ Memory & the Maximum City
 subtitle: 'Interview by Shilpa Dubey, for Absolute India'
 layout: content
 tag: press
@@ -34,7 +34,7 @@ I don’t think that any of the projects being showcased and discussed are engag
 
 Mazgaon is a port and dock area of Mumbai with a rich heritage and complex history. An integral and once central part of the city seems to be almost abandoned, its history neglected, its heritage slowly corroded by the passages of Time and the amnesia of people.
 
-A fairy tale, the origin of a deity, stories of old men recounting childhood and parents, origins of their home, recounting of a 75 year old friendship that lasted relocation to Calcutta and back, the memories of ‘Paradise Lost’ – accounts that do not enter a formal narrative – information that in the grander scheme of things seem not as important, but which we cannot afford to forget. 
+A fairy tale, the origin of a deity, stories of old men recounting childhood and parents, origins of their home, recounting of a 75 year old friendship that lasted relocation to Calcutta and back, the memories of ‘Paradise Lost’ – accounts that do not enter a formal narrative – information that in the grander scheme of things seem not as important, but which we cannot afford to forget.
 
 These are not just stories of Bombay in itself, or the way Mazgaon has changed. Mazgaon is exemplary of the way several spaces/places in the country and the world are changing – silently, and without our knowing about it.  It is like a falling teacup that we don’t see till it shatters. Fortunately Mazgaon and other places like that haven’t shattered yet. But they’re falling. It is up to us how soon we can look at them and how soon we can arrest that fall.
 

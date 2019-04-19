@@ -1,10 +1,10 @@
 ---
-title: Chinese fortunes and other Mumbai memories
+title: sss ~ Chinese fortunes and other Mumbai memories
 subtitle: 'Mid-Day, 2015'
 layout: content
 tag: press
 pubdate: '2015'
-children: []
+parent: 'SITE : STAGE : STRUCTURE'
 ---
 ![](/assets/img/ali-akbar-mehtathe-kwan-tai-shek-chinese-temple_press.jpg)
 

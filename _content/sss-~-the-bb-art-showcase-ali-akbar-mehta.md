@@ -1,6 +1,6 @@
 ---
 title: >-
-  The BB Art Showcase: Ali Akbar Mehta
+  sss ~ The BB Art Showcase: Ali Akbar Mehta
 subtitie: A Multidisciplinary Artist from Mumbai, Be Beautiful, 2015
 layout: content
 tag: press
