@@ -4,7 +4,7 @@ layout: content
 tag: past project
 pubdate: '2016'
 children:
-  - Pud ~ Proposal text
+  - Pud ~ Proposal for Pudding Manifesto
   - pud ~ The Manifesto for Togetherness
   - Pud ~ Whose History is it Anyways?
   - 'Pud ~ Pudding Manifesto, Video'
