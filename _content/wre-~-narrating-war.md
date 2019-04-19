@@ -1,5 +1,8 @@
 ---
 title: wre ~ Narrating War
+subtitle: >-
+  *This is a {{dynamic list}} and may never be able to satisfy particular
+  standards for completeness.
 layout: content
 tag: text
 pubdate: '2016'
@@ -14,15 +17,15 @@ summary: >-
   War ruins. War is actually Hell.
 
   To make visible this phenomena, I began research in 2014 to compile a timeline
-  of ‘every war, battle, revolt, revolution, siege, sacking, rebellion, bombing
-  & insurgency’, from 3000 BC to the present. This ongoing timeline/database is
+  of _‘every war, battle, revolt, revolution, siege, sacking, rebellion, bombing
+  & insurgency’,_ from 3000 BC to the present. This ongoing timeline/database is
   the foundation of the project, and forms the key ‘script’ for an ongoing
-  multimedia performance-reading of this list, titled ‘Narrating War’.
+  multimedia performance-reading of this list, titled ‘**Narrating War**’.
 parent: 'WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs'
 ---
 As an endurance performance designed to last for hours & often days conducted in sites of violence, and sites of knowledge production, the act of reading, almost like a litany, is imagined as an act of mourning, of remembrance, & deterrence from continued violence & conflict: only when we are confronted with war in its entirety as a whole, as a continuous, singular event encompassing 5018 years, is there a possibility to be jolted out of our stupor & shed our complacence.
 
-Narrating War focuses on the current situation of a permanent state of conflict across the globe, addressing violent incidents in the world not as isolated events but as a condition of an ongoing, unparalleled warfare – it insists above all, that to ignore what threatens us is both irresponsible and dangerous. The concern here is not to celebrate war, but to mourn those who have died – to deal with memory: During World War I, civilians made up fewer than 5 percent of all casualties. Today, 75 percent or more of those killed or wounded in wars are non-combatants.
+**Narrating War** focuses on the current situation of a permanent state of conflict across the globe, addressing violent incidents in the world not as isolated events but as a condition of an ongoing, unparalleled warfare – it insists above all, that to ignore what threatens us is both irresponsible and dangerous. The concern here is not to celebrate war, but to mourn those who have died – to deal with memory: _During World War I, civilians made up fewer than 5 percent of all casualties. Today, 75 percent or more of those killed or wounded in wars are non-combatants._
 
 Rather than looking at War within the usual frameworks of national or international bodies of identity, the performance is concerned with a collective history and a global body of identity. It narrates a history of war, conflict, & violence as the most continuous, omnipresent & ongoing history of humanity, ‘a civil war on a planetary scale’ & evidences that the collective history of human conflict is second only to history of language/music.
 
@@ -38,4 +41,4 @@ Previously, Narrating War has been performed in its evolving iterations, at:
 * Memory of War, Kaapelitehdas, Helsinki, 2017;
 * Clark House, Mumbai, 2017
 * Where does poetry nest?, curated by Giovanna Esposito Yussif, Pispala Memorial, Tampere, 2016
-* Pan-African Space Station, Chimurenga Collective, curated by Ahmed Al Nawas, Kallio Public Library, Helsinki, 2016
+* Pan-African Space Station by Chimurenga Collective, curated by Ahmed Al Nawas, Kallio Public Library, Helsinki, 2016
