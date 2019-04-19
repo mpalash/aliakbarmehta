@@ -5,7 +5,9 @@ subtitle: >-
   Sarkar Ellias, Mumbai
 layout: content
 tag: publication
-pubdate: '2019'
+pubdate: '2011'
 children: []
 ---
-//image
+
+
+![](/assets/img/Everybody's a Jester Series_04.jpg)
