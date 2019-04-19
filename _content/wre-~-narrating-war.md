@@ -16,6 +16,7 @@ summary: >-
   War tears, rends. War rips open, eviscerates. War scorches. War dismembers.
   War ruins. War is actually Hell.
 
+
   To make visible this phenomena, I began research in 2014 to compile a timeline
   of _‘every war, battle, revolt, revolution, siege, sacking, rebellion, bombing
   & insurgency’,_ from 3000 BC to the present. This ongoing timeline/database is
