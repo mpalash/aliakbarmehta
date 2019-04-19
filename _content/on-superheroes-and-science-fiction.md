@@ -1,6 +1,6 @@
 ---
 title: On Superheroes and Science fiction
-subtitle: Essay by Aliakbar Mehta (unpublished)
+subtitle: Essay by Ali Akbar Mehta (unpublished)
 layout: content
 tag: text
 pubdate: '2013'

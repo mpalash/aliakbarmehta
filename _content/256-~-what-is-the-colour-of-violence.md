@@ -1,10 +1,10 @@
 ---
-title: What is the colour of violence?
+title: 256 ~ What is the colour of violence?
 subtitle: 'Hindustan Times, 2017'
 layout: content
 tag: press
 pubdate: '2017'
-children: []
+parent: '256 Million Colours of violence'
 ---
 ![](/assets/img/ht_256millcov.jpg)
 
