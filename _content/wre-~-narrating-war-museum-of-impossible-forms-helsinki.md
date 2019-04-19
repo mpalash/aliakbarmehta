@@ -1,6 +1,6 @@
 ---
 title: 'wre ~ Narrating War, Museum of Impossible Forms, Helsinki'
-subtitle: curated by Vishnu Vardhani
+subtitle: curated by Vishnu Vardhani as part of Performance LAB VII
 layout: content
 tag: performance
 pubdate: '2018'
