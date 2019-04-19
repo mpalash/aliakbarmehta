@@ -1,5 +1,6 @@
 ---
 title: Pud ~ Proposal for Pudding Manifesto
+subtitle: ''
 layout: content
 tag: text
 pubdate: '2016'
