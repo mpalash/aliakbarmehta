@@ -6,7 +6,7 @@ pubdate: '2016'
 children:
   - Pud ~ Proposal for Pudding Manifesto
   - pud ~ The Manifesto for Togetherness
-  - Pud ~ Whose History is it Anyways?
+  - Pud ~ Whose History is it Anyway?*
   - 'Pud ~ Pudding Manifesto, Video'
   - Pud ~ Pledge
   - Pud ~ Project Report
