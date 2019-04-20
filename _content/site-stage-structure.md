@@ -27,8 +27,8 @@ children:
   - 'sss ~ Odes and Inquisitions: Sino-Indian Connections in Recent Indian Art'
   - sss ~ Chinese fortunes and other Mumbai memories
   - sss ~ Memory & the Maximum City
-  - 'sss ~ The BB Art Showcase: Ali Akbar Mehta'
   - sss ~ Interview
+  - 'sss ~ The BB Art Showcase: Ali Akbar Mehta'
   - sss ~ The Possibility Of Alienation – Ali Akbar Mehta
   - sss ~ Site Specific
   - sss ~ A select History of Mumbai
