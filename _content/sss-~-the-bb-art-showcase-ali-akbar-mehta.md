@@ -5,10 +5,7 @@ layout: content
 tag: press
 pubdate: '2015'
 parent: 'SITE : STAGE : STRUCTURE'
-<<<<<<< HEAD
-=======
 children: []
->>>>>>> e83d0e8d8043cb5731b11c593ecab9cf6bbb1d72
 ---
 
 
