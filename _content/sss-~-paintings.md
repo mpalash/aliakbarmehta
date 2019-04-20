@@ -1,9 +1,17 @@
 ---
+title: sss ~ Paintings
 layout: content
-title: 'sss ~ Paintings'
-parent: 'SITE : STAGE : STRUCTURE '
 tag: artwork
 pubdate: '2014'
+summary: >-
+  The Paintings of Iconic landmarks of Mazgaon were commissioned by the artist
+  as part of the project **SITE : STAGE : STRUCTURE**, exhibited at Clark House,
+  Mumbai.
+
+
+  The images were painted by **Narendra Dewoodkar**, a retired banner-painter
+  from Mazgaon living in Vashi, Mumbai.
+parent: 'SITE : STAGE : STRUCTURE '
 ---
 ![](/assets/img/site-stage-structure_paintings.jpg)
 ![](/assets/img/chinese-temple.jpg)
