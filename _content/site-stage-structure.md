@@ -10,7 +10,7 @@ summary: >-
   films, audio narratives, and heritage walks as a way of revitalizing memories
   and telling a history that is absent from the formal narratives.
 children:
-  - 'SITE : STAGE : STRUCTURE'
+  - 'sss ~ SITE : STAGE : STRUCTURE'
   - sss ~ The Possibility of Alienation
   - 'sss ~ SITE : STAGE : STRUCTURE, Clark House, Mumbai'
   - 'sss ~ Artist Book #1: Performers of Mazgaon'
