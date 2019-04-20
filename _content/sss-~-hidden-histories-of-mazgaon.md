@@ -23,6 +23,8 @@ Nearby lie the famous Mazagaon Docks, famed as a site of shipbuilding since the 
 
 ## Mazgaon Docks
 
+![](/assets/img/yellow-crane.jpg)
+
 “These are the Docks on one side. It used to be Mahindra and Mohammed: J.C. Mahindra and K.C. Mahindra joined forces with Ghulam Mohammed and started Mahindra & Mohammed as a steel company in Mumbai. Two years later, India won its independence, Ghulam Mohammed left the company to become Pakistan’s first finance minister, and the Mahindra brothers ignited the company’s enduring growth with their decision to manufacture Willys jeeps in Mumbai. Soon, the company’s name changed to Mahindra & Mahindra…”
 
 Mazagon Dock has come a long way from being a small repair yard in the late 18th century to the country’s leading Defence Shipyard capable of meeting the requirements of the Indian Navy towards its warship building programmes including submarines.  The current order book position makes MDL, one of the most loaded shipyards in the world.
@@ -36,6 +38,7 @@ Main activities are ship building, ship repairs and fabrication of offshore stru
 ##
 
 ## Hasanabad
+
 
 Hasanabad or Shah Hasan Ali’s Maqbara or Mausoleum is the resting place of 46th Imam – Aga Khan I, Imam of the Nizari Ismailite sect of the Shiite Muslims, circa 1884, Mazagaon.
 
