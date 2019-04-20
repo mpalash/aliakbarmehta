@@ -11,11 +11,20 @@
   text-decoration: none !important;
   text-align: center;
   display: inline-block;
-  width: $s-xl;
+  margin-right: $s-s;
+  padding: 0 $s-m;
   height: $s-xl;
   line-height: $s-xl;
   background-color: $color-ink;
-  border-radius: 50%;
+  border-radius: $s-l;
+  span {
+    display: inline-block;
+    font-family: $font-sans;
+    margin-top: -1px;
+    margin-left: $s-b;
+    @include meta;
+    line-height: $s-xl;
+  }
 }
 .switcher-year:before { content: fa-content($fa-var-calendar); }
 .switcher-genre:before { content: fa-content($fa-var-tag); }
@@ -28,6 +37,11 @@
   overflow-x: scroll;
   overflow-y: hidden;
 
+  visibility: hidden;
+  opacity: 0;
+  height: 0;
+  transition: opacity 0.2s ease-in;
+
   &::-webkit-scrollbar-track {
     background-color: $color-warm-dark;
   }
@@ -37,6 +51,11 @@
   }
   &::-webkit-scrollbar-thumb {
     background-color: $color-warm-light;
+  }
+  &.active {
+    visibility: visible;
+    opacity: 1;
+    height: auto;
   }
 
   & > div {
@@ -62,7 +81,6 @@
     padding: 0;
     list-style: none;
     max-width: none !important;
-    width: 880px !important;
     height: 368px;
 
     li {
@@ -70,10 +88,10 @@
       margin-right: 40px;
       padding-left: 12px;
       width: 400px;
-      border-left: 4px solid currentColor;
-      white-space: nowrap;
-      text-overflow: ellipsis;
-      overflow: hidden;
+      border-left: 2px solid currentColor;
+      // white-space: nowrap;
+      // text-overflow: ellipsis;
+      // overflow: hidden;
     }
   }
 

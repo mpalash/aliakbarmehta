@@ -49,16 +49,17 @@ $(function() {
     //     .appendTo("ul[data-genre=" + g + "]");
     // }
   });
+  sizeTimeline();
 
   $(".switcher-year").on("click", function(e) {
     e.preventDefault();
-    $(".by-genre").addClass("hide");
-    $(".by-year").removeClass("hide");
+    $(".by-year").addClass("active");
+    $(".by-genre").removeClass("active");
   });
   $(".switcher-genre").on("click", function(e) {
     e.preventDefault();
-    $(".by-year").addClass("hide");
-    $(".by-genre").removeClass("hide");
+    $(".by-genre").addClass("active");
+    $(".by-year").removeClass("active");
   });
 });
 
@@ -90,6 +91,13 @@ $(function() {
   });
 });
 
+function sizeTimeline(){
+  $(".by-year div, .by-genre div").each(function(){
+    var w = $(this).find('ul')[0].scrollWidth;
+    $(this).width(w);
+  })
+  $(".by-year").addClass('active');
+}
 function offsetContent(){
   var titleHeight = $('h1.project-title').outerHeight(true);
   $('section.intro').css('margin-top', titleHeight);
