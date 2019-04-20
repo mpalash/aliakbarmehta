@@ -9,7 +9,9 @@ permalink: /curriculum-vitae/
 
 [www.aliakbarmehta.com](www.aliakbarmehta.com)
 
-Ali Akbar Mehta is a Trans-media artist. He is a founder-member and current Artistic Director of [Museum of Impossible Forms](www.museumofimpossibleforms.org), Helsinki. Through his research-based transmedia practice, he creates immersive cyber archives that explore collective memetic history, narratives of memory, identity, violence, and conflict. He has exhibited his projects in galleries and alternate spaces in Mumbai, New Delhi, Pune, Helsinki, Tampere, Pori, Venice, Nova Goriza, and Vilnius. He holds a BFA in Drawing and Painting from [Sir J.J. School of Art,](http://www.sirjjschoolofart.in/) Mumbai, and an MA in Visual Culture, Curating, and Contemporary Art from [Aalto University](https://www.aalto.fi/), Helsinki, Finland, where he completed a thesis text titled ‘Cyber Archive: Being and Doing Knowledge’. Some of his ongoing projects are ‘256 Million Colours of Violence’, ‘Contemporary Ruins of Kruunuvuori’, ‘War Room Echo – Regarding the pain of Other Cyborgs’, ‘New Frontiers: Critical enquiries for archives as Artistic Praxis’, and ‘Non-Alignment as Resistance: Towards Cyber Archives as counter-hegemonic practice’. He lives and works in Helsinki and Mumbai.
+Ali Akbar Mehta is a Trans-media artist. Through his research-based transmedia practice, he creates immersive cyber archives that explore collective memetic history, narratives of memory, identity, violence, and conflict. He is a founder-member and current Artistic Director of [Museum of Impossible Forms](www.museumofimpossibleforms.org), Helsinki. He is also currently working as the Artistic Producer at [mcult Media Residency](https://www.m-cult.org/), Helsinki.
+
+He has exhibited his projects in galleries and alternate spaces in Mumbai, New Delhi, Pune, Helsinki, Tampere, Pori, Venice, Nova Goriza, and Vilnius. He holds a BFA in Drawing and Painting from [Sir J.J. School of Art,](http://www.sirjjschoolofart.in/) Mumbai, and an MA in Visual Culture, Curating, and Contemporary Art from [Aalto University](https://www.aalto.fi/), Helsinki, Finland, where he completed a thesis text titled ‘Cyber Archive: Being and Doing Knowledge’. Some of his ongoing projects are ‘256 Million Colours of Violence’, ‘Contemporary Ruins of Kruunuvuori’, ‘War Room Echo – Regarding the pain of Other Cyborgs’, ‘New Frontiers: Critical enquiries for archives as Artistic Praxis’, and ‘Non-Alignment as Resistance: Towards Cyber Archives as counter-hegemonic practice’. He lives and works in Helsinki and Mumbai.
 
 ## \*
 
@@ -62,6 +64,8 @@ _(upcoming)_ **Narrating War**_,_ Vilnius City Museum, Vilnius, 2019
 **Narrating War**, Carincarina, Nova Gorica, 2018
 
 **Narrating War**, Museum of Impossible Forms, Helsinki, 2018
+
+**Cyborg Archives: _GarbageInGarbageOut_**, TIFA Working Studios, Pune, 2018
 
 **Cyborg Archives: Can Archives Speak?**, TIFA Working Studios, Pune, 2018
 
@@ -120,6 +124,8 @@ _(upcoming)_ **direct-contact**//feedback, Pixelache Festival, Helsinki, 2019
 **No Corners**, TAO Art Gallery, Mumbai, 2018
 
 **Assembly of Access**, TIFA, Pune, 2018
+
+**Partizaning Maunula**, Maunulatalo, Maunula, Helsinki, 2017
 
 **OUT 2**, Research Pavilion: The Utopia of Access, Venice Biennale, Venice, 2017
 
@@ -183,15 +189,13 @@ _(upcoming)_ **direct-contact**//feedback, Pixelache Festival, Helsinki, 2019
 
 ## Curatorial Projects
 
-**Artistic Director**, Museum of Impossible Forms, Helsinki, 2018 – present
-
 **MATERIAL///IMMATERIAL**, A: SPACE, Espoo, Finland, 2016
 
 **SOAK**, D/func.t, Helsinki, Finland, 2016
 
 \*
 
-## Publication and Text
+## Publications and Texts
 
 **To Not Wait for the Archive: Home and Labour mired in the complications of Invisibalisation**, Visual Culture and Contemporary Art Journal #5, (ed.) Saara Mahbouba, Paola Jallili and Else Lagerspetz, published by Aalto University, Helsinki 2019
 
@@ -245,26 +249,26 @@ _Founder Member,_ D/func.t Collective, Helsinki, 2016 ­– present
 
 _Communication Assistant,_ Visual Culture and Contemporary Art (ViCCA), Aalto University, Helsinki, 2016 – 2017
 
-_Post Production_ and _animation,_ **_Arab Strings_**, a performance video by artist Jowan Safadi (Palestine), 2016
+_Post Production_ and _animation,_ _**Arab Strings**_, a performance video by artist Jowan Safadi (Palestine), 2016
 
 _Post Production_, ‘#7: Greed’ short film, 2015
 
-_Co-conceived and Head of Post Production,_ _**Relics of Eden**_, a short fictional film by COMPOSITE Films, 2014 ­
+_Co-conceived and Head of Post Production,_ **_Relics of Eden_**, a short fictional film by COMPOSITE Films, 2014 ­
 
-_Head of Post Production_, **_What a Wonderful World_**, an independently produced post-apocalyptic themed experimental video, 2014
+_Head of Post Production_, _**What a Wonderful World**_, an independently produced post-apocalyptic themed experimental video, 2014
 
 _Freelance Artist and Character Designer, **TUMBAD**_, feature-length live-action film produced by Recyclewala Films, 2013 ­– 2014
 
-_Consulting head of Post Production and freelance Artist,_ for **_various Digital content projects_** by COMPOSITE Films(QuickHeal Antivirus, La15 Patisserie, Fizzy foods, and KNM Airlines), 2012 – 2016
+_Consulting head of Post Production and freelance Artist,_ for _**various Digital content projects**_ by COMPOSITE Films(QuickHeal Antivirus, La15 Patisserie, Fizzy foods, and KNM Airlines), 2012 – 2016
 
-_Creative Director and Head of Post Production,_ _**Luminous Matter**_, a stop-motion animated short film by COMPOSITE Films, 2011 – 2013
+_Creative Director and Head of Post Production,_ **_Luminous Matter_**, a stop-motion animated short film by COMPOSITE Films, 2011 – 2013
 
 Screened at Austria Film Festival 2013, Jaipur Film Festival, 2013, Leeds Film Festival, 2012, DIGICON Tokyo, 2012, FICCI Frames, Mumbai 2012
 
-_Co ­­­­­– ­founder, Lead Animator and artist,_ _**Mareech Animated Design**_, an animation studio specializing in 3D animation and Visual Effects for Film and Television, 2002 – 2007
+_Co ­­­­­– ­founder, Lead Animator and artist,_ **_Mareech Animated Design_**, an animation studio specializing in 3D animation and Visual Effects for Film and Television, 2002 – 2007
 
-Co-written and performed, **_Aham: What’s going on?_**, a full-length play performed at Prithvi Theatre, Mumbai, 2004 – 2006
+Co-written and performed, _**Aham: What’s going on?**_, a full-length play performed at Prithvi Theatre, Mumbai, 2004 – 2006
 
 Graduated from Sir J.J. School of (Fine) Art, 2005
 
-Directed and edited, _**Untitled**_, a documentary short film on Sir J.J. School of Art, 2004
+Directed and edited, **_Untitled_**, a documentary short film on Sir J.J. School of Art, 2004
