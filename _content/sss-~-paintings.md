@@ -28,5 +28,4 @@ from Mazgaon living in Vashi, Mumbai.
 ![](/assets/img/installation-view_lores.jpg)
 
 
-
 Paintings for SITE : STAGE : STRUCTURE were commissioned to be made in a 'Museum style' referring to colonial paintings of Mumbai.
