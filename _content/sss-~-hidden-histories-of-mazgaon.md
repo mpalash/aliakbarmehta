@@ -5,16 +5,15 @@ parent: 'SITE : STAGE : STRUCTURE'
 tag: resource
 pubdate: '2014'
 summary: >-
+
+![](/assets/img/mazgaon-docks.jpg)
+
   'Hidden Histories of Mazgoan' are the accumulated research notes and trivia, gathered through online research, interviews, and conversations with local historians and residents.
 ---
 ## Mazgaon and Wadibunder
 
 ![](/assets/img/pine-building.jpg)
-![](/assets/img/anthony-s-rest.jpg)
-![](/assets/img/old-gloria-cross.jpg)
-![](/assets/img/hasanabad.jpg)
 ![](/assets/img/bhaucha-dhakka.jpg)
-![](/assets/img/mazgaon-docks.jpg)
 
 The word Mazagaon has been derived from the Sanskrit Matsya Gram, meaning fishing village. The original inhabitants were speculated to be tribals of Agari (salt-workers) and Koli (fishermen) tribes. However, folk etymology derives Mazagaon from the Marathi Maza Gaon, meaning my village. Another etymological claim suggests Portuguese origin, with the name borrowed from a city and fort of Mazagão in Morocco (now El Jadida) established by Portuguese in the beginning of the 16th century who totally evacuated to Brazil in 1769
 
@@ -42,7 +41,6 @@ The Yard was established in the 18th century, and over the 200 odd eventful year
 
 Main activities are ship building, ship repairs and fabrication of offshore structures with facilities situated at Mumbai and Nhava. We have the capability to build warships, submarines, merchant ships upto 30,000 DWT and fabrication of well head platforms, process and production platforms and jack up rigs. For outfitting work, the company has a large number of workshops with sophisticated equipment and machines specific to hull fabrication and ship construction work.
 
-##
 
 ## Hasanabad
 
@@ -57,7 +55,7 @@ This marble mausoleum took a full three years to build and the minaret is said t
 
 ## Portuguese Bungalow:
 
-
+![](/assets/img/portuguese-bungalow.jpg)
 
 The first Portuguese settlers were the Jesuits, who established a church in the 16th century. Notwithstanding their claim, in 1572 the King of Portugal granted the island in perpetuity to the de Souza e Lima family, from whom the D’Souzas of Mumbai trace their descent. When the Portuguese ceded the island to the British, there was a well-established population of Roman Catholics, mainly fishermen. Most were Hindu converts, although Eurasians were not uncommon. Some black African slaves brought by the Portuguese, known as Kaffirs, had also entered the ethnic mix. Some of their traditional wooden houses can still be seen, and are now protected heritage structures.
 
@@ -65,6 +63,8 @@ This site refers to one of the only four remaining original examples of Portugue
 
 
 ## Mathar Pacady Lane
+
+![](/assets/img/anthony-s-rest.jpg)
 
 Tucked away in a quiet corner of the concrete jungle is Matharpacady (pacadi means village in Marathi). Back in the early 1900, this quaint little pocket, in the heart of Mazagoan, was called Saiba Gulli as 90 per cent of the residents were Catholics. It has survived the ravages of time and today is close to disintegrating following the nexus between local politicians and the builder lobby that wants to construct apartment blocks here.
 
@@ -95,7 +95,6 @@ When construction pits were excavated, electricity and water supply were cut off
 
 ## Mathar Pacady Oart Holy Cross Oratory
 
-
 ![](/assets/img/matharpacady-oratory.jpg)
 
 The 125-year chapel, Mathar Pacady Oart Holy Cross Oratory, stands tall. The feast of St Rock is celebrated here every year on May 1.
@@ -120,7 +119,7 @@ If you stand in front of Burma Shell Petrol, you see they had this bogey sort of
 
 ## BPT Railway Tracks
 
-So these tracks were part of the BPT Railways, which were functional before the other suburban railway lines. Earlier there were lots of them, now they have kept only one line, and its not really functional. They have built the BPT Road over what were the railway lines (tracks). These railways were started in the 1915, much before the Central or the Western railways.
+The tracks were part of the BPT Railways, which were functional before the other suburban railway lines. Earlier there were lots of them, now they have kept only one line, and its not really functional. They have built the BPT Road over what were the railway lines (tracks). These railways were started in the 1915, much before the Central or the Western railways.
 
 There were so many trains, they even had a turntable, to keep the bogey or container on it, and whichever line you wanted to take, it could be rotated to match that.We spent our childhood playing in the rail yard. We used to play cricket there, we used to fly kites, even catch kites there. But all the railways are gone now.
 
@@ -159,6 +158,8 @@ The Joseph Baptista Gardens, locally known as the Mazagaon Gardens, is a 1.5 acr
 
 ## Old Gloria Church Cross in BPT Area
 
+![](/assets/img/old-gloria-cross.jpg)
+
 The original Gloria church, Nossa Senhora da Glória, was built in 1632 from a donation by the de Souza family. It was destroyed in 1911, being replaced two years later by a new Gothic church of the same name built a opposite the Byculla Railway Station, a kilometer away. When a Church is shifted, The Cross is replaced. So what remains to commemorate the original location of the Old Church is the original Cross, revered and maintained by a small Catholic community living in Bob’s Bungalow in front of the Site.
 
 
@@ -176,6 +177,6 @@ There are no commercial establishments in Mathar Pacady. The only exception is t
 
 ## Priest at Patel Agiyari, Mazgaon Village
 
-The Parsi Agiary is the oldest agiary of Mathar Pakardi. The Parsis were very fashionable people, whenever you come to the Agiary, you find the latest and the faciest cars, or a motorbike etc.
+The Parsi Agiyary is the oldest Agiyary of Mathar Pakardi. The _Parsis_ were very fashionable people, whenever you come to the Agiyary, you find the latest and the fanciest cars, or a motorbike etc.
 
-Mazagaon was occupied by the Sidi оf Janjira, an admiral in the Mughal navy in 1690. It is said that he was driven away а year later by the Rustomji Dorabji, who organised the fishermen in Dongri into а fleet. Rustomji was given the title Patel after this feat, and his descendants have remained the only Parsi family of Patels.
+Mazagaon was occupied by the Sidi оf Janjira, an admiral in the Mughal Navy in 1690. It is said that he was driven away а year later by the **Rustomji Dorabji**, who organised the fishermen in _Dongri_ into а fleet. Rustomji was given the title 'Patel' after this feat, and his descendants have remained the only Parsi family of Patels.
