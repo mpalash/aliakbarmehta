@@ -26,4 +26,6 @@ parent: 'SITE : STAGE : STRUCTURE '
 ![](/assets/img/mazgaon-docks.jpg)
 ![](/assets/img/installation-view_lores.jpg)
 
+![](/assets/img/yellow-crane.jpg)
+
 Paintings for SITE : STAGE : STRUCTURE were commissioned to be made in a 'Museum style' referring to colonial paintings of Mumbai.
