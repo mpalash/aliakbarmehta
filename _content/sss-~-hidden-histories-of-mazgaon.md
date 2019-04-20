@@ -9,6 +9,13 @@ summary: >-
 ---
 ## Mazgaon and Wadibunder
 
+![](/assets/img/pine-building.jpg)
+![](/assets/img/anthony-s-rest.jpg)
+![](/assets/img/old-gloria-cross.jpg)
+![](/assets/img/hasanabad.jpg)
+![](/assets/img/bhaucha-dhakka.jpg)
+![](/assets/img/mazgaon-docks.jpg)
+
 The word Mazagaon has been derived from the Sanskrit Matsya Gram, meaning fishing village. The original inhabitants were speculated to be tribals of Agari (salt-workers) and Koli (fishermen) tribes. However, folk etymology derives Mazagaon from the Marathi Maza Gaon, meaning my village. Another etymological claim suggests Portuguese origin, with the name borrowed from a city and fort of Mazagão in Morocco (now El Jadida) established by Portuguese in the beginning of the 16th century who totally evacuated to Brazil in 1769
 
 One of Mazagaon’s oldest claims to fame was a variety of mango trees, which fruited twice a year. These mangoes were a celebrated commodity, and the Mazgaon mangoes find a mention as the ‘Mangoes of Mazagong’ in the epic poem Lallah Rookh by Thomas Moore in 1817. The mangoes would be packed for Mughal emperor Aurangzeb. Apparently a few such trees were extant well into the 20th century. The small island was rocky, with a hill rising at the north, and forming a cliff over the harbour. To see what Mazagaon might once have been, one has to visit any of the tiny rocky islands bearing mango trees and small villages further down the Konkan coast.
@@ -39,6 +46,7 @@ Main activities are ship building, ship repairs and fabrication of offshore stru
 
 ## Hasanabad
 
+![](/assets/img/hasanabad.jpg)
 
 Hasanabad or Shah Hasan Ali’s Maqbara or Mausoleum is the resting place of 46th Imam – Aga Khan I, Imam of the Nizari Ismailite sect of the Shiite Muslims, circa 1884, Mazagaon.
 
@@ -48,6 +56,8 @@ This marble mausoleum took a full three years to build and the minaret is said t
 
 
 ## Portuguese Bungalow:
+
+
 
 The first Portuguese settlers were the Jesuits, who established a church in the 16th century. Notwithstanding their claim, in 1572 the King of Portugal granted the island in perpetuity to the de Souza e Lima family, from whom the D’Souzas of Mumbai trace their descent. When the Portuguese ceded the island to the British, there was a well-established population of Roman Catholics, mainly fishermen. Most were Hindu converts, although Eurasians were not uncommon. Some black African slaves brought by the Portuguese, known as Kaffirs, had also entered the ethnic mix. Some of their traditional wooden houses can still be seen, and are now protected heritage structures.
 
@@ -85,6 +95,9 @@ When construction pits were excavated, electricity and water supply were cut off
 
 ## Mathar Pacady Oart Holy Cross Oratory
 
+
+![](/assets/img/matharpacady-oratory.jpg)
+
 The 125-year chapel, Mathar Pacady Oart Holy Cross Oratory, stands tall. The feast of St Rock is celebrated here every year on May 1.
 
 The residents built the Holy Cross Oratory in this village in the late 1890s when Bombay was struck by plague. They offered prayers to St Roque – the patron saint of epidemics, for the protection of their loved ones. And legend has it that not a single Mathar Pacady resident fell a prey to that epidemic.
@@ -116,6 +129,8 @@ There was one train they had which started from Apollo Bunder, where you got off
 
 ## Koli House
 
+![](/assets/img/vaity-house.jpg)
+
 Kolbhat, Palva Bunder, Dongri, Mazgaon, Naigaum and Worli were among the islands the Kolis gave their names to. Kolbhat was distorted to Colaba; Palva Bunder became Apollo Bunder. The temple to Mumbadevi in Dongri gave rise to the name of the city. One of the smaller islands near Colaba, variously called Old Man’s Island and Old Woman’s Island, was a distortion of the Arab name Al-Omani, given for the same fishermen who ranged as far away as the gulf of Oman.
 
 In Marathi, Koli means the originally heterogeneous marginal tribe-castes that took late in history to agriculture and were often press-ganged for porterage in army service. The same word also means spider and fisherman, presumably because the fisherman makes and uses a net to catch his prey as a spider his web.
@@ -136,6 +151,8 @@ The development of the modern city slowly marginalised these people of the sea. 
 
 
 ## Mazgaon Gardens
+
+![](/assets/img/mazgaon-garden.jpg)
 
 The Joseph Baptista Gardens, locally known as the Mazagaon Gardens, is a 1.5 acres (0.6 ha) park in south Mumbai in Mazagaon.\[1] It lies atop a hill, the Bhandarwada Hill, and offers a panoramic view of the Mumbai harbour and the southern business district of the city. Beneath the gardens is a water reservoir, constructed by the second Municipal Commissioner of Bombay, John Hay Grant between 1880–1884. The gardens are located behind the Dockyard Road railway station, at an altitude of 32 metres (105 ft). Shortly after India’s independence in 1947, the gardens, was named after Joseph Baptista, an Indian freedom activist.
 
