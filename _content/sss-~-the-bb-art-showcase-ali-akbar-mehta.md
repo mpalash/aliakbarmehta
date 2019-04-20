@@ -5,7 +5,7 @@ subtitie: A Multidisciplinary Artist from Mumbai, Be Beautiful, 2015
 layout: content
 tag: press
 pubdate: '2015'
-children: []
+parent: 'SITE : STAGE : STRUCTURE'
 ---
 //Image
 
