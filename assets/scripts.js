@@ -12,32 +12,11 @@ var uniqueGenres = [];
 $(function() {
   if($('.page-content').hasClass('home')){
     makeTimeline();
+  } else {
+    toggleContent();
+    fixVids();
+    makeGallery();
   }
-  fixVids();
-  makeGallery();
-
-  $('a.toggle-section').on('click',function(e){
-    e.preventDefault();
-    var title = $(this).data('title');
-    $('.section-content[data-title=' + title + '] .full-content, .toggle-section[data-title=' + title + '] .more, .toggle-section[data-title=' + title + '] .less').toggle();
-  });
-  $('.gallery-btn.right').on('click',function(e){
-    e.preventDefault();
-    var gallery = $(this).parent().find('p.img');
-    var activeLength = gallery.find('div.active').length;
-    if(activeLength > 0){
-      var active = gallery.find('div.active');
-      active.removeClass('active');
-      if(active.next().length > 0) {
-        active.next().addClass('active');
-      } else {
-        gallery.find('div:first').addClass('active');
-      }
-    } else {
-      gallery.find('div:first').next().addClass('active');
-    }
-    gallery.scrollLeft(gallery.find('div.active').position().left);
-  });
 });
 
 function makeTimeline(){
@@ -105,6 +84,13 @@ function offsetContent(){
   var titleHeight = $('h1.project-title').outerHeight(true);
   $('section.intro').css('margin-top', titleHeight);
 }
+function toggleContent(){
+  $('a.toggle-section').on('click',function(e){
+    e.preventDefault();
+    var title = $(this).data('title');
+    $('.section-content[data-title=' + title + '] .full-content, .toggle-section[data-title=' + title + '] .more, .toggle-section[data-title=' + title + '] .less').toggle();
+  });
+}
 function makeGallery(){
   var pimg = $('p:has(img)');
   pimg.each(function(){
@@ -124,6 +110,24 @@ function makeGallery(){
       }
     });
     // $('<span class="gallery-btn left" /><span class="gallery-btn right" />').insertAfter(p);
+
+    $('.gallery-btn.right').on('click',function(e){
+      e.preventDefault();
+      var gallery = $(this).parent().find('p.img');
+      var activeLength = gallery.find('div.active').length;
+      if(activeLength > 0){
+        var active = gallery.find('div.active');
+        active.removeClass('active');
+        if(active.next().length > 0) {
+          active.next().addClass('active');
+        } else {
+          gallery.find('div:first').addClass('active');
+        }
+      } else {
+        gallery.find('div:first').next().addClass('active');
+      }
+      gallery.scrollLeft(gallery.find('div.active').position().left);
+    });
   });
 }
 
