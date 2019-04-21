@@ -6,7 +6,7 @@ tag: resource
 pubdate: '2014'
 summary: >-
 
-![](/assets/img/mazgaon-docks.jpg)
+  ![](/assets/img/mazgaon-docks.jpg)
 
   'Hidden Histories of Mazgoan' are the accumulated research notes and trivia, gathered through online research, interviews, and conversations with local historians and residents.
 ---

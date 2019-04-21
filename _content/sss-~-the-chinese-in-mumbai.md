@@ -6,7 +6,7 @@ tag: resource
 pubdate: '2014'
 summary: >-
 
-![](/assets/img/chinese-temple.jpg)
+  ![](/assets/img/chinese-temple.jpg)
 
   In the early 19th century, hundreds of Chinese labourers joined the East India
   Company, working as welders, fitters, carpenters and cooks at its operations
