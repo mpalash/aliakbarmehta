@@ -64,7 +64,10 @@
   footer {
     color: $color-warm;
     div {
-      @extend .p-2;
+      padding-left: 8.3333333333%;
+    }
+    a {
+      color: $color-warm;
     }
   }
 }

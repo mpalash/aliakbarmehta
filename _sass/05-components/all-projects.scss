@@ -1,9 +1,3 @@
-.timeline {
-  position: fixed;
-  bottom: $s-xl;
-  left: 0;
-  right: 0;
-}
 .switcher-year,
 .switcher-genre {
   @extend %fa-icon;
@@ -29,6 +23,12 @@
 .switcher-year:before { content: fa-content($fa-var-calendar); }
 .switcher-genre:before { content: fa-content($fa-var-tag); }
 
+.timeline {
+  position: fixed;
+  bottom: $s-xl;
+  left: 0;
+  right: 0;
+}
 .by-year,
 .by-genre {
   display: flex;
@@ -61,7 +61,7 @@
   & > div {
     flex: 1 0 auto;
     &:first-child {
-      margin-left: calc(8.333333% - 16px);
+      margin-left: 8.333333%;
     }
 
     & > span {

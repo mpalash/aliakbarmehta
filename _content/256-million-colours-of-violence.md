@@ -3,7 +3,7 @@ title: 256 Million Colours of Violence
 layout: content
 tag: ongoing project
 pubdate: '2019'
-hero: /assets/img/screen-shot-2018-09-26-at-13.04.19.png
+hero: /assets/img/screen-shot-2018-09-26-at-13.04.19.jpg
 children:
   - 256 ~ 256 Million Colours of Violence
   - '256 ~ 256 Million Colours of Violence, Third Space, Helsinki'

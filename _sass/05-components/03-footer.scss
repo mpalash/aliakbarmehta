@@ -9,10 +9,12 @@ footer {
     @extend .c;
     @extend .c-10;
     padding-left: calc(16.6666666667% + 16px);
+
+    display: flex;
+    justify-content: space-between;
   }
-}
-.home footer {
-  div {
-    padding-left: calc(8.3333333333% + 16px);
+
+  a {
+    color: $color-ink;
   }
 }

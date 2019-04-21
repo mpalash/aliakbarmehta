@@ -10,6 +10,37 @@ var uniqueYears = [];
 var uniqueGenres = [];
 
 $(function() {
+  if($('.page-content').hasClass('home')){
+    makeTimeline();
+  }
+  fixVids();
+  makeGallery();
+
+  $('a.toggle-section').on('click',function(e){
+    e.preventDefault();
+    var title = $(this).data('title');
+    $('.section-content[data-title=' + title + '] .full-content, .toggle-section[data-title=' + title + '] .more, .toggle-section[data-title=' + title + '] .less').toggle();
+  });
+  $('.gallery-btn.right').on('click',function(e){
+    e.preventDefault();
+    var gallery = $(this).parent().find('p.img');
+    var activeLength = gallery.find('div.active').length;
+    if(activeLength > 0){
+      var active = gallery.find('div.active');
+      active.removeClass('active');
+      if(active.next().length > 0) {
+        active.next().addClass('active');
+      } else {
+        gallery.find('div:first').addClass('active');
+      }
+    } else {
+      gallery.find('div:first').next().addClass('active');
+    }
+    gallery.scrollLeft(gallery.find('div.active').position().left);
+  });
+});
+
+function makeTimeline(){
   $(".all-projects .project-year-genre").each(function() {
     years.push($(this).data("year"));
     genres.push($(this).data("genre"));
@@ -49,7 +80,6 @@ $(function() {
     //     .appendTo("ul[data-genre=" + g + "]");
     // }
   });
-  sizeTimeline();
 
   $(".switcher-year").on("click", function(e) {
     e.preventDefault();
@@ -61,36 +91,9 @@ $(function() {
     $(".by-genre").addClass("active");
     $(".by-year").removeClass("active");
   });
-});
 
-$(function() {
-  fixVids();
-  makeGallery();
-
-  $('a.toggle-section').on('click',function(e){
-    e.preventDefault();
-    var title = $(this).data('title');
-    $('.section-content[data-title=' + title + '] .full-content, .toggle-section[data-title=' + title + '] .more, .toggle-section[data-title=' + title + '] .less').toggle();
-  });
-  $('.gallery-btn.right').on('click',function(e){
-    e.preventDefault();
-    var gallery = $(this).parent().find('p.img');
-    var activeLength = gallery.find('div.active').length;
-    if(activeLength > 0){
-      var active = gallery.find('div.active');
-      active.removeClass('active');
-      if(active.next().length > 0) {
-        active.next().addClass('active');
-      } else {
-        gallery.find('div:first').addClass('active');
-      }
-    } else {
-      gallery.find('div:first').next().addClass('active');
-    }
-    gallery.scrollLeft(gallery.find('div.active').position().left);
-  });
-});
-
+  sizeTimeline();
+}
 function sizeTimeline(){
   $(".by-year div, .by-genre div").each(function(){
     var w = $(this).find('ul')[0].scrollWidth;
