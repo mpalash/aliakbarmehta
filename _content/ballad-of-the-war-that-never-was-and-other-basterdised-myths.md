@@ -12,9 +12,11 @@ children:
   - Ballad ~ Drawings
   - Ballad ~ The Harlequin Series
   - Ballad ~ Everybody's a Jester
-  - Ballad ~ Ballad of the War that Never Was, and Other Basterdised Myths, TAO
+  - >-
+    Ballad ~ Ballad of the War that Never Was, and Other Basterdised Myths, TAO
     Art Gallery
   - Ballad ~  In A Liminal Age
   - Ballad ~ Comprehending Violence
+  - Ballad ~ Nothing is Mundane
 ---
 _"Mehta is an explorer charting a demon-haunted world that balances precariously between compassion and oppression, instability and militarisation; the mushroom cloud of nuclear annihilation is always billowing on its horizon."_
