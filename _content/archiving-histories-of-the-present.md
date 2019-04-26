@@ -1,5 +1,5 @@
 ---
-title: 'Archiving: Histories of the Present'
+title: 'Archiving: Histories in the Present'
 subtitle: >-
   guest lecture, Visual Cultures, Curating and Contemporary Art (ViCCA), Aalto
   University, Helsinki
