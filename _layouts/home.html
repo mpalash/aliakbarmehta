@@ -16,6 +16,7 @@
         {% assign projects = 'ongoing project,past project,individual work' | split: ',' %}
         {% assign sortedtags1 = 'performance,talk' | split: ',' %}
         {% assign exhibitions = 'solo exhibition,group exhibition' | split: ',' %}
+        {% assign residencies = 'residency' | split: ',' %}
         {% assign text = 'text,unpublished' | split: ',' %}
         {% assign publications = 'publication' | split: ',' %}
         {% assign sortedtags2 = 'press' | split: ',' %}
@@ -60,6 +61,23 @@
             <h2 class="tag small tag-exhibition">exhibitions</h2>
             <ul>
               {% for tag in exhibitions %}
+              {% for content in sortedcontent %}
+                {% if tag == content.tag %}
+                <li data-year="{{ content.pubdate }}" data-genre="{{ content.tag }}">
+                  {% if content.parent %}
+                    <a href="/content/{{ content.parent | strip | slugify: 'latin' }}#{{ content.title | split: "~" | last | strip | slugify: 'latin' }}">{{ content.pubdate }} • {{ content.title | split: "~" | last | strip }}</a></li>
+                  {% else %}
+                    <a href="/content/{{ content.title | split: "~" | last | strip | slugify: 'latin' }}">{{ content.pubdate }} • {{ content.title | split: "~" | last | strip }}</a></li>
+                  {% endif %}
+                {% endif %}
+              {% endfor %}
+              {% endfor %}
+            </ul>
+          </div>
+          <div>
+            <h2 class="tag small tag-residency">residencies</h2>
+            <ul>
+              {% for tag in residency %}
               {% for content in sortedcontent %}
                 {% if tag == content.tag %}
                 <li data-year="{{ content.pubdate }}" data-genre="{{ content.tag }}">
