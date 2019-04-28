@@ -5,7 +5,7 @@ tag: ongoing project
 pubdate: '2018'
 hero: /assets/img/cyber-archive_hero-image.jpg
 children:
-  - 'Cyber ~ Cyborg Archives: Can Archives Speak?'
+  - 'participate ~ Cyborg Archives: Can Archives Speak?'
   - >-
     participate ~ Cyborg Archives: GarbageInGarbageOut, TIFA Working Studios,
     Pune
@@ -13,6 +13,7 @@ children:
   - 'Cyber ~ Archiving Knowledge, sculptures'
   - 'Cyber ~ Cyber Archive: Questions'
   - 'Cyber ~ Cyber Archive: Archiving as a sustainable counter-hegemonic practice'
+  - 'Archiving: Histories in the Present'
   - 'Congratulations, the Space is invaded: Now What?'
   - >-
     Cyber ~ To Not Wait for the Archive: Home and Labour mired in the
