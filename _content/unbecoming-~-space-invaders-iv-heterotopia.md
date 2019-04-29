@@ -7,4 +7,4 @@ pubdate: '2016'
 parent: (Un)Becoming Finnish
 children: []
 ---
-//images
+![](/assets/img/becoming-uh-finnish_space-invaders-iv_matinkyla-espoo_2016.jpg)
