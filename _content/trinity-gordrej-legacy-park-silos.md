@@ -1,5 +1,6 @@
 ---
 title: 'TRINITY: Gordrej Legacy Park Silos'
+subtitle: Public Project at Godrej One, Mumbai, India
 layout: content
 tag: past project
 pubdate: '2015'
