@@ -1,6 +1,6 @@
 ---
 title: 'TRINITY ~ TRINITY: Past, Present, and Future'
-subtitle: Artist Statement by Ali aKbar Mehta and vidha Saumya
+subtitle: Artist Statement by Ali Akbar Mehta and Vidha Saumya
 layout: content
 tag: text
 pubdate: '2015'
