@@ -1,8 +1,8 @@
 ---
 title: SPACE 118
-subtitle: 'Residency '
+subtitle: ''
 layout: content
-tag: past project
+tag: residency
 pubdate: '2012'
 children: []
 ---
