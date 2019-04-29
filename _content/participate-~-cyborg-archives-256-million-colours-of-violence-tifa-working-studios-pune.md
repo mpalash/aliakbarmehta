@@ -2,7 +2,6 @@
 title: >-
   participate ~ Cyborg Archives: 256 Million Colours of Violence, TIFA Working
   Studios, Pune
-subtitle: ''
 layout: content
 tag: artwork
 pubdate: '2018'

@@ -1,12 +1,12 @@
 ---
 title: wre ~ Narrating War
-subtitle: >-
-  *This is a {{dynamic list}} and may never be able to satisfy particular
-  standards for completeness.
 layout: content
 tag: text
 pubdate: '2016'
 summary: >-
+*This is a {{dynamic list}} and may never be able to satisfy particular
+standards for completeness.
+
   Violence & the culture it consumes/perpetuates is a fundamental condition
   lodged in the core of human experience. It is simultaneously private, public,
   self-intimating & collective. War is an easy thing to look away from, if we
