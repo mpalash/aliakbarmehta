@@ -4,6 +4,6 @@ layout: content
 tag: individual work
 pubdate: '2013'
 children:
-  - 'plank ~ Small is Beautiful – II, TAO Art Gallery, Mumbai'
+  - plank ~ Small is Beautiful – II
 ---
 Planktonian People
