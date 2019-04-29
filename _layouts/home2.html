@@ -28,13 +28,7 @@
       {% assign sortedcontent = site.content | sort: 'pubdate' | reverse %}
       <div class="all-projects hide">
         {% for content in sortedcontent %}
-          <li class="project-year-genre" data-year="{{ content.pubdate }}" data-genre="{{ content.tag | replace: ' ', '-' }}">
-          {% if content.parent %}
-            <a href="/content/{{ content.parent | strip | slugify: 'latin' }}#{{ content.title | split: "~" | last | strip | slugify: 'latin' }}" >{{ content.title | split: "~" | last | strip }}</a>
-          {% else %}
-            <a href="/content/{{ content.title | split: "~" | last | strip | slugify: 'latin' }}">{{ content.title | split: "~" | last | strip }}</a>
-          {% endif %}
-          </li>
+          {%- include home2-project-title.html -%}
         {% endfor %}
       </div>
     </main>
