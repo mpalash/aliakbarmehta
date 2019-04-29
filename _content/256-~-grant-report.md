@@ -1,6 +1,6 @@
 ---
 title: 256 ~ Grant Report
-subtitle: Aalto University
+subtitle: Aalto University Grant
 layout: content
 tag: resource
 pubdate: '2017'
@@ -13,15 +13,9 @@ Grant recipient: Ali Akbar Mehta
 
 Date of grant receipt: 29.09.2017
 
-
-
 ## Grant Report:
 
-
-
 Requiring grant funding of €2500 for content development and upgrading the website of this project. A grant of amount €1000 was released.
-
-
 
 The following were directives of the application for the Aalto Arts Grant:
 
@@ -30,11 +24,7 @@ The following were directives of the application for the Aalto Arts Grant:
 3. The upgraded website will be published online on November 25, 2017. 
 4. Until then the website continues to be available in its current form for participation in the project.
 
-
-
 As per these directives, the grant amount of € 1000/- has been treated as initial funding to resume ‘back-end development’ and ‘front-end design’ of the website. 
-
-
 
 ## Work done:
 
@@ -55,19 +45,12 @@ A new User Interface (UI) has been designed replacing the current linear system 
 
 * A new configuration of administrator control is added to facilitate incorporation of ‘research data’ into the interface of the website.
 * A data analysis engine will be will be incorporated into the website to analyse the incoming data through active participation into the third stage of the project.
-
-
-
 * In the current single page format of the survey, questions and their multiple choices are provided as a linear list, without detailed explanations making the website restrictive and difficult to navigate . It is not possible for any participant to know about each choice within each question thereby reducing the chances of informed decision. This redundancies affect the quality of the project.
 * This upgrade is a major step towards the process of completing this complex survey-based research project. It also facilitates the creation of easier processes in communication and design, allowing for more people to interact with the project, and for us as artist and developers, to continue to push the boundaries with the possibilities of what this hybrid artwork can do. 
-
-
 
 **Future Steps:**
 
 * Attending 1 month Artist Residency in Pune, India, titled ‘How to Participate in the Archive’, by TIFA Working Studios. During this residency I will complete the process of Archiving the ‘research data’ and incorporate it into the online project.
-
-
 
 I would like to once again thank you for sharing the vision of the project and facilitating the means to make this work possible. 
 
