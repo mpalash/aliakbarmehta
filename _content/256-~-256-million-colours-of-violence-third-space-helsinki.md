@@ -1,5 +1,6 @@
 ---
-title: '256 ~ 256 Million Colours of Violence, Third Space, Helsinki'
+title: '256 ~ 256 Million Colours of Violence'
+subtitle: Third Space, Helsinki
 layout: content
 tag: solo exhibition
 pubdate: '2016'

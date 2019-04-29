@@ -1,6 +1,6 @@
 ---
 title: sss ~ Interview
-subtitle: ''
+subtitle: by Godrej Culture Lab, Vikhroli, Mumbai
 layout: content
 tag: press
 pubdate: '2014'
@@ -15,7 +15,6 @@ summary: >-
   narratives and heritage walks as a way of revitalizing memories and telling a
   history that is absent from the formal narratives.
 
-
   The highlight of the exhibition are the paintings, each presenting an
   important aspect of the city's history and heritage; as well as photobooks of
   Mazgaon that document the changing demographic and visual identity of the
@@ -28,9 +27,9 @@ parent: 'SITE : STAGE : STRUCTURE'
 ---
 **\> Tell us a bit about yourself and your work.**
 
-I make contemporary art, films, books, collaborate with robotic engineers, computer programmers, musicians, writers, theater and film makers and aim to found processes that would leave deep impacts on contemporary culture, technology and knowledge.
+I make contemporary art, films, books, collaborate with robotic engineers, computer programmers, musicians, writers, theatre and film makers and aim to found processes that would leave deep impacts on contemporary culture, technology and knowledge.
 
-Some of the mundane activities that I have been a part of are 'Ballad of the War that Never Was, and other Bastardized Myths', a solo exhibition of drawings, paintings and digital works, held at Tao Art Gallery, Mumbai in 2011; as well as recent group exhibitions at Tao Art Gallery, Mumbai; Art Heritage, New Delhi; and Galerie Mirchandani + Steinruecke, Mumbai
+Some of the mundane activities that I have been a part of are 'Ballad of the War that Never Was, and other Bastardised Myths', a solo exhibition of drawings, paintings and digital works, held at Tao Art Gallery, Mumbai in 2011; as well as recent group exhibitions at Tao Art Gallery, Mumbai; Art Heritage, New Delhi; and Galerie Mirchandani + Steinruecke, Mumbai
 
 **\> What is the importance of memories especially in an urban set-up?**
 
@@ -48,7 +47,7 @@ Each aspect of the current exhibition can be extrapolated into a substantial bod
 
 **\> How can the younger generations be motivated towards preserving memories?**
 
-Some of the most interesting responses to my work have been of people who have identified with the work and start sharing and talking about similar experiences within their own communities, families and friend circles. Slowly, people realize that not only can documentation be presented as ‘Art’, but that all kinds of memory can be important and valuable in the correct context.
+Some of the most interesting responses to my work have been of people who have identified with the work and start sharing and talking about similar experiences within their own communities, families and friend circles. Slowly, people realise that not only can documentation be presented as ‘Art’, but that all kinds of memory can be important and valuable in the correct context.
 
 I feel that the younger generations are increasingly aware of the importance of documentation. Our generation has produced more images in the last 10 years, than in the last 150 years combined. The focus will slowly move to being able to comprehensively understand what it is that we are documenting.
 

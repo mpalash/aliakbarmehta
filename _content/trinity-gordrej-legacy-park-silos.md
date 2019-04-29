@@ -1,6 +1,5 @@
 ---
 title: 'TRINITY: Gordrej Legacy Park Silos'
-subtitle: ''
 layout: content
 tag: past project
 pubdate: '2015'

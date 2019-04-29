@@ -1,6 +1,5 @@
 ---
 title: Is the representation of violence also violent?
-subtitle: ''
 layout: content
 tag: individual work
 pubdate: '2017'

@@ -1,5 +1,6 @@
 ---
 title: 'Congratulations, the Space is invaded: Now What?'
+subtitle: part of Space Invaders VI, curated by Anna Jensen and Elisa Suvanto, Helsinki
 layout: content
 tag: talk
 pubdate: '2018'

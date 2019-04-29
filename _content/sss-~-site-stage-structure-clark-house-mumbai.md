@@ -1,6 +1,7 @@
 ---
 layout: content
-title: 'sss ~ SITE : STAGE : STRUCTURE, Clark House, Mumbai'
+title: 'sss ~ SITE : STAGE : STRUCTURE'
+subtitle: Clark House, Mumbai
 parent: 'SITE : STAGE : STRUCTURE'
 tag: "solo exhibition"
 pubdate: '2014'

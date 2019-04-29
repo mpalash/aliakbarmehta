@@ -1,5 +1,6 @@
 ---
-title: 'plank ~ Small is Beautiful – II, TAO Art Gallery, Mumbai'
+title: 'plank ~ Small is Beautiful – II'
+subtitle: TAO Art Gallery, Mumbai
 layout: content
 tag: group exhibition
 pubdate: '2013'
