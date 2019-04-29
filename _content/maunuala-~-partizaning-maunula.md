@@ -4,7 +4,7 @@ subtitle: 'Maunulatalo, Maunula, Helsinki'
 layout: content
 tag: group exhibition
 pubdate: '2017'
-children: []
+parent: Maunual Speaks
 ---
 Moscow-based **_Partizaning collective_** is an urban activist movement focusing on art as a tool for social change. Two collective members, Anton Polskiy and Natalia Sinitsina were hosted by m-cult to create Partizaning Maunula, an intervention focusing on mechanisms of exclusion in the neighbourhood.
 
