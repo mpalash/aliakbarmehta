@@ -14,7 +14,11 @@ Among its programs for the artist are curatorial and research assistance on a pr
 
 The location of the space ended up playing an important role. My grandparents have lived in Mazgaon my entire life. As a child, I used to visit their home during my summer vacations and be taken to the Mazgaon Gardens, a famous landmark of the Area. The garden, located on a hilltop, offers a stunning view of the docks and the ships. This vivid memory has always remained with me and was keen to revisit the space now as an artist. The space was the same, I felt transported. What I felt strange was also the fact that such an integral and what used to be a central part of the city seemed almost abandoned, its history neglected. I felt that I needed to begin to piece it together, to archive it and maybe revive it.
 
-**SITE : STAGE : STRUCTURE** has been an ongoing archival project based within and around the geographical location of Space 118, using photography as its primary medium of documentation. The series of photographs is a cross section of a layered and multi-tiered space, which comprises an eclectic mix of temporary setups, chawls, shanties and tenements amidst more permanent historic landmarks and its inhabitants.
+> ****
+>
+> [**SITE : STAGE : STRUCTURE**](https://aliakbarmehta.com/content/256-million-colours-of-violence)
+>
+>  has been an ongoing archival project based within and around the geographical location of Space 118, using photography as its primary medium of documentation. The series of photographs is a cross section of a layered and multi-tiered space, which comprises an eclectic mix of temporary setups, chawls, shanties and tenements amidst more permanent historic landmarks and its inhabitants.
 
 The project aims to work in multiple directions by documenting the life and living conditions of specific loosely strung together tribes of people, and the nature of the seemingly random growth of civilization across a loosely specified area of space.
 
