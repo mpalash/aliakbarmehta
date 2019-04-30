@@ -1,13 +1,18 @@
+{% assign displaysub = 'solo exhibition,group exhibition,text,unpublished,publication' | split: ',' %}
 <li data-year="{{ content.pubdate }}" data-genre="{{ content.tag }}">
   {% if content.parent %}
     <a href="/content/{{ content.parent | strip | slugify: 'latin' }}#{{ content.title | split: "~" | last | strip | slugify: 'latin' }}">
       {{ content.pubdate }} • {{ content.title | split: "~" | last | strip }}
-      {% if content.subtitle and content.subtitle != '' %} ({{ content.subtitle }}){% endif %}
+      {% if displaysub contains content.tag %}
+        {% if content.subtitle and content.subtitle != '' %} ({{ content.subtitle }}){% endif %}
+      {% endif %}
     </a>
   {% else %}
     <a href="/content/{{ content.title | split: "~" | last | strip | slugify: 'latin' }}">
       {{ content.pubdate }} • {{ content.title | split: "~" | last | strip }}
-      {% if content.subtitle and content.subtitle != '' %} ({{ content.subtitle }}){% endif %}
+      {% if displaysub contains content.tag %}
+        {% if content.subtitle and content.subtitle != '' %} ({{ content.subtitle }}){% endif %}
+      {% endif %}
     </a>
   {% endif %}
 </li>

@@ -20,8 +20,8 @@
     line-height: $s-xl;
   }
 }
-.switcher-year:before { content: fa-content($fa-var-calendar); }
-.switcher-genre:before { content: fa-content($fa-var-tag); }
+.switcher-year:before { content: fa-content($fa-var-hourglass-start); }
+.switcher-genre:before { content: fa-content($fa-var-dna); }
 
 .timeline {
   position: fixed;
