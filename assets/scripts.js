@@ -101,12 +101,15 @@ function makeGallery(){
       p.addClass('img');
     }
     i.each(function(){
+      var addCaption = $(this).parent().hasClass('img');
       var alt = $(this).attr('alt');
       $(this).wrap('<div></div>');
-      if( alt != '' && alt != null && alt != 'null') {
-        $(this).parent().append('<span class="img-caption">' + alt + '</span>');
+      if( alt != '' && alt != null && alt != 'null' ) {
+          $(this).parent().append('<span class="img-caption">' + alt + '</span>');
       } else {
-        $(this).parent().append('<span class="img-caption"></span>');
+        if( addCaption ) {
+          $(this).parent().append('<span class="img-caption"></span>');
+        }
       }
     });
     // $('<span class="gallery-btn left" /><span class="gallery-btn right" />').insertAfter(p);

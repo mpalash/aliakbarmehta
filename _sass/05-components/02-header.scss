@@ -15,9 +15,23 @@ header {
     align-items: center;
   }
   .site-title {
-    @extend .c;
-    @extend .c-2;
-    line-height: 1;
+    > div {
+      position: absolute;
+      top: -$gutter;
+      left: 0;
+      white-space: nowrap;
+      transform: rotate(-90deg);
+      span {
+        position: absolute;
+        top: 0;
+        right: 0;
+        padding: $gutter $gutter*2;
+        background-color: $color-warm-dark;
+        color: $color-white;
+        @include meta;
+        font-family: $font-identity;
+      }
+    }
   }
   .menu-links {
     @extend .c;
