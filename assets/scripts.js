@@ -33,12 +33,12 @@ function makeTimeline(){
 
   $.each(uniqueYears, function(i, v) {
     $(".by-year").append(
-      "<div><span>" + v + "</span><ul data-year=" + v + "></ul></div>"
+      "<div><span class='timeline-meta'>" + v + "</span><ul data-year=" + v + "></ul></div>"
     );
   });
   $.each(uniqueGenres, function(i, v) {
     $(".by-genre").append(
-      "<div><span>" + v + "</span><ul data-genre=" + v + "></ul></div>"
+      "<div><span class='timeline-meta'>" + v + "</span><ul data-genre=" + v + "></ul></div>"
     );
   });
 
@@ -74,10 +74,12 @@ function makeTimeline(){
   sizeTimeline();
 }
 function sizeTimeline(){
-  $(".by-year div, .by-genre div").each(function(){
-    var w = $(this).find('ul')[0].scrollWidth;
-    $(this).width(w);
-  })
+  if($(".timeline").hasClass("horizontal")){    
+    $(".by-year div, .by-genre div").each(function(){
+      var w = $(this).find('ul')[0].scrollWidth;
+      $(this).width(w);
+    })
+  }
   $(".by-year").addClass('active');
 }
 function offsetContent(){

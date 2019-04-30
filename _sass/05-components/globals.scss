@@ -1,3 +1,26 @@
+// body {
+//   border-left: 4px solid #0066FF;
+//   border-right: 4px solid #0066FF;
+//   &:after {
+//     content: '';
+//     position: fixed;
+//     top: 0;
+//     left: 0;
+//     right: 0;
+//     border-bottom: 4px solid #0066FF;
+//     z-index: 999999;
+//   }
+//   &:before {
+//     content: '';
+//     position: fixed;
+//     bottom: 0;
+//     left: 0;
+//     right: 0;
+//     border-bottom: 4px solid #0066FF;
+//     z-index: 999999;
+//   }
+// }
+
 .site-title {
   font-family: $font-identity;
   text-transform: uppercase;

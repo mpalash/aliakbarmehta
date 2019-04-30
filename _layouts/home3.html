@@ -9,19 +9,21 @@
     <main class="page-content home r" aria-label="Content">
       {%- include header.html -%}
       {% assign about = site.documents | where: "slug", "about" | first %}
-      <div class="c c-12 p-1">
-        <div class="site-intro">
-          <h1 class="site-title">{{ site.title }}</h1>
-          <p class="sub-site-title">{{about.content}}</p>
+      <div class="r">
+        <div class="c c-4 p-1">
+          <div class="site-intro">
+            <h1 class="site-title">{{ site.title }}</h1>
+            <p class="sub-site-title">{{about.content}}</p>
+          </div>
+          <div>
+            <a class="switcher-year" href="#"><span>By Date</span></a>
+            <a class="switcher-genre" href="#"><span>By Genre</span></a>
+          </div>
         </div>
-        <div>
-          <a class="switcher-year" href="#"><span>By Date</span></a>
-          <a class="switcher-genre" href="#"><span>By Genre</span></a>
+        <div class="c c-6 timeline vertical">
+          <div class="by-year"></div>
+          <div class="by-genre"></div>
         </div>
-      </div>
-      <div class="timeline horizontal">
-        <div class="by-year"></div>
-        <div class="by-genre"></div>
       </div>
       {%- include footer.html -%}
 

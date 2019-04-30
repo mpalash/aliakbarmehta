@@ -21,103 +21,147 @@
   }
 }
 .switcher-year:before { content: fa-content($fa-var-hourglass-start); }
-.switcher-genre:before { content: fa-content($fa-var-dna); }
+.switcher-genre:before { content: fa-content($fa-var-filter); }
 
 .timeline {
+  .timeline-meta {
+    display: inline-block;
+    margin-bottom: $s-s;
+    padding: $s-xxs $s-b;
+    border-radius: $s-xs;
+    background-color: $color-ink;
+    @include meta;
+  }
+
+  li {
+    border-left: 2px solid currentColor;
+
+    &[data-genre="project"],
+    &[data-genre="ongoing-project"],
+    &[data-genre="past-project"],
+    &[data-genre="artwork"],
+    &[data-genre="video"],
+    &[data-genre="individual-work"]   { border-color: $color-project; }
+
+    &[data-genre="performance"]       { border-color: $color-performance; }
+
+    &[data-genre="talk"]              { border-color: $color-talk; }
+
+    &[data-genre="exhibition"],
+    &[data-genre="solo-exhibition"],
+    &[data-genre="group-exhibition"]  { border-color: $color-exhibition; }
+
+    &[data-genre="text"],
+    &[data-genre="unpublished"]       { border-color: $color-text; }
+
+    &[data-genre="publication"]       { border-color: $color-publication; }
+
+    &[data-genre="press"]             { border-color: $color-press; }
+
+    &[data-genre="residency"]         { border-color: $color-residency; }
+
+    &[data-genre="resource"]          { border-color: $color-resource; }
+  }
+
+}
+
+.timeline.horizontal {
   position: fixed;
   bottom: $s-xl;
   left: 0;
   right: 0;
+
+  .by-year,
+  .by-genre {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    overflow-x: scroll;
+    overflow-y: hidden;
+
+    visibility: hidden;
+    opacity: 0;
+    height: 0;
+    transition: opacity 0.2s ease-in;
+
+    &::-webkit-scrollbar-track {
+      background-color: $color-warm-dark;
+    }
+    &::-webkit-scrollbar {
+      height: 1px;
+      background-color: transparent;
+    }
+    &::-webkit-scrollbar-thumb {
+      background-color: $color-warm-light;
+    }
+    &.active {
+      visibility: visible;
+      opacity: 1;
+      height: auto;
+    }
+
+    & > div {
+      flex: 1 0 auto;
+      &:first-child {
+        margin-left: 8.333333%;
+      }
+    }
+    ul {
+      display: flex;
+      flex-direction: column;
+      flex-wrap: wrap;
+      margin: 0;
+      padding: 0;
+      list-style: none;
+      max-width: none !important;
+      height: 368px;
+
+      li {
+        margin-bottom: 4px;
+        margin-right: 40px;
+        padding-left: 12px;
+        width: 400px;
+        // white-space: nowrap;
+        // text-overflow: ellipsis;
+        // overflow: hidden;
+      }
+    }
+  }
 }
-.by-year,
-.by-genre {
-  display: flex;
-  justify-content: flex-start;
-  align-items: flex-start;
-  overflow-x: scroll;
-  overflow-y: hidden;
 
-  visibility: hidden;
-  opacity: 0;
-  height: 0;
-  transition: opacity 0.2s ease-in;
+.timeline.vertical {
+  .by-year,
+  .by-genre {
+    visibility: hidden;
+    opacity: 0;
+    height: 0;
+    overflow: hidden;
+    transition: opacity 0.2s ease-in;
 
-  &::-webkit-scrollbar-track {
-    background-color: $color-warm-dark;
-  }
-  &::-webkit-scrollbar {
-    height: 1px;
-    background-color: transparent;
-  }
-  &::-webkit-scrollbar-thumb {
-    background-color: $color-warm-light;
-  }
-  &.active {
-    visibility: visible;
-    opacity: 1;
-    height: auto;
-  }
-
-  & > div {
-    flex: 1 0 auto;
-    &:first-child {
-      margin-left: 8.333333%;
+    &.active {
+      visibility: visible;
+      opacity: 1;
+      height: auto;
+      overflow: visible;
     }
-
-    & > span {
-      display: inline-block;
-      margin-bottom: $s-s;
-      padding: $s-xxs $s-b;
-      border-radius: $s-xs;
-      background-color: $color-ink;
-      @include meta;
+    & > div:first-child {
+      margin-top: $gutter*7;
     }
+  }
+  .timeline-meta {
+    margin-top: $s-l;
+    margin-bottom: $s-b;
   }
   ul {
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
     margin: 0;
     padding: 0;
     list-style: none;
     max-width: none !important;
-    height: 368px;
 
     li {
       margin-bottom: 4px;
       margin-right: 40px;
       padding-left: 12px;
-      width: 400px;
-      border-left: 2px solid currentColor;
-      // white-space: nowrap;
-      // text-overflow: ellipsis;
-      // overflow: hidden;
     }
   }
-
-  li[data-genre="project"],
-  li[data-genre="ongoing-project"],
-  li[data-genre="past-project"],
-  li[data-genre="artwork"],
-  li[data-genre="video"],
-  li[data-genre="individual-work"]   { border-color: $color-project; }
-
-  li[data-genre="performance"]       { border-color: $color-performance; }
-
-  li[data-genre="talk"]              { border-color: $color-talk; }
-
-  li[data-genre="exhibition"],
-  li[data-genre="solo-exhibition"],
-  li[data-genre="group-exhibition"]  { border-color: $color-exhibition; }
-
-  li[data-genre="text"],
-  li[data-genre="unpublished"]       { border-color: $color-text; }
-
-  li[data-genre="publication"]       { border-color: $color-publication; }
-
-  li[data-genre="press"]             { border-color: $color-press; }
-
-  li[data-genre="residency"]         { border-color: $color-residency; }
-
-  li[data-genre="resource"]          { border-color: $color-resource; }
 }
