@@ -1,9 +1,8 @@
 ---
-layout: content
 title: Pud ~ Project Report
-parent: Pudding Manifesto for Togetherness
+layout: content
 tag: resource
-pubdate: '2019'
+pubdate: '2016'
 summary: >-
   **What is questioned:**
 
@@ -18,6 +17,7 @@ summary: >-
   unforgivable event in human history. Such a symbol becomes part of the
   collective history of an entire people, and becomes the shared collective
   experience of humanity.
+parent: Pudding Manifesto for Togetherness
 ---
 We confronted what is chosen to be remembered and what we choose to forget, specifically in the Finnish context – The paradoxical relationship that Finland has with colonialism, of historically being in the role of the victim and now becoming the perpatrator, while also writing its history from an ‘Exceptionalist’ approach, cooperation with nazi-Germany and occupation of Russian territory during The second World War and denying its direct and indirect participation in colonialist and racist international projects.
 
