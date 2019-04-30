@@ -4,14 +4,14 @@
   <a href="/content/{{ content.parent | strip | slugify: 'latin' }}#{{ content.title | split: "~" | last | strip | slugify: 'latin' }}" >
     {{ content.title | split: "~" | last | strip }}
     {% if displaysub contains content.tag %}
-      {% if content.subtitle and content.subtitle != '' %}<br/>({{ content.subtitle }}){% endif %}
+      {% if content.subtitle and content.subtitle != '' %}<br/><span class="list-subtitle">{{ content.subtitle }}</span>{% endif %}
     {% endif %}
   </a>
 {% else %}
   <a href="/content/{{ content.title | split: "~" | last | strip | slugify: 'latin' }}">
     {{ content.title | split: "~" | last | strip }}
     {% if displaysub contains content.tag %}
-      {% if content.subtitle and content.subtitle != '' %}<br/>({{ content.subtitle }}){% endif %}
+      {% if content.subtitle and content.subtitle != '' %}<br/><span class="list-subtitle">{{ content.subtitle }}</span>{% endif %}
     {% endif %}
   </a>
 {% endif %}

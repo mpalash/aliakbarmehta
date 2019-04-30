@@ -1,9 +1,3 @@
-Subtitles for:
-Exhibitions
-Texts
-Publications
-
-
 LIGHTBOX
 
 [![](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/netlify/netlifycms)
