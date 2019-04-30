@@ -2,12 +2,12 @@
 {% if content.parent %}
   <a href="/content/{{ content.parent | strip | slugify: 'latin' }}#{{ content.title | split: "~" | last | strip | slugify: 'latin' }}" >
     {{ content.title | split: "~" | last | strip }}
-    {% if content.subtitle %}<br/>({{ content.subtitle }}){% endif %}
+    {% if content.subtitle and content.subtitle != '' %}<br/>({{ content.subtitle }}){% endif %}
   </a>
 {% else %}
   <a href="/content/{{ content.title | split: "~" | last | strip | slugify: 'latin' }}">
     {{ content.title | split: "~" | last | strip }}
-    {% if content.subtitle %}<br/>({{ content.subtitle }}){% endif %}
+    {% if content.subtitle and content.subtitle != '' %}<br/>({{ content.subtitle }}){% endif %}
   </a>
 {% endif %}
 </li>

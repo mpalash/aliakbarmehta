@@ -63,7 +63,7 @@
           <div>
             <h2 class="tag small tag-residency">residencies</h2>
             <ul>
-              {% for tag in residency %}
+              {% for tag in residencies %}
               {% for content in sortedcontent %}
                 {% if tag == content.tag %}
                   {%- include home-project-title.html -%}
