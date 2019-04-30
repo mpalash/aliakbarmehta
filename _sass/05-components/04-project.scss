@@ -98,3 +98,10 @@ div.section-content {
 .summary + .full-content {
   display: none;
 }
+
+.fluid-vids {
+  min-height: 120px;
+  & + .fluid-vids {
+    margin-top: $gutter;
+  }
+}
