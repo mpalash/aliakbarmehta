@@ -1,9 +1,9 @@
 ---
-layout: content
 title: Pud ~ Other Readings
-parent: Pudding Manifesto for Togetherness
+layout: content
 tag: resource
-pubdate: '2019'
+pubdate: '2016'
+parent: Pudding Manifesto for Togetherness
 ---
 Eating Culture: The Poetics and Politics of Food, Tobias Döring, Markus Heide, Susanne Muehleisen, 2003
 Food Is Culture, Massimo Montanari, Columbia University Press.
