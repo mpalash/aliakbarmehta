@@ -6,7 +6,7 @@ tag: resource
 pubdate: '2017'
 summary: >-
   * Project Title: [**256 Million Colours of
-  Violence**](https://aliakbarmehta.com/content/256-million-colours-of-violence)****
+  Violence**](https://aliakbarmehta.com/content/256-million-colours-of-violence)
 
   * Grant recipient: Ali Akbar Mehta
 
@@ -23,8 +23,8 @@ summary: >-
   The following were directives of the application for the Aalto Arts Grant:
 
 
-  1. The ‘back-end development’ and ‘front-end design’ of the website will be
-  done with the help of an advanced programmer and UX designer.
+  1. The ‘_back-end development_’ and ‘_front-end design’_ of the website will
+  be done with the help of an advanced programmer and UX designer.
 
   2. to include this new ‘research data’, creating a data platform of alternate
   and in-depth education across over 1700 subjects.  
@@ -54,7 +54,7 @@ A new User Interface (UI) has been designed replacing the current linear system 
 * Questions have been grouped and clubbed into specific clusters. Completing each cluster allows the participant to save progress, and return to it later.
 * A new animated logo has been added to the home page.
 * A new Colour Gallery is incorporated into the website Home page, where the order changes based on selected parameters from the questionnaire. Each colour links to a summary of individual participant’s answers.
-* 
+
 
 **Back-end Development:**
 
@@ -63,10 +63,9 @@ A new User Interface (UI) has been designed replacing the current linear system 
 * In the current single page format of the survey, questions and their multiple choices are provided as a linear list, without detailed explanations making the website restrictive and difficult to navigate . It is not possible for any participant to know about each choice within each question thereby reducing the chances of informed decision. This redundancies affect the quality of the project.
 * This upgrade is a major step towards the process of completing this complex survey-based research project. It also facilitates the creation of easier processes in communication and design, allowing for more people to interact with the project, and for us as artist and developers, to continue to push the boundaries with the possibilities of what this hybrid artwork can do. 
 
+
 **Future Steps:**
 
 * Attending 1 month Artist Residency in Pune, India, titled ‘How to Participate in the Archive’, by TIFA Working Studios. During this residency I will complete the process of Archiving the ‘research data’ and incorporate it into the online project.
 
-I would like to once again thank you for sharing the vision of the project and facilitating the means to make this work possible. 
-
-\---END---
+I would like to once again thank you for sharing the vision of the project and facilitating the means to make this work possible.
