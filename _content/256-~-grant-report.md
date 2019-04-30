@@ -68,6 +68,4 @@ A new User Interface (UI) has been designed replacing the current linear system 
 
 * Attending 1 month Artist Residency in Pune, India, titled ‘How to Participate in the Archive’, by TIFA Working Studios. During this residency I will complete the process of Archiving the ‘research data’ and incorporate it into the online project.
 
-I would like to once again thank you for sharing the vision of the project and facilitating the means to make this work possible. 
-
-\---END---
+I would like to once again thank you for sharing the vision of the project and facilitating the means to make this work possible.
