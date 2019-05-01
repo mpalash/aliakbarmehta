@@ -2,10 +2,10 @@
 title: 'Outsider ~ All Ears are Equal: Shaping Knowledge through Sound'
 subtitle: In conversation with Tuike and Simo Alitalo
 layout: content
-tag: text
+tag: publication
 pubdate: '2019'
 hero: /assets/img/images-01.jpg
-parent: 'Outsiders at Work'
+parent: Outsiders at Work
 children: []
 ---
 ![](/assets/img/tuike-and-simo-01.jpg)
