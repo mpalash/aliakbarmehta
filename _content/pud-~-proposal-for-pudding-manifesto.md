@@ -1,6 +1,6 @@
 ---
 title: Pud ~ Proposal for Pudding Manifesto
-subtitle: ''
+subtitle: Project Proposal by Ali Akbar Mehta
 layout: content
 tag: text
 pubdate: '2016'
