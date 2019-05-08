@@ -66,14 +66,23 @@ function makeTimeline(){
     // }
   });
 
+  $(".site-genres .tag").each(function(){
+    var coord = $($(this).attr('href').toString()).offset().top - 144;
+    $(this).attr('data-coord', coord);
+  });
   $(".site-dates .tag").on("click", function(e) {
     e.preventDefault();
+    $(".timeline.vertical").scrollTop(0);
+
     $(".by-year").addClass("active");
     $(".by-genre").removeClass("active");
-    $(".timeline.vertical").scrollTop(0);
   });
   $(".site-genres .tag").on("click", function(e) {
-    // e.preventDefault();
+    e.preventDefault();
+    var coord = $(this).data('coord');
+    $(".timeline.vertical").scrollTop(coord);
+    console.log(coord, $(".timeline.vertical").scrollTop());
+
     $(".by-genre").addClass("active");
     $(".by-year").removeClass("active");
   });
