@@ -35,9 +35,6 @@ function makeTimeline(){
     $(".by-year").append(
       "<div><span class='timeline-meta'>" + v + "</span><ul data-year=" + v + "></ul></div>"
     );
-    // $(".site-dates").append(
-    //   "<h2 class='tag small tag-year'>" + v + "</h2>"
-    // );
   });
 
   /*
@@ -86,9 +83,42 @@ function makeTimeline(){
     $(".by-genre").addClass("active");
     $(".by-year").removeClass("active");
   });
-
-  sizeTimeline();
 }
+
+$(document).ready(function() {
+    var screenWidth = $(document).width();
+    if(screenWidth < 800) {
+      var myLB = new jBox('Image', {
+        adjustDistance: 40,
+        blockScroll: true,
+        reposition: false,
+        overlay: true,
+        closeOnEsc: true,
+        closeOnClick: 'overlay',
+        closeButton: 'overlay',
+        src: 'src',
+        imageLabel: 'alt',
+        imageSize: '100% auto',
+        imageCounter: false
+      });
+    } else {
+      var myLB = new jBox('Image', {
+        adjustDistance: 80,
+        blockScroll: true,
+        reposition: false,
+        overlay: true,
+        closeOnEsc: true,
+        closeOnClick: 'overlay',
+        closeButton: 'overlay',
+        src: 'src',
+        imageLabel: 'alt',
+        imageSize: 'auto 90%',
+        imageCounter: false
+      });
+    }
+});
+
+
 function sizeTimeline(){
   if($(".timeline").hasClass("horizontal")){
     $(".by-year div, .by-genre div").each(function(){
@@ -111,7 +141,7 @@ function toggleContent(){
 }
 function makeGallery(){
   var pimg = $('p:has(img)');
-  pimg.each(function(){
+  pimg.each(function(j, obj){
     var p = $(this);
     var i = p.find('img');
     var len = i.length;
@@ -121,6 +151,7 @@ function makeGallery(){
     i.each(function(){
       var addCaption = $(this).parent().hasClass('img');
       var alt = $(this).attr('alt');
+      $(this).attr('data-jbox-image','gal_' + j);
       $(this).wrap('<div></div>');
       if( alt != '' && alt != null && alt != 'null' ) {
           $(this).parent().append('<span class="img-caption">' + alt + '</span>');

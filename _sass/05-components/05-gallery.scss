@@ -32,6 +32,7 @@ p.img {
     display: block;
     max-height: 480px;
     max-width: none;
+    cursor: pointer;
   }
 }
 .img-caption {
@@ -49,4 +50,65 @@ p.img {
   cursor: pointer;
   &.left:before { content: fa-content($fa-var-chevron-circle-left); margin-right: $s-s; }
   &.right:before { content: fa-content($fa-var-chevron-circle-right); }
+}
+
+.jBox-wrapper {
+  pointer-events: none;
+}
+.jBox-overlay.jBox-overlay-Image {
+  background: $color-white;
+}
+.jBox-image-label-container {
+  bottom: 80px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+  * {
+    position: relative;
+  }
+  .jBox-image-pointer-next {
+    order: 100;
+  }
+}
+.jBox-image-label {
+  padding: 0;
+  margin: 0 3em;
+  width: auto;
+  color: $color-ink;
+  font-size: 0.9em;
+  font-weight: 400;
+  // letter-spacing: 0.1em;
+  // text-transform: uppercase;
+  &:not(.active){
+    display: none;
+  }
+}
+.jBox-image-pointer-prev,
+.jBox-image-pointer-next,
+.jBox-overlay .jBox-closeButton {
+  pointer-events: all;
+  font-size: 1.75em;
+  line-height: 40px;
+  width: 40px;
+  text-align: center;
+  transform: none;
+  &:hover {
+    color: $color-ink;
+  }
+}
+.jBox-image-pointer-prev:after {
+  content: '←';
+}
+.jBox-image-pointer-next:after {
+  content: '→';
+}
+.jBox-overlay .jBox-closeButton {
+  svg {
+    display: none !important;
+  }
+  &:after {
+    content: '×';
+  }
 }
