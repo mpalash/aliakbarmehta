@@ -2,7 +2,7 @@
 title: Luminous Matter
 layout: content
 tag: past project
-pubdate: '2019'
+pubdate: '2011'
 hero: /assets/img/lm1-large.jpg
 children:
   - LM ~ Prelude to Luminous Matter (Animated)
