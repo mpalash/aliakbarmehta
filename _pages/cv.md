@@ -241,36 +241,48 @@ Regularly conducting drawing and painting workshops as part of various NGO activ
 
 ## Other work Experience
 
-2017 _Program Manager,_ Museum of Impossible Forms, Helsinki
+2019: _Artistic Producer_, **Mcult Media Cultural Association**, Helsinki
 
-_Founder Member,_  Museum of Impossible Forms, Helsinki, 2016 – present
+2018 – 2019: _Artistic Director_, **Museum of Impossible Forms**, Helsinki
 
-_Member,_ Third Space Collective, Helsinki, 2016 ­– 2017
+2017: _Program Manager,_ **Museum of Impossible Forms**, Helsinki
 
-_Founder Member,_ D/func.t Collective, Helsinki, 2016 ­– present
+2016 – present: _Founder Member,_  **Museum of Impossible Forms**, Helsinki
 
-_Communication Assistant,_ Visual Culture and Contemporary Art (ViCCA), Aalto University, Helsinki, 2016 – 2017
+2016 ­– 2017: _Member,_ **Third Space Collective**, Helsinki
 
-_Post Production_ and _animation,_ _**Arab Strings**_, a performance video by artist Jowan Safadi (Palestine), 2016
+2016 ­– present: _Founder Member,_ **D/func.t Collective**, Helsinki
 
-_Post Production_, ‘#7: Greed’ short film, 2015
+2016 – 2017: _Communication Assistant,_ Visual Culture and Contemporary Art (**ViCCA**), Aalto University, Helsinki
 
-_Co-conceived and Head of Post Production,_ **_Relics of Eden_**, a short fictional film by COMPOSITE Films, 2014 ­
+2016: _Post Production_ and _animation,_ _**Arab Strings**_, a performance video by artist Jowan Safadi (Palestine)
 
-_Head of Post Production_, _**What a Wonderful World**_, an independently produced post-apocalyptic themed experimental video, 2014
+2015: _Post Production_, ‘#7: Greed’ short film
 
-_Freelance Artist and Character Designer, **TUMBAD**_, feature-length live-action film produced by Recyclewala Films, 2013 ­– 2014
+2014: ­_Co-conceived and Head of Post Production,_ **_Relics of Eden_**, a short fictional film by COMPOSITE Films
 
-_Consulting head of Post Production and freelance Artist,_ for _**various Digital content projects**_ by COMPOSITE Films(QuickHeal Antivirus, La15 Patisserie, Fizzy foods, and KNM Airlines), 2012 – 2016
+_2014: Head of Post Production_, _**What a Wonderful World**_, an independently produced post-apocalyptic themed experimental video
 
-_Creative Director and Head of Post Production,_ **_Luminous Matter_**, a stop-motion animated short film by COMPOSITE Films, 2011 – 2013
+2013 ­– 2014: _Freelance Artist and Character Designer, **TUMBAD**_, feature-length live-action film produced by Recyclewala Films
 
-> Screened at Austria Film Festival 2013, Jaipur Film Festival, 2013, Leeds Film Festival, 2012, DIGICON Tokyo, 2012, FICCI Frames, Mumbai 2012
+2012 – 2016: _Consulting head of Post Production and freelance Artist,_ for _**various Digital content projects**_ by COMPOSITE Films
 
-_Co ­­­­­– ­founder, Lead Animator and artist,_ **_Mareech Animated Design_**, an animation studio specializing in 3D animation and Visual Effects for Film and Television, 2002 – 2007
+> QuickHeal Antivirus | La15 Patisserie | Fizzy Foods | KNM Airlines
 
-Co-written and performed, _**Aham: What’s going on?**_, a full-length play performed at Prithvi Theatre, Mumbai, 2004 – 2006
+2011 – 2013: _Creative Director and Head of Post Production,_ **_Luminous Matter_**, a stop-motion animated short film by COMPOSITE Films
 
-Graduated from Sir J.J. School of (Fine) Art, 2005
+> Screened at: 
+>
+> * Austria Film Festival 2013 
+> * Jaipur Film Festival, 2013 
+> * Leeds Film Festival, 2012 
+> * DIGICON Tokyo, 2012 
+> * FICCI Frames, Mumbai 2012
 
-Directed and edited, **_Untitled_**, a documentary short film on Sir J.J. School of Art, 2004
+2002 – 2007: _Co ­­­­­– ­founder, Lead Animator and artist,_ **_Mareech Animated Design_**, an animation studio specializing in 3D animation and Visual Effects for Film and Television
+
+2004 – 2006: Co-written and performed, _**Aham: What’s going on?**_, a full-length play performed at Prithvi Theatre, Mumbai
+
+2005: Graduated from Sir J.J. School of (Fine) Art
+
+2004: Directed and edited, **_Untitled_**, a documentary short film on Sir J.J. School of Art
