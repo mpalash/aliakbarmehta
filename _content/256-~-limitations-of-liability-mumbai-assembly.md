@@ -28,7 +28,7 @@ March 17, 2017 | 6:30 – 7:30 pm
 
 Following a spoken word performance by Ramneek Singh, a conversation between Artist Ali Akbar Mehta and Ramneek Singh looks at 'Colour and Violence' through the lens of poetry and the spoken word, attempting to bridge the often unverbalised but deeply personal and unique emotional responses.
 
-## 
+##
 ![In conversation with Simpreet Singh](/assets/img/ali-akbar-mehta-and-simpreet-singh.jpg)
 ![In conversation with Simpreet Singh](/assets/img/audience-2.jpg)
 
@@ -41,7 +41,7 @@ Ali Akbar Mehta and Simpreet Singh discuss how the project is addressing the not
 
 
 
-!\[In conversation with Sameer Pitalwala](/assets/img/Ali Akbar Mehta_Limitations of Liability_Mumbai Assembly_Sameer Pitalwala_2016.jpg)
+![In conversation with Sameer Pitalwala](/assets/img/Ali Akbar Mehta_Limitations of Liability_Mumbai Assembly_Sameer Pitalwala_2016.jpg)
 
 ## _Big Data Ethics_
 
