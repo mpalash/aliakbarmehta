@@ -60,12 +60,15 @@ function makeTimeline(){
     //   $(this)
     //     .clone()
     //     .appendTo("ul[data-genre=" + g + "]");
-    // }
+    //
+
+    $(".by-year").addClass('active');
   });
 
   $(".site-genres .tag").each(function(){
-    var coord = $($(this).attr('href').toString()).offset().top - 144;
-    $(this).attr('data-coord', coord);
+    var offsetYears = $(".by-year").height();
+    var coord = $($(this).attr('href').toString()).offset().top - 260 - offsetYears;
+    $(this).attr('data-coord', coord, offsetYears);
   });
   $(".site-dates .tag").on("click", function(e) {
     e.preventDefault();
@@ -126,7 +129,6 @@ function sizeTimeline(){
       $(this).width(w);
     })
   }
-  $(".by-year").addClass('active');
 }
 function offsetContent(){
   var titleHeight = $('h1.project-title').outerHeight(true);
