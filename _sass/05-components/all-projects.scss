@@ -130,6 +130,9 @@
 }
 
 .timeline.vertical {
+  height: 100vh;
+  overflow: scroll;
+  
   .by-year,
   .by-genre {
     visibility: hidden;

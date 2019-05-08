@@ -8,109 +8,136 @@
 
     <main class="page-content home r" aria-label="Content">
       {%- include header.html -%}
-      <div class="c c-12 p-1">
-        <h1 class="site-title">{{ site.title }}</h1>
-        <p class="sub-site-title">{{ site.description }}</p>
+      {% assign about = site.documents | where: "slug", "about" | first %}
+      <div class="r">
+        <div class="c c-4 p-1">
+          <div class="site-intro">
+            <h1 class="site-title">{{ site.title }}</h1>
+            <p class="sub-site-title">{{about.content}}</p>
+          </div>
+          <div class="site-genres">
+            <a class="tag small tag-project" href="#projects">projects</a>
+            <a class="tag small tag-performance" href="#performances">performances</a>
+            <a class="tag small tag-talk" href="#talks">talks</a>
+            <a class="tag small tag-exhibition" href="#exhibitions">exhibitions</a>
+            <a class="tag small tag-residency" href="#residencies">residencies</a>
+            <a class="tag small tag-text" href="#texts">texts</a>
+            <a class="tag small tag-publication" href="#publications">publications</a>
+            <a class="tag small tag-press" href="#press">press</a>
+          </div>
+          <div class="site-dates">
+            <a class="tag small tag-dates" href="#"><span>timeline</span></a>
+          </div>
+        </div>
+        <div class="c c-6 timeline vertical">
+          <div class="by-year"></div>
+          <div class="by-genre">
+            {% assign projects = 'ongoing project,past project,individual work' | split: ',' %}
+            {% assign sortedtags1 = 'performance,talk' | split: ',' %}
+            {% assign exhibitions = 'solo exhibition,group exhibition' | split: ',' %}
+            {% assign residencies = 'residency' %}
+            {% assign text = 'text,unpublished' | split: ',' %}
+            {% assign publications = 'publication' %}
+            {% assign press = 'press' %}
 
+            {% assign sortedcontent = site.content | sort: 'pubdate' | reverse %}
 
-        {% assign projects = 'ongoing project,past project,individual work' | split: ',' %}
-        {% assign sortedtags1 = 'performance,talk' | split: ',' %}
-        {% assign exhibitions = 'solo exhibition,group exhibition' | split: ',' %}
-        {% assign residencies = 'residency' %}
-        {% assign text = 'text,unpublished' | split: ',' %}
-        {% assign publications = 'publication' %}
-        {% assign press = 'press' %}
-
-        {% assign sortedcontent = site.content | sort: 'pubdate' | reverse %}
-
-        <div class="listing tags">
-          <div>
-            <h2 class="tag small tag-project">projects</h2>
-            <ul>
-              {% for tag in projects %}
-              {% for content in sortedcontent %}
-                {% if tag == content.tag %}
-                  {%- include home-project-title.html -%}
-                {% endif %}
+              <div>
+                <span class="timeline-meta" id="projects">projects</span>
+                <ul>
+                  {% for tag in projects %}
+                  {% for content in sortedcontent %}
+                    {% if tag == content.tag %}
+                      {%- include home2-project-title.html -%}
+                    {% endif %}
+                  {% endfor %}
+                  {% endfor %}
+                </ul>
+              </div>
+              {% for tag in sortedtags1 %}
+              <div>
+                <span class="timeline-meta" id="{{ tag }}s">{{ tag }}s</span>
+                <ul>
+                  {% for content in sortedcontent %}
+                    {% if tag == content.tag %}
+                      {%- include home2-project-title.html -%}
+                    {% endif %}
+                  {% endfor %}
+                </ul>
+              </div>
               {% endfor %}
-              {% endfor %}
-            </ul>
-          </div>
-          {% for tag in sortedtags1 %}
-          <div>
-            <h2 class="tag small tag-{{ tag }}">{{ tag }}s</h2>
-            <ul>
-              {% for content in sortedcontent %}
-                {% if tag == content.tag %}
-                  {%- include home-project-title.html -%}
-                {% endif %}
-              {% endfor %}
-            </ul>
-          </div>
-          {% endfor %}
-          <div>
-            <h2 class="tag small tag-exhibition">exhibitions</h2>
-            <ul>
-              {% for tag in exhibitions %}
-              {% for content in sortedcontent %}
-                {% if tag == content.tag %}
-                  {%- include home-project-title.html -%}
-                {% endif %}
-              {% endfor %}
-              {% endfor %}
-            </ul>
-          </div>
-          <div>
-            <h2 class="tag small tag-residency">residencies</h2>
-            <ul>
-              {% for tag in residencies %}
-              {% for content in sortedcontent %}
-                {% if tag == content.tag %}
-                  {%- include home-project-title.html -%}
-                {% endif %}
-              {% endfor %}
-              {% endfor %}
-            </ul>
-          </div>
-          <div>
-            <h2 class="tag small tag-text">texts</h2>
-            <ul>
-              {% for tag in text %}
-              {% for content in sortedcontent %}
-                {% if tag == content.tag %}
-                  {%- include home-project-title.html -%}
-                {% endif %}
-              {% endfor %}
-              {% endfor %}
-            </ul>
-          </div>
-          <div>
-            <h2 class="tag small tag-publication">publications</h2>
-            <ul>
-              {% for tag in publications %}
-              {% for content in sortedcontent %}
-                {% if tag == content.tag %}
-                  {%- include home-project-title.html -%}
-                {% endif %}
-              {% endfor %}
-              {% endfor %}
-            </ul>
-          </div>
-          <div>
-            <h2 class="tag small tag-press">press</h2>
-            <ul>
-              {% for tag in press %}
-              {% for content in sortedcontent %}
-                {% if tag == content.tag %}
-                  {%- include home-project-title.html -%}
-                {% endif %}
-              {% endfor %}
-              {% endfor %}
-            </ul>
-          </div>
+              <div>
+                <span class="timeline-meta" id="exhibitions">exhibitions</span>
+                <ul>
+                  {% for tag in exhibitions %}
+                  {% for content in sortedcontent %}
+                    {% if tag == content.tag %}
+                      {%- include home2-project-title.html -%}
+                    {% endif %}
+                  {% endfor %}
+                  {% endfor %}
+                </ul>
+              </div>
+              <div>
+                <span class="timeline-meta" id="residencies">residencies</span>
+                <ul>
+                  {% for tag in residencies %}
+                  {% for content in sortedcontent %}
+                    {% if tag == content.tag %}
+                      {%- include home2-project-title.html -%}
+                    {% endif %}
+                  {% endfor %}
+                  {% endfor %}
+                </ul>
+              </div>
+              <div>
+                <span class="timeline-meta id="texts"">texts</span>
+                <ul>
+                  {% for tag in text %}
+                  {% for content in sortedcontent %}
+                    {% if tag == content.tag %}
+                      {%- include home2-project-title.html -%}
+                    {% endif %}
+                  {% endfor %}
+                  {% endfor %}
+                </ul>
+              </div>
+              <div>
+                <span class="timeline-meta" id="publications">publications</span>
+                <ul>
+                  {% for tag in publications %}
+                  {% for content in sortedcontent %}
+                    {% if tag == content.tag %}
+                      {%- include home2-project-title.html -%}
+                    {% endif %}
+                  {% endfor %}
+                  {% endfor %}
+                </ul>
+              </div>
+              <div>
+                <span class="timeline-meta" id="press">press</span>
+                <ul>
+                  {% for tag in press %}
+                  {% for content in sortedcontent %}
+                    {% if tag == content.tag %}
+                      {%- include home2-project-title.html -%}
+                    {% endif %}
+                  {% endfor %}
+                  {% endfor %}
+                </ul>
+              </div>
+            </div>
+            <!-- GENRE ENDS -->
         </div>
       </div>
       {%- include footer.html -%}
+
+      {% assign sortedcontent2 = site.content | sort: 'pubdate' | reverse %}
+      <div class="all-projects hide">
+        {% for content in sortedcontent2 %}
+          {%- include home2-project-title.html -%}
+        {% endfor %}
+      </div>
     </main>
   </body>
 

@@ -5,6 +5,7 @@ header {
   right: 0;
   padding-top: $gutter;
   padding-bottom: $gutter;
+  pointer-events: none;
 
   a {
     color: $color-warm-dark;
@@ -13,8 +14,10 @@ header {
   .header-content {
     @extend .r;
     align-items: center;
+    pointer-events: none;
   }
   .site-title {
+    pointer-events: auto;
     > div {
       position: absolute;
       top: -$gutter;
@@ -44,6 +47,9 @@ header {
       &:not(:last-child) {
         margin-right: $s-m;
       }
+    }
+    a {
+      pointer-events: auto;
     }
   }
 

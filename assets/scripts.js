@@ -35,12 +35,18 @@ function makeTimeline(){
     $(".by-year").append(
       "<div><span class='timeline-meta'>" + v + "</span><ul data-year=" + v + "></ul></div>"
     );
+    // $(".site-dates").append(
+    //   "<h2 class='tag small tag-year'>" + v + "</h2>"
+    // );
   });
+
+  /*
   $.each(uniqueGenres, function(i, v) {
     $(".by-genre").append(
       "<div><span class='timeline-meta'>" + v + "</span><ul data-genre=" + v + "></ul></div>"
     );
   });
+  */
 
   $(".all-projects .project-year-genre").each(function() {
     var y = $(this).data("year");
@@ -49,9 +55,9 @@ function makeTimeline(){
     $(this)
       .clone()
       .appendTo("ul[data-year=" + y + "]");
-    $(this)
-      .clone()
-      .appendTo("ul[data-genre=" + g + "]");
+    // $(this)
+    //   .clone()
+    //   .appendTo("ul[data-genre=" + g + "]");
 
     // if ( $(".by-genre ul[data-genre='" + g + "'] .project-year-genre[data-project='" + p + "']" ).length == 0 ) {
     //   $(this)
@@ -60,13 +66,14 @@ function makeTimeline(){
     // }
   });
 
-  $(".switcher-year").on("click", function(e) {
+  $(".site-dates .tag").on("click", function(e) {
     e.preventDefault();
     $(".by-year").addClass("active");
     $(".by-genre").removeClass("active");
+    $(".timeline.vertical").scrollTop(0);
   });
-  $(".switcher-genre").on("click", function(e) {
-    e.preventDefault();
+  $(".site-genres .tag").on("click", function(e) {
+    // e.preventDefault();
     $(".by-genre").addClass("active");
     $(".by-year").removeClass("active");
   });
@@ -74,7 +81,7 @@ function makeTimeline(){
   sizeTimeline();
 }
 function sizeTimeline(){
-  if($(".timeline").hasClass("horizontal")){    
+  if($(".timeline").hasClass("horizontal")){
     $(".by-year div, .by-genre div").each(function(){
       var w = $(this).find('ul')[0].scrollWidth;
       $(this).width(w);

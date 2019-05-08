@@ -56,7 +56,8 @@
   padding: $s-s $s-m;
   margin: 0 $s-s $s-s 0;
   background-color: $color-warm;
-  color: $color-ink;
+  color: $color-ink !important;
+  text-decoration: none !important;
   @include small-caps;
   font-size: $font-size-small;
   font-weight: 700;

@@ -4,6 +4,7 @@ footer {
   color: $color-ink;
   font-size: $font-size-small;
   letter-spacing: 0.05em;
+  pointer-events: none;
 
   div {
     @extend .c;
@@ -11,10 +12,13 @@ footer {
     padding-left: calc(16.6666666667% + 16px);
 
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-start;
   }
-
+  span {
+    margin-right: $gutter;
+  }
   a {
     color: $color-ink;
+    pointer-events: auto;
   }
 }

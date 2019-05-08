@@ -62,6 +62,10 @@
     }
   }
   footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
     color: $color-warm;
     div {
       padding-left: 8.3333333333%;
