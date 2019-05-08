@@ -241,6 +241,8 @@ Regularly conducting drawing and painting workshops as part of various NGO activ
 
 ## Other work Experience
 
+2017 _Program Manager,_ Museum of Impossible Forms, Helsinki
+
 _Founder Member,_  Museum of Impossible Forms, Helsinki, 2016 – present
 
 _Member,_ Third Space Collective, Helsinki, 2016 ­– 2017
@@ -249,26 +251,26 @@ _Founder Member,_ D/func.t Collective, Helsinki, 2016 ­– present
 
 _Communication Assistant,_ Visual Culture and Contemporary Art (ViCCA), Aalto University, Helsinki, 2016 – 2017
 
-_Post Production_ and _animation,_ **_Arab Strings_**, a performance video by artist Jowan Safadi (Palestine), 2016
+_Post Production_ and _animation,_ _**Arab Strings**_, a performance video by artist Jowan Safadi (Palestine), 2016
 
 _Post Production_, ‘#7: Greed’ short film, 2015
 
-_Co-conceived and Head of Post Production,_ _**Relics of Eden**_, a short fictional film by COMPOSITE Films, 2014 ­
+_Co-conceived and Head of Post Production,_ **_Relics of Eden_**, a short fictional film by COMPOSITE Films, 2014 ­
 
-_Head of Post Production_, **_What a Wonderful World_**, an independently produced post-apocalyptic themed experimental video, 2014
+_Head of Post Production_, _**What a Wonderful World**_, an independently produced post-apocalyptic themed experimental video, 2014
 
 _Freelance Artist and Character Designer, **TUMBAD**_, feature-length live-action film produced by Recyclewala Films, 2013 ­– 2014
 
-_Consulting head of Post Production and freelance Artist,_ for **_various Digital content projects_** by COMPOSITE Films(QuickHeal Antivirus, La15 Patisserie, Fizzy foods, and KNM Airlines), 2012 – 2016
+_Consulting head of Post Production and freelance Artist,_ for _**various Digital content projects**_ by COMPOSITE Films(QuickHeal Antivirus, La15 Patisserie, Fizzy foods, and KNM Airlines), 2012 – 2016
 
-_Creative Director and Head of Post Production,_ _**Luminous Matter**_, a stop-motion animated short film by COMPOSITE Films, 2011 – 2013
+_Creative Director and Head of Post Production,_ **_Luminous Matter_**, a stop-motion animated short film by COMPOSITE Films, 2011 – 2013
 
 > Screened at Austria Film Festival 2013, Jaipur Film Festival, 2013, Leeds Film Festival, 2012, DIGICON Tokyo, 2012, FICCI Frames, Mumbai 2012
 
-_Co ­­­­­– ­founder, Lead Animator and artist,_ _**Mareech Animated Design**_, an animation studio specializing in 3D animation and Visual Effects for Film and Television, 2002 – 2007
+_Co ­­­­­– ­founder, Lead Animator and artist,_ **_Mareech Animated Design_**, an animation studio specializing in 3D animation and Visual Effects for Film and Television, 2002 – 2007
 
-Co-written and performed, **_Aham: What’s going on?_**, a full-length play performed at Prithvi Theatre, Mumbai, 2004 – 2006
+Co-written and performed, _**Aham: What’s going on?**_, a full-length play performed at Prithvi Theatre, Mumbai, 2004 – 2006
 
 Graduated from Sir J.J. School of (Fine) Art, 2005
 
-Directed and edited, _**Untitled**_, a documentary short film on Sir J.J. School of Art, 2004
+Directed and edited, **_Untitled_**, a documentary short film on Sir J.J. School of Art, 2004
