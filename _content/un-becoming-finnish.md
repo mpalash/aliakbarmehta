@@ -1,7 +1,7 @@
 ---
 title: (Un)Becoming Finnish
 layout: content
-tag: artwork
+tag: individual work
 pubdate: '2016'
 children:
   - 'unbecoming ~ Space Invaders IV: Heterotopia'

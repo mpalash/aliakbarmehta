@@ -8,4 +8,6 @@ hero: /assets/img/logo_outsiders-at-work.jpg
 children:
   - 'Outsider ~ All Ears are Equal: Shaping Knowledge through Sound'
 ---
-[Outsiders at Work](https://outsidersatwork.wordpress.com/) is an archive of interviews of people from a diverse spectrum of fields. The interviews discover new vocabulary and perspectives through curiosity, courage, and a willingness to share.
+[OUTSIDERS AR WORK](https://outsidersatwork.wordpress.com/) is an archive of interviews of people. The interviews discover new vocabulary and perspectives through curiosity, courage, and a willingness to share.
+
+**OUTSIDERS AT WORK** is an archive of interviews updated monthly.  The website publishes an interview, portrait and images of work of people from diverse fields. Through the interviews conducted in person, we discover new vocabulary and perspectives. **OUTSIDERS AT WORK** was founded in 2019 by Vidha Saumya and Ali Akbar Mehta.
