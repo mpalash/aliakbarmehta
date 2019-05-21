@@ -1,7 +1,7 @@
 ---
 title: direct contact // feedback
 layout: content
-tag: ongoing project
+tag: performance
 pubdate: '2019'
 children: []
 ---
