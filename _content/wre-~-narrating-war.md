@@ -4,8 +4,6 @@ layout: content
 tag: text
 pubdate: '2016'
 summary: >-
-  *This is a dynamic list and may never be able to satisfy particular
-  standards for completeness.
 
   Violence & the culture it consumes/perpetuates is a fundamental condition
   lodged in the core of human experience. It is simultaneously private, public,
@@ -16,12 +14,12 @@ summary: >-
   War tears, rends. War rips open, eviscerates. War scorches. War dismembers.
   War ruins. War is actually Hell.
 
-
   To make visible this phenomena, I began research in 2014 to compile a timeline
   of _‘every war, battle, revolt, revolution, siege, sacking, rebellion, bombing
   & insurgency’,_ from 3000 BC to the present. This ongoing timeline/database is
   the foundation of the project, and forms the key ‘script’ for an ongoing
   multimedia performance-reading of this list, titled ‘**Narrating War**’.
+
 parent: 'WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs'
 ---
 As an endurance performance designed to last for hours & often days conducted in sites of violence, and sites of knowledge production, the act of reading, almost like a litany, is imagined as an act of mourning, of remembrance, & deterrence from continued violence & conflict: only when we are confronted with war in its entirety as a whole, as a continuous, singular event encompassing 5018 years, is there a possibility to be jolted out of our stupor & shed our complacence.

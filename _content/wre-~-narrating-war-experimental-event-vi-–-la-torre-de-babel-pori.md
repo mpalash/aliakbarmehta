@@ -8,6 +8,6 @@ tag: performance
 pubdate: '2018'
 parent: 'WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs'
 ---
-![](/assets/img/ali-akbar-mehta_narratng-war_experimental-event-iv_2018.jpg)
+![performance view, Pori Film Festival, Pori, photo by Anna Jensen](/assets/img/ali-akbar-mehta_narratng-war_experimental-event-iv_2018.jpg)
 
 See a live stream of the performance [here](https://www.facebook.com/aliakbarmehta/videos/10161149738290054/)

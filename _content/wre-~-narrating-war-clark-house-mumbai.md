@@ -5,8 +5,8 @@ tag: performance
 pubdate: '2017'
 parent: 'WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs'
 ---
-![null](/assets/img/ali-akbar-mehta-narrating-war-03-clark-house-2017.jpg)
-![](/assets/img/ali-akbar-mehta-narrating-war-01-clark-house-2017.jpg)
+![performance view, Clark House Initative, Mumbai](/assets/img/ali-akbar-mehta-narrating-war-03-clark-house-2017.jpg)
+![performance view, Clark House Initative, Mumbai](/assets/img/ali-akbar-mehta-narrating-war-01-clark-house-2017.jpg)
 
 
 
