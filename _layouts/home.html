@@ -11,10 +11,18 @@
       {% assign about = site.documents | where: "slug", "about" | first %}
       <div class="r timeline-wrapper">
         <div class="c c-4 p-1">
-          <div class="site-intro">
+          <div class="site-intro" data-title="about">
             <h1 class="site-title">{{ site.title }}</h1>
+
+              <div class="summary">{{ about.summary | markdownify }}</div>
+              <div class="full-content">{{ about.content }}</div>
+              <a href="#" class="toggle-section" data-title="about">
+                <span class="more"></span>
+                <span class="less" style="display: none;"></span>
+              </a>
             <!-- <p class="sub-site-title"></p> -->
-            {{about.content}}
+            <!-- {{ about.summary }}
+            {{ about.content }} -->
           </div>
           <div class="site-genres">
             <a class="tag small tag-project" href="#projects">projects</a>

@@ -4,6 +4,7 @@ var uniqueGenres = ["artwork","group-exhibition","individual-work","ongoing-proj
 $(function() {
   if($('.page-content').hasClass('home')){
     makeTimeline();
+    toggleContent();
   } else {
     toggleContent();
     fixVids();
@@ -95,7 +96,9 @@ function toggleContent(){
   $('a.toggle-section').on('click',function(e){
     e.preventDefault();
     var title = $(this).data('title');
-    $('.section-content[data-title=' + title + '] .full-content, .toggle-section[data-title=' + title + '] .more, .toggle-section[data-title=' + title + '] .less').toggle();
+
+    $(this).find('span').toggle();
+    $('.section-content[data-title=' + title + '] .full-content, .site-intro[data-title=' + title + '] .full-content').toggle();
   });
 }
 function makeGallery(){
