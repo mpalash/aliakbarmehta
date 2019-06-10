@@ -9,6 +9,38 @@ $(function() {
     fixVids();
     makeGallery();
   }
+
+  // Lightbox
+  var screenWidth = $(document).width();
+  if(screenWidth < 800) {
+    var myLB = new jBox('Image', {
+      adjustDistance: 40,
+      blockScroll: true,
+      reposition: false,
+      overlay: true,
+      closeOnEsc: true,
+      closeOnClick: 'overlay',
+      closeButton: 'overlay',
+      src: 'src',
+      imageLabel: 'alt',
+      imageSize: '100% auto',
+      imageCounter: false
+    });
+  } else {
+    var myLB = new jBox('Image', {
+      adjustDistance: 80,
+      blockScroll: true,
+      reposition: false,
+      overlay: true,
+      closeOnEsc: true,
+      closeOnClick: 'overlay',
+      closeButton: 'overlay',
+      src: 'src',
+      imageLabel: 'alt',
+      imageSize: 'auto 90%',
+      imageCounter: false
+    });
+  }
 });
 
 function makeTimeline(){
@@ -22,7 +54,6 @@ function makeTimeline(){
     var y = $(this).data("year");
     var g = $(this).data("genre");
     var p = $(this).data("project");
-    console.log(y);
     $(this)
       .clone()
       .appendTo("ul[data-year=" + y + "]");
@@ -52,42 +83,6 @@ function makeTimeline(){
   });
 }
 
-// GALLERY
-$(document).ready(function() {
-    var screenWidth = $(document).width();
-    if(screenWidth < 800) {
-      var myLB = new jBox('Image', {
-        adjustDistance: 40,
-        blockScroll: true,
-        reposition: false,
-        overlay: true,
-        closeOnEsc: true,
-        closeOnClick: 'overlay',
-        closeButton: 'overlay',
-        src: 'src',
-        imageLabel: 'alt',
-        imageSize: '100% auto',
-        imageCounter: false
-      });
-    } else {
-      var myLB = new jBox('Image', {
-        adjustDistance: 80,
-        blockScroll: true,
-        reposition: false,
-        overlay: true,
-        closeOnEsc: true,
-        closeOnClick: 'overlay',
-        closeButton: 'overlay',
-        src: 'src',
-        imageLabel: 'alt',
-        imageSize: 'auto 90%',
-        imageCounter: false
-      });
-    }
-});
-
-
-// FUNCTIONS
 function sizeTimeline(){
   if($(".timeline").hasClass("horizontal")){
     $(".by-year div, .by-genre div").each(function(){
@@ -95,10 +90,6 @@ function sizeTimeline(){
       $(this).width(w);
     })
   }
-}
-function offsetContent(){
-  var titleHeight = $('h1.project-title').outerHeight(true);
-  $('section.intro').css('margin-top', titleHeight);
 }
 function toggleContent(){
   $('a.toggle-section').on('click',function(e){

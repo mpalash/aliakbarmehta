@@ -2,7 +2,7 @@
 title: direct contact // feedback
 layout: content
 tag: performance
-pubdate: '2019-05-01'
+pubdate: '2019'
 children: []
 ---
 ![Vidha Saumya, “Main radical roti hoon/ I am a radical roti”, 2018](/assets/img/vidha-saumya_image-for-direct-contact_radical-roti_2018.png "Vidha Saumya, “Main radical roti hoon/ I am a radical roti”, 2018")

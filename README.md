@@ -1,5 +1,3 @@
-USE FOR LOOP FOR YEARS INSTEAD OF COMPLICATED JS
-
 To do:
 - Months and days in pubdate for all content
 - Fix JS for date sort
