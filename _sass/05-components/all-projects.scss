@@ -23,6 +23,11 @@
 .switcher-year:before { content: fa-content($fa-var-hourglass-start); }
 .switcher-genre:before { content: fa-content($fa-var-filter); }
 
+.timeline-wrapper {
+  @media screen and (max-width: 800px) {
+    flex-direction: column;
+  }
+}
 .timeline {
   .timeline-meta {
     display: inline-block;
@@ -150,6 +155,9 @@
     }
     & > div:first-child {
       margin-top: $gutter*7;
+    }
+    & > div:last-child {
+      margin-bottom: $gutter*7;
     }
   }
   .timeline-meta {

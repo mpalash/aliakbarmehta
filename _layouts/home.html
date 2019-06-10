@@ -9,7 +9,7 @@
     <main class="page-content home r" aria-label="Content">
       {%- include header.html -%}
       {% assign about = site.documents | where: "slug", "about" | first %}
-      <div class="r">
+      <div class="r timeline-wrapper">
         <div class="c c-4 p-1">
           <div class="site-intro">
             <h1 class="site-title">{{ site.title }}</h1>
@@ -29,7 +29,7 @@
             <a class="tag small tag-dates" href="#"><span>timeline</span></a>
           </div>
         </div>
-        <div class="c c-6 timeline vertical">
+        <div class="c c-6 p-1 timeline vertical">
           <div class="by-year"></div>
           <div class="by-genre">
             {% assign projects = 'ongoing project,past project,individual work' | split: ',' %}

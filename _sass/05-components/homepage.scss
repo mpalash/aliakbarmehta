@@ -19,6 +19,11 @@
     // max-height: 560px;
     // overflow: scroll;
   }
+  .site-genres {
+    .tag {
+      margin: 0 $s-b $s-b 0;
+    }
+  }
   .header-content {
     justify-content: flex-end;
   }
