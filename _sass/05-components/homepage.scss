@@ -1,6 +1,6 @@
 .home {
   @include txt;
-  background-color: $color-warm-dark;
+  background-color: $color-warm-darker;
   color: $color-warm-light;
 
   display: flex;
@@ -18,6 +18,9 @@
     padding-top: $s-l;
     // max-height: 560px;
     // overflow: scroll;
+    a {
+      color: $color-link;
+    }
   }
   .site-genres {
     margin-top: $s-xl;

@@ -1,9 +1,10 @@
 USE FOR LOOP FOR YEARS INSTEAD OF COMPLICATED JS
 
-To migrate:
-Months and days in pubdate for all content
-Fix JS for date sort
-Scrolling body should scroll the timeline
+To do:
+- Months and days in pubdate for all content
+- Fix JS for date sort
+- Scrolling body should scroll the timeline
+- Link hover treatment
 
 [![](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/netlify/netlifycms)
 
