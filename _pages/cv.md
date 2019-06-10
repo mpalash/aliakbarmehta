@@ -9,9 +9,9 @@ permalink: /curriculum-vitae/
 
 [www.aliakbarmehta.com](www.aliakbarmehta.com)
 
-Ali Akbar Mehta is a Trans-media artist. Through his research-based transmedia practice, he creates immersive cyber archives that explore collective memetic history, narratives of memory, identity, violence, and conflict. He is a founder-member and current Artistic Director of [Museum of Impossible Forms](www.museumofimpossibleforms.org), Helsinki. He is also currently working as the Artistic Producer at [mcult Media Residency](https://www.m-cult.org/), Helsinki.
+Ali Akbar Mehta is a Trans-media artist. Through his research-based transmedia practice, he creates immersive cyber archives that explore collective memetic history, narratives of memory, identity, violence, and conflict. He is a founder-member and current Artistic Director of [Museum of Impossible Forms](www.museumofimpossibleforms.org), Helsinki, and as the Artistic Producer at [mcult Media Residency](https://www.m-cult.org/), Helsinki. He is also pursuing a Doctoral Research program at the Contemporary Art Department at [Aalto University](https://www.aalto.fi/), Helsinki.
 
-He has exhibited his projects in galleries and alternate spaces in Mumbai, New Delhi, Pune, Helsinki, Tampere, Pori, Venice, Nova Goriza, and Vilnius. He holds a BFA in Drawing and Painting from [Sir J.J. School of Art,](http://www.sirjjschoolofart.in/) Mumbai, and an MA in Visual Culture, Curating, and Contemporary Art from [Aalto University](https://www.aalto.fi/), Helsinki, Finland, where he completed a thesis text titled ‘Cyber Archive: Being and Doing Knowledge’. Some of his ongoing projects are ‘256 Million Colours of Violence’, ‘Contemporary Ruins of Kruunuvuori’, ‘War Room Echo – Regarding the pain of Other Cyborgs’, ‘New Frontiers: Critical enquiries for archives as Artistic Praxis’, and ‘Non-Alignment as Resistance: Towards Cyber Archives as counter-hegemonic practice’. He lives and works in Helsinki and Mumbai.
+He has exhibited his projects in galleries and alternate spaces in Mumbai, New Delhi, Pune, Helsinki, Tampere, Pori, Venice, Nova Goriza, and Vilnius. He holds a BFA in Drawing and Painting from [Sir J.J. School of Art,](http://www.sirjjschoolofart.in/) Mumbai, and an MA in Visual Culture, Curating, and Contemporary Art from Aalto University, Helsinki, Finland, where he completed a thesis text titled ‘Cyber Archive: Being and Doing Knowledge’. Some of his ongoing projects are ‘256 Million Colours of Violence’, ‘Contemporary Ruins of Kruunuvuori’, ‘War Room Echo – Regarding the pain of Other Cyborgs’, ‘New Frontiers: Critical enquiries for archives as Artistic Praxis’, and ‘Non-Alignment as Resistance: Towards Cyber Archives as counter-hegemonic practice’. He lives and works in Helsinki and Mumbai.
 
 ## \*
 
@@ -271,12 +271,12 @@ _2014: Head of Post Production_, _**What a Wonderful World**_, an independently 
 
 2011 – 2013: _Creative Director and Head of Post Production,_ **_Luminous Matter_**, a stop-motion animated short film by COMPOSITE Films
 
-> Screened at: 
+> Screened at:
 >
-> * Austria Film Festival 2013 
-> * Jaipur Film Festival, 2013 
-> * Leeds Film Festival, 2012 
-> * DIGICON Tokyo, 2012 
+> * Austria Film Festival 2013
+> * Jaipur Film Festival, 2013
+> * Leeds Film Festival, 2012
+> * DIGICON Tokyo, 2012
 > * FICCI Frames, Mumbai 2012
 
 2002 – 2007: _Co ­­­­­– ­founder, Lead Animator and artist,_ **_Mareech Animated Design_**, an animation studio specializing in 3D animation and Visual Effects for Film and Television
