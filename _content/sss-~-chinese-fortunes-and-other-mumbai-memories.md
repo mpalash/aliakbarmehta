@@ -1,5 +1,5 @@
 ---
-title: sss ~ Chinese fortunes and other Mumbai memories
+title: sss ~ Chinese Fortunes and other Mumbai Memories
 subtitle: 'Mid-Day, 2015'
 layout: content
 tag: press
