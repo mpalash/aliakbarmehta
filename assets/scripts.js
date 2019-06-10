@@ -1,11 +1,3 @@
-Array.prototype.unique = function() {
-  return this.filter(function(value, index, self) {
-    return self.indexOf(value) === index;
-  });
-};
-
-var years = [];
-var genres = [];
 var uniqueYears = [2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2007, 2004];
 var uniqueGenres = ["artwork","group-exhibition","individual-work","ongoing-project","past-project","performance","press","publication","residency","resource","solo-exhibition","talk","text","video"];
 
@@ -20,28 +12,11 @@ $(function() {
 });
 
 function makeTimeline(){
-  // $(".all-projects .project-year-genre").each(function() {
-  //   years.push($(this).data("year"));
-  //   genres.push($(this).data("genre"));
-  // });
-  // uniqueYears = years
-  //   .unique()
-  //   .sort()
-  //   .reverse();
-  // uniqueGenres = genres.unique().sort();
-  // console.log(uniqueYears, uniqueGenres);
-
   $.each(uniqueYears, function(i, v) {
     $(".by-year").append(
       "<div><span class='timeline-meta'>" + v + "</span><ul data-year=" + v + "></ul></div>"
     );
   });
-
-  // $.each(uniqueGenres, function(i, v) {
-  //   $(".by-genre").append(
-  //     "<div><span class='timeline-meta'>" + v + "</span><ul data-genre=" + v + "></ul></div>"
-  //   );
-  // });
 
   $(".all-projects .project-year-genre").each(function() {
     var y = $(this).data("year");
@@ -51,16 +26,6 @@ function makeTimeline(){
     $(this)
       .clone()
       .appendTo("ul[data-year=" + y + "]");
-    // $(this)
-    //   .clone()
-    //   .appendTo("ul[data-genre=" + g + "]");
-
-    // if ( $(".by-genre ul[data-genre='" + g + "'] .project-year-genre[data-project='" + p + "']" ).length == 0 ) {
-    //   $(this)
-    //     .clone()
-    //     .appendTo("ul[data-genre=" + g + "]");
-    //
-
     $(".by-year").addClass('active');
   });
 
@@ -87,6 +52,7 @@ function makeTimeline(){
   });
 }
 
+// GALLERY
 $(document).ready(function() {
     var screenWidth = $(document).width();
     if(screenWidth < 800) {
@@ -121,6 +87,7 @@ $(document).ready(function() {
 });
 
 
+// FUNCTIONS
 function sizeTimeline(){
   if($(".timeline").hasClass("horizontal")){
     $(".by-year div, .by-genre div").each(function(){
@@ -162,54 +129,5 @@ function makeGallery(){
         }
       }
     });
-    // $('<span class="gallery-btn left" /><span class="gallery-btn right" />').insertAfter(p);
-
-    $('.gallery-btn.right').on('click',function(e){
-      e.preventDefault();
-      var gallery = $(this).parent().find('p.img');
-      var activeLength = gallery.find('div.active').length;
-      if(activeLength > 0){
-        var active = gallery.find('div.active');
-        active.removeClass('active');
-        if(active.next().length > 0) {
-          active.next().addClass('active');
-        } else {
-          gallery.find('div:first').addClass('active');
-        }
-      } else {
-        gallery.find('div:first').next().addClass('active');
-      }
-      gallery.scrollLeft(gallery.find('div.active').position().left);
-    });
   });
 }
-
-// document.addEventListener("DOMContentLoaded", function() {
-//   var lazyloadImages = document.querySelectorAll("p img");
-//   var lazyloadThrottleTimeout;
-//
-//   function lazyload () {
-//     if(lazyloadThrottleTimeout) {
-//       clearTimeout(lazyloadThrottleTimeout);
-//     }
-//
-//     lazyloadThrottleTimeout = setTimeout(function() {
-//         var scrollTop = window.pageYOffset;
-//         lazyloadImages.forEach(function(img) {
-//             if(img.offsetTop < (window.innerHeight + scrollTop)) {
-//               img.src = img.dataset.src;
-//               img.classList.remove('lazy');
-//             }
-//         });
-//         if(lazyloadImages.length == 0) {
-//           document.removeEventListener("scroll", lazyload);
-//           window.removeEventListener("resize", lazyload);
-//           window.removeEventListener("orientationChange", lazyload);
-//         }
-//     }, 20);
-//   }
-//
-//   document.addEventListener("scroll", lazyload);
-//   window.addEventListener("resize", lazyload);
-//   window.addEventListener("orientationChange", lazyload);
-// });
