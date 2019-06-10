@@ -20,9 +20,13 @@
     // overflow: scroll;
   }
   .site-genres {
+    margin-top: $s-xl;
     .tag {
       margin: 0 $s-b $s-b 0;
     }
+  }
+  .site-dates {
+    margin-top: $s-m;
   }
   .header-content {
     justify-content: flex-end;
