@@ -1,4 +1,8 @@
-LIGHTBOX
+USE FOR LOOP FOR YEARS INSTEAD OF COMPLICATED JS
+
+To migrate:
+Months in pubdate for all content
+
 
 [![](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/netlify/netlifycms)
 

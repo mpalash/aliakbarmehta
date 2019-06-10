@@ -55,7 +55,7 @@ collections: # A list of collections the CMS should be able to edit
       - label: "Date"
         name: "pubdate"
         widget: "date"
-        format: "YYYY"
+        format: "YYYY-MM-DD"
       - label: "Hero Image"
         name: "hero"
         required: false

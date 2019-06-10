@@ -2,12 +2,12 @@
 title: direct contact // feedback
 layout: content
 tag: performance
-pubdate: '2019'
+pubdate: '2019-05-01'
 children: []
 ---
 ![Vidha Saumya, “Main radical roti hoon/ I am a radical roti”, 2018](/assets/img/vidha-saumya_image-for-direct-contact_radical-roti_2018.png "Vidha Saumya, “Main radical roti hoon/ I am a radical roti”, 2018")
 
-Through direct-contact, we stage a ‘time travel’ to Colonial India, where the chapati (a form of unleavened bread) becomes the site for agency, insurrection and community, and then move back forward in time through a history of roti, (and bread in general), which is fraught with radically charged associations: of nobility (let them eat cake), Communist equality (those who grow it, will eat it), institutionalised poverty, where workers, day-wage earners, labourers and farmers carry rotis, salt, and an onion for a ‘working lunch’, and of institutionalised capitalism, where it is preferable for food grain to be burnt than donated. 
+Through direct-contact, we stage a ‘time travel’ to Colonial India, where the chapati (a form of unleavened bread) becomes the site for agency, insurrection and community, and then move back forward in time through a history of roti, (and bread in general), which is fraught with radically charged associations: of nobility (let them eat cake), Communist equality (those who grow it, will eat it), institutionalised poverty, where workers, day-wage earners, labourers and farmers carry rotis, salt, and an onion for a ‘working lunch’, and of institutionalised capitalism, where it is preferable for food grain to be burnt than donated.
 
 With this radically round low-tech weapon, this imperfect tool, how can we strategically engage with and resist the socio-political of the neo-liberal, xenophobic, and far-right positions of today?
 
@@ -27,7 +27,7 @@ The work will be in the form of a participatory performance installation, where 
 
 **The Chapati Revolution of 1857**
 
-> “It is at the point of the omen’s obscurity, not in the order of the symbol but in the temporal break of the sign that the interrogative che vuoi of agency emerges: What is the vertiginous chapati saying to me? The “indeterminate” circulation of meaning as rumor or conspiracy, with its perverse, psychic affects of panic constitutes the intersubjective realm of revolt and resistance. What kind of agency is constituted in the circulation of the chapati? \[…] It is at the enunciative level that the humble chapati circulates both a panic of knowledge and power. The great spreading fear, more dangerous than anger, is equivocal, circulating wildly on both sides. It spreads beyond the knowledge of ethnic or cultural binarisms and becomes a new, hybrid space of cultural difference in the negotiation of colonial power-relations.” \[1] 
+> “It is at the point of the omen’s obscurity, not in the order of the symbol but in the temporal break of the sign that the interrogative che vuoi of agency emerges: What is the vertiginous chapati saying to me? The “indeterminate” circulation of meaning as rumor or conspiracy, with its perverse, psychic affects of panic constitutes the intersubjective realm of revolt and resistance. What kind of agency is constituted in the circulation of the chapati? \[…] It is at the enunciative level that the humble chapati circulates both a panic of knowledge and power. The great spreading fear, more dangerous than anger, is equivocal, circulating wildly on both sides. It spreads beyond the knowledge of ethnic or cultural binarisms and becomes a new, hybrid space of cultural difference in the negotiation of colonial power-relations.” \[1]
 
 <https://en.wikipedia.org/wiki/Chapati_Movement?fbclid=IwAR2fpUqM89DBjbo-iN7wyL1n_Mi073fXFmWpqXSKBvvOw-FqzL7rOXGSxyU>
 
