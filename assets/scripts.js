@@ -6,8 +6,8 @@ Array.prototype.unique = function() {
 
 var years = [];
 var genres = [];
-var uniqueYears = [];
-var uniqueGenres = [];
+var uniqueYears = [2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2007, 2004];
+var uniqueGenres = ["artwork","group-exhibition","individual-work","ongoing-project","past-project","performance","press","publication","residency","resource","solo-exhibition","talk","text","video"];
 
 $(function() {
   if($('.page-content').hasClass('home')){
@@ -20,16 +20,16 @@ $(function() {
 });
 
 function makeTimeline(){
-  $(".all-projects .project-year-genre").each(function() {
-    years.push($(this).data("year"));
-    genres.push($(this).data("genre"));
-  });
-  uniqueYears = years
-    .unique()
-    .sort()
-    .reverse();
-  uniqueGenres = genres.unique().sort();
-  console.log(uniqueYears, uniqueGenres);
+  // $(".all-projects .project-year-genre").each(function() {
+  //   years.push($(this).data("year"));
+  //   genres.push($(this).data("genre"));
+  // });
+  // uniqueYears = years
+  //   .unique()
+  //   .sort()
+  //   .reverse();
+  // uniqueGenres = genres.unique().sort();
+  // console.log(uniqueYears, uniqueGenres);
 
   $.each(uniqueYears, function(i, v) {
     $(".by-year").append(
@@ -37,18 +37,17 @@ function makeTimeline(){
     );
   });
 
-  /*
-  $.each(uniqueGenres, function(i, v) {
-    $(".by-genre").append(
-      "<div><span class='timeline-meta'>" + v + "</span><ul data-genre=" + v + "></ul></div>"
-    );
-  });
-  */
+  // $.each(uniqueGenres, function(i, v) {
+  //   $(".by-genre").append(
+  //     "<div><span class='timeline-meta'>" + v + "</span><ul data-genre=" + v + "></ul></div>"
+  //   );
+  // });
 
   $(".all-projects .project-year-genre").each(function() {
     var y = $(this).data("year");
     var g = $(this).data("genre");
     var p = $(this).data("project");
+    console.log(y);
     $(this)
       .clone()
       .appendTo("ul[data-year=" + y + "]");
