@@ -1,0 +1,18 @@
+.container.error {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+
+  h1.error-title {
+    margin: 0 auto;
+    color: $color-warm-dark;
+    font-family: $title-font-family;
+    font-size: 7vw;
+    line-height: 1.05;
+    letter-spacing: -0.01em;
+  }
+  p.error-status {
+    font-weight: bold;
+  }
+}
