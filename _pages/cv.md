@@ -17,11 +17,11 @@ He has exhibited his projects in galleries and alternate spaces in Mumbai, New D
 
 ## Education
 
-Doctoral Studies (Contemporary Art), Aalto University, Helsinki, ongoing
+_Currently pursuing_ **Doctoral Studies** (Contemporary Art), Aalto University, Helsinki, ongoing
 
-MA (Visual Culture, Curating and Contemporary Art), Aalto University, Helsinki, 2018
+**MA** (Visual Culture, Curating and Contemporary Art), Aalto University, Helsinki, 2018
 
-BFA (Painting), Sir J.J. School of Art, Mumbai, 2005
+**BFA** (Painting), Sir J.J. School of Art, Mumbai, 2005
 
 \*
 
@@ -43,9 +43,9 @@ BFA (Painting), Sir J.J. School of Art, Mumbai, 2005
 
 ## Current Projects
 
-Outsiders at Work (www.outsidersatwork.wordpress.com)
+Outsiders at Work ([www.outsidersatwork.wordpress.com](www.outsidersatwork.wordpress.com))
 
-256 Million Colours of Violence (www.256millioncoloursofviolence.com)
+256 Million Colours of Violence ([www.256millioncoloursofviolence.com](www.256millioncoloursofviolence.com))
 
 WAR • ROOM • ECHO :: Regarding the Pain of Other Cyborgs
 
@@ -60,6 +60,8 @@ New Frontiers: Critical inquiries for archives as Artistic Praxis
 ## Performance
 
 _(upcoming)_ **Narrating War**_,_ Vilnius City Museum, Vilnius, 2019
+
+**direct-contact**//feedback, Pixelache Festival, Helsinki, 2019
 
 **Narrating War**, Experimental Event VI, curated by Anna Jensen and Andrea Coyotzi Borja, a collateral event of Pori Film Festival, Pori, 2018
 
@@ -121,7 +123,7 @@ _(upcoming)_ **Narrating War**_,_ Vilnius City Museum, Vilnius, 2019
 
 ## Select Group Exhibitions
 
-_(upcoming)_ **direct-contact**//feedback, Pixelache Festival, Helsinki, 2019
+****
 
 **No Corners**, TAO Art Gallery, Mumbai, 2018
 
