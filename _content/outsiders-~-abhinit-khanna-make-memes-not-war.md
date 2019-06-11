@@ -1,5 +1,6 @@
 ---
 title: 'Outsiders ~ Abhinit Khanna : Make Memes not War'
+subtitle: Interview by OUTSIDERS AT WORK
 layout: content
 tag: publication
 pubdate: '2019'
