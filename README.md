@@ -1,9 +1,3 @@
-To do:
-- Scrolling body should scroll the timeline
-
-Errors:
-['600:Aadhar not recognized', '601:Is your passport valid', '602:Class distinction detected', '603:Please check priviledge status', '604:Gender not supported', '605:Political failure', '606:Capital dependency', '607:Language not supported', '608:Government Shutdown']
-
 [![](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/netlify/netlifycms)
 
 # Jekyll + Netlify CMS with Netlify Identity

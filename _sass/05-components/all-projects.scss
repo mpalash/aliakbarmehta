@@ -24,6 +24,7 @@
 .switcher-genre:before { content: fa-content($fa-var-filter); }
 
 .timeline-wrapper {
+  align-items: flex-start;
   @media screen and (max-width: 800px) {
     flex-direction: column;
   }
@@ -135,8 +136,8 @@
 }
 
 .timeline.vertical {
-  height: 100vh;
-  overflow: scroll;
+  // height: 100vh;
+  // overflow: scroll;
   padding-bottom: $s-xxxl;
 
   .by-year,
