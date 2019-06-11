@@ -2,7 +2,7 @@
 title: 'Pud ~ Pudding Manifesto, Video'
 layout: content
 tag: artwork
-pubdate: '2019'
+pubdate: '2016'
 parent: Pudding Manifesto for Togetherness
 ---
 <iframe width="560" height="315"
