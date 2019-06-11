@@ -17,11 +17,11 @@ He has exhibited his projects in galleries and alternate spaces in Mumbai, New D
 
 ## Education
 
-Doctoral Studies (Contemporary Art), Aalto University, Helsinki, ongoing
+_Currently pursuing_ **Doctoral Studies** (Contemporary Art), Aalto University, Helsinki
 
-MA (Visual Culture, Curating and Contemporary Art), Aalto University, Helsinki, 2018
+**MA** (Visual Culture, Curating and Contemporary Art), Aalto University, Helsinki, 2018
 
-BFA (Painting), Sir J.J. School of Art, Mumbai, 2005
+**BFA** (Painting), Sir J.J. School of Art, Mumbai, 2005
 
 \*
 
