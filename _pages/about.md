@@ -14,4 +14,4 @@ Though my my research based practice, I attempt to understand how the narrative 
 
  I hold a Master’s Degree in ‘Visual Cultures, Curating, and Contemporary Art’ from the [Aalto University](http://vicca.fi/), Helsinki, Finland where I published the thesis titled [Cyber Archive: Being and Doing Knowledge](https://aliakbarmehta.com/content/cyber-archive); and a BFA in ‘Drawing and Painting’ from [the Sir J.J. School of Art, Mumbai](http://www.sirjjschoolofart.in/).
 
- I live and work in Helsinki.
+ I live and work across Helsinki and Mumbai.
