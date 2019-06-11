@@ -1,6 +1,6 @@
 ---
 title: 'Outsider ~ Tuike and Simo Alitalo: All Ears are Equal'
-subtitle: ''
+subtitle: Interview by OUTSIDERS AT WORK
 layout: content
 tag: publication
 pubdate: '2019'
