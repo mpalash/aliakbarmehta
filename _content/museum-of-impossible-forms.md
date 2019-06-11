@@ -2,7 +2,7 @@
 title: Museum of Impossible Forms
 layout: content
 tag: resource
-pubdate: '2019'
+pubdate: '2016'
 children:
   - 'Locating: The Museum of Impossible Forms'
   - 'Re-Musing the Museum: Part II'
