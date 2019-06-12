@@ -1,5 +1,5 @@
 ---
-title: 'wre ~ Narrating War, Carinarina, Nova Gorcia'
+title: 'wre ~ Narrating War, Carinarnica, Nova Gorcia'
 layout: content
 tag: performance
 pubdate: '2018'
