@@ -85,8 +85,8 @@ function makeTimeline(){
   $(".site-genres .tag").on("click", function(e) {
     e.preventDefault();
     var coord = $(this).data('coord');
-    $(".timeline.vertical").scrollTop(coord);
-    console.log(coord, $(".timeline.vertical").scrollTop());
+    $(window).scrollTop(coord);
+    // console.log(coord, $(window).scrollTop());
 
     $(".by-genre").addClass("active");
     $(".by-year").removeClass("active");
