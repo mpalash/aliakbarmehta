@@ -13,7 +13,7 @@ children:
   - 'wre ~ Narrating War, Clark House, Mumbai'
   - 'wre ~ Narrating War, Kaapelitehdas, Helsinki'
   - 'wre ~ Narrating War, Museum of Impossible Forms, Helsinki'
-  - 'wre ~ Narrating War, Carinarina, Nova Gorcia'
+  - 'wre ~ Narrating War, Carinarnica, Nova Gorcia'
   - 'wre ~ Narrating War, Experimental Event VI – La Torre de Babel, Pori'
   - wre ~ null.void
 ---
