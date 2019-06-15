@@ -6,13 +6,30 @@ subtitle: by Ranjit Hoskote
 layout: content
 tag: resource
 pubdate: '2018'
-summary: ''
+summary: >-
+  I find myself excited by Ali Akbar Mehta’s engagement with a world of rapidly,
+  even exponentially escalating technological, social and ecological
+  transformation – a world that has thrown up a series of ethical, aesthetic and
+  political challenges, while also obliging us to alter, sometimes radically,
+  our received definitions of individual subjectivity and ambient context (the
+  network and meshwork relationalities blur the lines between these formerly
+  distinct entities), nature and artifice (digital, virtual, augmented and
+  hybrid environments possess a compelling psychic and effectively material
+  reality, especially to a digital native, that cannot simply be dismissed as
+  unreal), body and world (nano-technologies, surveillance devices,
+  communication tools have changed our sense of where one ends and the other
+  begins), and so forth.
+
+
+  In such a world, Mehta invites us to consider the nature of the archive as a
+  resource and point of departure for art-making as well as ethical and
+  political action; the residual questions of hegemony and colonialism that
+  accompany it (who builds an archive; who has access to it; who controls the
+  annotation that accompanies the records?), and organises an inquiry into how
+  we may conceive of the archive in its expanded, rhizomatic and hyper-connected
+  avatars in cyberspace as a ‘cyber archive’.
 parent: Cyber Archive
 ---
-I find myself excited by Ali Akbar Mehta’s engagement with a world of rapidly, even exponentially escalating technological, social and ecological transformation – a world that has thrown up a series of ethical, aesthetic and political challenges, while also obliging us to alter, sometimes radically, our received definitions of individual subjectivity and ambient context (the network and meshwork relationalities blur the lines between these formerly distinct entities), nature and artifice (digital, virtual, augmented and hybrid environments possess a compelling psychic and effectively material reality, especially to a digital native, that cannot simply be dismissed as unreal), body and world (nano-technologies, surveillance devices, communication tools have changed our sense of where one ends and the other begins), and so forth.
-
-In such a world, Mehta invites us to consider the nature of the archive as a resource and point of departure for art-making as well as ethical and political action; the residual questions of hegemony and colonialism that accompany it (who builds an archive; who has access to it; who controls the annotation that accompanies the records?), and organises an inquiry into how we may conceive of the archive in its expanded, rhizomatic and hyper-connected avatars in cyberspace as a ‘cyber archive’.
-
 In a key move, Mehta invokes the trope of philology, advancing the claim that, as we go deeper into an epoch when our lifeworlds will be highly encrypted, the cyber archive will function as a language – I find myself thinking, here, of Wittgenstein’s cryptic suggestion that a language is a form of life – by means of which to negotiate and decode such a lifeworld. As a cultural theorist and curator, I find myself enthralled by this thesis, its explorations and its implications for the human subject and artistic agency in an epoch marked by a dramatic form of inter-species mutation as we all become cyborgs, organisms constituted as much by human consciousness as by technological prostheses.
 
 Thus, it seems to me that Mehta’s choice of topic and his articulation of his artistic and scientific goals, in this thesis, closely reflect his preoccupations and anxieties as an imaginative, art-making subject and as the citizen-navigator of a complex present (in his chosen phraseology, a ‘User’ of the mercurial cyber archive). Significantly, also, he does not simply surrender before the already vast and ever-increasing bibliography on the subject of the archive; rather, he defines his area of study in relation to the particularities of the artistic and theoretical ground he has mapped as relevant to himself and his location, which straddles an organic belonging in the global South and an equally strong connection in the global North.
