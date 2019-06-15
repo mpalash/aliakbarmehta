@@ -19,7 +19,7 @@ children:
     Cyber ~ To Not Wait for the Archive: Home and Labour mired in the
     complications of Invisibalisation
 ---
-Cyber archive is less of an artistic project, more of a curatorial framework: inviting the reader to consider the Archive, as a narrative, a repository, a state-tool, a fact, a fiction, both as a site and trope for artistic inquiry and art production; to define our protagonist: the User (of the Cyber Archives) as an artist/curator/archivist, a combination of a historian, researcher, performer, participant, interventionist, collaborator, urban denizen, and spy. 
+Cyber archive is a curatorial framework inviting the reader to consider the Archive, as a narrative, a repository, a state-tool, a fact, a fiction, both as a site and trope for artistic inquiry and art production; to define our protagonist: the User (of the Cyber Archives) as an artist/curator/archivist, a combination of a historian, researcher, performer, participant, interventionist, collaborator, urban denizen, and spy. 
 
 The thesis is presented as a _cyberpsychogeographical_ archive situated in and as a cluster of cyber relations, [here](https://graphcommons.com/selections/491666f1-ed4c-457e-b318-7e27a7558647). 
 
