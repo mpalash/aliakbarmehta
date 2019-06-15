@@ -3,7 +3,8 @@ title: direct contact // feedback
 layout: content
 tag: performance
 pubdate: '2019'
-children: []
+children:
+  - In Conversation with Ali Akbar Mehta
 ---
 ![Vidha Saumya, “Main radical roti hoon/ I am a radical roti”, 2018](/assets/img/vidha-saumya_image-for-direct-contact_radical-roti_2018.jpg "Vidha Saumya, “Main radical roti hoon/ I am a radical roti”, 2018")
 
