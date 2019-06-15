@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Partners
-permalink: /partners
+permalink: /partners/
 ---
 ## Organisations
 
