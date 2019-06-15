@@ -15,6 +15,7 @@ children:
   - 'Cyber ~ Cyber Archive: Archiving as a sustainable counter-hegemonic practice'
   - 'Archiving: Histories in the Present'
   - 'Congratulations, the Space is invaded: Now What?'
+  - cyber ~ Cyber Archives
   - >-
     Cyber ~ To Not Wait for the Archive: Home and Labour mired in the
     complications of Invisibalisation
