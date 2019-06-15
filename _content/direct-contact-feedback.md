@@ -3,7 +3,8 @@ title: direct contact // feedback
 layout: content
 tag: performance
 pubdate: '2019'
-children: []
+children:
+  - In Conversation with Ali Akbar Mehta
 ---
 ![Vidha Saumya, “Main radical roti hoon/ I am a radical roti”, 2018](/assets/img/vidha-saumya_image-for-direct-contact_radical-roti_2018.jpg "Vidha Saumya, “Main radical roti hoon/ I am a radical roti”, 2018")
 
@@ -25,6 +26,6 @@ The work will be in the form of a participatory performance installation, where 
 
 > “It is at the point of the omen’s obscurity, not in the order of the symbol but in the temporal break of the sign that the interrogative che vuoi of agency emerges: What is the vertiginous chapati saying to me? The “indeterminate” circulation of meaning as rumor or conspiracy, with its perverse, psychic affects of panic constitutes the intersubjective realm of revolt and resistance. What kind of agency is constituted in the circulation of the chapati? \[…] It is at the enunciative level that the humble chapati circulates both a panic of knowledge and power. The great spreading fear, more dangerous than anger, is equivocal, circulating wildly on both sides. It spreads beyond the knowledge of ethnic or cultural binarisms and becomes a new, hybrid space of cultural difference in the negotiation of colonial power-relations.” \[1]
 
-<https://en.wikipedia.org/wiki/Chapati_Movement?fbclid=IwAR2fpUqM89DBjbo-iN7wyL1n_Mi073fXFmWpqXSKBvvOw-FqzL7rOXGSxyU>
-
 \[1]   _Homi Bhabha, “In a Spirit of Calm Violence”, in Gyan Prakash (ed), After Colonialism: Imperial Histories and Postcolonial Displacements. Princeton University Press, 2001. pp. 332-336_
+
+_– cited in_ [_Chapati Revolution_](https://en.wikipedia.org/wiki/Chapati_Movement?fbclid=IwAR2fpUqM89DBjbo-iN7wyL1n_Mi073fXFmWpqXSKBvvOw-FqzL7rOXGSxyU)__
