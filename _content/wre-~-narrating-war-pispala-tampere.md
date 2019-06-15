@@ -1,32 +1,28 @@
 ---
-layout: content
 title: 'wre ~ Narrating War, Pispala, Tampere'
-parent: 'WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs'
+layout: content
 tag: performance
 pubdate: '2016'
+summary: |-
+  <iframe width="560" height="315"
+  src="https://www.youtube.com/embed/7M0vfJweVU0" frameborder="0"
+  allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+  Narrating War is ongoing multimedia performance-reading of 'War List Codex', a
+  comprehensive timeline of every ‘war, battle, revolt, revolution, siege,
+  sacking, rebellion, bombing & insurgency’, from 3000 BC to the present.
 
+  This reading took place at The Memorial of the Red Guards, on September 6,
+  2016.
+
+  The Red Gaurds died during the Finnish Civil War in Pispala, Tampere. The
+  inscription in the stone says,
+
+  > _‘On this Pispala ridge, the Red Guard in Tampere last stood with weopans in
+  > hand defending their cause in 1918’._
+parent: 'WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs'
 ---
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/7M0vfJweVU0" frameborder="0"
-allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-
-Narrating War is ongoing multimedia performance-reading of 'War List Codex', a
-comprehensive timeline of every ‘war, battle, revolt, revolution, siege,
-sacking, rebellion, bombing & insurgency’, from 3000 BC to the present.
-
-
-This reading took place at The Memorial of the Red Guards, on September 6,
-2016.
-
-
-The Red Gaurds died during the Finnish Civil War in Pispala, Tampere. The
-inscription in the stone says,
-
-
-> _‘On this Pispala ridge, the Red Guard in Tampere last stood with weopans in
-hand defending their cause in 1918’._
 
 ![Pispala Library, Tampere](/assets/img/pispala-library-03.jpg)
 
