@@ -18,3 +18,4 @@ permalink: /partners/
 3. Minna Tarkka
 4. Abhinit Khanna
 5. Andrew Fernandes
+6. Jernej Čuček Gerbec
