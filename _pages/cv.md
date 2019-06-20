@@ -1,7 +1,7 @@
 ---
 layout: cv
 title: Biography
-permalink: /cv/
+permalink: /curriculum-vitae/
 ---
 # **ALI AKBAR MEHTA**
 
