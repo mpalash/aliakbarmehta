@@ -27,7 +27,7 @@ _Currently pursuing_ **Doctoral Studies** (Contemporary Art), Aalto University, 
 
 ## Experience
 
-**Artistic Producer**, M-cult Media Residency, Helsinki, 2019
+**Artistic Producer**, m-cult Media Residency, Helsinki, 2019
 
 **Guest Lecturer**, Aalto University, Helsinki, 2018
 
