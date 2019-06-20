@@ -1,13 +1,13 @@
 ---
 layout: cv
 title: Biography
-permalink: /curriculum-vitae/
+permalink: /cv/
 ---
 # **ALI AKBAR MEHTA**
 
 (b. 1983, Mumbai, India)
 
-[www.aliakbarmehta.com](www.aliakbarmehta.com)
+
 
 Ali Akbar Mehta is a Trans-media artist. Through his research-based transmedia practice, he creates immersive cyber archives that explore collective memetic history, narratives of memory, identity, violence, and conflict. He is a founder-member and current Artistic Director of [Museum of Impossible Forms](www.museumofimpossibleforms.org), Helsinki, and the Artistic Producer at [mcult Media Residency](https://www.m-cult.org/), Helsinki. He is also pursuing a Doctoral Research program at the Contemporary Art Department at [Aalto University](https://www.aalto.fi/), Helsinki.
 
