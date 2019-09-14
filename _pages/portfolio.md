@@ -17,8 +17,6 @@ Previous Work
 * Ballad of the war that never Was, and other Basterdised Myths
 * Planktonian People
 
-
-
 ## WAR • ROOM • ECHO – Regarding the Pain of Other Cyborgs
 
 Violence and the culture it consumes/perpetuates is a fundamental condition lodged in the core of human experience. It is simultaneously private, public, self-intimating and collective. To make visible this condition, I began research in 2014 to compile a timeline of ‘every war, battle, revolt, revolution, siege, sacking, rebellion, bombing & insurgency’, from 3000 BC to the present. This timeline is the founding database of my collaborative performance-installation and research project, ‘WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs’. The title of the project refers to Susan Sontag’s seminal book, ‘Regarding the Pain of Others’, where she questions the validity of decontextualized representation of war photography.
@@ -47,8 +45,6 @@ The timeline will be translated into an ongoing multimedia performance-reading o
 
 ![](/assets/img/pispala-library-01.jpg)
 
-
-
 ‘Narrating War’ is one of the componenets of the project – the act of reading simultaneously becomes an act of mourning, remembrance and a call for action, towards change. Until now, readings have been performed across exhibitions in Mumbai, Helsinki, Tampere, Nova Goricia, and Pori. 
 
 ![](/assets/img/2.-ali-akbar-mehta_narrating-war-war-room-echo_myymala2_23.08.2019.jpg)
@@ -66,8 +62,6 @@ The timeline will be translated into an ongoing multimedia performance-reading o
 ![](/assets/img/kallio-performance.jpg)
 
 ![](/assets/img/pispala-performance-1.jpg)
-
-
 
 256 Million Colours of Violence
 
