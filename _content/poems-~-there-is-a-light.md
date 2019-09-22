@@ -217,9 +217,8 @@ The hero's death or the idiot's death
 
 Is the same
 
-_“Did you live a good life? Enough to base a movie on?"_
 
-__
+> _“Did you live a good life? Enough to base a movie on?"_
 
 > _Lights dim 40% (lighting instructions)_
 
@@ -421,9 +420,9 @@ Eyebal economy.
 
 The ‘Utopia’ is a High profile neighbourhood for the rich.
 
-_“The art crowd were profiting from the mediation of the conflict."_
 
-__
+
+> _“The art crowd were profiting from the mediation of the conflict."_
 
 > _Lights dim 60% (lighting instructions)_
 
@@ -552,7 +551,7 @@ Debris
 
 
 > _(Music genre: Celtic Heavy Metal)_
->
+
 > _Lights dim 80% (lighting instructions)_
 
 
@@ -602,5 +601,5 @@ And then it was said, “Let there be Light.”
 
 
 > _(exit)_
->
+
 > _Lights dim 100% (lighting instructions)_
