@@ -7,7 +7,7 @@ pubdate: '2010'
 ---
 **I**
 
- 
+
 
 There is a churning, a tide
 
@@ -17,7 +17,8 @@ Embrace it, or escape it,
 
 A liminal space – a crossroads of sorts.
 
-Black on charcoal gray wash
+Black on charcoal grey wash
+
 
 Speckled with dull red, white and turquoise.
 
@@ -91,7 +92,7 @@ Such is the fate of the world,
 
 Our feet will always tread on the spit of others.
 
- 
+
 
 **IV**
 

@@ -5,6 +5,7 @@ parent: Poems
 tag: text
 pubdate: '2009'
 ---
+
 Cracked mirrors and still waters
 
 A skewed reality, I step within,
@@ -46,6 +47,9 @@ Rose Gold and white.
 Phoenix flying, dying,
 
 Being reborn
+
+
+
 
 A palace of exile, vast, endless
 

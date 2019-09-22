@@ -5,6 +5,7 @@ parent: Poems
 tag: text
 pubdate: '2009'
 ---
+
 Icarus finds his wings again,
 
 The falling, now paused, becomes flying again;
@@ -12,6 +13,7 @@ The falling, now paused, becomes flying again;
 Beyond midnight, as the night turns to day,
 
 Peace, finally settles on his brow again.
+
 
 
 
