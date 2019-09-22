@@ -4,6 +4,7 @@ title: poems ~ Maurice
 parent: Poems
 tag: text
 pubdate: '2015'
+summary: ''
 ---
 I am not learned, I am not ignorant.
 

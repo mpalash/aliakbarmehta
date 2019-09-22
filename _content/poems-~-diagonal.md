@@ -4,6 +4,7 @@ title: poems ~ Diagonal
 parent: Poems
 tag: text
 pubdate: '2009'
+summary: ''
 ---
 
 A wound, cut fresh,

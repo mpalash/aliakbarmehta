@@ -4,6 +4,7 @@ title: poems ~ Dream II
 parent: Poems
 tag: text
 pubdate: '2009'
+summary: ''
 ---
 Passing a herd of flying baby pink elephants,
 

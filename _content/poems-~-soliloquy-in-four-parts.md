@@ -4,6 +4,7 @@ title: poems ~ Soliloquy in Four Parts
 parent: Poems
 tag: text
 pubdate: '2010'
+summary: ''
 ---
 **I**
 

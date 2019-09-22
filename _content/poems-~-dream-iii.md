@@ -4,6 +4,7 @@ title: poems ~ Dream III
 parent: 'Poems '
 tag: text
 pubdate: '2009'
+summary: ''
 ---
 The sun in the eyes is blinding,
 

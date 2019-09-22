@@ -4,6 +4,7 @@ title: poems ~ Transition
 parent: Poems
 tag: text
 pubdate: '2004'
+summary: ''
 ---
 The End
 

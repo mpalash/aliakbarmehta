@@ -4,6 +4,7 @@ title: poems ~ Awakening
 parent: Poems
 tag: text
 pubdate: '2004'
+summary: ''
 ---
 Throbbing –Alive.
 

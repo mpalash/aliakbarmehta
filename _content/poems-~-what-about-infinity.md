@@ -4,6 +4,7 @@ title: poems ~ What about Infinity
 parent: Poems
 tag: text
 pubdate: '2010'
+summary: ''
 ---
 
 **I**

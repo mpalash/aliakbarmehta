@@ -4,6 +4,7 @@ title: poems ~ Finding Icarus (For Tyeb Mehta)
 parent: Poems
 tag: text
 pubdate: '2009'
+summary: ''
 ---
 
 Icarus finds his wings again,

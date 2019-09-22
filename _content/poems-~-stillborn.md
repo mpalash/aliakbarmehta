@@ -4,6 +4,7 @@ title: poems ~ Stillborn
 parent: Poems
 tag: text
 pubdate: '2004'
+summary: ''
 ---
 Wrapped in a mother’s womb,
 
