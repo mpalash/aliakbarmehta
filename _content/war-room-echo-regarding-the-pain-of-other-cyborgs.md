@@ -3,7 +3,7 @@ title: 'WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs'
 layout: content
 tag: ongoing project
 pubdate: '2019'
-hero: /assets/img/pispala-performance.jpg
+hero: ''
 children:
   - 'wre ~ Foreword: Artist''s Note'
   - wre ~  Why is an archive of wars required?
