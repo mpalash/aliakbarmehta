@@ -29,7 +29,7 @@ Rather than looking at War within the usual frameworks of national or internatio
 
 The project as a performance reading tries to tell a story from which emerges an intense voyage rooted in that first war – leading to the most recent conflict, laying open the reality of it not being the last one either. To hold onto, without falling into despair – to hold onto the awareness that cultures can exist together, religions can exist together, and that we can exist together.
 
-The length of this performance varies depending on available time, and may be decided with the organizers. The performance will include a sound piece and a silent video, requiring a microphone, a projector, a sound system and speakers.
+> The length of this performance varies depending on available time, and may be decided with the organizers. The performance will include a sound piece and a silent video, requiring a microphone, a projector, a sound system and speakers.
 
 Previously, Narrating War has been performed in its evolving iterations, at:
 
