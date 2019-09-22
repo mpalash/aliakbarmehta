@@ -3,15 +3,15 @@ layout: page
 title: Portfolio
 permalink: /portfolio-2019
 ---
-# Portfolio
+## Portfolio
 
-Ongoing Projects
+#Ongoing Projects
 
 * WAR • ROOM • ECHO – Regarding the Pain of Other Cyborgs
 * 256 Million Colours of Violence
 * Discourse Series
 
-Previous Work
+#Previous Work
 
 * SITE : STAGE : STRUCTURE
 * Ballad of the war that never Was, and other Basterdised Myths
@@ -52,7 +52,7 @@ The timeline will be translated into an ongoing multimedia performance-reading o
 ![](/assets/img/kallio-performance.jpg)
 ![](/assets/img/pispala-performance-1.jpg)
 
-256 Million Colours of Violence
+##256 Million Colours of Violence
 
 ‘256 Million Colours of Violence’ is an interactive and participatory survey-based artistic project where participants become co-archivists by creating new visual vocabulary that challenges the political-religious-socio-economic quadrangle.  Through the project’s participation form (www.256millioncoloursofviolence.com) participants seek and share their subliminal associations of ‘Colour of Violence’ while simultaneously addressing complexities of gender, race, ethnicity, privilege, social class, minimum wage, and other pressing issues.
 
