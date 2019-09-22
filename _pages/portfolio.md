@@ -31,36 +31,25 @@ The timeline will be translated into an ongoing multimedia performance-reading o
 2. ‘Narrating War’ – performance-reading of the list of wars, 2015 – ongoing
 3. ‘War List Codex’ – timeline published as editions of books, 2015 – ongoing
 4. ‘War.bot’ – code based new-media installation, currently researching
-5. ‘The War is Over if You Want It’ – archival footage video 
+5. ‘The War is Over if You Want It’ – archival footage video
 6. ‘Game of War’ – animated infographic video
-7. ‘Apocalypse Now’ – interactive post-apocalyptic virtual landscape, VR experience 
+7. ‘Apocalypse Now’ – interactive post-apocalyptic virtual landscape, VR experience
 
 ![](/assets/img/ali-akbar-mehta_simulated-view-of-installation_wre-proposal.jpg)
-
 ![](/assets/img/ali-akbar-mehta_simulated-view-of-performance_wre-proposal.jpg)
-
 ![](/assets/img/ali-akbar-mehta_simulated-view-of-memorial-wall_wre-proposal.jpg)
-
 ![](/assets/img/screenshot-2019-09-14-at-18.20.09.png)
-
 ![](/assets/img/pispala-library-01.jpg)
 
-‘Narrating War’ is one of the componenets of the project – the act of reading simultaneously becomes an act of mourning, remembrance and a call for action, towards change. Until now, readings have been performed across exhibitions in Mumbai, Helsinki, Tampere, Nova Goricia, and Pori. 
+‘Narrating War’ is one of the componenets of the project – the act of reading simultaneously becomes an act of mourning, remembrance and a call for action, towards change. Until now, readings have been performed across exhibitions in Mumbai, Helsinki, Tampere, Nova Goricia, and Pori.
 
 ![](/assets/img/2.-ali-akbar-mehta_narrating-war-war-room-echo_myymala2_23.08.2019.jpg)
-
 ![](/assets/img/31189450607_7cb672417b_o.jpg)
-
 ![](/assets/img/ali-akbar-mehta_narrating-war-carinarnica-nova-goriza-2018.jpg)
-
 ![](/assets/img/img_5767.jpg)
-
 ![](/assets/img/performance.jpg)
-
 ![](/assets/img/ali-akbar-mehta-narrating-war-03-clark-house-2017.jpg)
-
 ![](/assets/img/kallio-performance.jpg)
-
 ![](/assets/img/pispala-performance-1.jpg)
 
 256 Million Colours of Violence
@@ -73,15 +62,12 @@ After having received over 250 entries since launching the website in 2016, I’
 2. A non-linear format UI for a user-friendly experience
 3. Exhibition of the project
 4. Physical gatherings forming tangible communities
-5. Printing of Publication as user manual 
+5. Printing of Publication as user manual
 6. Translation of the project into Finnish (and subsequently into other languages)
 
 The project is a timely contribution to the discourses regarding: ‘how we may think of the range of violence embedded in our own lives?’. This project can benefit anyone dealing with notions of violence and its presence within the various aspects of society, such as activists, researchers, artists, cultural theorists, students of social sciences, and general readers.
 
 ![](/assets/img/aroop-page-1.jpg)
-
 ![](/assets/img/aroop-page-2.jpg)
-
 ![](/assets/img/aroop-page-3.jpg)
-
 ![](/assets/img/aroop-page-4.png)
