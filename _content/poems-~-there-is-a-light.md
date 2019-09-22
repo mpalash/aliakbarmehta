@@ -1,13 +1,12 @@
 ---
-layout: content
 title: poems ~ There is a Light
 subtitle: (A plageurised script with hybrid inserts)
-parent: Poems
+layout: content
 tag: text
 pubdate: '2017'
+parent: Poems
 summary: ''
 ---
-
 There is a Light –
 
 The light is blue,
@@ -24,7 +23,7 @@ The traffic sounds are incoherent chaotic
 
 
 
-_\    (Music genre: punk rock)_
+> _(Music genre: punk rock)_
 
 
 
@@ -46,9 +45,9 @@ But on a solar powered scooter,
 
 Preferably yellow.
 
-__
 
-_\    Lights dim 10% (lighting instructions)_
+
+> _Lights dim 10% (lighting instructions)_
 
 
 
@@ -66,9 +65,11 @@ The Army of the Flying Baby pink Elephants Faction is real
 
 The Fiction is real
 
-\    _(Music genre: News reel muzak)_
 
-__
+
+> _(Music genre: News reel muzak)_
+
+
 
 The International Guerilla forces –
 
@@ -82,9 +83,11 @@ Uncheck new forms of resistance
 
 Checkpoint.
 
-_\    Lights dim 20% (lighting instructions)_
 
-__
+
+> _Lights dim 20% (lighting instructions)_
+
+
 
 Disadvantaged, are the
 
@@ -110,21 +113,21 @@ Checkpoint.
 
 Phone call -
 
-.... .
-
-“Moi
-
-Hei
-
-Tota
-
-No-ne
-
-Ja
-
-Ja”
-
-...
+> ....
+>
+> “Moi
+>
+> Hei
+>
+> Tota
+>
+> No-ne
+>
+> Ja
+>
+> Ja”
+>
+> ...
 
 Phone call ends.
 
@@ -140,7 +143,11 @@ Between those who say there is a war and those who say there isn’t...
 
 It is known.
 
-\    _Lights dim 30% (lighting instructions)_
+
+
+> _Lights dim 30% (lighting instructions)_
+
+
 
 Paper clip to trash the simcard.
 
@@ -210,11 +217,13 @@ The hero's death or the idiot's death
 
 Is the same
 
-_“Did you live a good life? Enough to base a movie on?”_
-
-\    _Lights dim 40% (lighting instructions)_
+_“Did you live a good life? Enough to base a movie on?"_
 
 __
+
+> _Lights dim 40% (lighting instructions)_
+
+
 
 Self organised communities and a
 
@@ -232,9 +241,11 @@ The light is Orange
 
 Orange is toxic
 
-_(Music genre: Dark psy Electronica)_
 
-__
+
+> _(Music genre: Dark psy Electronica)_
+
+
 
 Fleeing Finland
 
@@ -262,17 +273,21 @@ Explosion
 
 Debris
 
-_\    (Music genre: Ambient Dark Club)_
 
-__
+
+> _(Music genre: Ambient Dark Club)_
+
+
 
 Imagine a chase sequence
 
 Tension, Sirens – Basic parameters
 
-_\    (Music genre: Industrial electronica)_
 
-__
+
+> _(Music genre: Industrial electronica)_
+
+
 
 Bird sounds
 
@@ -308,9 +323,11 @@ Closed corridor
 
 Club music
 
-_\    (Music genre: Dark psy club)_
 
-__
+
+> _(Music genre: Dark psy club)_
+
+
 
 I dont know your name
 
@@ -336,9 +353,11 @@ Bertould brecht broke the fourth wall
 
 Where is the Feast we were promised?
 
-_\    (Music genre: Restaraunt muzak)_
 
-__
+
+> _(Music genre: Restaraunt muzak)_
+
+
 
 “I’m sorry, there is only self service here“
 
@@ -354,7 +373,11 @@ Self censor ship
 
 A Ship of Fools.
 
-_\    Lights dim 50% (lighting instructions)_
+
+
+> _Lights dim 50% (lighting instructions)_
+
+
 
 Peaceful under water
 
@@ -398,9 +421,13 @@ Eyebal economy.
 
 The ‘Utopia’ is a High profile neighbourhood for the rich.
 
-_“The art crowd were profiting from the mediation of the conflict.”_
+_“The art crowd were profiting from the mediation of the conflict."_
 
-_\    Lights dim 60% (lighting instructions)_
+__
+
+> _Lights dim 60% (lighting instructions)_
+
+
 
 Out of area placement
 
@@ -412,9 +439,11 @@ There is a time when you have to resist the commodification of the resistance
 
 Say no
 
-_\    (Music genre: Restaraunt Muzak) continues_
 
-__
+
+> _(Music genre: Restaraunt Muzak) continues_
+
+
 
 Say no
 
@@ -432,9 +461,11 @@ Say no to pigeons
 
 High up
 
-_\    Lights dim 70% (lighting instructions)_
 
-__
+
+> _Lights dim 70% (lighting instructions)_
+
+
 
 The Illusion of life is
 
@@ -486,7 +517,11 @@ There is no Sun
 
 Behind the solar panels
 
-_\    (Music genre: Saami music)_
+
+
+> _(Music genre: Saami music)_
+
+
 
 The lure of commercials
 
@@ -514,11 +549,13 @@ Explosions
 
 Debris
 
-__
 
-_\    (Music genre: Celtic Heavy Metal)_
 
-_\    Lights dim 80% (lighting instructions)_
+> _(Music genre: Celtic Heavy Metal)_
+>
+> _Lights dim 80% (lighting instructions)_
+
+
 
 Science Fiction 101:
 
@@ -536,9 +573,11 @@ In all shapes Sizes, and Colour.
 
 Clingy Unattractive Overtly aware. Different now...
 
-__
 
-_\    Lights dim 90% (lighting instructions)_
+
+> _Lights dim 90% (lighting instructions)_
+
+
 
 Imposter syndrome
 
@@ -560,6 +599,8 @@ The End of Life is not the End of Civilisation
 
 And then it was said, “Let there be Light.”
 
-_\    (exit)_
 
-_\    Lights dim 100% (lighting instructions)_
+
+> _(exit)_
+>
+> _Lights dim 100% (lighting instructions)_
