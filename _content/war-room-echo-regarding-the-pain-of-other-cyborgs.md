@@ -8,13 +8,14 @@ children:
   - 'wre ~ Foreword: Artist''s Note'
   - wre ~  Why is an archive of wars required?
   - wre ~ Narrating War
-  - 'wre ~ Narrating War, Kallio Public Library, Helsinki'
-  - 'wre ~ Narrating War, Pispala, Tampere'
-  - 'wre ~ Narrating War, Clark House, Mumbai'
-  - 'wre ~ Narrating War, Kaapelitehdas, Helsinki'
-  - 'wre ~ Narrating War, Museum of Impossible Forms, Helsinki'
-  - 'wre ~ Narrating War, Carinarnica, Nova Gorcia'
+  - 'WRE ~ Narrating WAR, Mymmälä2, Helsinki'
   - 'wre ~ Narrating War, Experimental Event VI – La Torre de Babel, Pori'
+  - 'wre ~ Narrating War, Carinarnica, Nova Gorcia'
+  - 'wre ~ Narrating War, Museum of Impossible Forms, Helsinki'
+  - 'wre ~ Narrating War, Kaapelitehdas, Helsinki'
+  - 'wre ~ Narrating War, Clark House, Mumbai'
+  - 'wre ~ Narrating War, Pispala, Tampere'
+  - 'wre ~ Narrating War, Kallio Public Library, Helsinki'
   - wre ~ null.void
 ---
 ## WAR • ROOM • ECHO: Regarding the pain of other Cyborgs
