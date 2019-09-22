@@ -1,14 +1,11 @@
 ---
 layout: content
 title: poems ~ There is a Light
+subtitle: (A plageurised script with hybrid inserts)
 parent: Poems
 tag: text
 pubdate: '2017'
-summary: (A plageurised script with hybrid inserts)
 ---
-
-
-
 
 There is a Light –
 
@@ -16,9 +13,9 @@ The light is blue,
 
 But first an instruction:
 
-“Blue is not Blue, Blue is Orange.” 
+“Blue is not Blue, Blue is Orange.”
 
-Orange is a contemporary colour 
+Orange is a contemporary colour
 
 Orange is post apocalyptic.
 
@@ -32,19 +29,19 @@ _\    (Music genre: punk rock)_
 
 News reading
 
-Alien language of authority 
+Alien language of authority
 
 Task Rabbit
 
-Through the rabbit hole 
+Through the rabbit hole
 
-Urgency - tension and diffusion 
+Urgency - tension and diffusion
 
 Scooter sounds
 
-High speed driving sequence, 
+High speed driving sequence,
 
-But on a solar powered scooter, 
+But on a solar powered scooter,
 
 Preferably yellow.
 
@@ -64,7 +61,7 @@ Curses in Finnish sound anticlimactic.
 
 News: Intercity blocks taken over –
 
-The Army of the Flying Baby pink Elephants Faction is real 
+The Army of the Flying Baby pink Elephants Faction is real
 
 The Fiction is real
 
@@ -72,15 +69,15 @@ The Fiction is real
 
 __
 
-The International Guerilla forces – 
+The International Guerilla forces –
 
-Force International luxury communism 
+Force International luxury communism
 
 Occupation Unchecked
 
 Check privelidge
 
-Uncheck new forms of resistance 
+Uncheck new forms of resistance
 
 Checkpoint.
 
@@ -90,7 +87,7 @@ __
 
 Disadvantaged, are the
 
-Needs that the state cannot cater for. 
+Needs that the state cannot cater for.
 
 Rejecting a Nationalism model
 
@@ -104,9 +101,9 @@ Eat the rich
 
 Live broadcast of the devouring.
 
-Live broadcast of the devouring 
+Live broadcast of the devouring
 
-Industrial complex known as Finland. 
+Industrial complex known as Finland.
 
 Checkpoint.
 
@@ -114,13 +111,13 @@ Phone call -
 
 .... .
 
-“Moi 
+“Moi
 
-Hei 
+Hei
 
-Tota 
+Tota
 
-No-ne 
+No-ne
 
 Ja
 
@@ -138,7 +135,7 @@ What is going on?
 
 There is a War
 
-Between those who say there is a war and those who say there isn’t... 
+Between those who say there is a war and those who say there isn’t...
 
 It is known.
 
@@ -150,11 +147,11 @@ Sims don’t need passports
 
 Invalidation
 
-Do you come from a country previously undivided? 
+Do you come from a country previously undivided?
 
 Fearing the mob
 
-The tanks enter the University. 
+The tanks enter the University.
 
 We were in love
 
@@ -164,7 +161,7 @@ The checkpoint
 
 Checkpoint Helsinki
 
-The wildfire began when the factory was shut down 
+The wildfire began when the factory was shut down
 
 Dissent
 
@@ -196,7 +193,7 @@ Change can only come through violence
 
 The power that produces a State is violence
 
-There are no safe spaces – only the Ghetto and the Gated Community 
+There are no safe spaces – only the Ghetto and the Gated Community
 
 Elimination is Brutal
 
@@ -218,15 +215,15 @@ _“Did you live a good life? Enough to base a movie on?”_
 
 __
 
-Self organised communities and a 
+Self organised communities and a
 
-Cool patch on leather jacket uniforms 
+Cool patch on leather jacket uniforms
 
 Sirens sound protest
 
 Merihaka khaki undercover
 
-The gun was kicked out of his hand 
+The gun was kicked out of his hand
 
 The gun is weaponised light
 
@@ -246,21 +243,21 @@ Calling the office
 
 Calling the studio
 
-Calling all post-fordist forms of workspaces 
+Calling all post-fordist forms of workspaces
 
-Phone is picked up by a disinterested receptionist 
+Phone is picked up by a disinterested receptionist
 
 I say, "I quit".
 
-Gun cocked 
+Gun cocked
 
-Explosion 
+Explosion
 
-Explosion 
+Explosion
 
-White noise 
+White noise
 
-Explosion 
+Explosion
 
 Debris
 
@@ -268,7 +265,7 @@ _\    (Music genre: Ambient Dark Club)_
 
 __
 
-Imagine a chase sequence 
+Imagine a chase sequence
 
 Tension, Sirens – Basic parameters
 
@@ -280,7 +277,7 @@ Bird sounds
 
 Alien pigeons
 
-Water psychedelics 
+Water psychedelics
 
 The drinking fountain Is toxic
 
@@ -292,15 +289,15 @@ also toxic
 
 Crossing Hakaniemi
 
-The Hakaniemi double cross 
+The Hakaniemi double cross
 
-The sigh ................ 
+The sigh ................
 
-Complex relations to the welfare state 
+Complex relations to the welfare state
 
 Dumping everything
 
-Travel to somewhere nice, like India 
+Travel to somewhere nice, like India
 
 Club venue
 
@@ -314,11 +311,11 @@ _\    (Music genre: Dark psy club)_
 
 __
 
-I dont know your name 
+I dont know your name
 
 “Checkpoint”.
 
-Names have power – 
+Names have power –
 
 Military control
 
@@ -330,9 +327,9 @@ I am your father
 
 Recommend a Restaraunt
 
-“Will there be singing during the dark times? 
+“Will there be singing during the dark times?
 
-Yes, there will be singing about the dark times..." 
+Yes, there will be singing about the dark times..."
 
 Bertould brecht broke the fourth wall
 
@@ -344,7 +341,7 @@ __
 
 “I’m sorry, there is only self service here“
 
-Self governing commune 
+Self governing commune
 
 Self responsibility
 
@@ -380,7 +377,7 @@ A post apocalyptic apartheid,
 
 Class distinctions
 
-Incoming policies are written, nay, injected into the system 
+Incoming policies are written, nay, injected into the system
 
 Causing the Deep Sleep.
 
@@ -404,13 +401,13 @@ _“The art crowd were profiting from the mediation of the conflict.”_
 
 _\    Lights dim 60% (lighting instructions)_
 
-Out of area placement 
+Out of area placement
 
 Starting a movement
 
 We will live online
 
-There is a time when you have to resist the commodification of the resistance 
+There is a time when you have to resist the commodification of the resistance
 
 Say no
 
@@ -422,13 +419,13 @@ Say no
 
 Say no to pigeons
 
-Say no and electrify the fences 
+Say no and electrify the fences
 
 Barricade the Doors
 
 Build the Walls
 
-And put spikes on the facades. 
+And put spikes on the facades.
 
 Say no to pigeons
 
@@ -450,13 +447,13 @@ The ballet dancer at the opera
 
 gives condescending orders
 
-Causing misinterpretation of the survival instinct 
+Causing misinterpretation of the survival instinct
 
 People with higher level of anxiety suffer from it more.
 
 We are all immortal cyborgs
 
-Cultural memory is stored in massive hardrives 
+Cultural memory is stored in massive hardrives
 
 The Archive is on the Cloud
 
@@ -470,9 +467,9 @@ Tank explosions
 
 Shopping complex in flames
 
-The museum in the mall 
+The museum in the mall
 
-Bomb the Fascist monuments 
+Bomb the Fascist monuments
 
 The Bank
 
@@ -496,23 +493,23 @@ Retail therapy
 
 Buyer's remorse
 
-The melancholy of forgetting 
+The melancholy of forgetting
 
-Projecting desire of luxury communism 
+Projecting desire of luxury communism
 
 Anticipation
 
-Rejection 
+Rejection
 
-Depression 
+Depression
 
-Seagulls 
+Seagulls
 
-Seagulls 
+Seagulls
 
-Seagulls 
+Seagulls
 
-Explosions 
+Explosions
 
 Debris
 
@@ -524,9 +521,9 @@ _\    Lights dim 80% (lighting instructions)_
 
 Science Fiction 101:
 
-Aliens unite human groups 
+Aliens unite human groups
 
-Huddle to regroup to repell 
+Huddle to regroup to repell
 
 The outsider
 
@@ -542,11 +539,11 @@ __
 
 _\    Lights dim 90% (lighting instructions)_
 
-Imposter syndrome 
+Imposter syndrome
 
-Invested Hypocrisy 
+Invested Hypocrisy
 
-Lifestyle choice 
+Lifestyle choice
 
 Those who know Know
 
@@ -554,7 +551,7 @@ That there is no Exit plan
 
 There is a Light that never goes out
 
-The End of Civilisation is not the End of the World 
+The End of Civilisation is not the End of the World
 
 The End of the World is not the End of Life
 

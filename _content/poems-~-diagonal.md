@@ -6,15 +6,6 @@ tag: text
 pubdate: '2009'
 ---
 A wound, cut fresh,
-
-
-
 A pain, now healing,
-
-
-
 Tracing the contours of body and soul
-
-
-
 The diagonal leaves its mark again.
