@@ -19,7 +19,6 @@ summary: >-
   & insurgency’,_ from 3000 BC to the present. This ongoing timeline/database is
   the foundation of the project, and forms the key ‘script’ for an ongoing
   multimedia performance-reading of this list, titled ‘**Narrating War**’.
-
 parent: 'WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs'
 ---
 As an endurance performance designed to last for hours & often days conducted in sites of violence, and sites of knowledge production, the act of reading, almost like a litany, is imagined as an act of mourning, of remembrance, & deterrence from continued violence & conflict: only when we are confronted with war in its entirety as a whole, as a continuous, singular event encompassing 5018 years, is there a possibility to be jolted out of our stupor & shed our complacence.
@@ -34,10 +33,12 @@ The length of this performance varies depending on available time, and may be de
 
 Previously, Narrating War has been performed in its evolving iterations, at:
 
-* Experimental Event IV: La Torre de Babel, curated by Anna Jensen and Andrea Coyotzi Borja, Pori, 2018
-* Museum of Impossible Forms, Helsinki, 2018;
-* TIFA Working Studios, Pune, 2018;
-* Memory of War, Kaapelitehdas, Helsinki, 2017;
-* Clark House, Mumbai, 2017
-* Where does poetry nest?, curated by Giovanna Esposito Yussif, Pispala Memorial, Tampere, 2016
-* Pan-African Space Station by Chimurenga Collective, curated by Ahmed Al Nawas, Kallio Public Library, Helsinki, 2016
+1. Relational Figures, Myymälä2, Helsinki, Finland, 2019
+2. Experimental Event IV: La Torre de Babel – curated by Anna Jensen and Andrea Coyotzi Borja, Valimo Hall of Palmgren Conservatory, Pori, Finland, 2018
+3. Carinarnica, Nova Gorica, Slovenia, 2018;
+4. Performance LAB XV – curated by Vishnu Vardhani, Museum of Impossible Forms, Helsinki, Finland, 2018;
+5. How to Participate in the Archive – curated by Vidisha Fadescha, TIFA Working Studios, Pune, India, 2018;
+6. Memory of War – curated Heidi Hänninen, Kaapelitehdas, Helsinki, 2017;
+7. Clark House, Mumbai, 2017;
+8. Where does poetry nest? – curated by Giovanna Esposito Yussif, Pispala Memorial, Tampere, 2016;
+9. Pan-African Space Station by Chimurenga Collective – curated by Ahmed Al Nawas, Kallio Public Library, Helsinki, 2016
