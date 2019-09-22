@@ -25,6 +25,6 @@ children:
 4. Cameras that automatically take photographs when triggered by the soundscape, creating a continual photographic documentation transforming the viewer into an active performer; and
 5. A memorial style installation of the War List mimicking vertical graves.
 
-![1. Simulated installation view](/assets/img/ali-akbar-mehta_simulated-view-of-performance_wre-proposal.jpg)
-![2. Simulated Installation View](/assets/img/ali-akbar-mehta_simulated-view-of-installation_wre-proposal.jpg)
-![3. Simulated view of memorial wall mimicking vertical graves](/assets/img/ali-akbar-mehta_simulated-view-of-memorial-wall_wre-proposal.jpg)
+![3D rendered visualisation for the project ‘WAR • ROOM • ECHO – Regarding the Pain of Other Cyborgs' (L to R): (i) Performer 1 reading from WAR LIST CODEX placed on table (ii) Site-specific drawing in the background that is viewable through torchlight (iii) Performer 2 typing the dictation from the WAR LIST CODEX  (iv) Typewriter rigged to a proprietary software, where each key is connected to a sound generating a soundscape based on the typed text](/assets/img/ali-akbar-mehta_simulated-view-of-performance_wre-proposal.jpg)
+![3D rendered visualisation for the project ‘WAR • ROOM • ECHO – Regarding the Pain of Other Cyborgs' – The installation is conceived to be in a 'dark room', and viewed through torchlight](/assets/img/ali-akbar-mehta_simulated-view-of-installation_wre-proposal.jpg)
+![33D rendered visualisation for the project ‘WAR • ROOM • ECHO – Regarding the Pain of Other Cyborgs' – the installation partly comprises of a memorial wall mimicking vertical graves](/assets/img/ali-akbar-mehta_simulated-view-of-memorial-wall_wre-proposal.jpg)
