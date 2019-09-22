@@ -1,13 +1,11 @@
 ---
 layout: content
 title: poems ~ Harun I (Beginnings)
+subtitle: First Words of paragraphs:
 parent: Poems
 tag: text
 pubdate: '2017'
 ---
-First Words of paragraphs:
-
-
 
 How to begin?
 

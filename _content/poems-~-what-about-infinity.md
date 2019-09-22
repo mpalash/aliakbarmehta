@@ -4,7 +4,6 @@ title: poems ~ What about Infinity
 parent: Poems
 tag: text
 pubdate: '2010'
-summary: ''
 ---
 **I**
 
@@ -72,7 +71,7 @@ And an age forgotten
 
 Before we became men
 
- 
+
 
 **III**
 
