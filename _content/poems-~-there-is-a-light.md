@@ -217,8 +217,9 @@ The hero's death or the idiot's death
 
 Is the same
 
+_“Did you live a good life? Enough to base a movie on?"_
 
-> _“Did you live a good life? Enough to base a movie on?"_
+
 
 > _Lights dim 40% (lighting instructions)_
 
@@ -416,13 +417,13 @@ Reality is a consensus
 
 We are ruled by TV –
 
-Eyebal economy.
+Eyeball economy.
 
 The ‘Utopia’ is a High profile neighbourhood for the rich.
 
+_“The art crowd were profiting from the mediation of the conflict."_
 
 
-> _“The art crowd were profiting from the mediation of the conflict."_
 
 > _Lights dim 60% (lighting instructions)_
 
@@ -598,8 +599,8 @@ The End of Life is not the End of Civilisation
 
 And then it was said, “Let there be Light.”
 
+_(exit)_
 
 
-> _(exit)_
 
 > _Lights dim 100% (lighting instructions)_
