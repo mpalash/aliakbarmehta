@@ -3,7 +3,7 @@ title: purg ~ Purgatory edit
 layout: content
 tag: artwork
 pubdate: '2017'
-parent: Purgatory Edit
+parent: ' Purgatory Edit'
 ---
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/SagrIAJvH5w" frameborder="0"
