@@ -3,10 +3,8 @@ title: ' Purgatory Edit'
 layout: content
 tag: ongoing project
 pubdate: '2017'
-
 children:
-  - purg~ Purgatory edit
-  - purg~ stills from video
+  - purg ~ Purgatory edit
 ---
 A collaborative work with artist Jernej Čuček Gerbec (Slovenia), _Purgatory
 Edit_ is a prototyping of a proof-of-concept for an interactive performance
