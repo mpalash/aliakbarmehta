@@ -6,6 +6,7 @@ pubdate: '2012'
 children:
   - Of Men ~ Of Men and Supermen
   - Of Men ~ Visual Disobedience
+  - Of Men ~ Ali Akbar Mehta in conversation with Namrata Bhawnani
 ---
 **Of Men and Supermen** is about the nature of truth, the hidden and the apparent and the difference between the real and fictional.They are extracted from a larger body of archival site specific work based in Mazgaon and Wadibunder that is a cross section of a layered and multi- tiered space, which comprises an eclectic mix of temporary setups, chawls, shanties and tenements, amidst more permanent historic landmarks and its inhabitants. Documenting the life and living conditions of specific loosely strung together communities of people forced me to revisit these sites on a daily basis, and resulted in these spaces becoming stages set for the performance of the everyday.
 
