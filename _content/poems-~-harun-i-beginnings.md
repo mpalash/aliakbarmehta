@@ -1,7 +1,7 @@
 ---
 layout: content
 title: poems ~ Harun I (Beginnings)
-subtitle: First Words of paragraphs:
+subtitle: "First Words of paragraphs:"
 parent: Poems
 tag: text
 pubdate: '2017'

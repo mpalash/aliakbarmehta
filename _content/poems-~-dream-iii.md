@@ -1,7 +1,7 @@
 ---
 layout: content
 title: poems ~ Dream III
-parent: 'Poems '
+parent: Poems
 tag: text
 pubdate: '2009'
 summary: ''
