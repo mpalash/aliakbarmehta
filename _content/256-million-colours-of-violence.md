@@ -5,7 +5,7 @@ tag: ongoing project
 pubdate: '2019'
 hero: /assets/img/screen-shot-2018-09-26-at-13.04.19.jpg
 children:
-  - 256 ~ 256 Million Colours of Violence
+  - 256 ~ About 256 Million Colours of Violence
   - 256 ~ 256 Million Colours of Violence
   - 256 ~ Limitations of Liability
   - '256 ~ Limitations of Liability, Mumbai Assembly'

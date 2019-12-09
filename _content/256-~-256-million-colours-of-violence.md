@@ -1,5 +1,5 @@
 ---
-title: 256 ~ 256 Million Colours of Violence
+title: 256 ~ About 256 Million Colours of Violence
 subtitle: Artist Statement by Ali Akbar Mehta
 layout: content
 tag: text
