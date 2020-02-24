@@ -17,7 +17,7 @@ He lives and works in Helsinki and Mumbai.
 
 ## Education
 
-_Currently pursuing_ **Doctoral Studies** (Contemporary Art), Aalto University, Helsinki, ongoing
+*Currently pursuing* **Doctoral Studies** (Contemporary Art), Aalto University, Helsinki, ongoing
 
 **MA** (Visual Culture, Curating and Contemporary Art), Aalto University, Helsinki, 2018
 
@@ -71,7 +71,7 @@ Future Archives – Common(ing) by building (local) Agency
 
 **Narrating WAR**, Museum of Impossible Forms, Helsinki, 2018
 
-**Cyborg Archives: _GarbageInGarbageOut_**, TIFA Working Studios, Pune, 2018
+**Cyborg Archives: *GarbageInGarbageOut***, TIFA Working Studios, Pune, 2018
 
 **Cyborg Archives: Can Archives Speak?**, TIFA Working Studios, Pune, 2018
 
@@ -89,7 +89,11 @@ Future Archives – Common(ing) by building (local) Agency
 
 ## Artist Talks
 
-**‘Notes for Radical Diversity’,** Helsinki Art Museum HAM, Helsinki, 2019
+*(upcoming)* **Museum as Commons**, Creative Commons Summit 2020, Lisbon, Portugal, 2020
+
+**Resistance and Re-imagining Alternatives,** Nordic Decolonial Workshop, Center for Research on Ethnic Relations and Nationalism (CEREN), Helsinki, 2019
+
+**Notes for Radical Diversity,** Helsinki Art Museum HAM, Helsinki, 2019
 
 **Re:Musing the Museum, Part II**, Kiasma International Museum, Helsinki, 2018
 
@@ -113,6 +117,8 @@ Future Archives – Common(ing) by building (local) Agency
 
 ## Solo Exhibitions
 
+*upcoming*,Myymälä2, Helsinki, 2020
+
 **Limitations of Liability**, Mumbai Assembly and Harkat Studios, Mumbai, 2017
 
 **256 Million Colours of Violence**, Third Space, Helsinki, 2016
@@ -127,7 +133,11 @@ Future Archives – Common(ing) by building (local) Agency
 
 ## Select Group Exhibitions
 
-(Upcoming) **A Tapestry of Time**, TAO Art Gallery, Mumbai, 2020
+
+
+*upcoming,* **To Err is Human**, Mäntä Art Festival 2020, Jyvaskylä, 2020
+
+**A Tapestry of Time**, TAO Art Gallery, Mumbai, 2020
 
 **No Corners**, TAO Art Gallery, Mumbai, 2018
 
@@ -173,11 +183,11 @@ Future Archives – Common(ing) by building (local) Agency
 
 **Evolve**, TAO Art Gallery, Mumbai, 2010
 
-**Gems of India**_,_ Unicorn Art Gallery, Dubai, 2009
+**Gems of India***,* Unicorn Art Gallery, Dubai, 2009
 
 **India on Canvas,** charity auction, New Delhi, 2009
 
-**The Kohinoor Selection**_,_ Unicorn Art Gallery, Dubai, 2008
+**The Kohinoor Selection***,* Unicorn Art Gallery, Dubai, 2008
 
 **Art for Justice and Peace**, Sabrang, Mumbai, 2008
 
@@ -197,7 +207,9 @@ Future Archives – Common(ing) by building (local) Agency
 
 ## Curatorial
 
-**Vidisha Fadescha: Party, a tool for Care – curated by Ali Akbar Mehta**, ****part of Today Is Our Tomorrow Festival, organised by PUBLICS, Helsinki, 2019
+**Educate Agitate Organise**
+
+**Vidisha Fadescha: Party, a tool for Care – curated by Ali Akbar Mehta**, \*\*\*\*part of Today Is Our Tomorrow Festival, organised by PUBLICS, Helsinki, 2019
 
 **MATERIAL///IMMATERIAL**, A: SPACE, Espoo, Finland, 2016
 
@@ -213,7 +225,7 @@ Future Archives – Common(ing) by building (local) Agency
 
 **Colours of Violence**, AROOP: Totems and Taboos, volume 3, (ed.) Nancy Adajania, published by Raza Foundation, New Delhi, 2018
 
-**Cyber Archive: Archiving as a sustainable counter-hegemonic practice**, Hakara Journal: _Form / Play_, edition 06, (ed.) Ashutosh Poddar and Noopur Desai, Pune, 2018
+**Cyber Archive: Archiving as a sustainable counter-hegemonic practice**, Hakara Journal: *Form / Play*, edition 06, (ed.) Ashutosh Poddar and Noopur Desai, Pune, 2018
 
 **Cyber Archive: Being and Doing Knowledge**, Aalto University, Espoo, 2018
 
@@ -225,7 +237,7 @@ Future Archives – Common(ing) by building (local) Agency
 
 **The Photons of Politics: Footnotes for a New History**, RAB-RAB Journal for Political and Formal Inquiries in Art, issue#4.01, (ed.) Sezgin Boynik, Helsinki, 2017
 
-**No one at the ceremony remembers to mention the artist**, Essay for Exhibition _No one at the ceremony remembers to mention the artist_, Third Space, Helsinki, 2015
+**No one at the ceremony remembers to mention the artist**, Essay for Exhibition *No one at the ceremony remembers to mention the artist*, Third Space, Helsinki, 2015
 
 **Site: Stage: Structure**, (pub) StudioVAAK, Mumbai, 2014
 
@@ -234,6 +246,8 @@ Future Archives – Common(ing) by building (local) Agency
 \*
 
 ## Residencies
+
+*upcoming,* **Maunula Commons**, m-cult, Helsinki, 2020
 
 **To Participate in the Archive**, ARTEL 2018, TIFA Working Studios, Pune, 2018
 
@@ -253,35 +267,35 @@ Regularly conducting drawing and painting workshops as part of various NGO activ
 
 ## Other work Experience
 
-2019: _Artistic Producer_, **Mcult Media Cultural Association**, Helsinki
+2019: *Artistic Producer*, **Mcult Media Cultural Association**, Helsinki
 
-2018 – present: _Artistic Director_, **Museum of Impossible Forms**, Helsinki
+2018 – present: *Artistic Director*, **Museum of Impossible Forms**, Helsinki
 
-2017: _Program Manager,_ **Museum of Impossible Forms**, Helsinki
+2017: *Program Manager,* **Museum of Impossible Forms**, Helsinki
 
-2016 – present: _Founder Member,_  **Museum of Impossible Forms**, Helsinki
+2016 – present: *Founder Member,*  **Museum of Impossible Forms**, Helsinki
 
-2016 ­– 2017: _Member,_ **Third Space Collective**, Helsinki
+2016 ­– 2017: *Member,* **Third Space Collective**, Helsinki
 
-2016 ­– present: _Founder Member,_ **D/func.t Collective**, Helsinki
+2016 ­– present: *Founder Member,* **D/func.t Collective**, Helsinki
 
-2016 – 2017: _Communication Assistant,_ Visual Culture and Contemporary Art (**ViCCA**), Aalto University, Helsinki
+2016 – 2017: *Communication Assistant,* Visual Culture and Contemporary Art (**ViCCA**), Aalto University, Helsinki
 
-2016: _Post Production_ and _animation,_ _**Arab Strings**_, a performance video by artist Jowan Safadi (Palestine)
+2016: *Post Production* and *animation,* ***Arab Strings***, a performance video by artist Jowan Safadi (Palestine)
 
-2015: _Post Production_, ‘#7: Greed’ short film
+2015: *Post Production*, ‘#7: Greed’ short film
 
-2014: ­_Co-conceived and Head of Post Production,_ **_Relics of Eden_**, a short fictional film by COMPOSITE Films
+2014: ­*Co-conceived and Head of Post Production,* ***Relics of Eden***, a short fictional film by COMPOSITE Films
 
-_2014: Head of Post Production_, _**What a Wonderful World**_, an independently produced post-apocalyptic themed experimental video
+*2014: Head of Post Production*, ***What a Wonderful World***, an independently produced post-apocalyptic themed experimental video
 
-2013 ­– 2014: _Freelance Artist and Character Designer, **TUMBAD**_, feature-length live-action film produced by Recyclewala Films
+2013 ­– 2014: *Freelance Artist and Character Designer, **TUMBAD***, feature-length live-action film produced by Recyclewala Films
 
-2012 – 2016: _Consulting head of Post Production and freelance Artist,_ for _**various Digital content projects**_ by COMPOSITE Films
+2012 – 2016: *Consulting head of Post Production and freelance Artist,* for ***various Digital content projects*** by COMPOSITE Films
 
 > QuickHeal Antivirus | La15 Patisserie | Fizzy Foods | KNM Airlines
 
-2011 – 2013: _Creative Director and Head of Post Production,_ **_Luminous Matter_**, a stop-motion animated short film by COMPOSITE Films
+2011 – 2013: *Creative Director and Head of Post Production,* ***Luminous Matter***, a stop-motion animated short film by COMPOSITE Films
 
 > Screened at:
 >
@@ -291,10 +305,10 @@ _2014: Head of Post Production_, _**What a Wonderful World**_, an independently 
 > * DIGICON Tokyo, 2012
 > * FICCI Frames, Mumbai 2012
 
-2002 – 2007: _Co ­­­­­– ­founder, Lead Animator and artist,_ **_Mareech Animated Design_**, an animation studio specializing in 3D animation and Visual Effects for Film and Television
+2002 – 2007: *Co ­­­­­– ­founder, Lead Animator and artist,* ***Mareech Animated Design***, an animation studio specializing in 3D animation and Visual Effects for Film and Television
 
-2004 – 2006: Co-written and performed, _**Aham: What’s going on?**_, a full-length play performed at Prithvi Theatre, Mumbai
+2004 – 2006: Co-written and performed, ***Aham: What’s going on?***, a full-length play performed at Prithvi Theatre, Mumbai
 
 2005: BFA (Drawing and Painting) from Sir J.J. School of (Fine) Art.
 
-2004: Directed and edited, **_Untitled_**, a documentary short film on Sir J.J. School of Art, Mumbai.
+2004: Directed and edited, ***Untitled***, a documentary short film on Sir J.J. School of Art, Mumbai.
