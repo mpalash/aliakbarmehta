@@ -91,6 +91,8 @@ Future Archives – Common(ing) by building (local) Agency
 
 *(upcoming)* **Museum as Commons**, Creative Commons Summit 2020, Lisbon, Portugal, 2020
 
+*(upcoming),* From Margins to Museums, University of Tampere, Tampere, 2020
+
 **Resistance and Re-imagining Alternatives,** Nordic Decolonial Workshop, Center for Research on Ethnic Relations and Nationalism (CEREN), Helsinki, 2019
 
 **Notes for Radical Diversity,** Helsinki Art Museum HAM, Helsinki, 2019
@@ -117,7 +119,7 @@ Future Archives – Common(ing) by building (local) Agency
 
 ## Solo Exhibitions
 
-*upcoming*,Myymälä2, Helsinki, 2020
+*(upcoming)*,Myymälä2, Helsinki, 2020
 
 **Limitations of Liability**, Mumbai Assembly and Harkat Studios, Mumbai, 2017
 
@@ -135,7 +137,7 @@ Future Archives – Common(ing) by building (local) Agency
 
 
 
-*upcoming,* **To Err is Human**, Mäntä Art Festival 2020, Jyvaskylä, 2020
+*(upcoming),* **To Err is Human**, Mäntä Art Festival 2020, Jyvaskylä, 2020
 
 **A Tapestry of Time**, TAO Art Gallery, Mumbai, 2020
 
@@ -207,7 +209,7 @@ Future Archives – Common(ing) by building (local) Agency
 
 ## Curatorial
 
-**Educate Agitate Organise**
+*(upcoming)* **Educate-Agitate-Organise: Summerschool 2020,** Museum of Impossible Forms, Helsinki, 2020 
 
 **Vidisha Fadescha: Party, a tool for Care – curated by Ali Akbar Mehta**, \*\*\*\*part of Today Is Our Tomorrow Festival, organised by PUBLICS, Helsinki, 2019
 
@@ -247,7 +249,7 @@ Future Archives – Common(ing) by building (local) Agency
 
 ## Residencies
 
-*upcoming,* **Maunula Commons**, m-cult, Helsinki, 2020
+*(upcoming),* **Maunula Commons**, m-cult, Helsinki, 2020
 
 **To Participate in the Archive**, ARTEL 2018, TIFA Working Studios, Pune, 2018
 
@@ -256,6 +258,8 @@ Future Archives – Common(ing) by building (local) Agency
 \*
 
 ## Teaching
+
+Artist mentoring, **Helsinki International Artist program** (HIAP), Helsinki, 2020
 
 Guest lecturer, ‘**Archiving: Histories of the Present**’, Visual Culture and Contemporary Art (ViCCA), Aalto University, Helsinki, 2018
 
@@ -267,9 +271,11 @@ Regularly conducting drawing and painting workshops as part of various NGO activ
 
 ## Other work Experience
 
+2019 – present: *Board member*, **Killa Ry**, Helsinki
+
 2019: *Artistic Producer*, **Mcult Media Cultural Association**, Helsinki
 
-2018 – present: *Artistic Director*, **Museum of Impossible Forms**, Helsinki
+2018 – 2020: *Artistic Director*, **Museum of Impossible Forms**, Helsinki
 
 2017: *Program Manager,* **Museum of Impossible Forms**, Helsinki
 
