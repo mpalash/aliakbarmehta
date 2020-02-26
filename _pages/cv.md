@@ -221,6 +221,10 @@ Future Archives – Common(ing) by building (local) Agency
 
 ## Publications and Texts
 
+*(upcoming)*, **The shape of Museums to come,** 2020
+
+*(upcoming)*, **From Margins to Museums,** 2020
+
 **Atlas of Lost Beliefs (for Insurgents, Citizens, & Untitled Bodies), curatorial text 2019-20,** Museum of Impossible Forms, 2019
 
 **To Not Wait for the Archive: Home and Labour mired in the complications of Invisibalisation**, Visual Culture and Contemporary Art Journal #5, (ed.) Saara Mahbouba, Paola Jallili and Else Lagerspetz, published by Aalto University, Helsinki 2019
