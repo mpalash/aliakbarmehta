@@ -47,6 +47,6 @@ Ali Akbar Mehta and Simpreet Singh discuss how the project is addressing the not
 
 ## _Big Data Ethics_
 
-> March 19, 2017 | 6:30 to 8:00 pm
+March 19, 2017 | 6:30 to 8:00 pm
 
 Ali Akbar Mehta in conversation with Sameer Pitalwala discuss how most data-mining exercises and empirical scientific surveys require a culled group in order to eradicate diversity, a standardisation of the test group to remove ‘noise’. Instead, a project such as ‘256 Million Colours of Violence’ is a celebration of that noise which represents the diversity of Human experience and collective memetic history. It is also part of an ongoing discourse to reduce effects of stereo-typification through personal scrutiny of the word and meanings of ‘Violence' by asking how is the narrative experience of colour embodied, embedded and extended in the contexts of these meanings.
