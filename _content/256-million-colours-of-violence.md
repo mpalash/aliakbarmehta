@@ -14,6 +14,7 @@ children:
   - >-
     participate ~ Cyborg Archives: 256 Million Colours of Violence, TIFA Working
     Studios, Pune
+    '256 ~ is there a room with just a colour'
   - '256 ~ Colours of Violence, AROOP III - Totems and Taboos'
   - In Conversation with Ali Akbar Mehta
   - 256 ~ Not your Regular Archive
