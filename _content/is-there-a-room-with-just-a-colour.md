@@ -1,5 +1,5 @@
 ---
-title: Is there a room with just a colour?
+title: 256 ~ Is there a room with just a colour?
 subtitle: Myymälä2, Helsinki 2020
 layout: content
 tag: solo exhibition
