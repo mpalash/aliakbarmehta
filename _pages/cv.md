@@ -9,7 +9,7 @@ permalink: /curriculum-vitae/
 
 Ali Akbar Mehta is a Trans-media artist. Through his research-based transmedia practice, he creates immersive cyber archives that explore collective memetic history, narratives of memory, identity, violence, and conflict. He is a founder-member and current Artistic Director of [Museum of Impossible Forms](www.museumofimpossibleforms.org), Helsinki, and the Artistic Producer at [mcult Media Residency](https://www.m-cult.org/), Helsinki. He is also pursuing a Doctoral Research program at the Contemporary Art Department at [Aalto University](https://www.aalto.fi/), Helsinki.
 
-He has exhibited his projects in galleries and alternate spaces in Mumbai, New Delhi, Pune, Helsinki, Tampere, Pori, Venice, Nova Goriza, and Vilnius. He holds a BFA in Drawing and Painting from [Sir J.J. School of Art,](http://www.sirjjschoolofart.in/) Mumbai, and an MA in Visual Culture, Curating, and Contemporary Art from Aalto University, Helsinki, Finland, where he completed a thesis text titled ‘Cyber Archive: Being and Doing Knowledge’. Some of his ongoing projects are ‘256 Million Colours of Violence’, ‘Contemporary Ruins of Kruunuvuori’, ‘War Room Echo – Regarding the pain of Other Cyborgs’, and ‘New Frontiers: Critical enquiries for archives as Artistic Praxis’. 
+He has exhibited his projects in galleries and alternate spaces in Mumbai, New Delhi, Pune, Helsinki, Tampere, Pori, Venice, Nova Goriza, and Vilnius. He holds a BFA in Drawing and Painting from [Sir J.J. School of Art,](http://www.sirjjschoolofart.in/) Mumbai, and an MA in Visual Culture, Curating, and Contemporary Art from Aalto University, Helsinki, Finland, where he completed a thesis text titled ‘Cyber Archive: Being and Doing Knowledge’. Some of his ongoing projects are ‘256 Million Colours of Violence’, ‘War Room Echo – Regarding the pain of Other Cyborgs’, and ‘Central Park Archives’. 
 
 He lives and works in Helsinki and Mumbai.
 
@@ -27,7 +27,9 @@ He lives and works in Helsinki and Mumbai.
 
 ## Experience
 
-**co-Artistic Director**, Museum of Impossible Forms, Helsinki, 2018-present
+**co-Artistic Director**, Museum of Impossible Forms, Helsinki, 2018-2020
+
+**Associate Curator**, Helsinki International Artist program (HIAP), Helsinki, 2020
 
 **Artistic Producer**, m-cult Media Residency, Helsinki, 2019
 
@@ -49,7 +51,9 @@ Outsiders at Work ([www.outsidersatwork.wordpress.com](www.outsidersatwork.wordp
 
 256 Million Colours of Violence ([www.256millioncoloursofviolence.com](www.256millioncoloursofviolence.com))
 
-WAR • ROOM • ECHO :: Regarding the Pain of Other Cyborgs
+WAR • ROOM • ECHO : Regarding the Pain of *Other* Cyborgs
+
+Central Park Archives *w/ Suzanna Ånäs, produced by mcult*
 
 Contemporary Ruins of Kruunuvuori: The Perfect Ghosts of Helsinki
 
@@ -87,11 +91,19 @@ Future Archives – Common(ing) by building (local) Agency
 
 \*
 
-## Artist Talks
+## Artist Talks - Panel Discussions
 
-*(upcoming)* **Museum as Commons**, Creative Commons Summit 2020, Lisbon, Portugal, 2020
+*(cancelled)* **Museum as Commons**, Creative Commons Summit 2020, Lisbon, Portugal, 2020
 
-*(upcoming),* From Margins to Museums, University of Tampere, Tampere, 2020
+*(cancelled),* **From Margins to Museums**, University of Tampere, Tampere, 2020
+
+**Towards a New Internet**, In conversation with Palash Mukhopadhyay, Myymälä2, Helsinki, 2020
+
+**Violence in Finnish Society,** In conversation with Arvind Ramachandran, Myymälä2, Helsinki, 2020
+
+**Digital Creativity and Entanglement,** In conversation with Timo Tuhkanen, Myymälä2, Helsinki, 2020
+
+**Is there a room with just a colour?** In conversation with Camelo Ramiro, Myymälä2, Helsinki, 2020
 
 **Resistance and Re-imagining Alternatives,** Nordic Decolonial Workshop, Center for Research on Ethnic Relations and Nationalism (CEREN), Helsinki, 2019
 
@@ -119,7 +131,7 @@ Future Archives – Common(ing) by building (local) Agency
 
 ## Solo Exhibitions
 
-*(upcoming)*,Myymälä2, Helsinki, 2020
+**Is there a room with just a colour?**, Myymälä2, Helsinki, 2020
 
 **Limitations of Liability**, Mumbai Assembly and Harkat Studios, Mumbai, 2017
 
@@ -135,11 +147,13 @@ Future Archives – Common(ing) by building (local) Agency
 
 ## Select Group Exhibitions
 
+*(postponed) –* **Meadow**, curated by Taru Elfving, Fiskars Village, 2020
 
-
-*(upcoming),* **To Err is Human**, Mäntä Art Festival 2020, Jyvaskylä, 2020
+*(postponed) –* **To Err is Human**, Mäntä Art Festival 2020, Jyvaskylä, 2020
 
 **A Tapestry of Time**, TAO Art Gallery, Mumbai, 2020
+
+**Making Space**, curated by Saloni Doshi, Sakshi Art Gallery, Mumbai, 2019
 
 **No Corners**, TAO Art Gallery, Mumbai, 2018
 
@@ -221,9 +235,13 @@ Future Archives – Common(ing) by building (local) Agency
 
 ## Publications and Texts
 
-*(upcoming)*, **The shape of Museums to come,** 2020
+*(Upcoming)* Different shapes of racism. Critical perspectives on racialization, whiteness and coloniality of power/Muuntautuva rasismi.Kriittisiä näkökulmia rodullistamiseen, valkoisuuteen ja vallan koloniaalisuuteen (ed) Suvi Keskinen, CEREN, Helsinki University, 2020
 
-*(upcoming)*, **From Margins to Museums,** 2020
+*(Upcoming)* **SAFE{R}: Evolving the Conditions for Collaboration**, Third Space, Helsinki, 2020
+
+*(Upcoming)* **The Shape of Museums to Come**, The Museum of the Future. 43 New Contributions to the Discussion about the Future of the Museum, (ed) Nora Sternfeld, 2020
+
+*(Upcoming)* **Museum of Impossible Forms: Voicing the Margins**, From Margins to Museums, (ed) Anna Rastas, Tampere University, 2020
 
 **Atlas of Lost Beliefs (for Insurgents, Citizens, & Untitled Bodies), curatorial text 2019-20,** Museum of Impossible Forms, 2019
 
@@ -253,7 +271,7 @@ Future Archives – Common(ing) by building (local) Agency
 
 ## Residencies
 
-*(upcoming),* **Maunula Commons**, m-cult, Helsinki, 2020
+**Maunula Commons**, m-cult, Helsinki, 2020
 
 **To Participate in the Archive**, ARTEL 2018, TIFA Working Studios, Pune, 2018
 
@@ -262,8 +280,6 @@ Future Archives – Common(ing) by building (local) Agency
 \*
 
 ## Teaching
-
-Artist mentoring, **Helsinki International Artist program** (HIAP), Helsinki, 2020
 
 Guest lecturer, ‘**Archiving: Histories of the Present**’, Visual Culture and Contemporary Art (ViCCA), Aalto University, Helsinki, 2018
 
@@ -274,6 +290,8 @@ Regularly conducting drawing and painting workshops as part of various NGO activ
 \*
 
 ## Other work Experience
+
+*Associate Curator,* **Helsinki International Artist program** (HIAP), Helsinki, 2020
 
 2019 – present: *Board member*, **Killa Ry**, Helsinki
 
@@ -291,15 +309,15 @@ Regularly conducting drawing and painting workshops as part of various NGO activ
 
 2016 – 2017: *Communication Assistant,* Visual Culture and Contemporary Art (**ViCCA**), Aalto University, Helsinki
 
-2016: *Post Production* and *animation,* ***Arab Strings***, a performance video by artist Jowan Safadi (Palestine)
+2016: *Post Production* and *animation,* ***Arab Strings***, a performance video by artist Jowan Safadi (unreleased)
 
-2015: *Post Production*, ‘#7: Greed’ short film
+2015: *Post Production*, ‘#7: Greed’ short film (unreleased)
 
-2014: ­*Co-conceived and Head of Post Production,* ***Relics of Eden***, a short fictional film by COMPOSITE Films
+2014: ­*Co-conceived and Head of Post Production,* ***Relics of Eden***, a short fictional film by COMPOSITE Films (unreleased)
 
 *2014: Head of Post Production*, ***What a Wonderful World***, an independently produced post-apocalyptic themed experimental video
 
-2013 ­– 2014: *Freelance Artist and Character Designer, **TUMBAD***, feature-length live-action film produced by Recyclewala Films
+2013 ­– 2014: Freelance Artist and Character Designer, **TUMBAD**, feature-length live-action film produced by Recyclewala Films
 
 2012 – 2016: *Consulting head of Post Production and freelance Artist,* for ***various Digital content projects*** by COMPOSITE Films
 
