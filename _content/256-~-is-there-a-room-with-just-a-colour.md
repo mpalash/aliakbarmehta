@@ -4,7 +4,7 @@ subtitle: Myymälä2, Helsinki 2020
 layout: content
 tag: solo exhibition
 pubdate: "2020"
-summary: ""
+summary: "![](assets/img/poster.jpg)"
 parent: 256 Million Colours of Violence
 ---
 
