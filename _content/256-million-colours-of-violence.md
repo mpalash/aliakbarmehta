@@ -2,19 +2,19 @@
 title: 256 Million Colours of Violence
 layout: content
 tag: ongoing project
-pubdate: '2019'
+pubdate: "2019"
 hero: /assets/img/screen-shot-2018-09-26-at-13.04.19.jpg
 children:
   - 256 ~ About 256 Million Colours of Violence
   - 256 ~ 256 Million Colours of Violence
   - 256 ~ Limitations of Liability
-  - '256 ~ Limitations of Liability, Mumbai Assembly'
-  - '256 ~ Limitations of Liability, Piramal Art Foundation'
-  - '256 ~ Limitations of Liability, Harkat Studios'
-  - >-
-    participate ~ Cyborg Archives: 256 Million Colours of Violence, TIFA Working
-    Studios, Pune
-  - '256 ~ Colours of Violence, AROOP III - Totems and Taboos'
+  - 256 ~ Limitations of Liability, Mumbai Assembly
+  - 256 ~ Limitations of Liability, Piramal Art Foundation
+  - 256 ~ Limitations of Liability, Harkat Studios
+  - "participate ~ Cyborg Archives: 256 Million Colours of Violence, TIFA
+    Working Studios, Pune"
+  - 256 ~ Is there a room with just a colour?
+  - 256 ~ Colours of Violence, AROOP III - Totems and Taboos
   - In Conversation with Ali Akbar Mehta
   - 256 ~ Not your Regular Archive
   - 256 ~ Does violence have a colour?
