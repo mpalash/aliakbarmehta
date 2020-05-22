@@ -1,12 +1,12 @@
 ---
-title: Notes for Radical Diversity
-subtitle: Helsinki Art Museum (HAM), Helsinki
+title: Notes for Radical Diversity, HAM Helsinki
+subtitle: ""
 layout: content
 tag: talk
 pubdate: "2019"
 summary: In November 2019, I was invited to talk about diversity within the art
-  and cultural scene of Helsinki, to the curatorial staff at Helsinki Art
-  Museum, Helsinki.
+  and cultural scene of Helsinki at Helsinki Art Museum, Helsinki. Subsequently,
+  a workshop based interactive dialogue ensued with the curatorial staff of HAM.
 children:
   - Notes for Radical Diversity
 ---
