@@ -1,6 +1,6 @@
 ---
 title: ‘Notes for Radical Diversity’
-subtitle: Helsinki Art Museum HAM, Helsinki
+subtitle: Helsinki Art Museum (HAM), Helsinki
 layout: content
 tag: talk
 pubdate: "2019"
