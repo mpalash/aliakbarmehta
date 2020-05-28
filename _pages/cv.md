@@ -11,7 +11,7 @@ permalink: /curriculum-vitae/
 
 His [work](https://aliakbarmehta.com/curriculum-vitae) as performances, installations, and talks have been exhibited in galleries and alternative spaces in Mumbai, New Delhi, Pune, Helsinki, Tampere, Pori, Venice, Nova Gorica, Vienna, and Jyväskylä. Several of his projects, such as [256 Million Colours of Violence](http://www.256millioncoloursofviolence.com/), [Outsiders at Work](https://outsidersatwork.wordpress.com/), Ballad of the Lost Utopian Meadow, and Central Park Archives, exist as permanent ongoing online projects.
 
-He is co-founder, and co-Artistic Director (w/ Marianne Savallampi) of [Museum of Impossible Forms](https://museumofimpossibleforms.org/), Helsinki, an anti-racist queer feminist project, a board member of [Kiila ry](http://kiila.eu/), and pursuing his Doctoral Research in the Contemporary Art Department at [Aalto University](https://www.aalto.fi/), Helsinki. He holds a BFA in Drawing & Painting from the [Sir J.J. School of Art,](http://www.sirjjschoolofart.in/)Mumbai, and an MA in Visual Culture, Curating, and Contemporary Art from Aalto University, Helsinki, Finland, where he completed a thesis text titled ‘Cyber Archive: Being and Doing Knowledge’. 
+He is co-founder, and co-Artistic Director (w/ Marianne Savallampi) of [Museum of Impossible Forms](https://museumofimpossibleforms.org/), Helsinki, an anti-racist queer feminist project, a board member of [Kiila ry](http://kiila.eu/), and pursuing his Doctoral Research in the Contemporary Art Department at [Aalto University](https://www.aalto.fi/), Helsinki. He holds a BFA in Drawing & Painting from the [Sir J.J. School of Art,](http://www.sirjjschoolofart.in/) Mumbai, and an MA in Visual Culture, Curating, and Contemporary Art from Aalto University, Helsinki, Finland, where he completed a thesis text titled ‘Cyber Archive: Being and Doing Knowledge’. 
 
 He lives and works in Helsinki and Mumbai.
 
@@ -47,7 +47,7 @@ He lives and works in Helsinki and Mumbai.
 
 ## Current Projects
 
-Practicing Online Performativity: Constructing Politically Conscious Archives for the Future, Doctoral research
+Practicing Online Performativity: Constructing Politically Conscious Archives for the Future, *Doctoral research*
 
 Outsiders at Work ([www.outsidersatwork.wordpress.com](www.outsidersatwork.wordpress.com))
 
