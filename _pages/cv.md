@@ -7,9 +7,11 @@ permalink: /curriculum-vitae/
 
 (b. 1983, Mumbai, India)
 
-Ali Akbar Mehta is a Trans-media artist. Through his research-based transmedia practice, he creates immersive cyber archives that explore collective memetic history, narratives of memory, identity, violence, and conflict. He is a founder-member and current Artistic Director of [Museum of Impossible Forms](www.museumofimpossibleforms.org), Helsinki, and the Artistic Producer at [mcult Media Residency](https://www.m-cult.org/), Helsinki. He is also pursuing a Doctoral Research program at the Contemporary Art Department at [Aalto University](https://www.aalto.fi/), Helsinki.
+[Ali Akbar Mehta](http://www.aliakbarmehta.com) (b.1983, Mumbai) is a Transmedia artist, curator, and researcher. Through a research-based practice, he creates immersive cyber archives that map narratives of history, memory, and identity constructs through a multifocal lens of violence, conflict, and trauma. Such archival mappings – as drawings, paintings, new media works, net-based projects, poems, essays, and theoretical texts, as well as performances both of bodies and networks – are rooted in posthumanist critical theories of making visible hegemonic power relations and silenced historical materialism. His ongoing doctoral research, tentatively titled ‘Practicing Online Performativity: Constructing Politically Conscious Archives for the Future’, is interested in exploring the performative relations between online archives and its users through the mediated interventions of Second Order Cybernetics, to create knowledge systems that outline a vibrant new political public sphere.
 
-He has exhibited his projects in galleries and alternate spaces in Mumbai, New Delhi, Pune, Helsinki, Tampere, Pori, Venice, Nova Goriza, and Vilnius. He holds a BFA in Drawing and Painting from [Sir J.J. School of Art,](http://www.sirjjschoolofart.in/) Mumbai, and an MA in Visual Culture, Curating, and Contemporary Art from Aalto University, Helsinki, Finland, where he completed a thesis text titled ‘Cyber Archive: Being and Doing Knowledge’. Some of his ongoing projects are ‘256 Million Colours of Violence’, ‘War Room Echo – Regarding the pain of Other Cyborgs’, and ‘Central Park Archives’. 
+His [work](https://aliakbarmehta.com/curriculum-vitae) as performances, installations, and talks have been exhibited in galleries and alternative spaces in Mumbai, New Delhi, Pune, Helsinki, Tampere, Pori, Venice, Nova Gorica, Vienna, and Jyväskylä. Several of his projects, such as [256 Million Colours of Violence](http://www.256millioncoloursofviolence.com/), [Outsiders at Work](https://outsidersatwork.wordpress.com/), Ballad of the Lost Utopian Meadow, and Central Park Archives, exist as permanent ongoing online projects.
+
+He is co-founder, and co-Artistic Director (w/ Marianne Savallampi) of [Museum of Impossible Forms](https://museumofimpossibleforms.org/), Helsinki, an anti-racist queer feminist project, a board member of [Kiila ry](http://kiila.eu/), and pursuing his Doctoral Research in the Contemporary Art Department at [Aalto University](https://www.aalto.fi/), Helsinki. He holds a BFA in Drawing & Painting from the [Sir J.J. School of Art,](http://www.sirjjschoolofart.in/)Mumbai, and an MA in Visual Culture, Curating, and Contemporary Art from Aalto University, Helsinki, Finland, where he completed a thesis text titled ‘Cyber Archive: Being and Doing Knowledge’. 
 
 He lives and works in Helsinki and Mumbai.
 
@@ -31,7 +33,7 @@ He lives and works in Helsinki and Mumbai.
 
 **Associate Curator**, Helsinki International Artist program (HIAP), Helsinki, 2020
 
-**Artistic Producer**, m-cult Media Residency, Helsinki, 2019
+**Artistic Producer**, Mediakulttuuriyhdistys m-cult Ry, Helsinki, 2019
 
 **Guest Lecturer**, Aalto University, Helsinki, 2018
 
@@ -59,13 +61,15 @@ Contemporary Ruins of Kruunuvuori: The Perfect Ghosts of Helsinki
 
 New Frontiers: Critical inquiries for archives as Artistic Praxis
 
-Future Archives – Common(ing) by building (local) Agency
+
 
 \*
 
 ## Performance
 
-‘**Narrating WAR**’, Relational Figures, Myymälä2, Helsinki, 2019
+*(upcoming)* **Narrating WAR**, Turku Performance Festival, Turku, 2020
+
+**Narrating WAR**, Relational Figures, Myymälä2, Helsinki, 2019
 
 **direct-contact**//feedback, Pixelache Festival, Helsinki, 2019
 
@@ -147,7 +151,7 @@ Future Archives – Common(ing) by building (local) Agency
 
 ## Select Group Exhibitions
 
-*(postponed) –* **Meadow**, curated by Taru Elfving, Fiskars Village, 2020
+**Meadow**, curated by Taru Elfving, Fiskars Village, 2020
 
 *(postponed) –* **To Err is Human**, Mäntä Art Festival 2020, Jyvaskylä, 2020
 
@@ -235,7 +239,9 @@ Future Archives – Common(ing) by building (local) Agency
 
 ## Publications and Texts
 
-*(Upcoming)* Different shapes of racism. Critical perspectives on racialization, whiteness and coloniality of power/Muuntautuva rasismi.Kriittisiä näkökulmia rodullistamiseen, valkoisuuteen ja vallan koloniaalisuuteen (ed) Suvi Keskinen, CEREN, Helsinki University, 2020
+*(Upcoming)* **A Cyber Archive of Questions**, Restricted Fixations, Bengaluru, 2020
+
+*(Upcoming)* **Cultural production and racism: How to challenge racist structures**, Different shapes of racism. Critical perspectives on racialization, whiteness and coloniality of power/Muuntautuva rasismi.Kriittisiä näkökulmia rodullistamiseen, valkoisuuteen ja vallan koloniaalisuuteen (ed) Suvi Keskinen, CEREN, Helsinki University, 2020
 
 *(Upcoming)* **SAFE{R}: Evolving the Conditions for Collaboration**, Third Space, Helsinki, 2020
 
@@ -291,7 +297,7 @@ Regularly conducting drawing and painting workshops as part of various NGO activ
 
 ## Other work Experience
 
-*Associate Curator,* **Helsinki International Artist program** (HIAP), Helsinki, 2020
+2020: *Associate Curator,* **Helsinki International Artist program** (HIAP), Helsinki
 
 2019 – present: *Board member*, **Killa Ry**, Helsinki
 
