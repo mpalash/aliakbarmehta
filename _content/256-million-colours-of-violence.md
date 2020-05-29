@@ -11,15 +11,19 @@ children:
   - 256 ~ Limitations of Liability, Mumbai Assembly
   - 256 ~ Limitations of Liability, Piramal Art Foundation
   - 256 ~ Limitations of Liability, Harkat Studios
+  - 256 ~ Colours of Violence, AROOP III - Totems and Taboos
   - "participate ~ Cyborg Archives: 256 Million Colours of Violence, TIFA
     Working Studios, Pune"
   - 256 ~ Is there a room with just a colour?
-  - 256 ~ Colours of Violence, AROOP III - Totems and Taboos
-  - In Conversation with Ali Akbar Mehta
+  - "Is there ~ Towards a New Internet: In conversation with Palash Mukhopadhyay
+    "
+  - "Is there ~ Violence in Finnish Society: In conversation with Arvind
+    Ramachandran"
   - 256 ~ Not your Regular Archive
   - 256 ~ Does violence have a colour?
   - 256 ~ Shades of Violence
   - 256 ~ What is the colour of violence?
+  - In Conversation with Ali Akbar Mehta
   - 256 ~ Grant Report
 ---
 256 Million Colours of Violence is an interactive and participatory survey-based artistic project ([www.256millioncoloursofviolence.com](http://www.256millioncoloursofviolence.com/)) that challenges political-religious-socio-economic quadrangle to create new visual vocabulary where participants become co-archivists. Through 77 questions on gender, race, ethnicity, privilege, social class, minimum wage, & other pressing issues, participants seek & share subliminal associations of ‘Colours of Violence’.
