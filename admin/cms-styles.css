@@ -1,0 +1,154 @@
+#nc-root * {
+  font-family: "Inter",-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !important;
+}
+aside[class*=SidebarContainer],
+div[class*=CollectionTopContainer] {
+  background-color: transparent !important;
+  padding: 0 !important;
+  box-shadow: none !important;
+  border-radius: 4px !important;
+}
+aside[class*=SidebarContainer] {
+  background-color: white !important;
+  padding-bottom: 16px !important;
+}
+aside[class*=SidebarContainer] input {
+  border-radius: 4px !important;
+}
+h2[class*=SidebarHeading] {
+  margin-top: 0 !important;
+  line-height: 37px !important;
+}
+.Pane2 div[class*=PreviewPaneContainer] {
+  max-width: none !important;
+  padding: 0 !important;
+  margin: 0 auto !important;
+  -webkit-font-smoothing: antialiased !important;
+}
+iframe[class*=PreviewPaneFrame] {
+  border-radius: 0 !important;
+}
+.Pane1 {
+  width: 50% !important;
+  max-width: 640px !important;
+}
+div[class*=PreviewPaneContainer] {
+  max-width: 800px !important;
+  padding: 16px !important;
+  margin: 0 auto !important;
+  -webkit-font-smoothing: antialiased !important;
+}
+div[class*=PreviewPaneContainer] div[class*='PreviewPaneContainer']{
+  padding: 16px !important;
+}
+div[class*=PreviewPaneContainer] label {
+  color: #888 !important;
+  background-color: transparent !important;
+  padding: 0 !important;
+  font-weight: normal !important;
+  font-size: 10px !important;
+  letter-spacing: 0.15em !important;
+  margin-bottom: 8px !important;
+}
+div[class*=PreviewPaneContainer] > div[class*=ControlPaneContainer] > div[class*=ControlContainer] > label {
+  color: #222 !important;
+  font-size: 13px !important;
+  font-weight: bold !important;
+  letter-spacing: 0.1em !important;
+}
+div[class*=PreviewPaneContainer] label:after,
+div[class*=PreviewPaneContainer] label:before {
+  content: none !important;
+}
+div[class*=PreviewPaneContainer] input,
+div[class*=PreviewPaneContainer] textarea,
+div[class*=PreviewPaneContainer] div[class*='TopBarContainer'] {
+  padding: 8px !important;
+  margin: 0 !important;
+  border-radius: 4px !important;
+  border: none !important;
+  background-color: #ececec !important;
+}
+div[class*=PreviewPaneContainer] div[class*='EditorControlBar'] + div {
+  padding: 8px !important;
+  border-radius: 4px !important;
+  border: none !important;
+  background-color: #ececec !important;
+}
+div[class*=PreviewPaneContainer] div[class*='ControlContainer']:first-of-type,
+div[class*=PreviewPaneContainer] div[class*='listControlItem']:first-of-type {
+  margin-top: 0 !important;
+}
+div[class*=PreviewPaneContainer] div[class*='ControlPaneContainer'] > div[class*='ControlContainer']:not(:first-child) {
+  margin-top: 40px !important;
+}
+div[class*=PreviewPaneContainer] div[class*='ControlContainer'] label + div {
+  padding: 0 !important;
+  border-radius: 4px !important;
+  border: none !important;
+}
+div[class*=PreviewPaneContainer] div[class*='TopBarContainer'] + div {
+  padding: 8px !important;
+  border: 1px solid #ececec !important;
+  border-width: 1px !important;
+  border-radius: 4px !important;
+  background-color: white !important;
+}
+div[class*=PreviewPaneContainer] div[class*='TopBarContainer'] + div:empty {
+  display: none;
+}
+div[class*=PreviewPaneContainer] div[class*='StyledListItemTopBar'] {
+  border-radius: 4px 4px 0 0;
+  background-color: #ececec !important;
+}
+div[class*=PreviewPaneContainer] div[class*='NestedObjectLabel'] {
+  padding: 8px !important;
+  border-radius: 0 0 4px 4px;
+  background-color: #ececec !important;
+}
+div[class*=PreviewPaneContainer] div[class*='NestedObjectLabel'] + div {
+  padding: 8px !important;
+  border: 1px solid #ececec !important;
+  border-radius: 0 0 4px 4px !important;
+}
+div[class*=PreviewPaneContainer] div.rdt + div[class*='DateTimeControl'] {
+  transform: translateY(-30px) !important;
+}
+div[class*=PreviewPaneContainer] div[class*='ToolbarContainer'] {
+  padding: 0 !important;
+  border-radius: 0 !important;
+  min-height: 0 !important;
+  background: white !important;
+}
+div[class*=PreviewPaneContainer] div[class*='ToolbarContainer'] button {
+  padding: 0 4px !important;
+}
+div[class*=PreviewPaneContainer] div[class*='ToolbarContainer'] button svg path {
+  fill: #666;
+}
+div[class*=PreviewPaneContainer] div[data-slate-editor='true'] {
+  padding: 16px 0 0 0 !important;
+}
+button[class*='DateTimeControl'],
+button[class*='AddButton'],
+span[class*='StyledDropdownButton'] {
+  cursor: pointer;
+  font-weight: 500;
+  background-color: rgb(232, 245, 254);
+  color: rgb(58, 105, 199);
+  font-size: 13px;
+  height: 23px;
+  line-height: 23px;
+  border: 1px solid rgb(217, 229, 255);
+  border-radius: 5px;
+  padding: 0px 15px;
+}
+span[class*='StyledDropdownButton'] {
+  padding-right: 30px;
+}
+button[class*='AddButton'] span[class*='IconWrapper'] {
+  margin-bottom: 2px;
+}
+span[class*='StyledDropdownButton']:after {
+  top: 9px;
+}
