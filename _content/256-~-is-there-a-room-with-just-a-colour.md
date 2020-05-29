@@ -4,10 +4,8 @@ subtitle: Myymälä2, Helsinki
 layout: content
 tag: solo exhibition
 pubdate: "2020"
+hero: assets/img/poster.jpg
 summary: >-
-  ![](assets/img/poster.jpg)
-
-
   ![](assets/img/ali-akbar-mehta_installation-view-is-there-a-room-with-just-a-colour-myymala2-helsinki-2020.jpg)
 
 
