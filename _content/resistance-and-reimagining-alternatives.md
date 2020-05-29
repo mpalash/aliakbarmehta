@@ -25,65 +25,37 @@ The Museum of Impossible Forms opens up a broad horizon though its political cha
 
 Museum of Impossible Forms M{if} was founded by an independent group of Helsinki artists/curators/philosophers/activists/pedagogists in spring 2017 as an antiracist and queer-feminist project, a heterogeneous space exploring experimental and migrant form of expression. It is the coming together of a collective of people – artists, curators, pedagogues, philosophers and facilitators – art and cultural workers who believe in the need for this space. M{if} currently consists of:
 
-Marianne Savallampi
-
-Ahmed Al-Nawas
-
-Raine Aiava
-
-Vidha Saumya
-
-Vishnu Vardhani Rajan
-
-Heidi Hänninen
-
-Selina Väliheikki
-
-Sergio Castrillon
-
-Danai Anagnostou
-
-Hassan Blasim
-
-Christopher Wessels
-
-Christopher Thomas
-
-Zahrah Ehsan
-
-Soko Hwang
-
-Giovanna Esposito Yousif
-
-David Muoz
-
-
+* Marianne Savallampi
+* Ahmed Al-Nawas
+* Raine Aiava
+* Vidha Saumya
+* Vishnu Vardhani Rajan
+* Heidi Hänninen
+* Selina Väliheikki
+* Sergio Castrillon
+* Danai Anagnostou
+* Hassan Blasim
+* Christopher Wessels
+* Christopher Thomas
+* Zahrah Ehsan
+* Soko Hwang
+* Giovanna Esposito Yousif
+* David Muoz
 
 Beyond these individuals,Museum of Impossible Forms works with a number of collectives, organisations and institutions to create a lattice of shared concerns and practice solidarity. Some of these are:
 
-FAR Night School
+* FAR Night School
+* Nynnyt Collective
+* Feminist Culture House
+* Kontula Art School project
+* Academy of Moving People and Images
+* Pixelache Festival
+* UrbanAPA
+* Silent University, North
+* RABRAB Press, and
+* Ruskeat Tytot
 
-Nynnyt Collective
-
-Feminist Culture House
-
-Kontula Art School project
-
-Academy of Moving People and Images
-
-Pixelache Festival
-
-UrbanAPA
-
-Silent University, North
-
-RABRAB Press, and
-
-Ruskeat Tytot
-
-
-
-Our curatorial framework for this year has been[‘The Atlas of Lost Beliefs (For Insurgents, Citizens and Untitled Bodies)’](https://museumofimpossibleforms.org/atlas-of-lost-beliefs), based on a poem by poet, cultural theorist and curator Ranjit Hoskote.
+Our curatorial framework for this year has been [‘The Atlas of Lost Beliefs (For Insurgents, Citizens and Untitled Bodies)’](https://museumofimpossibleforms.org/atlas-of-lost-beliefs), based on a poem by poet, cultural theorist and curator Ranjit Hoskote.
 
 The Atlas is ‘a book of maps or charts’. We gazed into the Atlas and dreamt of places we would like to visit. The Atlas was our window to strange and alien worlds, connected by an incomprehensible amount of water. Today, the Atlas as a portal, as a device for dreaming is a forgotten artefact, instead mired in historiographies and anthro-political readings of a world that was.
 
@@ -109,28 +81,28 @@ Museums today must ask on a regular basis, what must be done? Not just for itsel
 
 The question that we at Museum of Impossible Forms are asking is, “How can we propose an alternative?”
 
-Where is our agency?
-
-To speak up
-
-To speak out
-
-To critique
-
-To transform
-
-To impact
-
-To take space
-
-To make space
-
-To give way
-
-To see
-
-To listen
-
-To be heard?
+> Where is our agency?
+>
+> To speak up
+>
+> To speak out
+>
+> To critique
+>
+> To transform
+>
+> To impact
+>
+> To take space
+>
+> To make space
+>
+> To give way
+>
+> To see
+>
+> To listen
+>
+> To be heard?
 
 Museum of Impossible Forms is a partial response towards the engulfment of a responsibility to facilitate and/or empower the facilitation of a new kind of para-institution, as a space for learning, unlearning and relearning; as a space to listen and be heard; and as a space that constitutes our own, collective yet personal ‘Atlas’.
