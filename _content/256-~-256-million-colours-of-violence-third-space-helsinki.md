@@ -19,5 +19,3 @@ parent: 256 Million Colours of Violence
 The first iteration of **256 Million Colours of Violence** is exhibited in
 Third Space, Helsinki, 2016. Through this exhibition, a first public encounter
 with this format of online survey takes place.
-
-You can know more about the survey and participate at [www.256milioncoloursofviolence.com](http://www.256millioncoloursofviolence.com/)
