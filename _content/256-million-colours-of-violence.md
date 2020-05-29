@@ -8,7 +8,6 @@ summary:
 [256 Million Colours of Violence](http://www.256millioncoloursofviolence.com/) is a survey-based interactive archival research project, inviting online and onsite audiences to participate in a survey-based research to actively co-create the website’s archive of colours that represent ‘violence’.
 
 children:
-  - 256 ~ About 256 Million Colours of Violence
   - 256 ~ 256 Million Colours of Violence
   - 256 ~ Limitations of Liability
   - 256 ~ Limitations of Liability, Mumbai Assembly
@@ -17,13 +16,21 @@ children:
   - 256 ~ Colours of Violence, AROOP III - Totems and Taboos
   - "participate ~ Cyborg Archives: 256 Million Colours of Violence, TIFA Working Studios, Pune"
   - 256 ~ Is there a room with just a colour?
+<<<<<<< HEAD
   - "256 ~ Towards a New Internet: In conversation with Palash Mukhopadhyay"
   - "256 ~ Violence in Finnish Society: In conversation with Arvind Ramachandran"
+=======
+  - "256 ~ Digital Creativity and Entanglement: In conversation with Timo
+    Tuhkanen"
+  - "256 ~ Violence in Finnish Society: In conversation with Arvind Ramachandran"
+  - "256 ~ Towards a New Internet: In conversation with Palash Mukhopadhyay "
+>>>>>>> b3deee6aeb63d31557059a09f00b822914229f61
   - 256 ~ Not your Regular Archive
   - 256 ~ Does violence have a colour?
   - 256 ~ Shades of Violence
   - 256 ~ What is the colour of violence?
   - In Conversation with Ali Akbar Mehta
+  - 256 ~ About 256 Million Colours of Violence
   - 256 ~ Grant Report
 ---
 > Where do you fit in the larger scheme of things? Is your citizenship made doubtful? Is your right to live questioned? Does the question, ‘Where are you from?’, seem like a violent intrusion normalized through repetition?
