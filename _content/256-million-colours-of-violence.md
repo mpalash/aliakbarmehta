@@ -28,7 +28,7 @@ children:
   - 256 ~ About 256 Million Colours of Violence
   - 256 ~ Grant Report
 ---
-> Where do you fit in the larger scheme of things? Is your citizenship made doubtful? Is your right to live questioned? Does the question, ‘Where are you from?’, seem like a violent intrusion normalized through repetition?
+## Where do you fit in the larger scheme of things? Is your citizenship made doubtful? Is your right to live questioned? Does the question, ‘Where are you from?’, seem like a violent intrusion normalized through repetition?
 
 By transforming the commonplace [survey questionnaire](http://www.256millioncoloursofviolence.com/participate) into a diverse communication interface, the project subverts the problematic usage of questionnaires as bureaucratic tools for data collection. With particular emphasis on questions of gender, sexuality, class, and citizenship, it reveals the presence of violence – in routine everyday questions, and in everyday life. Through 50 questions gathered from various bureaucratic forms, the project facilitates an ‘encounter of equals’ and serves as a witness, a therapist, and a mirror, creating a new vocabulary of colour in the context of violence.
 
@@ -38,4 +38,4 @@ Although 256 Million Colours of Violence began as a response to the specific eve
 
 The project as an ongoing archive will also commission and produce [essays and texts](http://www.256millioncoloursofviolence.com/texts) that orbit themes and subjects regarding the ways in which we conceive of violence and counter it.
 
-    Galtung J., Fischer D. (2013) Violence: Direct, Structural and Cultural. In: Johan Galtung. SpringerBriefs on Pioneers in Science and Practice, vol 5. Springer, Berlin, Heidelberg
+Galtung J., Fischer D. (2013) Violence: Direct, Structural and Cultural. In: Johan Galtung. SpringerBriefs on Pioneers in Science and Practice, vol 5. Springer, Berlin, Heidelberg
