@@ -1,5 +1,5 @@
 ---
-title: "Is there ~ Towards a New Internet: In conversation with Palash Mukhopadhyay "
+title: "256 ~ Towards a New Internet: In conversation with Palash Mukhopadhyay "
 subtitle: Myymälä2, Helsinki
 layout: content
 tag: talk
