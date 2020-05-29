@@ -2,10 +2,14 @@
 title: 256 Million Colours of Violence
 layout: content
 tag: ongoing project
-pubdate: '2016'
+pubdate: "2016"
 hero: /assets/img/screen-shot-2018-09-26-at-13.04.19.jpg
-summary: >-
-  256 Million Colours of Violence is a survey-based interactive archival research project, inviting online and onsite audiences to participate in a survey-based research to actively co-create the website’s archive of colours that represent ‘violence’. Know more about the project and participate online at [www.256milioncoloursofviolence.com](http://www.256millioncoloursofviolence.com/)
+summary: 256 Million Colours of Violence is a survey-based interactive archival
+  research project, inviting online and onsite audiences to participate in a
+  survey-based research to actively co-create the website’s archive of colours
+  that represent ‘violence’. Know more about the project and participate online
+  at
+  [www.256milioncoloursofviolence.com](http://www.256millioncoloursofviolence.com/)
 children:
   - 256 ~ 256 Million Colours of Violence
   - 256 ~ Limitations of Liability
@@ -13,12 +17,13 @@ children:
   - 256 ~ Limitations of Liability, Piramal Art Foundation
   - 256 ~ Limitations of Liability, Harkat Studios
   - 256 ~ Colours of Violence, AROOP III - Totems and Taboos
-  - "participate ~ Cyborg Archives: 256 Million Colours of Violence, TIFA Workin Studios, Pune"
+  - "participate ~ Cyborg Archives: 256 Million Colours of Violence, TIFA Workin
+    Studios, Pune"
   - 256 ~ Is there a room with just a colour?
   - "256 ~ Towards a New Internet: In conversation with Palash Mukhopadhyay"
   - "256 ~ Violence in Finnish Society: In conversation with Arvind Ramachandran"
-  - "256 ~ Digital Creativity and Entanglement: In conversation with Timo Tuhkanen"
-  - "256 ~ Violence in Finnish Society: In conversation with Arvind Ramachandran"
+  - "256 ~ Digital Creativity and Entanglement: In conversation with Timo
+    Tuhkanen"
   - "256 ~ Towards a New Internet: In conversation with Palash Mukhopadhyay "
   - 256 ~ Not your Regular Archive
   - 256 ~ Does violence have a colour?
