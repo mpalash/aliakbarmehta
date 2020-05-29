@@ -1,6 +1,5 @@
 ---
-title: "Is there ~ Violence in Finnish Society: In conversation with Arvind
-  Ramachandran"
+title: "256 ~ Violence in Finnish Society: In conversation with Arvind Ramachandran"
 subtitle: Myymälä2, Helsinki
 layout: content
 tag: talk
