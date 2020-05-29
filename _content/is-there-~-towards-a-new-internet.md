@@ -1,6 +1,6 @@
 ---
-title: "Is there ~ Towards a New Internet "
-subtitle: In conversation with Palash Mukhopadhyay, Myymälä2, Helsinki
+title: "Is there ~ Towards a New Internet: In conversation with Palash Mukhopadhyay "
+subtitle: Myymälä2, Helsinki
 layout: content
 tag: talk
 pubdate: "2020"
