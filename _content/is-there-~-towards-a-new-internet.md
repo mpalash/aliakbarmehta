@@ -5,6 +5,7 @@ layout: content
 tag: talk
 pubdate: "2020"
 hero: assets/img/ali-akbar-mehta_online-program-05_myymala2_2020.jpg
+parent: 256 ~ Is there a room with just a colour?
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KVWLl6oqYQg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
