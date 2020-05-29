@@ -19,7 +19,8 @@ summary: >-
 
   By transforming the commonplace ‘survey questionnaire’ into a diverse communication interface, the project subverts the problematic usage of questionnaires as bureaucratic tools for data collection. With particular emphasis on questions of gender, sexuality, class, and citizenship, it reveals the presence of violence – in routine everyday questions, and in everyday life. Through 50 questions gathered from various bureaucratic forms, the project facilitates an ‘encounter of equals’ and serves as a witness, a therapist, and a mirror, creating a new vocabulary of colour in the context of violence.
 parent: 256 Million Colours of Violence
-children: []
+children:
+  - "Is there ~ Towards a New Internet "
 ---
 
 
