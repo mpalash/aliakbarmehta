@@ -2,7 +2,7 @@
 title: Central ~ Central Park Archives, announcement
 subtitle: local/online residency w/ mcult, Helsinki
 layout: content
-tag: residency
+tag: resource
 pubdate: "2020"
 parent: Central Park Archives
 ---
