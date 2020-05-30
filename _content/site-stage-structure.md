@@ -1,34 +1,34 @@
 ---
-title: 'SITE : STAGE : STRUCTURE'
+title: "SITE : STAGE : STRUCTURE"
 layout: content
 tag: past project
-pubdate: '2014'
+pubdate: "2014"
 hero: /assets/img/mazgaon-docks.jpg
-summary: >-
-  SITE : STAGE : STRUCTURE is an archival documentary project. It is a
+summary: "SITE : STAGE : STRUCTURE is an archival documentary project. It is a
   Transmedia Installation that integrates books, objects, photographs, short
   films, audio narratives, and heritage walks as a way of revitalizing memories
-  and telling a history that is absent from the formal narratives.
+  and telling a history that is absent from the formal narratives."
 children:
-  - 'sss ~ SITE : STAGE : STRUCTURE'
+  - "sss ~ SITE : STAGE : STRUCTURE"
   - sss ~ The Possibility of Alienation
-  - 'sss ~ SITE : STAGE : STRUCTURE, Clark House, Mumbai'
-  - 'sss ~ Artist Book #1: Performers of Mazgaon'
-  - 'sss ~ Artist Book #2: Daarukhana'
-  - 'sss ~ Artist Book #3: Kwan Tai Shek'
+  - "sss ~ SITE : STAGE : STRUCTURE, Clark House, Mumbai"
+  - "sss ~ Artist Book #1: Performers of Mazgaon"
+  - "sss ~ Artist Book #2: Daarukhana"
+  - "sss ~ Artist Book #3: Kwan Tai Shek"
   - sss ~ Kwan Tai Shek Temple
   - sss ~ Mazgaon Interviews – Fakhruddin and Khateeja Merchant
   - sss ~ Mathar Pacady Interviews – Uncle Martin
   - sss ~ Mathar Pacady Interviews – Mr. Julius Valladares
   - sss ~ Mathar Pacady Interviews – Aunty Tessi
   - sss ~ Paintings
-  - 'sss ~ FOLKARCHIVE: Ali Akbar Mehta'
+  - "sss ~ FOLKARCHIVE: Ali Akbar Mehta"
   - sss ~ Memory and the Maximum City
-  - 'sss ~ Odes and Inquisitions: Sino-Indian Connections in Recent Indian Art'
+  - "sss ~ Odes and Inquisitions: Sino-Indian Connections in Recent Indian Art"
   - sss ~ Chinese fortunes and other Mumbai memories
   - sss ~ Memory & the Maximum City
+  - sss~ Making Space
   - sss ~ Interview
-  - 'sss ~ The BB Art Showcase: Ali Akbar Mehta'
+  - "sss ~ The BB Art Showcase: Ali Akbar Mehta"
   - sss ~ The Possibility Of Alienation – Ali Akbar Mehta
   - sss ~ Site Specific
   - sss ~ Hidden Histories of Mazgoan
