@@ -2,7 +2,7 @@
 title: An Ode to Erkki Kurenniemi
 subtitle: Essay by Ali Akbar Mehta
 layout: content
-tag: text
+tag: unpublished
 pubdate: "2018"
 hero: assets/img/erkkikurenniemi.jpg
 children: []
