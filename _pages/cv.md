@@ -29,15 +29,15 @@ He lives and works in Helsinki and Mumbai.
 
 ## Experience
 
-**co-Artistic Director**, Museum of Impossible Forms, Helsinki, 2018-2020
+**co-Artistic Director**, [Museum of Impossible Forms](https://museumofimpossibleforms.org/), Helsinki, 2018-2020
 
-**Associate Curator**, Helsinki International Artist program (HIAP), Helsinki, 2020
+**Associate Curator**, [Helsinki International Artist program (HIAP)](https://www.hiap.fi/), Helsinki, 2020
 
-**Artistic Producer**, Mediakulttuuriyhdistys m-cult Ry, Helsinki, 2019
+**Artistic Producer**, [Mediakulttuuriyhdistys m-cult Ry](https://www.m-cult.org/), Helsinki, 2019
 
 **Guest Lecturer**, Aalto University, Helsinki, 2018
 
-**Guest Lecturer**, Whistling Woods International Institute of Film, communication and Media Arts, Mumbai, 2014
+**Guest Lecturer**, [Whistling Woods International Institute of Film, communication and Media Arts](https://www.whistlingwoods.net/), Mumbai, 2014
 
 **Head of Post production**, Composite films, 2011-2014
 
@@ -61,8 +61,6 @@ Contemporary Ruins of Kruunuvuori: The Perfect Ghosts of Helsinki
 
 New Frontiers: Critical inquiries for archives as Artistic Praxis
 
-
-
 \*
 
 ## Performance
@@ -73,7 +71,7 @@ New Frontiers: Critical inquiries for archives as Artistic Praxis
 
 **direct-contact**//feedback, Pixelache Festival, Helsinki, 2019
 
-**Narrating WAR**, Experimental Event VI, curated by Anna Jensen and Andrea Coyotzi Borja, a collateral event of Pori Film Festival, Pori, 2018
+**Narrating WAR**, [Experimental Event VI – La Torre de Babel](https://research.aalto.fi/en/publications/the-experimental-event-vi-tower-of-babel(659acfb5-e997-47ae-a71d-83144d8f041d).html), curated by Anna Jensen and Andrea Coyotzi Borja, a collateral event of Pori Film Festival, Pori, 2018
 
 **Narrating WAR**, Carincarina, Nova Gorica, 2018
 
