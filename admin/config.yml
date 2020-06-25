@@ -27,8 +27,6 @@ collections: # A list of collections the CMS should be able to edit
       - label: "Body"
         name: "body"
         widget: "markdown"
-    meta: # Meta data fields. Just like fields, but without any preview element
-      - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss"}
   - name: "content" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Content" # Used in the UI, ie.: "New Post"
     folder: "_content" # The path to the folder where the documents are stored
@@ -80,5 +78,3 @@ collections: # A list of collections the CMS should be able to edit
         required: false
         widget: "list"
         field: {label: "Content", name: "children", widget: "relation", collection: "content", searchFields: ["title"], valueField: "title", displayFields: ["title"]}
-    meta: # Meta data fields. Just like fields, but without any preview element
-      - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss"}
