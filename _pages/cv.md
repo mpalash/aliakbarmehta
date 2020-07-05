@@ -29,6 +29,8 @@ He lives and works in Helsinki and Mumbai.
 
 ## Experience
 
+**Associate Curator***,* [Helsinki International Artist program](https://www.hiap.fi/) (HIAP), Helsinki
+
 **co-Artistic Director**, [Museum of Impossible Forms](https://museumofimpossibleforms.org/), Helsinki, 2018-2020
 
 **Associate Curator**, [Helsinki International Artist program (HIAP)](https://www.hiap.fi/), Helsinki, 2020
