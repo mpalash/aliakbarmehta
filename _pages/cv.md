@@ -187,39 +187,39 @@ New Frontiers: Critical inquiries for archives as Artistic Praxis
 
 2015 | **Cisspace: Construct(ed.)**, Otaniemi Recycling Center, Espoo
 
-2014 | **Infinite**, TAO Art Gallery, Mumbai, 2014
+2014 | **Infinite**, TAO Art Gallery, Mumbai
 
-2013 | **Small is Beautiful – II**, TAO Art Gallery, Mumbai, 2013
+2013 | **Small is Beautiful – II**, TAO Art Gallery, Mumbai
 
-2013 | **Beyond the Canvas**, ­Curated by Kalpana Shah and Sapna Kar, TAO Art Gallery, Mumbai, 2013
+2013 | **Beyond the Canvas**, ­Curated by Kalpana Shah and Sapna Kar, TAO Art Gallery, Mumbai
 
-2013 | **Tagore Lost and Found**, Curated by Bina Sarkar Ellias, IndiaBulls Art Gallery and Auction House, New Delhi, 2013
+2013 | **Tagore Lost and Found**, Curated by Bina Sarkar Ellias, IndiaBulls Art Gallery and Auction House, New Delhi
 
-2013 | **Equilibrium**, TAO Art Gallery, Mumbai, 2013
+2013 | **Equilibrium**, TAO Art Gallery, Mumbai
 
-2012 | **Synergy**, TAO Art Gallery, Mumbai, 2012
+2012 | **Synergy**, TAO Art Gallery, Mumbai
 
-2012 | **Small is Beautiful**, TAO Art Gallery, Mumbai, 2012
+2012 | **Small is Beautiful**, TAO Art Gallery, Mumbai
 
 2010 | **Three New Voices: Dimensions in Time & Space**, Art Heritage, New Delhi
 
-2010 | **April Salon**, Galerie Mirchandani + Steinruecke, Mumbai, 2010
+2010 | **April Salon**, Galerie Mirchandani + Steinruecke, Mumbai
 
-2010 | **Evolve**, TAO Art Gallery, Mumbai, 2010
+2010 | **Evolve**, TAO Art Gallery, Mumbai
 
-**Gems of India***,* Unicorn Art Gallery, Dubai, 2009
+2009 | **Gems of India***,* Unicorn Art Gallery, Dubai
 
-**India on Canvas,** charity auction, New Delhi, 2009
+2009 | **India on Canvas,** charity auction, New Delhi
 
-**The Kohinoor Selection***,* Unicorn Art Gallery, Dubai, 2008
+2008 | **The Kohinoor Selection***,* Unicorn Art Gallery, Dubai
 
-**Art for Justice and Peace**, Sabrang, Mumbai, 2008
+2008 | **Art for Justice and Peace**, Sabrang, Mumbai
 
-**Art Smart**, Mumbai, and Delhi, 2008
+2008 | **Art Smart**, Mumbai, and Delhi
 
-**India on Canvas**, charity auction, Mumbai, 2007
+2007 | **India on Canvas**, charity auction, Mumbai
 
-**Celebrating India**, Treo Foundation, Delhi-Calcutta-Bangalore-Mumbai-New York, 2007
+2007 | **Celebrating India**, Treo Foundation, Delhi-Calcutta-Bangalore-Mumbai-New York
 
 \*
 
