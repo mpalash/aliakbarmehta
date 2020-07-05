@@ -33,17 +33,14 @@ summary: >-
   > Curated in collaboration with Marialaura Ghidini.
 
 
-  Read the transcript below:
+  *Read the transcript below:*
+
+
+  .
 ---
-> FRIDAY 1ST MAY
->
-> **ALI AKBAR MEHTA**
->
-> Ali Akbar Mehta is a media artist who creates immersive cyber archives to explore narratives of violence, conflict and trauma within the fictions of history, memory and identity. He is a founding member and co-artistic director of the Museum of Impossible Forms. (aliakbarmehta.com)
->
-> **\#PERFORMINGONLINESURVEYS**
->
->
+
+
+![](assets/img/ali-akbar-mehta_installation-view-is-there-a-room-with-just-a-colour-myymala2-helsinki-2020.jpg)
 
 *VC: Hi Ali. Good to see you after a long time.* 
 
