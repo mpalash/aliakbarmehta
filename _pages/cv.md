@@ -157,55 +157,55 @@ New Frontiers: Critical inquiries for archives as Artistic Praxis
 
 *(upcoming) –* **To Err is Human**, Mäntä Art Festival 2020, Jyvaskylä, 2021
 
-**Meadow**, curated by Taru Elfving, Fiskars Village, 2020
+2020 | **Meadow**, curated by Taru Elfving, Fiskars Village
 
-**A Tapestry of Time**, TAO Art Gallery, Mumbai, 2020
+2020 | **A Tapestry of Time**, TAO Art Gallery, Mumbai
 
-**Making Space**, curated by Saloni Doshi, Sakshi Art Gallery, Mumbai, 2019
+2019 | **Making Space**, curated by Saloni Doshi, Sakshi Art Gallery, Mumbai
 
-**No Corners**, TAO Art Gallery, Mumbai, 2018
+2018 | **No Corners**, TAO Art Gallery, Mumbai
 
-**Assembly of Access**, TIFA, Pune, 2018
+2018 | **Assembly of Access**, TIFA, Pune
 
-**Partizaning Maunula**, Maunulatalo, Maunula, Helsinki, 2017
+2017 | **Partizaning Maunula**, Maunulatalo, Maunula, Helsinki
 
-**OUT 2**, Research Pavilion: The Utopia of Access, Venice Biennale, Venice, 2017
+2017 | **OUT 2**, Research Pavilion: The Utopia of Access, Venice Biennale, Venice
 
-**Ateria/The Meal**, URB 2017 + Kiasma Contemporary Art Museum, Helsinki, 2017
+2017 | **Ateria/The Meal**, URB 2017 + Kiasma Contemporary Art Museum, Helsinki
 
-**‘IS/NOT: Sculpture for the Post-Truth Era’,** Aalto University Learning Centre, Helsinki, Finland, 2017
+2017 | **IS/NOT: Sculpture for the Post-Truth Era,** Aalto University Learning Centre, Helsinki, Finland
 
-**Immersion 2016**, Aalto University, Espoo, 2016
+2016 | **Immersion 2016**, Aalto University, Espoo
 
-**Where Does Poetry Nest?**, curated by Giovanna Esposito Yussif, Galleria Emil, Tampere, 2016
+2016 | **Where Does Poetry Nest?**, curated by Giovanna Esposito Yussif, Galleria Emil, Tampere
 
-**Space Invaders IV: Heterotopia**, Espoo, 2016
+2016 | **Space Invaders IV: Heterotopia**, Espoo
 
-**SOAK**, D/func.t, Helsinki, 2016
+2016 | **SOAK**, D/func.t, Helsinki
 
-**\*Whose History is it anyway?**, Aalto University, Espoo, 2016
+2016 | **\*Whose History is it anyway?**, Aalto University, Espoo
 
-**Cisspace: Construct(ed.)**, Otaniemi Recycling Center, Espoo, 2015
+2015 | **Cisspace: Construct(ed.)**, Otaniemi Recycling Center, Espoo
 
-**Infinite**, TAO Art Gallery, Mumbai, 2014
+2014 | **Infinite**, TAO Art Gallery, Mumbai, 2014
 
-**Small is Beautiful – II**, TAO Art Gallery, Mumbai, 2013
+2013 | **Small is Beautiful – II**, TAO Art Gallery, Mumbai, 2013
 
-**Beyond the Canvas**, ­Curated by Kalpana Shah and Sapna Kar, TAO Art Gallery, Mumbai, 2013
+2013 | **Beyond the Canvas**, ­Curated by Kalpana Shah and Sapna Kar, TAO Art Gallery, Mumbai, 2013
 
-**Tagore Lost and Found**, Curated by Bina Sarkar Ellias, IndiaBulls Art Gallery and Auction House, New Delhi, 2013
+2013 | **Tagore Lost and Found**, Curated by Bina Sarkar Ellias, IndiaBulls Art Gallery and Auction House, New Delhi, 2013
 
-**Equilibrium**, TAO Art Gallery, Mumbai, 2013
+2013 | **Equilibrium**, TAO Art Gallery, Mumbai, 2013
 
-**Synergy**, TAO Art Gallery, Mumbai, 2012
+2012 | **Synergy**, TAO Art Gallery, Mumbai, 2012
 
-**Small is Beautiful**, TAO Art Gallery, Mumbai, 2012
+2012 | **Small is Beautiful**, TAO Art Gallery, Mumbai, 2012
 
-**Three New Voices: Dimensions in Time & Space**, Art Heritage, New Delhi, 2010
+2010 | **Three New Voices: Dimensions in Time & Space**, Art Heritage, New Delhi
 
-**April Salon**, Galerie Mirchandani + Steinruecke, Mumbai, 2010
+2010 | **April Salon**, Galerie Mirchandani + Steinruecke, Mumbai, 2010
 
-**Evolve**, TAO Art Gallery, Mumbai, 2010
+2010 | **Evolve**, TAO Art Gallery, Mumbai, 2010
 
 **Gems of India***,* Unicorn Art Gallery, Dubai, 2009
 
