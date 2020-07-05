@@ -75,7 +75,7 @@ New Frontiers: Critical inquiries for archives as Artistic Praxis
 
 **Narrating WAR**, [Experimental Event VI – La Torre de Babel](https://research.aalto.fi/en/publications/the-experimental-event-vi-tower-of-babel(659acfb5-e997-47ae-a71d-83144d8f041d).html), curated by Anna Jensen and Andrea Coyotzi Borja, a collateral event of Pori Film Festival, Pori, 2018
 
-**Narrating WAR**, Carincarina, Nova Gorica, 2018
+**Narrating WAR**, [Carincarina](https://www.facebook.com/Carinarnica/), Nova Gorica, 2018
 
 **Narrating WAR**, Performance LAB VII, Museum of Impossible Forms, Helsinki, 2018
 
