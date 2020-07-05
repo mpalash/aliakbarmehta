@@ -7,11 +7,11 @@ permalink: /curriculum-vitae/
 
 (b. 1983, Mumbai, India)
 
-[Ali Akbar Mehta](http://www.aliakbarmehta.com) (b.1983, Mumbai) is a Transmedia artist, curator, and researcher. Through a research-based practice, he creates immersive cyber archives that map narratives of history, memory, and identity constructs through a multifocal lens of violence, conflict, and trauma. Such archival mappings – as drawings, paintings, new media works, net-based projects, poems, essays, and theoretical texts, as well as performances both of bodies and networks – are rooted in posthumanist critical theories of making visible hegemonic power relations and silenced historical materialism. His ongoing doctoral research, tentatively titled ‘Practicing Online Performativity: Constructing Politically Conscious Archives for the Future’, is interested in exploring the performative relations between online archives and its users through the mediated interventions of Second Order Cybernetics, to create knowledge systems that outline a vibrant new political public sphere.
+[Ali Akbar Mehta](http://www.aliakbarmehta.com) (b.1983, Mumbai) is a Transmedia artist, curator, and researcher. Through a research-based practice, he creates immersive cyber archives that map narratives of history, memory, and identity constructs through a multifocal lens of violence, conflict, and trauma. Such archival mappings – as drawings, paintings, new media works, net-based projects, poems, essays, and theoretical texts, as well as performances both of bodies and networks – are rooted in datafeminst and posthumanist critical theories of making visible hegemonic power relations and silenced historical materialism. His ongoing doctoral research, tentatively titled ‘Practicing Online Performativity: Constructing Politically Conscious Archives for the Future’, is interested in exploring the performative relations between online archives and its users through the mediated interventions of Second Order Cybernetics, to create knowledge systems that outline a vibrant new political public sphere.
 
-His [work](https://aliakbarmehta.com/curriculum-vitae) as performances, installations, and talks have been exhibited in galleries and alternative spaces in Mumbai, New Delhi, Pune, Helsinki, Tampere, Pori, Venice, Nova Gorica, Vienna, and Jyväskylä. Several of his projects, such as [256 Million Colours of Violence](http://www.256millioncoloursofviolence.com/), [Outsiders at Work](https://outsidersatwork.wordpress.com/), Ballad of the Lost Utopian Meadow, and Central Park Archives, exist as permanent ongoing online projects.
+His work as performances, installations, and talks have been exhibited in galleries and alternative spaces in Mumbai, New Delhi, Pune, Helsinki, Tampere, Pori, Venice, Nova Gorica, Vienna, and Jyväskylä. Several of his projects, such as [256 Million Colours of Violence](http://www.256millioncoloursofviolence.com/), [Outsiders at Work](https://outsidersatwork.wordpress.com/), [Ballad of the Lost Utopian Meadow](https://www.thelostutopianmeadow.com/), and [Central Park Archives](https://www.m-cult.org/index.php/productions/central-park-archives), exist as permanent ongoing online projects.
 
-He is co-founder, and co-Artistic Director (w/ Marianne Savallampi) of [Museum of Impossible Forms](https://museumofimpossibleforms.org/), Helsinki, an anti-racist queer feminist project, a board member of [Kiila ry](http://kiila.eu/), and pursuing his Doctoral Research in the Contemporary Art Department at [Aalto University](https://www.aalto.fi/), Helsinki. He holds a BFA in Drawing & Painting from the [Sir J.J. School of Art,](http://www.sirjjschoolofart.in/) Mumbai, and an MA in Visual Culture, Curating, and Contemporary Art from Aalto University, Helsinki, Finland, where he completed a thesis text titled ‘Cyber Archive: Being and Doing Knowledge’. 
+He is co-founder, and co-Artistic Director (2018-2020) of [Museum of Impossible Forms](https://museumofimpossibleforms.org/), an anti-racist queer feminist project and cultural center in Kontula, Helsinki, a board member of [Kiila ry](http://kiila.eu/), and is pursuing his Doctoral Research in the Contemporary Art Department at [Aalto University](https://www.aalto.fi/), Helsinki. He holds a BFA in Drawing & Painting from [Sir J.J. School of Art,](http://www.sirjjschoolofart.in/) Mumbai (2005), and an MA in Visual Culture, Curating, and Contemporary Art from Aalto University, Helsinki, Finland (2018), where he completed a thesis text titled ‘Cyber Archive: Being and Doing Knowledge’. 
 
 He lives and works in Helsinki and Mumbai.
 
@@ -65,17 +65,19 @@ New Frontiers: Critical inquiries for archives as Artistic Praxis
 
 ## Performance
 
-*(upcoming)* **Narrating WAR**, Turku Performance Festival, Turku, 2020
+*(upcoming)* **Narrating WAR**, New Performance Festival, Turku, 2020
 
-**Narrating WAR**, Relational Figures, Myymälä2, Helsinki, 2019
+**Glitchverse**, [Souja/Shelter Festival 2020](http://suojashelter.tilda.ws/), Helsinki (online), 2020
 
-**direct-contact**//feedback, Pixelache Festival, Helsinki, 2019
+**Narrating WAR**, [Relational Figures](http://www.myymala2.com/?page_id=4932), Myymälä2, Helsinki, 2019
+
+**direct-contact//feedback**, [Pixelache Festival 2019: Breaking the fifth Wall](https://breaking5thwall.pixelache.ac/festivals/breaking5thwall/pixelache-festival-2019-breaking-the-fifth-wall-press-release), Helsinki, 2019
 
 **Narrating WAR**, [Experimental Event VI – La Torre de Babel](https://research.aalto.fi/en/publications/the-experimental-event-vi-tower-of-babel(659acfb5-e997-47ae-a71d-83144d8f041d).html), curated by Anna Jensen and Andrea Coyotzi Borja, a collateral event of Pori Film Festival, Pori, 2018
 
 **Narrating WAR**, Carincarina, Nova Gorica, 2018
 
-**Narrating WAR**, Museum of Impossible Forms, Helsinki, 2018
+**Narrating WAR**, Performance LAB VII, Museum of Impossible Forms, Helsinki, 2018
 
 **Cyborg Archives: *GarbageInGarbageOut***, TIFA Working Studios, Pune, 2018
 
@@ -93,9 +95,11 @@ New Frontiers: Critical inquiries for archives as Artistic Praxis
 
 \*
 
-## Artist Talks - Panel Discussions
+## Artist Talks and Panel Discussions
 
-*(cancelled)* **Museum as Commons**, Creative Commons Summit 2020, Lisbon, Portugal, 2020
+*(upcoming)* **Museum of Impossible Forms and the margin as a site of alternative knowledge production,** Tutkijaliitto Summer School, Nurmijärvi, 2020
+
+*(upcoming)* **Museum as Commons**, Creative Commons Summit 2020, Lisbon, Portugal, 2020
 
 *(cancelled),* **From Margins to Museums**, University of Tampere, Tampere, 2020
 
@@ -149,9 +153,9 @@ New Frontiers: Critical inquiries for archives as Artistic Praxis
 
 ## Select Group Exhibitions
 
-**Meadow**, curated by Taru Elfving, Fiskars Village, 2020
+*(upcoming) –* **To Err is Human**, Mäntä Art Festival 2020, Jyvaskylä, 2021
 
-*(postponed) –* **To Err is Human**, Mäntä Art Festival 2020, Jyvaskylä, 2020
+**Meadow**, curated by Taru Elfving, Fiskars Village, 2020
 
 **A Tapestry of Time**, TAO Art Gallery, Mumbai, 2020
 
@@ -225,7 +229,9 @@ New Frontiers: Critical inquiries for archives as Artistic Praxis
 
 ## Curatorial
 
-*(upcoming)* **Educate-Agitate-Organise: Summerschool 2020,** Museum of Impossible Forms, Helsinki, 2020 
+*(upcoming)* **Educate-Agitate-Organise,** Museum of Impossible Forms, Helsinki, 2020 
+
+*(upcoming)* **Open Studio: HIAP Summer Residency 2020**, Helsinki Internatonal Artist Programme (HIAP), Helsinki, 2020
 
 **Vidisha Fadescha: Party, a tool for Care – curated by Ali Akbar Mehta**, \*\*\*\*part of Today Is Our Tomorrow Festival, organised by PUBLICS, Helsinki, 2019
 
@@ -246,6 +252,8 @@ New Frontiers: Critical inquiries for archives as Artistic Praxis
 *(Upcoming)* **The Shape of Museums to Come**, The Museum of the Future. 43 New Contributions to the Discussion about the Future of the Museum, (ed) Nora Sternfeld, 2020
 
 *(Upcoming)* **Museum of Impossible Forms: Voicing the Margins**, From Margins to Museums, (ed) Anna Rastas, Tampere University, 2020
+
+**Walkin the Portal**, Walkin Studios, Bengaluru, 2020
 
 **Atlas of Lost Beliefs (for Insurgents, Citizens, & Untitled Bodies), curatorial text 2019-20,** Museum of Impossible Forms, 2019
 
