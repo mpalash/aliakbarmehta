@@ -5,11 +5,7 @@ tag: individual work
 pubdate: "2013"
 summary: >-
   ![](assets/img/sketch-for-unselfed-i-2014-digital-drawing.jpg)
-
-
   ![](assets/img/sketch-for-unselfed-ii-2014-digital-drawing.jpg)
-
-
   ![](assets/img/sketch-for-unselfed-iii-2014-digital-drawing.jpg)
 
 
