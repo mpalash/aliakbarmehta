@@ -47,14 +47,22 @@ He lives and works in Helsinki and Mumbai.
 
 ## Current Projects
 
-- [ ] Practicing Online Performativity: Constructing Politically Conscious Archives for the Future, _Doctoral research_
-- [ ] Central Park Archives _w/ Suzanna Ånäs, produced by mcult_
-- [ ] Ballad of the Lost Utopian Meadow ([www.thelostutopianmeadow.com](https://www.thelostutopianmeadow.com/))
-- [ ] WAR • ROOM • ECHO : Regarding the Pain of _Other_ Cyborgs
-- [ ] 256 Million Colours of Violence ([www.256millioncoloursofviolence.com](www.256millioncoloursofviolence.com))
-- [ ] Outsiders at Work ([www.outsidersatwork.wordpress.com](www.outsidersatwork.wordpress.com))
-- [ ] Contemporary Ruins of Kruunuvuori: The Perfect Ghosts of Helsinki
-- [ ] New Frontiers: Critical inquiries for archives as Artistic Praxis
+Practicing Online Performativity: Constructing Politically Conscious Archives for the Future, *Doctoral research*
+
+Central Park Archives *w/ Suzanna Ånäs, produced by mcult*
+
+Ballad of the Lost Utopian Meadow ([www.thelostutopianmeadow.com](https://www.thelostutopianmeadow.com/))
+
+WAR • ROOM • ECHO : Regarding the Pain of *Other* Cyborgs
+
+256 Million Colours of Violence ([www.256millioncoloursofviolence.com](www.256millioncoloursofviolence.com))
+
+Outsiders at Work ([www.outsidersatwork.wordpress.com](www.outsidersatwork.wordpress.com))
+
+Contemporary Ruins of Kruunuvuori: The Perfect Ghosts of Helsinki
+
+New Frontiers: Critical inquiries for archives as Artistic Praxis
+
 \*
 
 ## Performance
