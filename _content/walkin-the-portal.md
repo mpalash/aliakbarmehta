@@ -38,27 +38,25 @@ summary: >-
 
   .
 ---
-
-
 ![](assets/img/ali-akbar-mehta_installation-view-is-there-a-room-with-just-a-colour-myymala2-helsinki-2020.jpg)
 
-*VC: Hi Ali. Good to see you after a long time.* 
+**VC: Hi Ali. Good to see you after a long time.** 
 
 AAM: Hi. How are you?
 
-*VC: I’m good, how are you?*
+**VC: I’m good, how are you?**
 
 AAM: Good, good. \[smiles]
 
-*VC: Okay, let’s go straight to the interview since we are limited by time.*
+**VC: Okay, let’s go straight to the interview since we are limited by time.**
 
-*Today data has become the highest valued commodity in the world. With your project “256 million colours of violence” you explore how data is collected online, while also addressing our understanding of violence. I am fascinated by the fact you used the format of the online survey to subvert the idea of data collection. You say the project wants to facilitate an “encounter of equals.” Can you tell me more about how the project works, and how this encounter of equals happens?*
+**Today data has become the highest valued commodity in the world. With your project “256 million colours of violence” you explore how data is collected online, while also addressing our understanding of violence. I am fascinated by the fact you used the format of the online survey to subvert the idea of data collection. You say the project wants to facilitate an “encounter of equals.” Can you tell me more about how the project works, and how this encounter of equals happens?**
 
 AAM: The core of the project is the questionnaire. It asks participants to answer to a series of fifty questions related to what the colour of violence might be according to them. They are everyday questions that we are all confronted with on a daily basis, and they are meant to reveal and sensitise participants to the existence and the presence of violence that surrounds us. The subversion that you talked about is firstly to recognise that most surveys are conducted as a one-way stream of information gathering and data collection. This process is for the benefit of governments, bureaucratic systems, corporate entities, and so on so forth. So, the questions are, “How can this process be democratised? How can we create a system that does not function as a one-way stream of information collection?” The project’s aim is to transform the questionnaire into a platform that facilitates a dialogue between the participants and the survey. And this is done through an archive of information and notes that are embedded within it.
 
 For me, the encounter of equals actually happens when there is a certain process of co-learning, of co-developing, and therefore co-archiving the colours of violence, instead of participants blindly being requested to give out information, as is usually the case. The encounter of equals also represents a mode of thinking that originates from the idea of the subaltern, and their ability, or lack of their ability, to speak — theirs and ours. It can be also understood as learning to learn from below, or how to work together. The idea of this encounter is to essentially facilitate an exchange of knowledges and information.
 
-*VC: You have been researching this project for four years. I went through the survey on the website and found it pretty provocative. As a participant/user it made me go through endless possibilities for each of your questions. For example, the gender question had twenty options I could choose from. It made me analyse myself, like I was performing. How does this “encounter,” this way of engaging, create new forms of knowledge systems?*
+**VC: You have been researching this project for four years. I went through the survey on the website and found it pretty provocative. As a participant/user it made me go through endless possibilities for each of your questions. For example, the gender question had twenty options I could choose from. It made me analyse myself, like I was performing. How does this “encounter,” this way of engaging, create new forms of knowledge systems?**
 
 AAM: I actually started thinking about the project in 2012, but I could only start working on it in 2016 when I came to Helsinki. Here I met Palash Mukhopadhyay, who has been a fundamental part of the process of developing this work. Right from the beginning, he actually transformed the conceptual idea into an online experience. And I think that the project would have not been possible without his inputs and his thinking. Before this, the project never really moved forward. During these years, I have been populating the website and the questionnaire. The idea is that for each question you have many options, like the question for gender that you mentioned — it has over one hundred options where otherwise, in most surveys, you would have male, female and, if you are lucky, other. For me, gender as a form, or as a way of identifying oneself, cannot be reduced to that binary, and even the extension to ‘other’ is an oversimplification. It is very important then to start thinking about the ways we seek to identify ourselves in very nuanced ways, and so the format of the questionnaire.
 
@@ -70,19 +68,19 @@ In my Ph.D. at Aalto university, I am looking at the relationship between archiv
 
 They generate a kind of agency within us, and us, as people who are interacting with them, generate their own agency. So it is a reciprocate relationship. When I am talking about this idea of knowledge systems, I am reflecting on the fact that although we have had the data or the cultural tools to know ourselves very intimately for a very long time now, our data are highly fragmented. So maybe a new knowledge system, or a new form of the internet, would allow us to defragment these data into more understandable and accessible ways of both interfacing with the data and with ourselves.
 
-*VC: We are in the 38th day of lockdown in India, with our civil liberties heavily curbed. We are on the internet more than ever, giving out our data while being fed information that is designed specifically for each of us. Our online behaviours are monitored and collected so that we are often exposed to very narrow sets of information tailored to us. Your project does the opposite — it proposes multiple narratives. Can you explain this emphasis on multiple narratives?*
+**VC: We are in the 38th day of lockdown in India, with our civil liberties heavily curbed. We are on the internet more than ever, giving out our data while being fed information that is designed specifically for each of us. Our online behaviours are monitored and collected so that we are often exposed to very narrow sets of information tailored to us. Your project does the opposite — it proposes multiple narratives. Can you explain this emphasis on multiple narratives?**
 
 AAM: I think that both in the context of governments and social media companies, as well as those organisations that are seeking to algorithmically force-feed data to us, there is a drive that dictates that data is now more valuable than anything else in the world. Then data becomes a source of both financial and political power. The ways in which we are interfacing with online spaces, especially when we are looking at something like the eyeball economy, is basically saying that attention is currency. But then, whose attention is garnered? Whose attention is sought? What forms of data then become more important, or more powerful than others? These are very political questions and there is no singular form or response that can be given. This situation is also saying that the ways in which these governments and bureaucratic systems function are very similar to laboratory-style ways of conducting surveys, where the test subjects are also a very carefully selected group of individuals. But the real world does not function like that. And so, in that sense, the emphasis of the project on multiple narratives says that there cannot be a single answer; there cannot be a single colour of violence; there cannot be a singular way in which we construct our identities. At the heart of it, the project is also a celebration of the plurality of our humanity. \[smiles]
 
-*VC: If I say the word ‘portal,’ what comes to your mind?*
+**VC: If I say the word ‘portal,’ what comes to your mind?**
 
 AAM: \[smiles] Well, as a major science fiction buff, the first thing I would think of is teleportation devices — something that I have been hoping would be part of our realities since I was thirteen years old. \[laughs] But, in relation to what we have been talking about so far also, you can look at the internet as a portal, or books for that matter, because they allow for a certain kind of teleportation into another time or space. I think the idea of the portal, outside its science fiction manifestations, is a certain realisation, or a certain presence of empathy, of being able to think about ourselves as well as the other in a kind of sympathetic form of coexistence. That is what a portal would be to me. \[smiles]
 
-*VC: There is the myth that habits are formed by completing a task for 21 days in a row. Although this is a myth, which habits do you think you have developed during the lockdown?*
+**VC: There is the myth that habits are formed by completing a task for 21 days in a row. Although this is a myth, which habits do you think you have developed during the lockdown?**
 
 AAM: There has definitely been a kind of increase of my sense alertness and borderline paranoia regarding closeness to people \[smiles], and I think that is something that has been fed to us by these ideas, or rules, of how we are to conduct ourselves in this time. I feel that this is something I need to be aware of, not for it to take over my thinking and emotional state.
 
-*VC: To end our interview, and go back to where we started, do you think we will ascend, descend, go straightaway, or take new directions?*
+**VC: To end our interview, and go back to where we started, do you think we will ascend, descend, go straightaway, or take new directions?**
 
 AAM: Well... \[pauses] maybe I’ll just read a response that Homi \[K.] Bhabha had to this idea of the between and the beyond. He says that “In-between spaces provide the terrain for elaborating strategies of selfhood, singular or communal, that have initiated new signs of identity and innovative sites of collaboration and contestation in the act of defining the idea of society itself.”
 
@@ -90,14 +88,14 @@ So that’s the in-between. But then he says, “It is the trope of our times to
 
 So I see this idea of ‘the beyond’ and its relationship with the between as a kind of interstitial space, or a non-space almost: I see it as a kind of new horizon, and a new unknown. And these are things we need to talk about in the context of new directions.
 
-*VC: Thank you Ali. Let’s look at the comments and questions from the audience.*
+**VC: Thank you Ali. Let’s look at the comments and questions from the audience.**
 
-*sultana_zana: Could you give an example of a question in a questionnaire that you particularly like? Or a concept that you spend time with to form a question around?*
+**sultana_zana: Could you give an example of a question in a questionnaire that you particularly like? Or a concept that you spend time with to form a question around?**
 
 AAM: Personally, I really liked questions 47 A and 47 B \[laughs], which essentially list a series of forms of violence that you may have confronted or you may have experienced. 47 A is from the perspective of a victim or a survivor of that form of violence, whereas 47 B is about experiences that you may have confronted as an oppressor. The options are basically the same. In this regard, it’s been very interesting for me talking to people who participated in the survey afterwards. For most people, a form of violence experienced as a survivor has very different connotations than having perpetrated the same. For example, you would get yelled at by your boss at work, that is a form of violence that you are very conscious of. But then you would yell at your taxi driver or someone who is in a ‘lower’ position, economically or in some other ways, and you don’t really think of that as being violent. For me these two questions really highlight that being either the oppressor or the oppressed is highly relative and subjective to our position in specific contexts. And in a way, really, I think it helps to sensitise people, to make people think of certain relationships in society. That is a very important question for me.
 
-*kanmaniponmani: \[heartface emoji]*
+**kanmaniponmani: \[heartface emoji]**
 
-*VC: Thank you for your thoughts Ali. Audience please go see Ali’s website. It’s totally worth your time!*
+**VC: Thank you for your thoughts Ali. Audience please go see Ali’s website. It’s totally worth your time!**
 
 AAM: Thank you. Bye.
