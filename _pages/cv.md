@@ -11,11 +11,11 @@ permalink: /curriculum-vitae/
 
 His work as performances, installations, and talks have been exhibited in galleries and alternative spaces in Mumbai, New Delhi, Pune, Helsinki, Tampere, Pori, Venice, Nova Gorica, Vienna, and Jyväskylä. Several of his projects, such as [256 Million Colours of Violence](http://www.256millioncoloursofviolence.com/), [Outsiders at Work](https://outsidersatwork.wordpress.com/), [Ballad of the Lost Utopian Meadow](https://www.thelostutopianmeadow.com/), and [Central Park Archives](https://www.m-cult.org/index.php/productions/central-park-archives), exist as permanent ongoing online projects.
 
-He is co-founder, and co-Artistic Director (2018-2020) of [Museum of Impossible Forms](https://museumofimpossibleforms.org/), an anti-racist queer feminist project and cultural center in Kontula, Helsinki, a board member of [Kiila ry](http://kiila.eu/), and is pursuing his Doctoral Research in the Contemporary Art Department at [Aalto University](https://www.aalto.fi/), Helsinki. He holds a BFA in Drawing & Painting from [Sir J.J. School of Art,](http://www.sirjjschoolofart.in/) Mumbai (2005), and an MA in Visual Culture, Curating, and Contemporary Art from Aalto University, Helsinki, Finland (2018), where he completed a thesis text titled ‘Cyber Archive: Being and Doing Knowledge’. 
+He is co-founder, and co-Artistic Director (2018-2020) of [Museum of Impossible Forms](https://museumofimpossibleforms.org/), an anti-racist queer feminist project and cultural center in Kontula, Helsinki, a board member of [Kiila ry](http://kiila.eu/), and is pursuing his Doctoral Research in the Contemporary Art Department at [Aalto University](https://www.aalto.fi/), Helsinki. He holds a BFA in Drawing & Painting from [Sir J.J. School of Art,](http://www.sirjjschoolofart.in/) Mumbai (2005), and an MA in Visual Culture, Curating, and Contemporary Art from Aalto University, Helsinki, Finland (2018), where he completed a thesis text titled ‘Cyber Archive: Being and Doing Knowledge’.
 
 He lives and works in Helsinki and Mumbai.
 
-## \*
+*
 
 ## Education
 
@@ -25,7 +25,7 @@ He lives and works in Helsinki and Mumbai.
 
 2005 | **BFA** (Painting), Sir J.J. School of Art, Mumbai
 
-\*
+*
 
 ## Experience
 
@@ -43,7 +43,7 @@ He lives and works in Helsinki and Mumbai.
 
 2002-2006 | **Co-founder, Lead Animator and Artist**, Mareech Animated Design
 
-\*
+*
 
 ## Current Projects
 
@@ -63,7 +63,7 @@ Contemporary Ruins of Kruunuvuori: The Perfect Ghosts of Helsinki
 
 New Frontiers: Critical inquiries for archives as Artistic Praxis
 
-\*
+*
 
 ## Performance
 
@@ -95,7 +95,7 @@ New Frontiers: Critical inquiries for archives as Artistic Praxis
 
 2016 | **null.void**, Chimurenga Collective – Pan-African Space Station, Kallio Public Library, Helsinki
 
-\*
+*
 
 ## Artist Talks and Panel Discussions
 
@@ -135,7 +135,7 @@ New Frontiers: Critical inquiries for archives as Artistic Praxis
 
 2014 | **FOLKARCHIVE**, in conversation with Sumesh Sharma; moderated by Latika Gupta, Dr. Bhau Daji Lad City Museum, Mumbai
 
-\*
+*
 
 ## Solo Exhibitions
 
@@ -145,17 +145,17 @@ New Frontiers: Critical inquiries for archives as Artistic Praxis
 
 2016 | **256 Million Colours of Violence**, Third Space, Helsinki
 
-2014 | **SITE: STAGE: STRUCTURE**, Clark House Initiative, Mumbai, 
+2014 | **SITE: STAGE: STRUCTURE**, Clark House Initiative, Mumbai
 
-**Of Men and Supermen**, India Art Festival, presented by TAO Art Gallery, Mumbai, 
+2012 | **Of Men and Supermen**, India Art Festival, presented by TAO Art Gallery, Mumbai
 
-**The Ballad of The War that Never Was, and other Bastardized Myths**, TAO Art Gallery, Mumbai, 2011
+2011 | **The Ballad of The War that Never Was, and other Bastardized Myths**, TAO Art Gallery, Mumbai
 
-\*
+*
 
 ## Select Group Exhibitions
 
-*(upcoming) –* **To Err is Human**, Mäntä Art Festival 2021, Jyvaskylä
+*(upcoming)* **To Err is Human**, Mäntä Art Festival 2021, Jyvaskylä
 
 2020 | **Meadow**, curated by Taru Elfving, Fiskars Village
 
@@ -183,7 +183,7 @@ New Frontiers: Critical inquiries for archives as Artistic Praxis
 
 2016 | **SOAK**, D/func.t, Helsinki
 
-2016 | **\*Whose History is it anyway?**, Aalto University, Espoo
+2016 | _**\*Whose History is it anyway?**_, Aalto University, Espoo
 
 2015 | **Cisspace: Construct(ed.)**, Otaniemi Recycling Center, Espoo
 
@@ -221,27 +221,27 @@ New Frontiers: Critical inquiries for archives as Artistic Praxis
 
 2007 | **Celebrating India**, Treo Foundation, Delhi-Calcutta-Bangalore-Mumbai-New York
 
-\*
+*
 
 ## Public projects
 
 2015 | **TRINITY: Godrej Legacy Park Silos**, Godrej One, Mumbai, India
 
-\*
+*
 
 ## Curatorial
 
-*(upcoming)* **Educate-Agitate-Organise,** Museum of Impossible Forms, Helsinki, 2020 
+*(upcoming)* **Educate-Agitate-Organise,** Museum of Impossible Forms, Helsinki, 2020
 
-*(upcoming)* **Open Studio: HIAP Summer Residency 2020**, Helsinki Internatonal Artist Programme (HIAP), Helsinki, 2020
+2020 | **Open Studio: HIAP Summer Residency 2020**, Helsinki Internatonal Artist Programme (HIAP), Helsinki
 
-2019 | **Vidisha Fadescha: Party, a tool for Care – curated by Ali Akbar Mehta**, \*\*\*\*part of Today Is Our Tomorrow Festival, organised by PUBLICS, Helsinki
+2019 | **Vidisha Fadescha: Party, a tool for Care – curated by Ali Akbar Mehta**, part of Today Is Our Tomorrow Festival, organised by PUBLICS, Helsinki
 
 2016 | **MATERIAL///IMMATERIAL**, A: SPACE, Espoo, Finland
 
 2016 | **SOAK**, D/func.t, Helsinki, Finland
 
-\*
+*
 
 ## Publications and Texts
 
@@ -281,7 +281,7 @@ New Frontiers: Critical inquiries for archives as Artistic Praxis
 
 2011 | **A body split in two**, International Gallerie, Journal of Contemporary art, issue 30, (ed.) Bina Sarkar Ellias, Mumbai
 
-\*
+*
 
 ## Residencies
 
@@ -291,17 +291,17 @@ New Frontiers: Critical inquiries for archives as Artistic Praxis
 
 2012 | **SPACE 118**, Mumbai
 
-\*
+*
 
 ## Teaching
 
 2018 | Guest lecturer, ‘**Archiving: Histories of the Present**’, Visual Culture and Contemporary Art (ViCCA), Aalto University, Helsinki
 
-\| Guest Lecturer, Whistling Woods International Institute of Film, communication and Media Arts
+2018 | Guest Lecturer, Whistling Woods International Institute of Film, communication and Media Arts
 
-\| Regularly conducting drawing and painting workshops as part of various NGO activities and schools (for children of 10 to 15 years) Teach India, Dear Imagination, The Oberoi International IB School
+2011-2014 | Regularly conducting drawing and painting workshops as part of various NGO activities and schools (for children of 10 to 15 years) Teach India, Dear Imagination, The Oberoi International IB School
 
-\*
+*
 
 ## Other work Experience
 
