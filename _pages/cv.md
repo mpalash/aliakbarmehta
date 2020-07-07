@@ -15,7 +15,7 @@ He is co-founder, and co-Artistic Director (2018-2020) of [Museum of Impossible 
 
 He lives and works in Helsinki and Mumbai.
 
-*
+**\***
 
 ## Education
 
@@ -25,7 +25,7 @@ He lives and works in Helsinki and Mumbai.
 
 2005 | **BFA** (Painting), Sir J.J. School of Art, Mumbai
 
-*
+**\***
 
 ## Experience
 
@@ -43,7 +43,7 @@ He lives and works in Helsinki and Mumbai.
 
 2002-2006 | **Co-founder, Lead Animator and Artist**, Mareech Animated Design
 
-*
+**\***
 
 ## Current Projects
 
@@ -63,7 +63,7 @@ Contemporary Ruins of Kruunuvuori: The Perfect Ghosts of Helsinki
 
 New Frontiers: Critical inquiries for archives as Artistic Praxis
 
-*
+**\***
 
 ## Performance
 
@@ -95,7 +95,7 @@ New Frontiers: Critical inquiries for archives as Artistic Praxis
 
 2016 | **null.void**, Chimurenga Collective – Pan-African Space Station, Kallio Public Library, Helsinki
 
-*
+**\***
 
 ## Artist Talks and Panel Discussions
 
@@ -135,7 +135,7 @@ New Frontiers: Critical inquiries for archives as Artistic Praxis
 
 2014 | **FOLKARCHIVE**, in conversation with Sumesh Sharma; moderated by Latika Gupta, Dr. Bhau Daji Lad City Museum, Mumbai
 
-*
+**\***
 
 ## Solo Exhibitions
 
@@ -151,7 +151,7 @@ New Frontiers: Critical inquiries for archives as Artistic Praxis
 
 2011 | **The Ballad of The War that Never Was, and other Bastardized Myths**, TAO Art Gallery, Mumbai
 
-*
+**\***
 
 ## Select Group Exhibitions
 
@@ -183,7 +183,7 @@ New Frontiers: Critical inquiries for archives as Artistic Praxis
 
 2016 | **SOAK**, D/func.t, Helsinki
 
-2016 | _**\*Whose History is it anyway?**_, Aalto University, Espoo
+2016 | ***\*Whose History is it anyway?***, Aalto University, Espoo
 
 2015 | **Cisspace: Construct(ed.)**, Otaniemi Recycling Center, Espoo
 
@@ -221,13 +221,13 @@ New Frontiers: Critical inquiries for archives as Artistic Praxis
 
 2007 | **Celebrating India**, Treo Foundation, Delhi-Calcutta-Bangalore-Mumbai-New York
 
-*
+**\***
 
 ## Public projects
 
 2015 | **TRINITY: Godrej Legacy Park Silos**, Godrej One, Mumbai, India
 
-*
+**\***
 
 ## Curatorial
 
@@ -241,7 +241,7 @@ New Frontiers: Critical inquiries for archives as Artistic Praxis
 
 2016 | **SOAK**, D/func.t, Helsinki, Finland
 
-*
+**\***
 
 ## Publications and Texts
 
@@ -281,7 +281,7 @@ New Frontiers: Critical inquiries for archives as Artistic Praxis
 
 2011 | **A body split in two**, International Gallerie, Journal of Contemporary art, issue 30, (ed.) Bina Sarkar Ellias, Mumbai
 
-*
+**\***
 
 ## Residencies
 
@@ -291,7 +291,7 @@ New Frontiers: Critical inquiries for archives as Artistic Praxis
 
 2012 | **SPACE 118**, Mumbai
 
-*
+**\***
 
 ## Teaching
 
@@ -301,7 +301,7 @@ New Frontiers: Critical inquiries for archives as Artistic Praxis
 
 2011-2014 | Regularly conducting drawing and painting workshops as part of various NGO activities and schools (for children of 10 to 15 years) Teach India, Dear Imagination, The Oberoi International IB School
 
-*
+**\***
 
 ## Other work Experience
 
