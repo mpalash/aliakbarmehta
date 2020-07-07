@@ -39,7 +39,7 @@ He lives and works in Helsinki and Mumbai.
 
 2014 | **Guest Lecturer**, [Whistling Woods International Institute of Film, communication and Media Arts](https://www.whistlingwoods.net/), Mumbai
 
-\| **Head of Post production**, Composite films
+2014 | **Head of Post production**, Composite films
 
 2002-2006 | **Co-founder, Lead Animator and Artist**, Mareech Animated Design
 
