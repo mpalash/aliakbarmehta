@@ -30,12 +30,8 @@ The work will be in the form of a participatory performance installation, where 
 
 *– cited in* *[Chapati Revolution](https://en.wikipedia.org/wiki/Chapati_Movement?fbclid=IwAR2fpUqM89DBjbo-iN7wyL1n_Mi073fXFmWpqXSKBvvOw-FqzL7rOXGSxyU)*
 
-![](assets/img/installation-view-direct-contact_day-01_serving-table_2019.jpg)
-
-![]()
+![direct contact//feedback, installation view, SOLU Space, Helsinki, 2019](assets/img/installation-view-direct-contact_day-01_serving-table_2019.jpg)
 
 ![](assets/img/installation-view-direct-contact_pickle-achaar_2019.jpg)
-
 ![](assets/img/installation-view-direct-contact_clarified-butter-ghee_2019.jpg)
-
 ![](assets/img/installation-view-direct-contact_granulated-jaggery-gud_2019.jpg)
