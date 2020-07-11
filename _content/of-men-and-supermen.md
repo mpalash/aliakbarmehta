@@ -5,21 +5,12 @@ tag: past project
 pubdate: "2012"
 summary: >-
   ![](assets/img/ali-akbar-mehta-i-india-art-festival-2012_of-men-and-supermen-01-lenticular-and-vinyl-on-archival-mount-88-x-114-cm.gif)
-
-
   ![](assets/img/ali-akbar-mehta-i-india-art-festival-2012_of-men-and-supermen-02-lenticular-and-vinyl-on-archival-mount-88-x-114-cm.gif)
-
-
   ![](assets/img/ali-akbar-mehta-i-india-art-festival-2012_of-men-and-supermen-03-lenticular-and-vinyl-on-archival-mount-88-x-114-cm.gif.gif)
-
-
   ![](assets/img/ali-akbar-mehta-i-india-art-festival-2012_of-men-and-supermen-04-lenticular-and-vinyl-on-archival-mount-57-x-92-cm.gif)
-
-
   ![](assets/img/ali-akbar-mehta-i-india-art-festival-2012_of-men-and-supermen-05-lenticular-and-vinyl-on-archival-mount-57-x-92-cm.gif.gif)
-
-
   ![](assets/img/ali-akbar-mehta-i-india-art-festival-2012_of-men-and-supermen-06-lenticular-and-vinyl-on-archival-mount-57-x-92-cm.gif.gif)
+  
 children:
   - Of Men ~ Of Men and Supermen
   - Of Men ~ Visual Disobedience
