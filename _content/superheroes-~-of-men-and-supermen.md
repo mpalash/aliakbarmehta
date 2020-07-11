@@ -1,5 +1,5 @@
 ---
-title: Of Men ~ Of Men and Supermen
+title: superheroes ~ Of Men and Supermen
 subtitle: India Art Festival, by TAO Art Gallery, Mumbai, 2012
 layout: content
 tag: solo exhibition

@@ -1,5 +1,5 @@
 ---
-title: Of Men ~ Ali Akbar Mehta in conversation with Namrata Bhawnani
+title: Superheroes ~ Ali Akbar Mehta in conversation with Namrata Bhawnani
 layout: content
 tag: press
 pubdate: '2013'
@@ -22,7 +22,7 @@ summary: >-
   they belong to the periphery of our vision. The fictional percolates into the
   realm of the real, generating a new urban metascape and transforming people
   into the Superheroes of their own narratives.”
-  
+
 parent: 'The Superhero Series'
 ---
 The choice of the lenticular medium was crucial as it made the process transparent. Mehta explains, “Here people are able to see the original image and my interpretation of the work. The work is the engagement of reality and fiction.”  
