@@ -8,7 +8,7 @@ summary: >-
   artist and it’s not tough to see why he chose to make the island his base. The
   cosy sea-view apartment, with a balcony that overlooks a soothing green
   expanse, offers a sense of serenity in a chaotic city like Mumbai and is no
-  doubt a stimulating space for an artist.** 
+  doubt a stimulating space for an artist.**
 
 
   This enviable space’s resident, Mehta (29), recently showcased his lenticular
@@ -22,13 +22,13 @@ summary: >-
   they belong to the periphery of our vision. The fictional percolates into the
   realm of the real, generating a new urban metascape and transforming people
   into the Superheroes of their own narratives.”
-parent: Of Men and Supermen
+parent: 'The Superhero Series'
 ---
 The choice of the lenticular medium was crucial as it made the process transparent. Mehta explains, “Here people are able to see the original image and my interpretation of the work. The work is the engagement of reality and fiction.”  
 
 Mehta’s fascination with superheroes is the connecting link through his earlier works. In 2011, Tao Gallery hosted his first solo show titled The Ballad Of The War That Never Was And Other Bastardised Myths, a prolific mix of video, oil on canvas and digital art. Most of the 30 works found buyers and enthused a fresh young audience to experience the art.  
 
-The JJ school of art graduate explains why superheroes intrigue him, “The idea of the hero in the mythological context has fascinated me. The roots are from graphic novels, cartoons and comics. I’m deeply influenced by science-fiction, manga, anime, animation and so a lot of my visual vocabulary has been influenced by them. With the lenticular series, rather than me working with a very Indian popular heroic identity which may be Bollywoodish, I went with my understanding of what it means to be a superhero… Superman comics are a fable, not of strength, but of disintegration. They appeal to the preadolescent, (sic) mind not because they reiterate grandiose delusions, but because they reiterate a very deep cry for help. 
+The JJ school of art graduate explains why superheroes intrigue him, “The idea of the hero in the mythological context has fascinated me. The roots are from graphic novels, cartoons and comics. I’m deeply influenced by science-fiction, manga, anime, animation and so a lot of my visual vocabulary has been influenced by them. With the lenticular series, rather than me working with a very Indian popular heroic identity which may be Bollywoodish, I went with my understanding of what it means to be a superhero… Superman comics are a fable, not of strength, but of disintegration. They appeal to the preadolescent, (sic) mind not because they reiterate grandiose delusions, but because they reiterate a very deep cry for help.
 
 Now, a staple of the superhero mythology is, there’s the superhero and there’s the alter ego. Batman is actually Bruce Wayne, Spider-Man is actually Peter Parker. When that character wakes up in the morning, he’s Peter Parker. He has to put on a costume to become Spider-Man. And it is in that characteristic Superman stands alone. Superman didn’t become Superman. Superman was born Superman. When Superman wakes up in the morning, he’s Superman. His alter ego is Clark Kent. His outfit with the big red “S” – that’s the blanket he was wrapped in as a baby when the Kents found him. Those are his clothes. What Kent wears – the glasses, the business suit – that’s the costume. That’s the costume Superman wears to blend in with us. Clark Kent is how Superman views us. And what are the characteristics of Clark Kent? He’s weak… He’s unsure of himself… He’s a coward.
 
