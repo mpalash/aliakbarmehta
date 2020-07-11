@@ -5,7 +5,7 @@ layout: content
 tag: group exhibition
 pubdate: "2020"
 summary: >-
-  ![](assets/img/meadow-image.png)
+  ![](assets/img/meadow-image.jpg)
 
 
   ## Copper Smithy, Fiskars
