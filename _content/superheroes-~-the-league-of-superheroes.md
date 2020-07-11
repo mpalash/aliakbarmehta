@@ -4,17 +4,17 @@ layout: content
 tag: individual work
 pubdate: "2013"
 summary: >-
-  ![](assets/img/superhero-series-013_the-league-for-print-original-with-text.jpg)
 
-
-  ![](assets/img/superhero-series-013_the-league-for-print-painted-with-text.jpg)
 parent: The Superhero Series
 ---
+
+![](assets/img/superhero-series-013_the-league-for-print-original-with-text.jpg)
+![](assets/img/superhero-series-013_the-league-for-print-painted-with-text.jpg)
+
 > *The guardians of the Multiverse created a vast legion of Heroes called the chosen... A handful of carefully selected mortals –  plus one extradimensional being whose place in all this is a mystery. It is because of them we're here, because of their sacrifice –  a sacrifice of everything we know to be normal.*
 
 
-
-League of Superheroes
+**League of Superheroes**
 
 2013
 
