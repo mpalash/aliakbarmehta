@@ -3,9 +3,9 @@ title: The Superhero Series
 layout: content
 tag: past project
 pubdate: "2012"
-summary: ""
 children:
-  - superheroes ~ Of Men and Supermen
+  - Superheroes ~ Of Men and Supermen
+  - Superheroes ~ Visual Disobedience
   - Superheroes ~ Ali Akbar Mehta in conversation with Namrata Bhawnani
   - Superheroes ~ The League of Superheroes
   - Superheroes ~ Equilibrium

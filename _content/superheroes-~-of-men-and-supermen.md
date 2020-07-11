@@ -5,10 +5,10 @@ layout: content
 tag: solo exhibition
 pubdate: "2012"
 summary: >-
-  ![](assets/img/Ali-Akbar-Mehta-I-India-Art-Festival-2012-I-Of-Men-and-Supermen-01,-Lenticular-and-vinyl-on-archival-mount,--88-x-114-cm,-edition-2_lo-res-for-web.jpg)
 
+![](assets/img/Ali-Akbar-Mehta-I-India-Art-Festival-2012-I-Of-Men-and-Supermen-01,-Lenticular-and-vinyl-on-archival-mount,--88-x-114-cm,-edition-2_lo-res-for-web.jpg)
 
-  ![](assets/img/Ali-Akbar-Mehta-I-India-Art-Festival-2012-I-Of-Men-and-Supermen-02,-Lenticular-and-vinyl-on-archival-mount,--88-x-114-cm,-edition-2_lo-res-for-web.jpg)
+![](assets/img/Ali-Akbar-Mehta-I-India-Art-Festival-2012-I-Of-Men-and-Supermen-02,-Lenticular-and-vinyl-on-archival-mount,--88-x-114-cm,-edition-2_lo-res-for-web.jpg)
 
 
 ![](/assets/img/ali-akbar-mehta-i-india-art-festival-2012-i-of-men-and-supermen-03-lenticular-and-vinyl-on-archival-mount-88-x-114-cm-edition-2_lo-res-for-web.gif)
