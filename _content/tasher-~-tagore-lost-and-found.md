@@ -7,7 +7,6 @@ layout: content
 tag: group exhibition
 pubdate: '2013'
 parent: Tasher Desh
-children: []
 ---
 ![Tasher Desh, 2013, Lenticular and Vinyl print on archival board, 88x114 cm / 57x92 cm](/assets/img/ali-akbar-mehta_tasher-desh_painted-with-text.jpg)
 ![](/assets/img/ali-akbar-mehta_tasher-desh_original-with-text.jpg)

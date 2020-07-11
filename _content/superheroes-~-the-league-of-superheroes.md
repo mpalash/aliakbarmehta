@@ -3,9 +3,7 @@ title: Superheroes ~ The League of Superheroes
 layout: content
 tag: individual work
 pubdate: "2013"
-summary: ''
-
-parent: The Superhero Series
+parent: 'The Superhero Series'
 ---
 
 ![](assets/img/superhero-series-013_the-league-for-print-original-with-text.jpg)
