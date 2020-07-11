@@ -1,5 +1,5 @@
 ---
-title: Equilibrium
+title: Superheroes ~ Equilibrium
 subtitle: TAO Art Gallery, Mumbai
 layout: content
 tag: group exhibition
