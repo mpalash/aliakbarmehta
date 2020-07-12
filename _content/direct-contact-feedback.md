@@ -1,5 +1,6 @@
 ---
 title: direct contact // feedback
+subtitle: "w/ Vidha Saumya, Pixelache Festival 2019: Breaking the Fourth wall, Helsinki"
 layout: content
 tag: performance
 pubdate: "2019"
@@ -32,6 +33,12 @@ The work will be in the form of a participatory performance installation, where 
 
 ![direct contact//feedback, installation view, SOLU Space, Helsinki, 2019](assets/img/installation-view-direct-contact_day-01_serving-table_2019.jpg)
 
+
+
+
+
 ![](assets/img/installation-view-direct-contact_pickle-achaar_2019.jpg)
+
 ![](assets/img/installation-view-direct-contact_clarified-butter-ghee_2019.jpg)
+
 ![](assets/img/installation-view-direct-contact_granulated-jaggery-gud_2019.jpg)
