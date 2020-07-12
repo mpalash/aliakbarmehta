@@ -2,24 +2,19 @@
 title: Ballad ~  In A Liminal Age
 subtitle: Interview by Rahul D'Souza
 layout: content
-tag: press
-pubdate: '2011'
+tag: text
+pubdate: "2011"
 summary: >-
   Ali Akbar Mehta talks candidly with Rahul D'Souza about his first solo
   exhibition, “Ballad of the War that Never Was and other Bastardised Myths”
   (unpublished)
 
 
-  Rahul D’souza: Tell us about the title of your show “Ballad of the War that
-  Never Was and other Bastardised myths”. What did you envisioned when you came
-  up with the title?
+  Rahul D’souza: Tell us about the title of your show “Ballad of the War that Never Was and other Bastardised myths”. What did you envisioned when you came up with the title?
 
 
-  **Ali Akbar Mehta: The idea of the title “Ballad of the War that Never Was”
-  actually came from an increasing preoccupation that I have been having with
-  the idea of violence, of how our world is governed by responses that are
-  majorly violent...**
-parent: 'Ballad of the War that Never Was, and Other Basterdised Myths'
+  **Ali Akbar Mehta: The idea of the title “Ballad of the War that Never Was” actually came from an increasing preoccupation that I have been having with the idea of violence, of how our world is governed by responses that are majorly violent...**
+parent: Ballad of the War that Never Was, and Other Basterdised Myths
 ---
 **The opening line of my Artist Statement says, “Interactions between individuals, communities and nations are driven largely by instinct to establish dominance in territory”. When I considered the title I wanted it to be representative of the whole body of my work. I realised that most of my work had to do with the nature of the violence we experience – consciously or unconsciously; whether it is intra-personal relationships or international events. Since I'm not speaking about the whole idea of a specifically driven war, a specific political context or a social context I thought it would be interesting to call it “The War that Never Was”.**
 
