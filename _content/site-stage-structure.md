@@ -24,7 +24,7 @@ children:
   - "sss ~ FOLKARCHIVE: Ali Akbar Mehta"
   - sss ~ Memory and the Maximum City
   - "sss ~ Odes and Inquisitions: Sino-Indian Connections in Recent Indian Art"
-  - sss ~ Chinese fortunes and other Mumbai memories
+  - sss ~ Chinese Fortunes and other Mumbai Memories
   - sss ~ Memory & the Maximum City
   - sss~ Making Space
   - sss ~ Interview
