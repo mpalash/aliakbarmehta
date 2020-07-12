@@ -1,18 +1,15 @@
 ---
-title: 'sss ~ Odes and Inquisitions: Sino-Indian Connections in Recent Indian Art'
+title: "sss ~ Odes and Inquisitions: Sino-Indian Connections in Recent Indian Art"
 subtitle: Essay by Ryan Holmberg
 layout: content
-tag: text
-pubdate: '2014'
+tag: press
+pubdate: "2014"
 summary: >-
   ![](/assets/img/mazgaon-garden.jpg)
 
 
-  The Joseph Batista Gardens is one of the pleasantest places in Mumbai. Sitting
-  atop a hillock, the garden park literally lifts you out of the noise from
-  which even the surrounding neighborhood of Mazagaon, sedate by Mumbai
-  standards, cannot escape.
-parent: 'SITE : STAGE : STRUCTURE'
+  The Joseph Batista Gardens is one of the pleasantest places in Mumbai. Sitting atop a hillock, the garden park literally lifts you out of the noise from which even the surrounding neighborhood of Mazagaon, sedate by Mumbai standards, cannot escape.
+parent: "SITE : STAGE : STRUCTURE"
 ---
 To the north and west one gains a distinct view of the many mildew-stained high-rises that contribute to one of the highest population densities in the world. To the south, one sees rows upon rows of warehouses and train sheds. And to the east, a clear view of the city’s historical _raison d’etre:_ Mumbai harbor, populated now with freight and naval ships, once open a time with frigates and opium clippers. It is not a picturesque view, for towering in the middle is a massive, yellow gantry crane inscribed with the words “Mazagaon Dock Limited, Shipbuilders to the Nation.” As advertised, this is India’s top shipyard, creating warships and submarines for the Indian Navy, offshore platforms for the oil industry, and tankers and cargo carriers for commercial shipping.
 
