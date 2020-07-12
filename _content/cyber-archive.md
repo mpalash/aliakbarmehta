@@ -22,6 +22,7 @@ children:
   - "Cyber ~  External Evaluation of Ali Akbar Mehta/ Master’s Thesis – Cyber
     Archive: Being and Doing Knowledge"
   - Cyber ~ Bibliography and other Reading
+  - cyber ~ Glitchverse
 ---
 Cyber archive is a curatorial framework inviting the reader to consider the Archive, as a narrative, a repository, a state-tool, a fact, a fiction, both as a site and trope for artistic inquiry and art production; to define our protagonist: the User (of the Cyber Archives) as an artist/curator/archivist, a combination of a historian, researcher, performer, participant, interventionist, collaborator, urban denizen, and spy. 
 
