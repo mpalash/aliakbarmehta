@@ -309,39 +309,39 @@ New Frontiers: Critical inquiries for archives as Artistic Praxis
 
 ## Other work Experience
 
-2020 | *Associate Curator,* **Helsinki International Artist program** (HIAP), Helsinki
+2020   *Associate Curator,* **Helsinki International Artist program** (HIAP), Helsinki
 
-2019 – present |*Board member*, **Killa Ry**, Helsinki
+2019 – present   *Board member*, **Killa Ry**, Helsinki
 
-2019 | *Artistic Producer*, **Mcult Media Cultural Association**, Helsinki
+2019   *Artistic Producer*, **Mcult Media Cultural Association**, Helsinki
 
-2018 – 2020 | *Artistic Director*, **Museum of Impossible Forms**, Helsinki
+2018 – 2020   *Artistic Director*, **Museum of Impossible Forms**, Helsinki
 
-2017 | *Program Manager,* **Museum of Impossible Forms**, Helsinki
+2017   *Program Manager,* **Museum of Impossible Forms**, Helsinki
 
-2016 – present | *Founder Member,*  **Museum of Impossible Forms**, Helsinki
+2016 – present   *Founder Member,*  **Museum of Impossible Forms**, Helsinki
 
-2016 ­– 2017 | *Member,* **Third Space Collective**, Helsinki
+2016 ­– 2017   *Member,* **Third Space Collective**, Helsinki
 
-2016 ­– present | *Founder Member,* **D/func.t Collective**, Helsinki
+2016 ­– present   *Founder Member,* **D/func.t Collective**, Helsinki
 
-2016 – 2017 | *Communication Assistant,* Visual Culture and Contemporary Art (**ViCCA**), Aalto University, Helsinki
+2016 – 2017   *Communication Assistant,* Visual Culture and Contemporary Art (**ViCCA**), Aalto University, Helsinki
 
-2016 | *Post Production* and *animation,* ***Arab Strings***, a performance video by artist Jowan Safadi (unreleased)
+2016   *Post Production* and *animation,* ***Arab Strings***, a performance video by artist Jowan Safadi (unreleased)
 
-2015 | *Post Production*, ‘#7: Greed’ short film (unreleased)
+2015   *Post Production*, ‘#7: Greed’ short film (unreleased)
 
-2014 | ­*Co-conceived and Head of Post Production,* ***Relics of Eden***, a short fictional film by COMPOSITE Films (unreleased)
+2014   ­*Co-conceived and Head of Post Production,* ***Relics of Eden***, a short fictional film by COMPOSITE Films (unreleased)
 
-*2014 | Head of Post Production*, ***What a Wonderful World***, an independently produced post-apocalyptic themed experimental video
+*2014*   *Head of Post Production*, ***What a Wonderful World***, an independently produced post-apocalyptic themed experimental video
 
-2013 ­– 2014 | Freelance Artist and Character Designer, **TUMBAD**, feature-length live-action film produced by Recyclewala Films
+2013 ­– 2014   Freelance Artist and Character Designer, **TUMBAD**, feature-length live-action film produced by Recyclewala Films
 
-2012 – 2016 | *Consulting head of Post Production and freelance Artist,* for ***various Digital content projects*** by COMPOSITE Films
+2012 – 2016   *Consulting head of Post Production and freelance Artist,* for ***various Digital content projects*** by COMPOSITE Films
 
 > QuickHeal Antivirus | La15 Patisserie | Fizzy Foods | KNM Airlines
 
-2011 – 2013 | *Creative Director and Head of Post Production,* ***Luminous Matter***, a stop-motion animated short film by COMPOSITE Films
+2011 – 2013   *Creative Director and Head of Post Production,* ***Luminous Matter***, a stop-motion animated short film by COMPOSITE Films
 
 > Screened at:
 >
@@ -351,10 +351,10 @@ New Frontiers: Critical inquiries for archives as Artistic Praxis
 > * DIGICON Tokyo, 2012
 > * FICCI Frames, Mumbai 2012
 
-2002 – 2007 | *Co ­­­­­– ­founder, Lead Animator and artist,* ***Mareech Animated Design***, an animation studio specializing in 3D animation and Visual Effects for Film and Television
+2002 – 2007   *Co ­­­­­– ­founder, Lead Animator and artist,* ***Mareech Animated Design***, an animation studio specializing in 3D animation and Visual Effects for Film and Television
 
-2004 – 2006 | Co-written and performed, ***Aham: What’s going on?***, a full-length play performed at Prithvi Theatre, Mumbai
+2004 – 2006   Co-written and performed, ***Aham: What’s going on?***, a full-length play performed at Prithvi Theatre, Mumbai
 
-2005 | BFA (Drawing and Painting) from Sir J.J. School of (Fine) Art.
+2005   BFA (Drawing and Painting) from **Sir J.J. School of (Fine) Art**.
 
-2004 | Directed and edited, ***Untitled***, a documentary short film on Sir J.J. School of Art, Mumbai.
+2004   Directed and edited, ***Untitled***, a documentary short film on Sir J.J. School of Art, Mumbai.
