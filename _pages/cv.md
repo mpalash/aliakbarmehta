@@ -247,43 +247,43 @@ New Frontiers: Critical inquiries for archives as Artistic Praxis
 
 *(Upcoming)* **Cultural production and racism: How to challenge racist structures**, Different shapes of racism. Critical perspectives on racialization, whiteness and coloniality of power/Muuntautuva rasismi.Kriittisiä näkökulmia rodullistamiseen, valkoisuuteen ja vallan koloniaalisuuteen (ed) Suvi Keskinen, CEREN, Helsinki University, 2020
 
-*(Upcoming)* **SAFE{R}: Evolving the Conditions for Collaboration**, Third Space, Helsinki, 2020
+*(Upcoming)* **[SAFE{R}: Evolving the Conditions for Collaboration](https://aliakbarmehta.com/content/safe-r-evolving-the-conditions-for-collaboration)**, Third Space, Helsinki, 2020
 
-*(Upcoming)* **The Shape of Museums to Come**, The Museum of the Future. 43 New Contributions to the Discussion about the Future of the Museum, (ed) Nora Sternfeld, 2020
+*(Upcoming)* **[The Shape of Museums to Come](https://aliakbarmehta.com/content/the-shape-of-museums-to-come)**, The Museum of the Future. 43 New Contributions to the Discussion about the Future of the Museum, (ed) Nora Sternfeld, 2020
 
-*(Upcoming)* **Museum of Impossible Forms: Voicing the Margins**, From Margins to Museums, (ed) Anna Rastas, Tampere University, 2020
+*(Upcoming)* **[Museum of Impossible Forms: Voicing the Margins](https://aliakbarmehta.com/content/museum-of-impossible-forms-voicing-the-margins)**, From Margins to Museums, (ed) Anna Rastas, Tampere University, 2020
 
 *(Upcoming)* **Who is Welcome? – Thinking Hospitality as Museum of Impossible Forms**, Rehearsing Hospitalities Companion 2, (ed.) Yvonne Billimore and Jussi Koitela, (pub.) Archive Books, Berlin, in collaboration with Frame Contemporary Art Finland, Helsinki
 
-2020   **A Cyber Archive of Questions**, Restricted Fixations, Bengaluru
+2020   **[A Cyber Archive of Questions](https://aliakbarmehta.com/content/cyber-archive#a-cyber-archive-of-questions)**, Restricted Fixations, Bengaluru
 
-2020   **Ali Akbar Mehta**, Walkin the Portal, Curated by Vivek Chockalingam and Marialaura Ghidini, Walkin Studios, Bengaluru
+2020   **[Ali Akbar Mehta](https://aliakbarmehta.com/content/walkin-the-portal)**, Walkin the Portal, Curated by Vivek Chockalingam and Marialaura Ghidini, Walkin Studios, Bengaluru
 
 2019   **[How to be hospitable without being a motel: Thinking Hospitalities](https://museumofimpossibleforms.org/how-to-be-a-hospitable-without-being-a-motel-thinking-hospitalities)**, Rehearsing Hospitalities Companion 1, (ed.) Yvonne Billimore and Jussi Koitela, (pub.) Archive Books, Berlin, in collaboration with Frame Contemporary Art Finland, Helsinki
 
-2019   [Atlas of Lost Beliefs (for Insurgents, Citizens, & Untitled Bodies)](https://museumofimpossibleforms.org/curatorial-theme-for-2019-2020), curatorial text 2019-20, Museum of Impossible Forms
+2019   **[Atlas of Lost Beliefs (for Insurgents, Citizens, & Untitled Bodies)](https://aliakbarmehta.com/content/atlas-of-lost-beliefs-for-insurgents-citizens-untitled-bodies)**, curatorial text 2019-20, Museum of Impossible Forms
 
-2019   **To Not Wait for the Archive: Home and Labour mired in the complications of Invisibalisation**, Visual Culture and Contemporary Art Journal #5, (ed.) Saara Mahbouba, Paola Jallili and Else Lagerspetz, published by Aalto University, Helsinki
+2019   **[To Not Wait for the Archive: Home and Labour mired in the complications of Invisibalisation](https://aliakbarmehta.com/content/cyber-archive#to-not-wait-for-the-archive-home-and-labour-mired-in-the-complications-of-invisibalisation)**, Visual Culture and Contemporary Art Journal #5, (ed.) Saara Mahbouba, Paola Jallili and Else Lagerspetz, published by Aalto University, Helsinki
 
-2018   **Colours of Violence**, AROOP: Totems and Taboos, volume 3, (ed.) Nancy Adajania, published by Raza Foundation, New Delhi
+2018   **[Colours of Violence](https://aliakbarmehta.com/content/256-million-colours-of-violence#colours-of-violence-aroop-iii-totems-and-taboos)**, AROOP: Totems and Taboos, volume 3, (ed.) Nancy Adajania, published by Raza Foundation, New Delhi
 
-2018   **Cyber Archive: Archiving as a sustainable counter-hegemonic practice**, Hakara Journal: *Form / Play*, edition 06, (ed.) Ashutosh Poddar and Noopur Desai, Pune
+2018   **[Cyber Archive: Archiving as a sustainable counter-hegemonic practice](https://aliakbarmehta.com/content/cyber-archive#cyber-archive-archiving-as-a-sustainable-counter-hegemonic-practice)**, Hakara Journal: *Form / Play*, edition 06, (ed.) Ashutosh Poddar and Noopur Desai, Pune
 
-2018   **Cyber Archive: Being and Doing Knowledge**, Aalto University, Espoo
+2018   **[Cyber Archive: Being and Doing Knowledge](https://aliakbarmehta.com/content/cyber-archive#cyber-archive-being-and-doing-knowledge)**, Aalto University, Espoo
 
-2018   **FOOD and Other Practices at the Arthouse**, Visual Culture and Contemporary Art Journal #4, (ed.) Ali Akbar Mehta and Vidha Saumya, Published by Aalto University, Espoo
+2018   **[FOOD and Other Practices at the Arthouse](https://aliakbarmehta.com/content/food-and-other-practices-at-the-arthouse)**, Visual Culture and Contemporary Art Journal #4, (ed.) Ali Akbar Mehta and Vidha Saumya, Published by Aalto University, Espoo
 
-2017   **Locating: The Museum of Impossible Forms**, Kone Foundation Boldness Blog, Helsinki
+2017   **[Locating: The Museum of Impossible Forms](https://koneensaatio.fi/en/museum-of-impossible-forms/)**, Kone Foundation Boldness Blog, Helsinki
 
-2017   **Border Crossing: Reshaping the Agency of Struggle**, interview with Ranjit Hoskote, CuMMA Papers publication series, (ed.) Nora Sternfeld, Helsinki
+2017   **[Border Crossing: Reshaping the Agency of Struggle](https://aliakbarmehta.com/content/border-crossing-reshaping-the-agency-of-struggle)**, interview with Ranjit Hoskote, CuMMA Papers publication series, (ed.) Nora Sternfeld, Helsinki
 
-2017   **The Photons of Politics: Footnotes for a New History**, RAB-RAB Journal for Political and Formal Inquiries in Art, issue#4.01, (ed.) Sezgin Boynik, Helsinki
+2017   **[The Photons of Politics: Footnotes for a New History](https://aliakbarmehta.com/content/the-photons-of-politics-footnotes-for-a-new-history)**, RAB-RAB Journal for Political and Formal Inquiries in Art, issue#4.01, (ed.) Sezgin Boynik, Helsinki
 
-2015   **No one at the ceremony remembers to mention the artist**, Essay for Exhibition *No one at the ceremony remembers to mention the artist*, Third Space, Helsinki
+2015   **[No one at the ceremony remembers to mention the artist](https://aliakbarmehta.com/content/no-one-at-the-ceremony-remembers-to-mention-the-artist)**, Essay for Exhibition *No one at the ceremony remembers to mention the artist*, Third Space, Helsinki
 
 2014   **Site: Stage: Structure**, (pub) StudioVAAK, Mumbai
 
-2011   **A body split in two**, International Gallerie, Journal of Contemporary art, issue 30, (ed.) Bina Sarkar Ellias, Mumbai
+2011   **[A body split in two](https://aliakbarmehta.com/content/a-body-split-in-two)**, International Gallerie, Journal of Contemporary art, issue 30, (ed.) Bina Sarkar Ellias, Mumbai
 
 **\***
 
