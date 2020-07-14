@@ -27,7 +27,7 @@ He lives and works in Helsinki and Mumbai.
 
 **\***
 
-## Experience
+## Select Work Experience
 
 2018-2020   **co-Artistic Director**, [Museum of Impossible Forms](https://museumofimpossibleforms.org/), Helsinki
 
@@ -65,91 +65,51 @@ New Frontiers: Critical inquiries for archives as Artistic Praxis
 
 **\***
 
-## Performance
-
-*(upcoming)* **Narrating WAR**, New Performance Festival, Turku, 2020
-
-2020   **Glitchverse**, [Souja/Shelter Festival 2020](http://suojashelter.tilda.ws/), Helsinki (online)
-
-2019   **Narrating WAR**, [Relational Figures](http://www.myymala2.com/?page_id=4932), Myymälä2, Helsinki
-
-2019   **direct-contact//feedback**, [Pixelache Festival 2019: Breaking the fifth Wall](https://breaking5thwall.pixelache.ac/festivals/breaking5thwall/pixelache-festival-2019-breaking-the-fifth-wall-press-release), Helsinki
-
-2018   **Narrating WAR**, [Experimental Event VI – La Torre de Babel](https://research.aalto.fi/en/publications/the-experimental-event-vi-tower-of-babel(659acfb5-e997-47ae-a71d-83144d8f041d).html), curated by Anna Jensen and Andrea Coyotzi Borja, Valimo Hall of Palmgren Conservatory, Pori
-
-2018   **Narrating WAR**, [Carincarina](https://www.facebook.com/Carinarnica/), Nova Gorica
-
-2018   **Narrating WAR**, Performance LAB VII, curated by Vishnu Vardhani,, Museum of Impossible Forms, Helsinki
-
-2018   **Cyborg Archives: *GarbageInGarbageOut***, TIFA Working Studios, Pune
-
-2018   **Cyborg Archives: Can Archives Speak?**, TIFA Working Studios, Pune
-
-2018   **Narrating WAR**, TIFA Working Studios, Pune
-
-2017   **Narrating WAR**, Memory of War, curated by Heidi Hänninen, Kaapelitehdas, Helsinki
-
-2017   **Narrating WAR**, Clark House, Mumbai
-
-2016   **Where does poetry nest?**, curated by Giovanna Esposito Yussif, Pispala Memorial, Tampere
-
-2016   **null.void**, Chimurenga Collective – Pan-African Space Station, curated by Ahmed Al-Nawas, Kallio Public Library, Helsinki
-
-**\***
-
-## Artist Talks and Panel Discussions
-
-*(upcoming)* **Museum as Commons**, Creative Commons Summit 2020, Lisbon, Portugal
-
-*(upcoming)* **Museum of Impossible Forms and the margin as a site of alternative knowledge production,** Tutkijaliitto Summer School, Nurmijärvi, 2020
-
-*(cancelled),* **From Margins to Museums**, University of Tampere, Tampere, 2020
-
-2020   **Towards a New Internet**, In conversation with Palash Mukhopadhyay, Myymälä2, Helsinki
-
-2020   **Violence in Finnish Society,** In conversation with Arvind Ramachandran, Myymälä2, Helsinki
-
-2020   **Digital Creativity and Entanglement,** In conversation with Timo Tuhkanen, Myymälä2, Helsinki
-
-2020   **Is there a room with just a colour?** In conversation with Camelo Ramiro, Myymälä2, Helsinki
-
-2019   **Resistance and Re-imagining Alternatives,** Nordic Decolonial Workshop, Center for Research on Ethnic Relations and Nationalism (CEREN), Helsinki
-
-2019   **Notes for Radical Diversity,** Helsinki Art Museum HAM, Helsinki
-
-2018   **Re:Musing the Museum, Part II**, Kiasma International Museum, Helsinki
-
-2018   **Cyber Archives**, Die Schule der Archaeutopie in conversation with Ali Akbar Mehta, Universität für angewandte Kunst Wien, Vienna
-
-2018   **Archiving: Histories of the Present**, guest lecture, Visual Cultures, Curating and Contemporary Art (ViCCA), Aalto University, Helsinki
-
-2018   **Congratulations, the space has been invaded: NOW WHAT?**, Space Invaders VI, Helsinki
-
-2018   **A Common Sense Manifesto of Cooking Practices for Artists**, Aalto University, Espoo
-
-2017   **Decolonial Dreaming**, Urbanapa 2017, Atenuim Museum, Helsinki
-
-2017   **The Urgency of Asking Questions**, in conversation with Kevin Lobo, Piramal Museum, Mumbai
-
-2018   **Memory and the Maximum City**, Godrej India Culture Lab, Mumbai
-
-2014   **FOLKARCHIVE**, in conversation with Sumesh Sharma; moderated by Latika Gupta, Dr. Bhau Daji Lad City Museum, Mumbai
-
-**\***
-
 ## Solo Exhibitions
 
-2020   **Is there a room with just a colour?**, Myymälä2, Helsinki
+2020   **Is there a room with just a colour?**, Myymälä2, Helsinki, FI
 
-2017   **Limitations of Liability**, Mumbai Assembly and Harkat Studios, Mumbai
+2017   **Limitations of Liability**, Mumbai Assembly and Harkat Studios, Mumbai, IN
 
-2016   **256 Million Colours of Violence**, Third Space, Helsinki
+2016   **256 Million Colours of Violence**, Third Space, Helsinki, FI
 
-2014   **SITE: STAGE: STRUCTURE**, Clark House Initiative, Mumbai
+2014   **SITE: STAGE: STRUCTURE**, Clark House Initiative, Mumbai, IN
 
-2012   **Of Men and Supermen**, India Art Festival, presented by TAO Art Gallery, Mumbai
+2012   **Of Men and Supermen**, India Art Festival, presented by TAO Art Gallery, Mumbai, IN
 
-2011   **The Ballad of The War that Never Was, and other Bastardized Myths**, TAO Art Gallery, Mumbai
+2011   **The Ballad of The War that Never Was, and other Bastardized Myths**, TAO Art Gallery, Mumbai, IN
+
+**\***
+
+## Performance
+
+*(upcoming)* **Narrating WAR**, New Performance Festival, Turku, FI
+
+2020   **Glitchverse**, [Souja/Shelter Festival 2020](http://suojashelter.tilda.ws/), curated by Lívia Nolasco-Rózsás, Ksenia Yurkova, Anastasia Vepreva, Helsinki (online)
+
+2019   **Narrating WAR**, [Relational Figures](http://www.myymala2.com/?page_id=4932), Myymälä2, Helsinki, FI
+
+2019   **direct-contact//feedback**, w/ Vidha Saumya, [Pixelache Festival 2019: Breaking the fifth Wall](https://breaking5thwall.pixelache.ac/festivals/breaking5thwall/pixelache-festival-2019-breaking-the-fifth-wall-press-release), Helsinki, FI
+
+2018   **Narrating WAR**, [Experimental Event VI – La Torre de Babel](https://research.aalto.fi/en/publications/the-experimental-event-vi-tower-of-babel(659acfb5-e997-47ae-a71d-83144d8f041d).html), curated by Anna Jensen and Andrea Coyotzi Borja, Valimo Hall of Palmgren Conservatory, Pori, FI
+
+2018   **Narrating WAR**, [Carincarina](https://www.facebook.com/Carinarnica/), Nova Gorica, SL
+
+2018   **Narrating WAR**, Performance LAB VII, curated by Vishnu Vardhani Rajan, Museum of Impossible Forms, Helsinki, FI
+
+2018   **Cyborg Archives: *GarbageInGarbageOut***, TIFA Working Studios, Pune, IN
+
+2018   **Cyborg Archives: Can Archives Speak?**, TIFA Working Studios, Pune, IN
+
+2018   **Narrating WAR**, TIFA Working Studios, Pune, IN
+
+2017   **Narrating WAR**, Memory of War, curated by Heidi Hänninen, Kaapelitehdas, Helsinki, FI
+
+2017   **Narrating WAR**, Clark House, Mumbai, IN
+
+2016   **Where does poetry nest?**, curated by Giovanna Esposito Yussif, Pispala Memorial, Tampere, IN
+
+2016   **null.void**, Chimurenga Collective – Pan-African Space Station, curated by Ahmed Al-Nawas, Kallio Public Library, Helsinki, IN
 
 **\***
 
@@ -183,7 +143,7 @@ New Frontiers: Critical inquiries for archives as Artistic Praxis
 
 2016   **SOAK**, D/func.t, Helsinki
 
-2016   ***Whose History is it anyway?****, Aalto University, Espoo
+2016   **\*Whose History is it anyway?\****, Aalto University, Espoo
 
 2015   **Cisspace: Construct(ed.)**, Otaniemi Recycling Center, Espoo
 
@@ -223,23 +183,49 @@ New Frontiers: Critical inquiries for archives as Artistic Praxis
 
 **\***
 
-## Public projects
+## **Artist Talks/ conferences / lectures**
 
-2015   **TRINITY: Godrej Legacy Park Silos**, Godrej One, Mumbai, India
+*(Upcoming)* **Museum as Commons**, Creative Commons Summit 2020, Lisbon, Portugal
 
-**\***
+*(Upcoming)* Panelist: **CreaTures** (Creative Practices for Transformational Futures), Aalto University, Helsinki, FI
 
-## Curatorial
+*(Upcoming)* Guest Artist and speaker: **Surrender? Surrender**, Exhibition Laboratory, University of the Arts Helsinki, Helsinki, FI
 
-*(upcoming)* **Educate-Agitate-Organise,** Museum of Impossible Forms, Helsinki, 2020
+*(Upcoming)* **Museum of Impossible Forms and the margin as a site of alternative knowledge production,** Tutkijaliitto Summer School, Nurmijärvi, 2020
 
-2020   **Open Studio: HIAP Summer Residency 2020**, Helsinki Internatonal Artist Programme (HIAP), Helsinki
+2020   *Panelist:* **New Standards**, Stop Hatred Now Festival, UrbanApa, Helsinki (online)
 
-2019   **Vidisha Fadescha: Party, a tool for Care – curated by Ali Akbar Mehta**, part of Today Is Our Tomorrow Festival, organised by PUBLICS, Helsinki
+2020   *Artist Talk:* **Towards a New Internet**, In conversation with Palash Mukhopadhyay, Myymälä2, Helsinki
 
-2016   **MATERIAL///IMMATERIAL**, A: SPACE, Espoo, Finland
+2020   *Artist Talk:* **Violence in Finnish Society,** In conversation with Arvind Ramachandran, Myymälä2, Helsinki
 
-2016   **SOAK**, D/func.t, Helsinki, Finland
+2020   *Artist Talk:* **Digital Creativity and Entanglement,** In conversation with Timo Tuhkanen, Myymälä2, Helsinki
+
+2020   *Artist Talk:* **Is there a room with just a colour?** In conversation with Camelo Ramiro, Myymälä2, Helsinki
+
+2019   *Panelist:* **Resistance and Re-imagining Alternatives,** Nordic Decolonial Workshop, Center for Research on Ethnic Relations and Nationalism (CEREN), Helsinki
+
+2019   *Guest Speaker:* **Notes for Radical Diversity,** Helsinki Art Museum HAM, Helsinki
+
+2018   *Guest Speaker:* **Re:Musing the Museum, Part II**, Kiasma International Museum, Helsinki
+
+2018   *Guest Speaker:* **Cyber Archives**, Die Schule der Archaeutopie in conversation with Ali Akbar Mehta, Universität für angewandte Kunst Wien, Vienna
+
+2018   *Guest Lecturer:* **Archiving: Histories of the Present**, guest lecture, Visual Cultures, Curating and Contemporary Art (ViCCA), Aalto University, Helsinki
+
+2018   *Artist Talk:* **Congratulations, the space has been invaded: NOW WHAT?**, Space Invaders VI, Helsinki, FI
+
+2018   *Guest Artist:* **A Common Sense Manifesto of Cooking Practices for Artists**, Aalto University, Espoo
+
+2017   *Panelist:* **Decolonial Dreaming**, Urbanapa 2017, Atenuim Museum, Helsinki
+
+2017   *Artist Talk:* **The Urgency of Asking Questions**, in conversation with Kevin Lobo, Piramal Museum, Mumbai
+
+2018   *Artist Talk:* **Memory and the Maximum City**, Godrej India Culture Lab, Mumbai
+
+2018   *Guest Lecturer:* Whistling Woods International Institute of Film, communication and Media Arts
+
+2014   *Artist Talk:* **FOLKARCHIVE**, in conversation with Sumesh Sharma; moderated by Latika Gupta, Dr. Bhau Daji Lad City Museum, Mumbai
 
 **\***
 
@@ -287,6 +273,26 @@ New Frontiers: Critical inquiries for archives as Artistic Praxis
 
 **\***
 
+## Public projects
+
+2015   **TRINITY: Godrej Legacy Park Silos**, Godrej One, Mumbai, India
+
+**\***
+
+## Curatorial
+
+*(upcoming)* **Educate-Agitate-Organise,** Museum of Impossible Forms, Helsinki, 2020
+
+2020   **Open Studio: HIAP Summer Residency 2020**, Helsinki Internatonal Artist Programme (HIAP), Helsinki
+
+2019   **Vidisha Fadescha: Party, a tool for Care – curated by Ali Akbar Mehta**, part of Today Is Our Tomorrow Festival, organised by PUBLICS, Helsinki
+
+2016   **MATERIAL///IMMATERIAL**, A: SPACE, Espoo, Finland
+
+2016   **SOAK**, D/func.t, Helsinki, Finland
+
+**\***
+
 ## Residencies
 
 2020   **Maunula Commons**, m-cult, Helsinki
@@ -294,16 +300,6 @@ New Frontiers: Critical inquiries for archives as Artistic Praxis
 2018   **To Participate in the Archive**, ARTEL 2018, TIFA Working Studios, Pune
 
 2012   **SPACE 118**, Mumbai
-
-**\***
-
-## Teaching
-
-2018   Guest lecturer, ‘**Archiving: Histories of the Present**’, Visual Culture and Contemporary Art (ViCCA), Aalto University, Helsinki
-
-2018   Guest Lecturer, Whistling Woods International Institute of Film, communication and Media Arts
-
-2011-2014   Regularly conducting drawing and painting workshops as part of various NGO activities and schools (for children of 10 to 15 years) Teach India, Dear Imagination, The Oberoi International IB School
 
 **\***
 
