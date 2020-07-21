@@ -5,8 +5,7 @@ layout: content
 tag: press
 pubdate: '2012'
 summary: >-
-
-Ali’s work was Visual Disobedience’s pick of the art on display by emerging artists at the India Art Festival this year. We speak to him about how pictures of the poor don’t need to be patronising, the magic of using lenticular and why superheroes are myths of the modern world.
+  Ali’s work was Visual Disobedience’s pick of the art on display by emerging artists at the India Art Festival this year. We speak to him about how pictures of the poor don’t need to be patronising, the magic of using lenticular and why superheroes are myths of the modern world.
 
 parent: 'The Superhero Series'
 ---

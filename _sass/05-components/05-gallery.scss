@@ -26,6 +26,7 @@ p.img {
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
+    align-items: flex-start;
     margin-right: $s-b;
   }
   img {
@@ -37,7 +38,6 @@ p.img {
 }
 .img-caption {
   display: block;
-  height: $s-l;
   padding: $s-xs 0;
   color: $color-warm-dark;
 }
