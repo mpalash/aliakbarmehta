@@ -1,4 +1,4 @@
-{% assign displaysub = 'solo exhibition,group exhibition,text,unpublished,publication' | split: ',' %}
+{% assign displaysub = 'solo exhibition,group exhibition,talk,text,performance,unpublished,publication' | split: ',' %}
 <li class="project-year-genre" data-year="{{ content.pubdate }}" data-genre="{{ content.tag | replace: ' ', '-' }}">
 {% if content.parent %}
   {% if content.parent != 'Poems' %}
