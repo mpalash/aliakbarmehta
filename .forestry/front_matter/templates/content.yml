@@ -1,0 +1,25 @@
+---
+label: Content
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: tag
+  label: tag
+- type: text
+  name: pubdate
+  label: pubdate
+- type: file
+  name: hero
+  label: hero
+- type: textarea
+  name: summary
+  label: summary
+- type: list
+  name: children
+  label: children
