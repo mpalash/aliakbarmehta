@@ -5,15 +5,26 @@ fields:
 - type: text
   name: title
   label: Title
+- name: subtitle
+  type: text
+  config:
+    required: false
+  label: Subtitle
+- name: tag
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Tag
 - type: text
   name: layout
   label: Layout
-- type: text
-  name: tag
-  label: Tag
-- type: text
-  name: pubdate
-  label: Date
 - type: file
   name: hero
   label: Hero Image
