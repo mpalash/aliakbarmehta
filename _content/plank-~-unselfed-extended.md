@@ -4,9 +4,9 @@ layout: content
 tag: individual work
 pubdate: "2013"
 summary: >-
-  ![](assets/img/sketch-for-unselfed-i-2014-digital-drawing.jpg)
-  ![](assets/img/sketch-for-unselfed-ii-2014-digital-drawing.jpg)
-  ![](assets/img/sketch-for-unselfed-iii-2014-digital-drawing.jpg)
+  ![Planktonian People, 2014](assets/img/sketch-for-unselfed-i-2014-digital-drawing.jpg)
+  ![Planktonian People, 2014](assets/img/sketch-for-unselfed-ii-2014-digital-drawing.jpg)
+  ![Planktonian People, 2014](assets/img/sketch-for-unselfed-iii-2014-digital-drawing.jpg)
 
 
   Unselfed Extended is a mix media body of work that includes a series of drawings/copper plate etchings, prosthetic sculpture/masks and other props/objects. It is an interpretive work based on and furthering the artistic vision of an 80 minute performance of the same name. It is a search for a hybrid form, one which invites the viewer to engage simply with bodies moving in space, with gestures, with objects, movement, images and the spoken word...

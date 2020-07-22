@@ -5,7 +5,7 @@ layout: content
 tag: solo exhibition
 pubdate: "2012"
 summary: >-
-  Coming soon!
+   //
 
 parent: 'The Superhero Series'
 ---

@@ -24,7 +24,7 @@ children:
   - "256 ~ Digital Creativity and Entanglement: In conversation with Timo
     Tuhkanen"
   - "256 ~ Violence in Finnish Society: In conversation with Arvind Ramachandran"
-  - "256 ~ Towards a New Internet: In conversation with Palash Mukhopadhyay "
+  - "256 ~ Towards a New Internet: In conversation with Palash Mukhopadhyay"
   - 256 ~ Not your Regular Archive
   - 256 ~ Does violence have a colour?
   - 256 ~ Shades of Violence

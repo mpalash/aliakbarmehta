@@ -4,6 +4,7 @@ subtitle: Kiasma Museum of Contemporary Art, 2018
 layout: content
 tag: talk
 pubdate: '2018'
+parent: Museum of Impossible Forms
 summary: >-
   Re-Musing the Museum was a lecture performance on the occasion of TAKU
   (Culture Worker's Associated) and MAL (Museum worker's Union)'s first joint

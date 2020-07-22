@@ -2,28 +2,33 @@
 title: Notes for Radical Diversity
 subtitle: Helsinki Art Museum (HAM), Helsinki
 layout: content
-tag: unpublished
+tag: talk
 pubdate: "2019"
 summary: >-
-  Thank you for inviting me to talk about Diversity.
+  In November 2019, I was invited to talk about diversity within the art
+  and cultural scene of Helsinki, to the curatorial staff at Helsinki Art
+  Museum, Helsinki.
 
+  The prepared text of the talk and workshop can be found below:
 
-  Although this term and its implied meaning are far reaching into my own work and practice, there are essentially three positions that I can take:
-
-
-  1. One, a position that comes embedded into the nature of my own research-based practice as an artist, where I create participatory archives and archive-based projects to examine collective histories of memory and identity within the framework of violence, conflict, & trauma.
-
-  2. Two, my work as one of two Artistic Directors of Museum of Impossible Forms, and the nature of the work we do as a cultural space in Kontula, forming and sustaining micro communities around decoloniality, postcoloniality, intersectional feminism, queer theory and norm-criticality – through regular and ongoing projects.
-
-  3. Three, as a doctoral student at Aalto University working towards generating a conception of Performativity within the contexts of online spaces and once an awareness is generated of the reciprocal relationship between us and the archives we create, to use that awareness to create politically conscious future archives – which again feeds into my practice.
-
-
-  Now that this, my short introduction is done, my speculations about ‘Diversity’ as a term will interweave these varied roles as Artist, artistic Director, and Doctoral researcher.
-
-
-  I always think it's good to think about how you arrive at the work that you do. There's always a story to the combinations that we bring to our work and to the world. And I would like to thank the Helsinki Art Museum for inviting me to share my notes on Diversity, and to acknowledge that you are involved in creating a cultural vibrancy in Helsinki and Finland, and to thank you all for being a part of this effort.
-parent: ‘Notes for Radical Diversity’
+parent: ‘Museum of Impossible Forms’
 ---
+Thank you for inviting me to talk about Diversity.
+
+Although this term and its implied meaning are far reaching into my own work and practice, there are essentially three positions that I can take:
+
+1. One, a position that comes embedded into the nature of my own research-based practice as an artist, where I create participatory archives and archive-based projects to examine collective histories of memory and identity within the framework of violence, conflict, & trauma.
+
+2. Two, my work as one of two Artistic Directors of Museum of Impossible Forms, and the nature of the work we do as a cultural space in Kontula, forming and sustaining micro communities around decoloniality, postcoloniality, intersectional feminism, queer theory and norm-criticality – through regular and ongoing projects.
+
+3. Three, as a doctoral student at Aalto University working towards generating a conception of Performativity within the contexts of online spaces and once an awareness is generated of the reciprocal relationship between us and the archives we create, to use that awareness to create politically conscious future archives – which again feeds into my practice.
+
+Now that this, my short introduction is done, my speculations about ‘Diversity’ as a term will interweave these varied roles as Artist, artistic Director, and Doctoral researcher.
+
+I always think it's good to think about how you arrive at the work that you do. There's always a story to the combinations that we bring to our work and to the world. And I would like to thank the Helsinki Art Museum for inviting me to share my notes on Diversity, and to acknowledge that you are involved in creating a cultural vibrancy in Helsinki and Finland, and to thank you all for being a part of this effort.
+.
+.
+
 Stepping back to square one, “What is Diversity?” – Is it a collection of different or diverse objects, things, or people? Is our conversation about these, objects, things, and /or people in of itself, without context? If not, what are the contexts through which we must view the term diversity?
 
 .
@@ -68,7 +73,7 @@ This later research has, till today, played an important role in documenting per
 
 .
 
-> *Exercise 02* 
+> *Exercise 02*
 >
 > *15 minutes*
 >

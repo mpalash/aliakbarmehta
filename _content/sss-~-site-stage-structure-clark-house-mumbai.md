@@ -6,7 +6,7 @@ parent: 'SITE : STAGE : STRUCTURE'
 tag: "solo exhibition"
 pubdate: '2014'
 ---
-![](/assets/img/1.-ali-akbar-mehta-site-stage-structure-2014_installation-view-©-aliakbarmehta.jpg)
+![Installation views, SITE : STAGE : STRUCTURE, 2014, Clark House, Mumbai](/assets/img/1.-ali-akbar-mehta-site-stage-structure-2014_installation-view-©-aliakbarmehta.jpg)
 ![](/assets/img/2.-ali-akbar-mehta-site-stage-structure-2014_installation-view-©-aliakbarmehta.jpg)
 ![](/assets/img/3.-ali-akbar-mehta-site-stage-structure-2014_installation-view-©-aliakbarmehta.jpg)
 ![](/assets/img/4.-ali-akbar-mehta-site-stage-structure-2014_installation-view-©-aliakbarmehta.jpg)

@@ -7,7 +7,7 @@ tag: solo exhibition
 pubdate: '2011'
 parent: 'Ballad of the War that Never Was, and Other Basterdised Myths'
 ---
-![null](/assets/img/ballad-of-the-war-that-never-was–-installation-view-01.jpg)
+![Installation View, Ballad of the War that Never Was and Other Basterdised Myths, 2011, TAO Art Gallery](/assets/img/ballad-of-the-war-that-never-was–-installation-view-01.jpg)
 ![null](/assets/img/ballad-of-the-war-that-never-was–-installation-view-02.jpg)
 ![null](/assets/img/ballad-of-the-war-that-never-was–-installation-view-03.jpg)
 ![null](/assets/img/ballad-of-the-war-that-never-was–-installation-view-04.jpg)

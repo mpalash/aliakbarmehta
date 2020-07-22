@@ -5,7 +5,7 @@ parent: 'SITE : STAGE : STRUCTURE'
 tag: artwork
 pubdate: '2014'
 ---
-![](/assets/img/slide13.jpg)
+![Artist Book #1: Performers of Mazgaon, SITE : STAGE : STRUCTURE, 2014](/assets/img/slide13.jpg)
 ![](/assets/img/img_2072.jpg)
 ![](/assets/img/img_2073.jpg)
 ![](/assets/img/img_2074.jpg)

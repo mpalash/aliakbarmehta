@@ -3,6 +3,7 @@ title: SPACE 118
 subtitle: ''
 layout: content
 tag: residency
+parent: 'SITE : STAGE : STRUCTURE'
 pubdate: '2012'
 children: []
 ---

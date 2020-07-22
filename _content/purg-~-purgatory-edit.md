@@ -5,12 +5,9 @@ tag: artwork
 pubdate: '2017'
 parent: ' Purgatory Edit'
 ---
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/SagrIAJvH5w" frameborder="0"
-allow="accelerometer; autoplay; encrypted-media; gyroscope;
-picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CbkWnAX9r3Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![](/assets/img/Ali Akbar Mehta_Purgatory edit_01.jpg)
+![Stills: Purgatory Edit, 2017](/assets/img/Ali Akbar Mehta_Purgatory edit_01.jpg)
 ![](/assets/img/Ali Akbar Mehta_Purgatory edit_02.jpg)
 ![](/assets/img/Ali Akbar Mehta_Purgatory edit_03.jpg)
 ![](/assets/img/Ali Akbar Mehta_Purgatory edit_04.jpg)

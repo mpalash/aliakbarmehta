@@ -5,7 +5,7 @@ layout: content
 tag: group exhibition
 pubdate: "2020"
 ---
-![](assets/img/ali-akbar-mehta-planktonian-people-i-2013-ink-on-paper-16.5-h-x-23.25-w-inches.jpg)
+![Planktonian People II, 2013, ink on paper, 16.5(h) x 23.25(w) inches](assets/img/ali-akbar-mehta-planktonian-people-i-2013-ink-on-paper-16.5-h-x-23.25-w-inches.jpg)
 
 [A Tapestry of Time, Curatorial Note, Tao Art Gallery](https://www.taoartgallery.com/past#/2020)
 

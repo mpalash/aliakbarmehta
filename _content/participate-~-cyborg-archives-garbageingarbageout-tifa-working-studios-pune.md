@@ -14,7 +14,7 @@ Members of the audience were invited to participate 'in the archive' by interact
 ![](/assets/img/ali-akbar-mehta_cyborg-archives_artist-s-instructions_2018.jpg)
 
 
-![](/assets/img/ali-akbar-mehta_cyborg-archives_performance-view_2018.jpg)
+![Performance view: Cyborg Archive: garbageINgarbageOUT, 2018, ARTEL 2018, TIFA Working Studios](/assets/img/ali-akbar-mehta_cyborg-archives_performance-view_2018.jpg)
 ![](/assets/img/ali-akbar-mehta_performance-view_cyborg-archive-garbageingarbageout_tifa-working-studios_2018.jpg.jpg)
 ![](/assets/img/ali-akbar-mehta_performance-detail-02_cyborg-archive-error-archive_tifa-working-studios_2018.png)
 ![](/assets/img/ali-akbar-mehta_performance-detail-03_cyborg-archive-error-archive_tifa-working-studios_2018.png)

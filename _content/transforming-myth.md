@@ -2,7 +2,7 @@
 title: Transforming Myth
 subtitle: Artist Statement, 2010
 layout: content
-tag: unpublished
+tag: text
 pubdate: "2010"
 hero: /assets/img/Ali Akbar Mehta_The Identity of Violence Series; Sacrifice and
   Redemption, 2010, Oil and acrylic on canvas, 182 x 121 cm.jpg

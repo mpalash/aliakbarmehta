@@ -10,7 +10,7 @@ children: []
 ---
 _Cyborg Archives: 256 Million Colours of Violence_ is the second in a series of five performance and participatory installations, exhibited as part of the culmination of my residency at TIFA Working Studios
 
-![](/assets/img/ali-akbar-mehta_installation-view-01_cyborg-archive-256-million-colours-of-violence_tifa-working-studios_2018.jpg)
+![Installation view: Cyborg Archive: 256 Million Colours of Violence, 2018, ARTEL 2018, TIFA Working Studios](/assets/img/ali-akbar-mehta_installation-view-01_cyborg-archive-256-million-colours-of-violence_tifa-working-studios_2018.jpg)
 ![](/assets/img/ali-akbar-mehta_installation-view-03_cyborg-archive-256-million-colours-of-violence_tifa-working-studios_2018.jpg)
 ![](/assets/img/ali-akbar-mehta_installation-view-of-wall-01_cyborg-archive-256-million-colours-of-violence_tifa-working-studios_2018.jpg)
 

@@ -5,7 +5,7 @@ layout: content
 tag: press
 pubdate: "2014"
 summary: >-
-  ![](/assets/img/mazgaon-garden.jpg)
+  ![Mazgaon Gardens, 2012](/assets/img/mazgaon-garden.jpg)
 
 
   The Joseph Batista Gardens is one of the pleasantest places in Mumbai. Sitting atop a hillock, the garden park literally lifts you out of the noise from which even the surrounding neighborhood of Mazagaon, sedate by Mumbai standards, cannot escape.

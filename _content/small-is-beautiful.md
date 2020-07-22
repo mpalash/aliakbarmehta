@@ -5,4 +5,4 @@ layout: content
 tag: group exhibition
 pubdate: "2012"
 ---
-![](assets/img/small-is-beautiful-einvite-lo-res.jpg)
+![Small is Beautiful, Invite, 2012](assets/img/small-is-beautiful-einvite-lo-res.jpg)

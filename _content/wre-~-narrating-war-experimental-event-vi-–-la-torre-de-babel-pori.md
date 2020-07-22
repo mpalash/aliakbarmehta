@@ -1,8 +1,7 @@
 ---
 title: 'wre ~ Narrating War, Experimental Event VI – La Torre de Babel, Pori'
 subtitle: >-
-  curated by Anna Jensen and Andrea Coyotzi Borja, collateral event of Pori Film
-  Festival, 2018
+  curated by Anna Jensen and Andrea Coyotzi Borja, Valimo Hall of Palmgren Conservatory
 layout: content
 tag: performance
 pubdate: '2018'

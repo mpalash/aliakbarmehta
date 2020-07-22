@@ -5,4 +5,5 @@ layout: content
 tag: group exhibition
 pubdate: "2007"
 ---
-.hack//sign
+
+##Group exhibition

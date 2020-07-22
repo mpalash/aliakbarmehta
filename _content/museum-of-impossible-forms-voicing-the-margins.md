@@ -4,8 +4,10 @@ subtitle: "'From Margins to Museums', (ed.) Anna Rastas, Tampere University"
 layout: content
 tag: publication
 pubdate: "2020"
+parent: Museum of Impossible Forms
 hero: assets/img/museum-of-impossible-forms_lecture-and-performance-by-mohsen-namjoo-as-part-of-an-entry-to-iranian-music-curated-by-aman-askarizad_photo-by-ali-akbar-mehta_2020.jpg
 summary: "*Upcoming Essay*"
+
 ---
 > What constitutes the Margins? And how do we calculate with any precise method the marginality of any lived experience?
 >

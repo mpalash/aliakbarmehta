@@ -6,7 +6,7 @@ tag: artwork
 pubdate: '2011'
 
 ---
-![](https://raw.githubusercontent.com/mpalash/aliakbarmehta/master/assets/img/Everybody's%20a%20Jester%20Series_01.jpg)
+![Series: Everybody's a Jester 1-10, 2010-2011, Archival print on Hahnemuhle paper, 61 x 45.7 cm / 45.7x61 cm](https://raw.githubusercontent.com/mpalash/aliakbarmehta/master/assets/img/Everybody's%20a%20Jester%20Series_01.jpg)
 ![](/assets/img/Everybody's a Jester Series_02.jpg)
 ![](/assets/img/Everybody's a Jester Series_03.jpg)
 ![](/assets/img/Everybody's a Jester Series_04.jpg)

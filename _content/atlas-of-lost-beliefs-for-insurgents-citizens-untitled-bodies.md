@@ -4,8 +4,9 @@ subtitle: Curatorial text by Ali Akbar Mehta, Museum of Impossible Forms, Helsin
 layout: content
 tag: publication
 pubdate: "2019"
+parent: Museum of Impossible Forms
 summary: >-
-  ![](assets/img/atlas-of-lost-beliefs_poem-by-ranjit-hoskote.jpg)
+  ![Atlas of Lost Beliefs, Ranjit Hoskote, 2018](assets/img/atlas-of-lost-beliefs_poem-by-ranjit-hoskote.jpg)
 
 
   The Atlas is ‘a book of maps or charts’. We gazed into the Atlas and dreamt of places we would like to visit. The Atlas was our window to strange and alien worlds, connected by an incomprehensible amount of water. Today, the Atlas as a portal, as a device for dreaming is a forgotten artefact, instead mired in historiographies and anthro-political readings of a world that was.

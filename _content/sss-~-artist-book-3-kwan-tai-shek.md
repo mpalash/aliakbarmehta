@@ -5,7 +5,7 @@ parent: 'SITE : STAGE : STRUCTURE'
 tag: artwork
 pubdate: '2014'
 ---
-![](https://raw.githubusercontent.com/mpalash/aliakbarmehta/master/assets/img/temple.jpg)
+![Artist Book #3: Kwan Tai Shek, SITE : STAGE : STRUCTURE, 2014](https://raw.githubusercontent.com/mpalash/aliakbarmehta/master/assets/img/temple.jpg)
 ![](https://raw.githubusercontent.com/mpalash/aliakbarmehta/master/assets/img/temple-01.jpg)
 ![](https://raw.githubusercontent.com/mpalash/aliakbarmehta/master/assets/img/temple-02.jpg)
 ![](https://raw.githubusercontent.com/mpalash/aliakbarmehta/master/assets/img/temple-03.jpg)

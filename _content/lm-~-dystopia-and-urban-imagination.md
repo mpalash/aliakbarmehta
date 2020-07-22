@@ -4,7 +4,7 @@ layout: content
 tag: resource
 pubdate: '2011'
 summary: |-
-  ![](/assets/img/invite-dystopia_poster.jpg)
+  ![Dystopia and Urban Imagination, Poster, 2013](/assets/img/invite-dystopia_poster.jpg)
 
   Film Screenings
 

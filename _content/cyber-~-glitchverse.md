@@ -6,13 +6,11 @@ tag: performance
 pubdate: "2020"
 hero: assets/img/ali-akbar-mehta_glitchverse.jpg
 summary: >-
+
   <iframe
   src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fsuoja.shelter%2Fvideos%2F2648490845410119%2F&show_text=0&width=560"
   width="560" height="315" style="border:none;overflow:hidden" scrolling="no"
   frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
-
-
-
 
   ## Glitchverse was performed as an online lecture-performance for [Souja/Shelter Festival 2020](http://suojashelter.tilda.ws/), on 12.07.2020
 parent: Cyber Archive

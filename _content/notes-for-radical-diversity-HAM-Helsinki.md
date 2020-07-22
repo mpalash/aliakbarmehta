@@ -10,4 +10,3 @@ summary: In November 2019, I was invited to talk about diversity within the art
 children:
   - Notes for Radical Diversity
 ---
-The prepared text of the talk and workshop can be found below:

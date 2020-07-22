@@ -5,6 +5,7 @@ subtitle: "'The Museum of the Future. 43 New Contributions to the Discussion
 layout: content
 tag: publication
 pubdate: "2020"
+parent: Museum of Impossible Forms
 hero: assets/img/museum-of-impossible-forms_james-andean-performance-as-part-of-improv-sesssion-xiv_photo-by-ali-akbar-mehta.jpg
 summary: "*Upcoming Essay*"
 ---

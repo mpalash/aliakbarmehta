@@ -5,6 +5,7 @@ subtitle: Nordic Decolonial Workshop, Center for Research on Ethnic Relations
 layout: content
 tag: talk
 pubdate: "2019"
+parent: Museum of Impossible Forms
 summary: >-
   I always think it's good to think about how you arrive at the work that you
   do. There's always a story to the combinations that we bring to our work and

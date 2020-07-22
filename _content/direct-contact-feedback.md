@@ -37,8 +37,6 @@ The work will be in the form of a participatory performance installation, where 
 
 
 
-![](assets/img/installation-view-direct-contact_pickle-achaar_2019.jpg)
-
-![](assets/img/installation-view-direct-contact_clarified-butter-ghee_2019.jpg)
-
-![](assets/img/installation-view-direct-contact_granulated-jaggery-gud_2019.jpg)
+![Installation view, direct-contact//feedback, pickle/achaar, 2019](assets/img/installation-view-direct-contact_pickle-achaar_2019.jpg)
+![Installation view, direct-contact//feedback, clarified butter/ghee, 2019](assets/img/installation-view-direct-contact_clarified-butter-ghee_2019.jpg)
+![Installation view, direct-contact//feedback, granulated jaggery/gud, 2019](assets/img/installation-view-direct-contact_granulated-jaggery-gud_2019.jpg)

@@ -6,4 +6,4 @@ pubdate: '2016'
 parent: Pudding Manifesto for Togetherness
 children: []
 ---
-![](/assets/img/riisipuddingmanifestotulostustupla.jpg)
+![riisipuddingmanifestotulostustupla, 2016](/assets/img/riisipuddingmanifestotulostustupla.jpg)

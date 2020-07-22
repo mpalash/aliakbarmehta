@@ -6,7 +6,7 @@ tag: solo exhibition
 pubdate: '2016'
 parent: 256 Million Colours of Violence
 ---
-![](/assets/img/ali-akbar-mehta_256-million-colours-of-violence_installation-view-01_third-space-helsinkie_2016.jpg)
+![Installation view, Third Space Helsinki, 2016](/assets/img/ali-akbar-mehta_256-million-colours-of-violence_installation-view-01_third-space-helsinkie_2016.jpg)
 ![](/assets/img/ali-akbar-mehta_256-million-colours-of-violence_installation-view-04_third-space-helsinkie_2016.jpg)
 ![](/assets/img/ali-akbar-mehta_256-million-colours-of-violence_installation-view-02_third-space-helsinkie_2016.jpg)
 ![](/assets/img/ali-akbar-mehta_256-million-colours-of-violence_detail_third-space-helsinki_2016.jpg)

@@ -7,4 +7,4 @@ pubdate: '2016'
 parent: (Un)Becoming Finnish
 children: []
 ---
-![](/assets/img/becoming-uh-finnish_space-invaders-iv_matinkyla-espoo_2016.jpg)
+![Installation view: Becoming (Un)Finnish, 2016, Space Invaders IV: Heterotopia, Espoo](/assets/img/becoming-uh-finnish_space-invaders-iv_matinkyla-espoo_2016.jpg)

@@ -19,9 +19,9 @@ summary: >-
   ongoing survey.
 parent: 256 Million Colours of Violence
 ---
-![](/assets/img/limitations-of-liability-segment-1.jpg)
-![](/assets/img/limitations-of-liability-segment-2-updated.jpg)
-![](/assets/img/limitations-of-liability-segment-3.jpg)
+![Limitations of Liability, segment 1, The Mumbai Assembly, 2017](/assets/img/limitations-of-liability-segment-1.jpg)
+![Limitations of Liability, segment 2, Piramal Museum of Art, 2017](/assets/img/limitations-of-liability-segment-2-updated.jpg)
+![Limitations of Liability, segment 3, Harkat Studios, 2017](/assets/img/limitations-of-liability-segment-3.jpg)
 
 Held across three venues – The Mumbai Assembly (Bandra), The Piramal Art Foundation (Lower Parel) and Harkat Studios (Versova) – the program also included poetry recitations, talks and discussions, and a series of films screenings concerned with the subject of violence and trauma.
 

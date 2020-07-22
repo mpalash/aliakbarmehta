@@ -7,9 +7,9 @@ tag: publication
 pubdate: "2011"
 children: []
 ---
-![](assets/img/ali-akbar-mehta_cover-international-gallerie-magazine-journal-of-contemporary-art-issue-30-bina-sarkar-ellias-mumbai_2011.jpg)
+![Cover, International Gallerie - Journal of Contemporary art - issue 30 (ed.) Bina Sarkar Ellias, Mumbai, 2011](assets/img/ali-akbar-mehta_cover-international-gallerie-magazine-journal-of-contemporary-art-issue-30-bina-sarkar-ellias-mumbai_2011.jpg)
 
-\*
+
 
 ## A Body Split in Two
 

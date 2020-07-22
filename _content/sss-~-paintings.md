@@ -13,7 +13,7 @@ Mumbai.
 The images were painted by **Narendra Dewoodkar**, a retired banner-painter
 from Mazgaon living in Vashi, Mumbai.
 
-![](/assets/img/site-stage-structure_paintings.jpg)
+![SITE : STAGE : STRUCTURE: Landmark Paintings, Acrylic on Board, 2014](/assets/img/site-stage-structure_paintings.jpg)
 ![](/assets/img/yellow-crane.jpg)
 ![](/assets/img/chinese-temple.jpg)
 ![](/assets/img/pine-building.jpg)
