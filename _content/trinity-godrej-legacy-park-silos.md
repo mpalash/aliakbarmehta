@@ -1,5 +1,5 @@
 ---
-title: 'TRINITY: Gordrej Legacy Park Silos'
+title: 'TRINITY: Godrej Legacy Park Silos'
 subtitle: Public Project at Godrej One, Mumbai, India
 layout: content
 tag: past project

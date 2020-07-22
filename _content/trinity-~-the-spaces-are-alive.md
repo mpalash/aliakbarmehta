@@ -4,7 +4,7 @@ subtitle: Design Owl, 2016
 layout: content
 tag: press
 pubdate: '2016'
-parent: 'TRINITY: Gordrej Legacy Park Silos'
+parent: 'TRINITY: Godrej Legacy Park Silos'
 children: []
 ---
 ![](/assets/img/designowl_silo.jpg)

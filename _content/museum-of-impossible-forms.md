@@ -1,7 +1,7 @@
 ---
 title: Museum of Impossible Forms
 layout: content
-tag: Project
+tag: ongoing project
 pubdate: '2016'
 children:
   - 'The Shape of Museums to Come'
@@ -17,7 +17,7 @@ children:
 ---
 In the Autumn of 2016, several artists, curators, philosophers, theorists and cultural workers attempted to respond to the gaping void  of Independent and artist run spaces within the city of Helsinki.
 
-This collective, [**The Museum of Impossible Forms**](https://museumofimpossibleforms.org/), applied for a grant from **Kone Foundation** for funding to conceive, launch and run a space in Kontual, Helsinki.
+This collective, [**The Museum of Impossible Forms**](https://museumofimpossibleforms.org/), applied for a grant from **Kone Foundation** for funding to conceive, launch and run a space in Kontula, Helsinki.
 
 A decision to house ourselves in a space previously occupied by a Night School, allowed us to to evolve from a space of exhibition to a space focusing on 'Alternate Pedagogy', and respond to the unmet needs of the City, where a space of and gathering of the Subaltern may take place, without the toxic presence of prejudice and the overbearing sense of anxiety.
 

@@ -4,7 +4,7 @@ subtitle: Artist Statement by Ali Akbar Mehta and Vidha Saumya
 layout: content
 tag: text
 pubdate: '2015'
-parent: 'TRINITY: Gordrej Legacy Park Silos'
+parent: 'TRINITY: Godrej Legacy Park Silos'
 ---
 An exhibition is always an act of placing artworks and understanding the
 importance of engaging with a site and, at the same time producing a polylogue
