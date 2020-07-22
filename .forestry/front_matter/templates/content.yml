@@ -15,13 +15,38 @@ fields:
   default: []
   config:
     required: false
-    options: []
+    options:
+    - ongoing project
+    - past project
+    - individual work
+    - " artwork"
+    - group exhibition
+    - solo exhibition
+    - performance
+    - press
+    - publication
+    - unpublished
+    - residency
+    - resource
+    - talk
+    - text
+    - video
     source:
       type: simple
       section: 
       file: 
       path: 
   label: Tag
+- name: date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: false
+    date_format: YYYY
+    time_format: YYYY
+    display_utc: false
+    export_format: YYYY
 - type: text
   name: layout
   label: Layout
