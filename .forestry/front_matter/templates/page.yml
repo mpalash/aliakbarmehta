@@ -4,13 +4,24 @@ hide_body: false
 fields:
 - type: text
   name: layout
-  label: layout
+  label: Layout
+  hidden: true
+  default: page
 - type: text
   name: title
-  label: title
+  label: Title
 - type: text
   name: permalink
-  label: permalink
+  label: Permalink
 - type: textarea
   name: summary
-  label: summary
+  label: Summary
+- name: body
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Body
