@@ -4,19 +4,19 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Title
 - type: text
   name: layout
-  label: layout
+  label: Layout
 - type: text
   name: tag
-  label: tag
+  label: Tag
 - type: text
   name: pubdate
-  label: pubdate
+  label: Date
 - type: file
   name: hero
-  label: hero
+  label: Hero Image
 - type: textarea
   name: summary
   label: summary
