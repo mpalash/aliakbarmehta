@@ -4,10 +4,8 @@ subtitle: Third Space, Helsinki
 layout: content
 tag: publication
 pubdate: "2020"
+summary: "***Upcoming Essay***"
 parent: Museum of Impossible Forms
-summary: <-
-  *Upcoming Essay*
-
 ---
 > "The word *collaborate* comes from Latin roots. Words beginning with the prefix 'col-' meaning together, implying doing something together. The root word 'laborare', also from Latin, gives us many of the English words used to talk about careers and work. In fact, the word laborcomes from this root word. Putting the two Latin parts of this word together, the word literally means ‘to work together’.
 
