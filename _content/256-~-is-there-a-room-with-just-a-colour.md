@@ -6,7 +6,7 @@ tag: solo exhibition
 pubdate: "2020"
 hero: assets/img/poster.jpg
 summary: >-
-  ![](assets/img/ali-akbar-mehta_installation-view-is-there-a-room-with-just-a-colour-myymala2-helsinki-2020.jpg)
+  ![Installation view: Is there a room with just a colour?, 2020, Myymälä2, Helsinki](assets/img/ali-akbar-mehta_installation-view-is-there-a-room-with-just-a-colour-myymala2-helsinki-2020.jpg)
 
 
   [](http://www.myymala2.com)*Is there a room with just a colour?* at [Myymälä2](http://www.myymala2.com), Helsinki is an exhibition by artist **Ali Akbar Mehta** inviting online and on-site audiences to participate and become co-creators of a living archive that represents colours of violence.
@@ -18,7 +18,7 @@ summary: >-
   By transforming the commonplace ‘survey questionnaire’ into a diverse communication interface, the project subverts the problematic usage of questionnaires as bureaucratic tools for data collection. With particular emphasis on questions of gender, sexuality, class, and citizenship, it reveals the presence of violence – in routine everyday questions, and in everyday life. Through 50 questions gathered from various bureaucratic forms, the project facilitates an ‘encounter of equals’ and serves as a witness, a therapist, and a mirror, creating a new vocabulary of colour in the context of violence.
 parent: 256 Million Colours of Violence
 ---
-... 
+...
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qI9Ze28nAtQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
