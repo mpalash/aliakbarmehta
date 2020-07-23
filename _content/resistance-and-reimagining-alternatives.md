@@ -5,19 +5,20 @@ subtitle: Nordic Decolonial Workshop, Center for Research on Ethnic Relations
 layout: content
 tag: talk
 pubdate: "2019"
-parent: Museum of Impossible Forms
 summary: >-
-  I always think it's good to think about how you arrive at the work that you
-  do. There's always a story to the combinations that we bring to our work and
-  to the world. And I would like to thank the Nordic Decolonial Workshop for
-  inviting me to share some of the work we do at Museum of Impossible Forms.
+  In November 2019, I was invited to speak about [Museum of Impossible
+  Forms](https://museumofimpossibleforms.org/).
 
 
-  Good afternoon,
-
-
-  My name is Ali Akbar Mehta. I am here today to speak in my capacity as one of the Artistic Directors of Museum of Impossible Forms, who along with Marianne Savallampi are involved in the core programming of the space. Together we curate the space, undertake the administrative duties, provide technical support, shift the furniture and make the coffee.
+  The transcript of the talk is below:
+parent: Museum of Impossible Forms
 ---
+I always think it's good to think about how you arrive at the work that you do. There's always a story to the combinations that we bring to our work and to the world. And I would like to thank the Nordic Decolonial Workshop for inviting me to share some of the work we do at Museum of Impossible Forms.
+
+Good afternoon,
+
+My name is Ali Akbar Mehta. I am here today to speak in my capacity as one of the Artistic Directors of Museum of Impossible Forms, who along with Marianne Savallampi are involved in the core programming of the space. Together we curate the space, undertake the administrative duties, provide technical support, shift the furniture and make the coffee.
+
 Museum of Impossible Forms (m{if}) is a culturalcentrerun by artists/ activists/ curators/ philosophers/ and is located in Kontula, East-Helsinki.For us the Museum is a space in flux – a contested space representing a contact zone, a space of unlearning, formulating identity constructs, norm-critical consciousness and critical thinking. ‘Impossible Forms’ are those that facilitate the process of transgressing the boundaries/borders between art, politics, practice, theory, the artist and the spectator.
 
 Museum of Impossible Forms is a free space, which means that not only does it not charge artists a monetary fee to use the space, but also that we make available our resources ( a multilingual library, an ongoing archive, and a space for events and workshops) and expertise to artists we host, and to the surrounding community. All events in the space are free for the audience to attend. Furthermore, we compensate invited guests, artists, curators and speakers to support the integrity and ethics of cultural labor which is all too often underpaid, and underappreciated.
