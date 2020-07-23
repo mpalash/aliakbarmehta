@@ -3,6 +3,7 @@ title: Museum of Impossible Forms
 layout: content
 tag: ongoing project
 pubdate: "2016"
+hero: assets/img/m-if-poster.jpg
 summary: I’m one of the co-founders and current co-Artistic Director (2018-2020)
   of ‘Museum of Impossible Forms’, an anti-racist, queer feminist
   cultural-center located Kontula, Helsinki. Along with Marianne Savallampi, I
