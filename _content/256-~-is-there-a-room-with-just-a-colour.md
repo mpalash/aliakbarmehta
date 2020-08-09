@@ -9,7 +9,7 @@ summary: >-
   ![Installation view: Is there a room with just a colour?, 2020, Myymälä2, Helsinki](assets/img/ali-akbar-mehta_installation-view-is-there-a-room-with-just-a-colour-myymala2-helsinki-2020.jpg)
 
 
-  [](http://www.myymala2.com)*Is there a room with just a colour?* at [Myymälä2](http://www.myymala2.com), Helsinki is an exhibition by artist **Ali Akbar Mehta** inviting online and on-site audiences to participate and become co-creators of a living archive that represents colours of violence.
+  *Is there a room with just a colour?* at [Myymälä2](http://www.myymala2.com), Helsinki is an exhibition by artist **Ali Akbar Mehta** inviting online and on-site audiences to participate and become co-creators of a living archive that represents colours of violence.
 
 
   > ## *Where do you fit in the larger scheme of things? Is your citizenship made doubtful? Is your right to live questioned? Does the question, ‘Where are you from?’, seem like a violent intrusion normalized through repetition?*
