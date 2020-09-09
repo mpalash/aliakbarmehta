@@ -1,21 +1,22 @@
 ---
-title: 'WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs'
+title: "WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs"
 layout: content
 tag: ongoing project
-pubdate: '2019'
-hero: ''
+pubdate: "2019"
+hero: ""
 children:
-  - 'wre ~ Foreword: Artist''s Note'
+  - "wre ~ Foreword: Artist's Note"
   - wre ~  Why is an archive of wars required?
   - wre ~ Narrating War
-  - 'WRE ~ Narrating WAR, Mymmälä2, Helsinki'
-  - 'wre ~ Narrating War, Experimental Event VI – La Torre de Babel, Pori'
-  - 'wre ~ Narrating War, Carinarnica, Nova Gorcia'
-  - 'wre ~ Narrating War, Museum of Impossible Forms, Helsinki'
-  - 'wre ~ Narrating War, Kaapelitehdas, Helsinki'
-  - 'wre ~ Narrating War, Clark House, Mumbai'
-  - 'wre ~ Narrating War, Pispala, Tampere'
-  - 'wre ~ Narrating War, Kallio Public Library, Helsinki'
+  - wre ~ Narrating WAR, New Performance Turku
+  - WRE ~ Narrating WAR, Mymmälä2, Helsinki
+  - wre ~ Narrating War, Experimental Event VI – La Torre de Babel, Pori
+  - wre ~ Narrating War, Carinarnica, Nova Gorcia
+  - wre ~ Narrating War, Museum of Impossible Forms, Helsinki
+  - wre ~ Narrating War, Kaapelitehdas, Helsinki
+  - wre ~ Narrating War, Clark House, Mumbai
+  - wre ~ Narrating War, Pispala, Tampere
+  - wre ~ Narrating War, Kallio Public Library, Helsinki
   - wre ~ null.void
 ---
 **WAR • ROOM • ECHO: Regarding the pain of other Cyborgs** is a collaborative Transmedia Performance-Installation and Research Project examining the philosophical terrain of war that addresses the current situation of a permanent state of conflict across the globe, and addresses violent incidents in the world not as isolated events but as a new condition of an ongoing, unparalleled warfare.
