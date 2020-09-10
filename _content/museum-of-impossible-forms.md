@@ -18,11 +18,11 @@ children:
   - Atlas of Lost Beliefs (for Insurgents, Citizens, & Untitled Bodies)
   - Resistance and Reimagining Alternatives
   - Notes for Radical Diversity
+  - "mif ~ CreaTures: Panel Discussion on Creative Practices for
+    Transformational Futures"
   - "SAFE{R}: Evolving the Conditions for Collaboration"
   - The Shape of Museums to Come
   - "Museum of Impossible Forms: Voicing the Margins"
-  - "mif ~ CreaTures: Panel Discussion on Creative Practices for
-    Transformational Futures"
   - Muse ~ Who is Welcome? – Thinking Hospitality as Museum of Impossible Forms
 ---
 > In the Autumn of 2016, several artists, curators, philosophers, theorists and cultural workers attempted to respond to the gaping void of Independent and artist-run spaces within Helsinki. This collective, the **[](https://museumofimpossibleforms.org/)Museum of Impossible Forms** applied for a grant from Kone Foundation for funding to conceive, launch and run a space in Kontula, Helsinki. A decision to house ourselves in a space previously occupied by a Night School, allowed us to to evolve from a space of exhibition to a space focusing on 'Alternate Pedagogy', and respond to the unmet needs of the City, where a space of and gathering of the subaltern may take place, without the toxic presence of prejudice and the overbearing sense of anxiety.
