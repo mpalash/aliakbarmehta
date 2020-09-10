@@ -8,7 +8,7 @@ children:
   - "wre ~ Foreword: Artist's Note"
   - wre ~  Why is an archive of wars required?
   - wre ~ Narrating War
-  - wre ~ Narrating WAR, New Performance Turku
+  - "wre ~ Narrating WAR, New Performance Turku, Festival 2020: Mobilities"
   - WRE ~ Narrating WAR, Mymmälä2, Helsinki
   - wre ~ Narrating War, Experimental Event VI – La Torre de Babel, Pori
   - wre ~ Narrating War, Carinarnica, Nova Gorcia
