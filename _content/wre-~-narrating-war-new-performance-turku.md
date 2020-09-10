@@ -1,6 +1,6 @@
 ---
 title: "wre ~ Narrating WAR, New Performance Turku, Festival 2020: Mobilities"
-subtitle: Performance by ali Akbar Mehta with varialambo
+subtitle: Performance by Ali Akbar Mehta with varialambo
 layout: content
 tag: performance
 pubdate: "2020"
