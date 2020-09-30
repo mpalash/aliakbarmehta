@@ -6,7 +6,7 @@ subtitle: Rehearsing Hospitalities Companion 2, (ed.) Yvonne Billimore and Jussi
 layout: content
 tag: publication
 pubdate: "2020"
-summary: ""
+summary:
 parent: Museum of Impossible Forms
 ---
 *"...the issues of hospitality and fantasy are inextricably linked – the promise of equality has always been weighed against its counter mechanisms of right-wing populist politics, neoliberal capitalism, ethno-fanato-nationalism, and its older more virulent strains of memetic concepts, namely patriarchy, misogyny, cissexism and its pseudo-scientific offspring – race, class, and caste. A relationship between reason and unreason (fantasy) embedded within the late modern criticism has been the basis of articulation for a certain idea of the political, the community, the subject – a ‘Biopolitical’ agency, one that inherently above all and everything else is ‘able to’..."*
