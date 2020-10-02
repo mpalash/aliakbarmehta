@@ -19,7 +19,7 @@ children:
   - wre ~ Narrating War, Kallio Public Library, Helsinki
   - wre ~ null.void
 ---
-**WAR • ROOM • ECHO: Regarding the pain of other Cyborgs** is a collaborative Transmedia Performance-Installation and Research Project. It examines the philosophical terrain of war and the seemingly permanent state of conflict across the globe – addressing (present and past) violent incidents in the world not as isolated events but as a new condition of *ongoing, unparalleled warfare*.
+**WAR • ROOM • ECHO: Regarding the pain of other Cyborgs** is a *collaborative Transmedia Performance-Installation and Research Project*. It examines the philosophical terrain of war and the seemingly permanent state of conflict across the globe – addressing (present and past) violent incidents in the world not as isolated events but as a new condition of *ongoing, unparalleled warfare*.
 
 Examining the philosophical terrain of war, **WAR • ROOM • ECHO** is a composite project consisting of drawn images, sound, performance and installation elements that explore war and its impact. The project is more than a simple representation of war, where it instead describes war as a universal idea of antagonism – a set of languages and iconographies embedded in our everyday lives and broader social consciousness. Dealing beyond an actual, specific conflict, it confronts its audience with the unpalatable side of humanity, the scenes and situations that resist engagement.
 
@@ -27,15 +27,17 @@ Examining the philosophical terrain of war, **WAR • ROOM • ECHO** is a compo
 ![3D rendered visualisation, The installation is conceived to be in a 'dark room' and viewed through torchlight, ‘WAR • ROOM • ECHO – Regarding the Pain of Other Cyborgs'](/assets/img/ali-akbar-mehta_simulated-view-of-installation_wre-proposal.jpg)
 ![3D rendered visualisation, The installation partly comprises of a memorial wall mimicking vertical graves, ‘WAR • ROOM • ECHO – Regarding the Pain of Other Cyborgs'](/assets/img/ali-akbar-mehta_simulated-view-of-memorial-wall_wre-proposal.jpg)
 
-The vision of the project is to bring together 
+This project consistis of several modualr components:
 
 1. **The War that is Coming is Not the Last one:**  *a size variable site-specific charcoal drawing on War performed as an act of mourning, viewed in a dark room with torchlight* 
-2. **War List Codex:** A publication consisting of a comprehensive yet ongoing list archive of every "War, Battle, Revolt, Revolution, Rebellion, Siege, Sacking, Bombing, and Insurgency" in the world, from 3000 BC to the present.
+2. **War List Codex:** A publication consisting of a comprehensive yet ongoing list archive of every "War, Battle, Revolt, Revolution, Rebellion, Siege, Sacking, Bombing, and Insurgency" in the world, from 3000 B.C. to the present.
 3. **Narrating WAR*:***Performance reading and typing of the 'War List Codex' 
 
    1. Data-generated soundscape based on the live typing of the list
    2. Cameras that automatically take photographs when triggered by the soundscape, creating continual photographic documentation transforming the viewer into an active performer 
 4. Memorial style installation of the War List mimicking vertical graves.
+
+The project is envisioned as a temporary museum – as a hybrid cross between ***an archaeological site*** (in itself a branch or a parallel of history), a **war memorial**, and a ***tomb:*** It is a *gesamtkunstwerk* on the idea of war and conflict, creating a significant marker in the form of the largest war based research archive spanning 5020+ years – beyond existing notions of geo-political identity – positing the project in the context of a para-museum that critically engages and disrupts existing power relations.
 
 
 
