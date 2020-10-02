@@ -39,8 +39,6 @@ This project consistis of several modualr components:
 
 The project is envisioned as a temporary museum – as a hybrid cross between ***an archaeological site*** (in itself a branch or a parallel of history), a **war memorial**, and a ***tomb:*** It is a *gesamtkunstwerk* on the idea of war and conflict, creating a significant marker in the form of the largest war based research archive spanning 5020+ years – beyond existing notions of geo-political identity – positing the project in the context of a para-museum that critically engages and disrupts existing power relations.
 
-
-
 ...
 
 The Project also gives rise to secondary works within its folds:
@@ -49,5 +47,3 @@ The Project also gives rise to secondary works within its folds:
 * **Game of War**
 * **War.bot**
 * **Apocalypse Now**
-
-The project is envisioned as a temporary museum – as a hybrid cross between an archaeological site (in itself a branch or a parallel of history), a war memorial, and a tomb. It is a gesamtkunstwerk on the idea of war and conflict, creating a significant marker in the form of the largest war based research archive spanning 5019 years, beyond existing notions of geopolitical identity – positing the project in the context of a PARA-museum that critically engages and disrupts existing power relations.
