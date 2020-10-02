@@ -31,19 +31,19 @@ This project consistis of several modualr components:
 
 1. **The War that is Coming is Not the Last one:**  *a size variable site-specific charcoal drawing on War performed as an act of mourning, viewed in a dark room with torchlight* 
 2. **War List Codex:** A publication consisting of a comprehensive yet ongoing list archive of every "War, Battle, Revolt, Revolution, Rebellion, Siege, Sacking, Bombing, and Insurgency" in the world, from 3000 B.C. to the present.
-3. **Narrating WAR*:***Performance reading and typing of the 'War List Codex' 
+3. **Narrating WAR*:*** Performance reading and typing of the 'War List Codex' 
 
    1. Data-generated soundscape based on the live typing of the list
    2. Cameras that automatically take photographs when triggered by the soundscape, creating continual photographic documentation transforming the viewer into an active performer 
 4. Memorial style installation of the War List mimicking vertical graves.
 
-The project is envisioned as a temporary museum – as a hybrid cross between ***an archaeological site*** (in itself a branch or a parallel of history), a **war memorial**, and a ***tomb:*** It is a *gesamtkunstwerk* on the idea of war and conflict, creating a significant marker in the form of the largest war based research archive spanning 5020+ years – beyond existing notions of geo-political identity – positing the project in the context of a para-museum that critically engages and disrupts existing power relations.
+The project is envisioned as a temporary museum – as a hybrid cross between ***an archaeological site*** (in itself a branch or a parallel of history), a **war memorial**, and a ***tomb:*** It is a *gesamtkunstwerk* on the idea of war and conflict, creating a significant marker in the form of the largest war based research archive spanning 5020+ years – beyond existing notions of geopolitical identity – positioning the project in the context of a para-museum that critically engages and disrupts existing power relations.
 
 ...
 
 The Project also gives rise to secondary works within its folds:
 
-* **The War is Over if you Want It**: A compilation based archival footage film, 8 hours.
-* **Game of War**
-* **War.bot**
-* **Apocalypse Now**
+* **The War is Over if you Want It** *(compilation-based archival footage film, 480 min.)*
+* **Game of War** *(animated infographic video, 120 min.)*
+* **War.bot** (RSS feed-based web project)
+* **Apocalypse Now** *(interactive post-apocalyptic virtual landscape, VR Experience)*
