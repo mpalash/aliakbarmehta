@@ -7,6 +7,7 @@ pubdate: "2020"
 hero: assets/img/ali_cpa_maunula_map_2020_bw-surround.jpg
 children:
   - CPA ~ Central Park Archives - workshops
+  - CPA ~  Central Park Archives sound walk
   - CPA ~ Rehearsing Hospitalities Companion 2 Readings with Annet Dekker, and
     Susanna Ånäs and Ali Akbar Mehta, Rehearsing Hospitalities
   - Central ~ Central Park Archives, announcement
