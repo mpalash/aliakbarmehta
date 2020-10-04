@@ -9,7 +9,7 @@ children:
   - CPA ~ Central Park Archives - workshops
   - CPA ~  Central Park Archives sound walk
   - CPA ~ Rehearsing Hospitalities Companion 2 Readings with Annet Dekker, and
-    Susanna Ånäs and Ali Akbar Mehta, Rehearsing Hospitalities
+    Susanna Ånäs and Ali Akbar Mehta
   - Central ~ Central Park Archives, announcement
 ---
 Central Park Archives is a project that discusses questions of access, while bridging the gap between public spaces and information commons.
