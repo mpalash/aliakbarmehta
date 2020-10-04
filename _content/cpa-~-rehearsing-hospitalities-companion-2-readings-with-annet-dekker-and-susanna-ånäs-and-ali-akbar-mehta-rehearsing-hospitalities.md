@@ -13,7 +13,7 @@ summary: >-
 
 
   Welcome to **Rehearsing Hospitalities Companion 2 Readings** with Annet Dekker, and Central Park Archives artists Ali Akbar Mehta and Susanna Ånäs, hosted by the publication editors Yvonne Billimore and Jussi Koitela.
-parent: ""
+parent: Central Park Archives
 ---
 In this event, Annet Dekker is invited to present her contribution to Rehearsing Hospitalities Companion 2 “**Archival absurdity, or a walk in the park**”. Annet Dekker’s text takes us on a journey from her childhood garden with sweet berry bushes to her new allotment garden, and further onwards to think-with a speculative project based in Helsinki Central Park. Allotment Archives is a project which mirrors a real project (Central Park Archives) but remains a fictional thinking exercise. Annet’s fictitious project Allotment Archives invites us to consider different approaches for commons archiving from the artist-activist to the federative-archivist.
 
