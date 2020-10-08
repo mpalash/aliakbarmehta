@@ -2,14 +2,15 @@
 title: Central ~ Central Park Archives, announcement
 subtitle: local/online residency w/ mcult, Helsinki
 layout: content
-tag: resource
+tag: residency
 pubdate: "2020"
+summary: >-
+  ![](assets/img/ali_cpa_maunula_map_2020_bw-surround.jpg)
+
+
+  Central Park Archives is a project exploring practices of collaborative archiving together with communities and residents of Maunula. The long-term project is inaugurated in Spring 2020 as a local/online residency with **Susanna Ånäs** and **Ali Akbar Mehta**, who have an artistic practice dealing with archives and the commons.
 parent: Central Park Archives
 ---
-Central Park Archives is a project exploring practices of collaborative archiving together with communities and residents of Maunula. The long-term project is inaugurated in Spring 2020 as a local/online residency with **Susanna Ånäs** and **Ali Akbar Mehta**, who have an artistic practice dealing with archives and the commons.
-
-![Maunula Map (work-in-progress), 2020, m-cult Maunula Helsinki](https://www.m-cult.org/sites/default/files/styles/port/public/2020-05/CentralPark-Map-AliAkbarMehta.jpg?itok=n9zXqucM)
-
 A unique urban forest, Helsinki’s Central Park, was established and developed as a public park since 1911. The 10-kilometer long park extends from the city centre at Töölönlahti Bay up to the city’s Northern border, crossing dozens of Helsinki districts. The Central Park has a significant value for Helsinkians, who engage with it by daily walks, nature observation, gardening and recreation activities.
 
 In Maunula, the park includes several natural ecosystems - spruce and pine forests, a hazel grove, meadows, an allotment garden, and a stream that encircles the Maunula area. While citizens have fervently maintained its sanctity as a resource as well as preserved its histories, they now defend the park against bureaucratic machinery – city plans that threaten the park’s ecology by new housing blocks and urban boulevard developments.
