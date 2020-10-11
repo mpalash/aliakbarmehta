@@ -30,17 +30,18 @@ Thank you Minna Tarkka, Iida Nissinen, and Kalle Kuisma from mcult to all their 
 We could not have done this without the technical support from Arun Ganesh and [Palash Mukhopadhyay](www.mpalash.com).
 
 And of course all the support through a growing community of [\#maunula](https://www.facebook.com/hashtag/maunula?__eep__=6&__cft__[0]=AZVcEBJNH54_VHL4Oh3B-IIqS3nkieDYZlIeXPp0yFFzhpG-ZrQYuKOBYgNlZGaTzhOzGpY_UArgS9WbhkxwORUcu65wbGe8-OkeYzHQ1kvzJ7uETCTjSv7-cE4BVSbqB7XgAnaKCcIxCAEk4lxoqaXSrxSmHOervV817VnDzQRc2Bk4dCpjUkC4vYh5vwCne0_7iAfZ0609Y-sb6SuSPTq7FHLE-8Jveu5KNTGOJccgSg&__tn__=*NK-R) partners: everyone who shared their stories and contributed years of work through their material documents.
+<br/><br/>
 
-...
 
-> *About the speakers:*
+*About the speakers:*
 
 **Annet Dekker** is assistant professor Media Studies: Archival and Information Studies at the University of Amsterdam and visiting professor and co-director of the Centre for the Study of the Networked Image at London South Bank University. She has previously been Researcher, Digital Preservation at Tate, London and core tutor at Piet Zwart Institute, Rotterdam, and Fellow at Het Nieuwe Instituut, Rotterdam. Alongside being an independent curator, she worked as web curator for SKOR (Foundation for Art and Public Domain) and curator/head of exhibitions, education and artists in residence at the Netherlands Media Art Institute.
 
 **Central Park Archives** is a project exploring practices of collaborative archiving, together with communities and residents of Maunula, Helsinki. This long-term project is inaugurated in 2020 as a local/online residency with artists Susanna Ånäs and Ali Akbar Mehta, both whose artistic practices deal with conceptual extensions of the archive and the commons. The project is co-produced by Iida Nissinen and Minna Tarkka from digital culture and collaborative art agency m-cult.
+<br/><br/>
 
-> *How to access copies:*
-
+*How to access copies:*
+<br/><br/>
 * Rehearsing Hospitalities Companion 2 is available as an open access PDF and in hard copy. In addition, it will be released as ebook and audiobook versions later in the autumn. Download the publication PDF **here**.
 * Hard copies can be purchased from the Archive Books [website]([http://www.archivebooks.org/](https://www.youtube.com/redirect?q=http%3A%2F%2Fwww.archivebooks.org%2F&event=video_description&v=YUeC7AnDZDE&redir_token=QUFFLUhqbXhOWF9selhDTW13OVVaY0NxcTFxcVNoOE5jUXxBQ3Jtc0trNk5HYzVtX1ZQMTNuUUpQOUdXVmFxaTZrWmluNm4wRnM3RGRnUjh4ZGxLVUZoOHgyRUVrX2phTGZ0Z012MktKTUlvUzBPblVNT01WQV9YUE1EdmJKWDhlc01JblZuWnk1dk9pZWhHamFKaVcwWWl2NA%3D%3D)).
 * In addition, Frame is distributing a limited number of hard copies for free from their office space in Helsinki. These can be collected on Thursday 24th September and Thursday 1st October from 10:00 - 15:00. Full information on how to access the building is available on their website.
