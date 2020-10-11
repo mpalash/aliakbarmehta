@@ -45,5 +45,6 @@ And of course all the support through a growing community of [\#maunula](https:/
 * Rehearsing Hospitalities Companion 2 is available as an open access PDF and in hard copy. In addition, it will be released as ebook and audiobook versions later in the autumn. Download the publication PDF **here**.
 * Hard copies can be purchased from the Archive Books [website]([http://www.archivebooks.org/](https://www.youtube.com/redirect?q=http%3A%2F%2Fwww.archivebooks.org%2F&event=video_description&v=YUeC7AnDZDE&redir_token=QUFFLUhqbXhOWF9selhDTW13OVVaY0NxcTFxcVNoOE5jUXxBQ3Jtc0trNk5HYzVtX1ZQMTNuUUpQOUdXVmFxaTZrWmluNm4wRnM3RGRnUjh4ZGxLVUZoOHgyRUVrX2phTGZ0Z012MktKTUlvUzBPblVNT01WQV9YUE1EdmJKWDhlc01JblZuWnk1dk9pZWhHamFKaVcwWWl2NA%3D%3D)).
 * In addition, Frame is distributing a limited number of hard copies for free from their office space in Helsinki. These can be collected on Thursday 24th September and Thursday 1st October from 10:00 - 15:00. Full information on how to access the building is available on their website.
+<br/><br/>
 
   ![](assets/img/rehearsing-hospitalities-ii.jpg)
