@@ -10,15 +10,19 @@ summary: >-
   with the residents.
 
 
-  Read the Interview published in Finnish **[here]
-
-  (https://maunulassa.wordpress.com/portfolio/mehta-anas-keskuspuistoarkistot/)**
+  Read the Interview published in Finnish **[here](https://maunulassa.wordpress.com/portfolio/mehta-anas-keskuspuistoarkistot/)**
 
   <br/><br/>
 
 
-  ![](assets/img/artists_-1st-field-trip_kiirawashere_23.4.2020.jpg)
+  ![](assets/img/susanna-iida-ali-jorma_2nd-field-trip_meadow_16.6.2020.jpg)
 parent: Central Park Archives
+children:
+  - CPA ~ Central Park Archives - workshops
+  - CPA ~  Central Park Archives sound walk
+  - CPA ~ Rehearsing Hospitalities Companion 2 Readings with Annet Dekker, and
+    Susanna Ånäs and Ali Akbar Mehta
+  - Central ~ Central Park Archives, announcement
 ---
 <br/><br/>
 **Ali and Susanna, tell us about your practice!**
