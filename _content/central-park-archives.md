@@ -4,7 +4,7 @@ subtitle: ""
 layout: content
 tag: ongoing project
 pubdate: "2020"
-hero: assets/img/central-park-archive-meadow-panorama-2020.jpg
+hero: assets/img/ali_cpa_maunula_map_2020_bw-surround.jpg
 parent: Central Park Archives
 children:
   - Central ~ Central Park Archives, announcement
