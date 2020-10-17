@@ -4,7 +4,7 @@ subtitle: ""
 layout: content
 tag: ongoing project
 pubdate: "2020"
-hero: assets/img/ali_cpa_maunula_map_2020_bw-surround.jpg
+hero: assets/img/keskuspuistoarkistot-pilotti-kayttoliittyma.png
 parent: Central Park Archives
 children:
   - Central ~ Central Park Archives, announcement
@@ -18,3 +18,6 @@ children:
 Central Park Archives is a project that discusses questions of access, while bridging the gap between public spaces and information commons, and is intended as a long-term framework supported by m-cult.
 
 In its first phase of working (prototype), the project exploring practices of collaborative archiving together with communities and residents of Maunula, taking the Central Park and the ecological spaces of Maunula as its ground zero. The project seeks to become a contact zone by gathering curated material, archives, and individual/collective praxis as a form of consolidating existing and situated yet fragmented knowledges.
+
+Visit the archive (demo) **[here](https://central-park-archives.github.io/#16/60.227151/24.912975/0/60)**
+<br/><br/>
