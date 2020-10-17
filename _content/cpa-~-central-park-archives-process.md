@@ -51,13 +51,14 @@ The first year of the Central Park Archives project ended with a joint audio wal
 ![](assets/img/central-park-archives-sound-walk-sunflowers_photojaimeculebro.jpg)
 
 The first year of the Central Park Archives project ended with a joint audio walk in September 2020. Participants were picked up from Maunula House to the cultivation plots of Maunulanpuisto, where the first collections of the project were tested with guided tours on site.
-<br/><br/><br/>
+
 ...
 
 A pilot and a video documenting the implementation of the Central Park Archives project will be released in November 2020.
+<br/><br/>
+
 
 ## **CENTRAL PARK ARCHIVES**
-
 <br/>
 
 **Archive concept**
