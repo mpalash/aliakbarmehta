@@ -13,6 +13,7 @@ summary: >-
 
 
   > Read the original article in Finnish **[here](https://maunulassa.wordpress.com/portfolio/keskuspuisto-arkistot-kuvat-ja-video/)**
+parent: Central Park Archives
 ---
 ![](assets/img/centralparkarchives-field-trip-230420-susanna-ali_photominnatarkka-crop.jpg)
 ![](assets/img/central-park-archives_kiira-sprucetrees-2020_photoaliakbarmehta.jpg)
