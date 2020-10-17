@@ -13,18 +13,41 @@ summary: >-
 
 
   > Read the original article in Finnish **[here](https://maunulassa.wordpress.com/portfolio/keskuspuisto-arkistot-kuvat-ja-video/)**
+
+  <br/><br/>
+
+  ![](assets/img/centralparkarchives-field-trip-230420-susanna-ali_photominnatarkka-crop.jpg)
+
+  ![](assets/img/central-park-archives_kiira-sprucetrees-2020_photoaliakbarmehta.jpg)
+
+  ![](assets/img/central-park-archives_fieldtrip-june2020_photominnatarkka.jpg)
+
+  ![](assets/img/centralparkarchives-iida-minna-maunulanewspaper-archives_photominnatarkka.jpg)
 parent: Central Park Archives
 ---
-![](assets/img/centralparkarchives-field-trip-230420-susanna-ali_photominnatarkka-crop.jpg)
-![](assets/img/central-park-archives_kiira-sprucetrees-2020_photoaliakbarmehta.jpg)
-![](assets/img/central-park-archives_fieldtrip-june2020_photominnatarkka.jpg)
-![](assets/img/centralparkarchives-iida-minna-maunulanewspaper-archives_photominnatarkka.jpg)
-
 The artists envision a map interface for the archives, in which various collections are embedded. The map works on a mobile phone directly in the terrain, or even at home on a computer. As you approach items marked on the map, sounds and images associated with the place begin to tell stories related to the place. On the map you can experience the song of the first birds of spring or immerse yourself in the rustle of Maunulanpuro. By changing the background map, you can also see how the Central Park area has changed since the 1930s.
+
+![](assets/img/keskuspuistoarkistot-pilotti-kayttoliittyma.png)
+![](assets/img/keskuspuistoarkistot-kartta-ilmakuva-1988_1200px.png)
+![](assets/img/keskuspuistoarkistot-kartta-ilmakuva-1976_1200px.png)
 
 The first collections include sounds of nature and people, photographs and newspaper clippings. They document the joys and sightings of Central Park, as well as the eco-crises and building plans that threaten the park. The sounds that make up the story of Central Park tell, for example, what it’s like to encounter a wild deer, what happened when the Kiira storm surprised the farmer, or when people formed a chain against the plans of the master plan.
 
+![](assets/img/flying-squirrel-11-photo-by-antti-viren.jpg)
+![](assets/img/two-flying-squirrels-02-photo-by-antti-viren.jpg)
+![](assets/img/masa_syys-1992_vehreacc88-vanhus1.jpg)
+![](assets/img/central-general-plan-2050-demonstration-banner-2016_phototonyekman.jpg)
+
 The first year of the Central Park Archives project ended with a joint audio walk in September 2020. Participants were picked up from Maunula House to the cultivation plots of Maunulanpuisto, where the first collections of the project were tested with guided tours on site.
+
+![](assets/img/central-park-archives-sound-walk-bus_photojaimeculebro.jpg)
+![](assets/img/central-park-archives-sound-walk-forest-path_photojaimeculebro.jpg)
+![](assets/img/central-park-archives-sound-walk-parking_photojaimeculebro.jpg)
+![](assets/img/central-park-archives-sound-walk-susanna_photojaimeculebro.jpg)
+![](assets/img/central-park-archives-sound-walk-stream-bridge_photojaimeculebro.jpg)
+![](assets/img/central-park-archives-sound-walk-allotment_photojaimeculebro.jpg)
+![](assets/img/central-park-archives-sound-walk-iida_photojaimeculebro.jpg)
+![](assets/img/central-park-archives-sound-walk-sunflowers_photojaimeculebro.jpg)
 
 The first year of the Central Park Archives project ended with a joint audio walk in September 2020. Participants were picked up from Maunula House to the cultivation plots of Maunulanpuisto, where the first collections of the project were tested with guided tours on site.
 <br/><br/><br/>
