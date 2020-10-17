@@ -13,6 +13,7 @@ children:
   - CPA ~ Rehearsing Hospitalities Companion 2 Readings with Annet Dekker, and
     Susanna Ånäs and Ali Akbar Mehta
   - "CPA ~ Mehta & Ånäs: Keskuspuisto-arkistot"
+  - CPA ~ Central Park Archives (Process)
 ---
 Central Park Archives is a project that discusses questions of access, while bridging the gap between public spaces and information commons, and is intended as a long-term framework supported by m-cult.
 
