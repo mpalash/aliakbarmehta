@@ -1,7 +1,8 @@
 ---
 title: The Shape of Museums to Come
-subtitle: "'The Museum of the Future. 43 New Contributions to the Discussion
-  about the Future of the Museum', (ed.) Nora Sternfeld, Kassel University"
+subtitle: in 'The Museum of the Future. 43 New Contributions to the Discussion
+  about the Future of the Museum', (ed.) Nora Sternfeld, (pub.) schnittpunkt and
+  Joachim Baur
 layout: content
 tag: publication
 pubdate: "2020"
