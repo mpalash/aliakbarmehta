@@ -1,5 +1,5 @@
 ---
-title: Narrating WAR, Vaanta Art Museum Artsi
+title: WRE ~ Narrating WAR, Vaanta Art Museum ARTSI
 subtitle: Performance by Ali Akbar Mehta, with varialambo, curated by Christine
   Langinauer
 layout: content
