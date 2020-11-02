@@ -6,13 +6,12 @@ tag: publication
 pubdate: "2020"
 hero: assets/img/six-years-in-the-third-space_-2020-program.png
 summary: >-
-  ***Upcoming Essay***
-
-
-  <br/>
-
-
-  > "The word *collaborate* comes from Latin roots. Words beginning with the prefix '*col-*' meaning together, implying doing something together. The root word '*laborare*', also from Latin, gives us many of the English words used to talk about careers and work. In fact, the word laborcomes from this root word. Putting the two Latin parts of this word together, the word literally means ‘to work together’.
+  "The word *collaborate* comes from Latin roots. Words beginning with the
+  prefix '*col-*' meaning together, implying doing something together. The root
+  word '*laborare*', also from Latin, gives us many of the English words used to
+  talk about careers and work. In fact, the word laborcomes from this root word.
+  Putting the two Latin parts of this word together, the word literally means
+  ‘to work together’.
 
 
   <br/>
@@ -26,6 +25,10 @@ Today, Collaboration is at the core of any artistic, curatorial, choreographic, 
 
 ...
 
-**​In 2020 Third Space celebrates its 6th anniversary** with an interdisciplinary program revolving around the **complex theme of COLLABORATION.** Read more about Third Space **[here](<  http://www.th1rdspac3.com/2020.html>).**
+**​In 2020 Third Space celebrates its 6th anniversary** with an interdisciplinary program revolving around the **complex theme of COLLABORATION.** Access the online publication and the full text **[here](https://6yearsinthe3rdspace.com/contributions/SAFE_R_Evolving-the-Conditions-for-Collaboration-Or-From-Safer-Spaces-to-Safer-People).**
+
+Read more about Third Space **[here](<  http://www.th1rdspac3.com/2020.html>).**
 
 <br/>
+
+![](assets/img/six-years-in-the-third-space.png)
