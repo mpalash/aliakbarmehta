@@ -6,6 +6,7 @@ pubdate: "2013"
 children:
   - plank ~ Small is Beautiful – II
   - plank ~ Unselfed Extended
+  - Tasher Desh
   - Placebo Singers
   - Rebirth
   - Goodbye Blue Sky
