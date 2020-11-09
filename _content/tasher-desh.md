@@ -2,7 +2,8 @@
 title: Tasher Desh
 layout: content
 tag: individual work
-pubdate: '2013'
+pubdate: "2013"
+parent: Planktonian People
 children:
   - Tasher ~ Tagore Lost and Found
 ---
