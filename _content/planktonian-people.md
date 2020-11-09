@@ -8,6 +8,7 @@ children:
   - plank ~ Unselfed Extended
   - Tasher Desh
   - Placebo Singers
+  - We are such stuff As dreams are made on
   - Rebirth
   - Goodbye Blue Sky
   - Inhale / Exhale
