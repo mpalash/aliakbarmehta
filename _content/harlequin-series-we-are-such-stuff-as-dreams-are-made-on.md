@@ -3,6 +3,7 @@ title: We are such stuff As dreams are made on
 layout: content
 tag: individual work
 pubdate: "2010"
+parent: Planktonian People
 children:
   - We are ~ April Salon
 ---
