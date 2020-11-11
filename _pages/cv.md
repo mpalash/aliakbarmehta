@@ -176,17 +176,9 @@ Kiila Archives
 
 ## **Artist Talks/ conferences / lectures**
 
-2020               *Guest Lecturer and Mentor:* **[Kuvan Kevät 2020](https://www.exhibitionlaboratory.fi/exhibition/kuvan-kevaet-2020)**, Exhibition Laboratory, University of Arts Helsinki, FI
-
-2020               *Guest lecturer:* **Archiving & the Curatorial Function**, Srishti School of Art, Design and Technology, Bengaluru, (online)
-
 2020               *Artist Talk:* **[Rehearsing Hospitalities Companion 2 Readings with Annet Dekker, and Susanna Ånäs and Ali Akbar Mehta](https://aliakbarmehta.com/content/central-park-archives#rehearsing-hospitalities-companion-2-readings-with-annet-dekker-and-susanna-anas-and-ali-akbar-mehta),** Rehearsing Hospitalities, Frame Contemporary Art Finland, Helsinki (online)
 
-2020               *Workshop:* **[Central Park Archives – Workshops on Collective Authorship](https://aliakbarmehta.com/content/central-park-archives#central-park-archives-workshops)**, M-cult, Maunulatalo, Helsinki
-
 2020               *Panelist:* **[CreaTures (Creative Practices for Transformational Futures)](https://aliakbarmehta.com/content/museum-of-impossible-forms#creatures-panel-discussion-on-creative-practices-for-transformational-futures)**, Aalto University, Helsinki (online)
-
-2020               *Guest Lecturer:* **Surrender? Surrender**, Exhibition Laboratory, University of the Arts Helsinki, Helsinki, FI
 
 2020               *Panelist:* **New Standards**, Stop Hatred Now Festival, UrbanApa, Helsinki (online)
 
@@ -222,6 +214,23 @@ Kiila Archives
 
 2014               *Artist Talk:* **FOLKARCHIVE**, in conversation with Sumesh Sharma; moderated by Latika Gupta, Dr. Bhau Daji Lad City Museum, Mumbai
 <br /><br />
+
+## **Teaching / Lectures**
+
+
+*(Upcoming)*  *Mentor:* **Anti-Caste Archive**, Party Office, New Delhi, IN 
+
+2020               *Guest Lecturer and Mentor:* **[Kuvan Kevät 2020](https://www.exhibitionlaboratory.fi/exhibition/kuvan-kevaet-2020)**, Exhibition Laboratory, University of Arts Helsinki, FI
+
+2020               *Guest lecturer:* **Archiving & the Curatorial Function**, Srishti School of Art, Design and Technology, Bengaluru, (online)
+
+2020               *Workshop:* **[Central Park Archives – Workshops on Collective Authorship](https://aliakbarmehta.com/content/central-park-archives#central-park-archives-workshops)**, M-cult, Maunulatalo, Helsinki
+
+2020               *Guest Lecturer:* **[Surrender? Surrender](https://www.exhibitionlaboratory.fi/exhibition/surrender)**, Exhibition Laboratory, University of the Arts Helsinki, Helsinki, FI
+
+2018               *Guest lecturer:* **‘Histories of the Present’**, Visual Cultures, Curating & Contemporary Art, Aalto University, Helsinki, FI
+<br/><br/>
+
 
 ## **Publications and Texts**
 
