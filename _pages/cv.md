@@ -1,11 +1,9 @@
 ---
 layout: cv
-title: Biography
+title: Ali Akbar Mehta | curriculum vitae
 permalink: /curriculum-vitae/
 ---
-# **ALI AKBAR MEHTA**
 
-(b. 1983, Mumbai, India)
 
 **[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai) is a Transmedia artist, curator, and researcher. Through a research-based practice, he creates immersive cyber archives that map narratives of history, memory, and identity constructs through a multifocal lens of violence, conflict, and trauma. He is a founding member and current co-Artistic Director (w/ Marianne Savallampi) of **[Museum of Impossible Forms](https://museumofimpossibleforms.org/)**, Helsinki; a board member of **[Kiila ry](http://kiila.eu/)**, and pursuing his Doctoral Research in the Contemporary Art Department at **[Aalto University](https://www.aalto.fi/)**, Helsinki.
 
@@ -107,69 +105,71 @@ Kiila Archives
 
 ## **Select Group Exhibitions**
 
-*(upcoming)*    **To Err is Human**, Mäntä Art Festival 2021, Jyvaskylä
+*(upcoming)*    **To Err is Human**, Mäntä Art Festival 2021, Jyvaskylä, FI
 
-2020               **Meadow**, curated by Taru Elfving, Fiskars Village
+*(upcoming)*    ****, Vantaan Taidemuseo ARTSI, Vantaa, FI
 
-2020               **A Tapestry of Time**, TAO Art Gallery, Mumbai
+2020               **Meadow**, curated by Taru Elfving, Fiskars Village, FI
 
-2019               **Making Space**, curated by Saloni Doshi, Sakshi Art Gallery, Mumbai
+2020               **A Tapestry of Time**, TAO Art Gallery, Mumbai, IN
 
-2018               **No Corners**, TAO Art Gallery, Mumbai
+2019               **Making Space**, curated by Saloni Doshi, Sakshi Art Gallery, Mumbai, IN
 
-2018               **Assembly of Access**, TIFA, Pune
+2018               **No Corners**, TAO Art Gallery, Mumbai, IN
 
-2017               **Partizaning Maunula**, Maunulatalo, Maunula, Helsinki
+2018               **Assembly of Access**, TIFA, Pune, IN
 
-2017               **OUT 2**, Research Pavilion: The Utopia of Access, Venice Biennale, Venice
+2017               **Partizaning Maunula**, Maunulatalo, Maunula, Helsinki, FI
 
-2017               **Ateria/The Meal**, URB 2017 + Kiasma Contemporary Art Museum, Helsinki
+2017               **OUT 2**, Research Pavilion: The Utopia of Access, Venice Biennale, Venice, IT
 
-2017               **IS/NOT: Sculpture for the Post-Truth Era,** Aalto University Learning Centre, Helsinki, Finland
+2017               **Ateria/The Meal**, URB 2017 + Kiasma Contemporary Art Museum, Helsinki, FI
 
-2016               **Immersion 2016**, Aalto University, Espoo
+2017               **IS/NOT: Sculpture for the Post-Truth Era,** Aalto University Learning Centre, Helsinki, FI
 
-2016               **Where Does Poetry Nest?**, curated by Giovanna Esposito Yussif, Galleria Emil, Tampere
+2016               **Immersion 2016**, Aalto University, Espoo, FI
 
-2016               **Space Invaders IV: Heterotopia**, Espoo
+2016               **Where Does Poetry Nest?**, curated by Giovanna Esposito Yussif, Galleria Emil, Tampere, FI
 
-2016               **SOAK**, D/func.t, Helsinki
+2016               **Space Invaders IV: Heterotopia**, Espoo, FI
 
-2016               **\*Whose History is it anyway?**, Aalto University, Espoo
+2016               **SOAK**, D/func.t, Helsinki, FI
 
-2015               **Cisspace: Construct(ed.)**, Otaniemi Recycling Center, Espoo
+2016               **\*Whose History is it anyway?**, Aalto University, Espoo, FI
 
-2014               **Infinite**, TAO Art Gallery, Mumbai
+2015               **Cisspace: Construct(ed.)**, Otaniemi Recycling Center, Espoo, FI
 
-2013               **Small is Beautiful – II**, TAO Art Gallery, Mumbai
+2014               **Infinite**, TAO Art Gallery, Mumbai, IN
 
-2013               **Beyond the Canvas**, ­Curated by Kalpana Shah and Sapna Kar, TAO Art Gallery, Mumbai
+2013               **Small is Beautiful – II**, TAO Art Gallery, Mumbai, IN
 
-2013               **Tagore Lost and Found**, Curated by Bina Sarkar Ellias, IndiaBulls Art Gallery and Auction House, New Delhi
+2013               **Beyond the Canvas**, ­Curated by Kalpana Shah and Sapna Kar, TAO Art Gallery, Mumbai, IN
 
-2013               **Equilibrium**, TAO Art Gallery, Mumbai
+2013               **Tagore Lost and Found**, Curated by Bina Sarkar Ellias, IndiaBulls Art Gallery and Auction House, New Delhi, IN
 
-2012               **Synergy**, TAO Art Gallery, Mumbai
+2013               **Equilibrium**, TAO Art Gallery, Mumbai, IN
 
-2012               **Small is Beautiful**, TAO Art Gallery, Mumbai
+2012               **Synergy**, TAO Art Gallery, Mumbai, IN
 
-2010               **Three New Voices: Dimensions in Time & Space**, Art Heritage, New Delhi
+2012               **Small is Beautiful**, TAO Art Gallery, Mumbai, IN
 
-2010               **April Salon**, Galerie Mirchandani + Steinruecke, Mumbai
+2010               **Three New Voices: Dimensions in Time & Space**, Art Heritage, New Delhi, IN
 
-2010               **Evolve**, TAO Art Gallery, Mumbai
+2010               **April Salon**, Galerie Mirchandani + Steinruecke, Mumbai, IN
 
-2009               **Gems of India**, Unicorn Art Gallery, Dubai
+2010               **Evolve**, TAO Art Gallery, Mumbai, IN
 
-2009               **India on Canvas,** charity auction, New Delhi
+2009               **Gems of India**, Unicorn Art Gallery, Dubai, UAE
 
-2008               **The Kohinoor Selection**, Unicorn Art Gallery, Dubai
+2009               **India on Canvas,** charity auction, New Delhi, IN
 
-2008               **Art for Justice and Peace**, Sabrang, Mumbai
+2008               **The Kohinoor Selection**, Unicorn Art Gallery, Dubai, UAE
 
-2008               **Art Smart**, Mumbai, and Delhi
+2008               **Art for Justice and Peace**, Sabrang, Mumbai, IN
 
-2007               **India on Canvas**, charity auction, Mumbai
+2008               **Art Smart**, Mumbai, and Delhi, IN
+
+2007               **India on Canvas**, charity auction, Mumbai, IN
 
 2007               **Celebrating India**, Treo Foundation, Delhi-Calcutta-Bangalore-Mumbai-New York
 <br /><br />
@@ -232,7 +232,7 @@ Kiila Archives
 <br/><br/>
 
 
-## **Publications and Texts**
+## **Publications**
 
 *(Upcoming)*   **Cultural production and racism: How to challenge racist structures**, Muuntautuva rasismi. Kriittisiä näkökulmia rodullistamiseen, valkoisuuteen ja vallan koloniaalisuuteen (Different shapes of racism. Critical perspectives on racialization, whiteness and coloniality of power), (ed.) Suvi Keskinen, CEREN, Helsinki University, 2020
 
@@ -275,22 +275,22 @@ Kiila Archives
 2011               **[A body split in two](https://aliakbarmehta.com/content/a-body-split-in-two)**, International Gallerie, Journal of Contemporary art, issue 30, (ed.) Bina Sarkar Ellias, Mumbai
 <br /><br />
 
-## **Public projects**
+## **Public projects/  Commissions**
 
-2015               **TRINITY: Godrej Legacy Park Silos**, Godrej One, Mumbai, India
+2015               **TRINITY: Godrej Legacy Park Silos**, Godrej One, Mumbai, IN
 <br /><br />
 
-## **Curatorial**
+## **Curatorial Experience**
 
-*(upcoming)*   **Educate-Agitate-Organise,** Museum of Impossible Forms, Helsinki, 2020
+*(upcoming)*   **Educate-Agitate-Organise,** Museum of Impossible Forms, Helsinki, FI
 
-2020              **Open Studio: HIAP Summer Residency 2020**, Helsinki Internatonal Artist Programme (HIAP), Helsinki
+2020              **PROCESSES 2020**, HIAP Summer Residency 2020, Helsinki Internatonal Artist Programme (HIAP), Helsinki, FI
 
-2019               **Vidisha Fadescha: Party, a tool for Care – curated by Ali Akbar Mehta**, part of Today Is Our Tomorrow Festival, organised by PUBLICS, Helsinki
+2019               **Vidisha Fadescha: Party, a tool for Care – curated by Ali Akbar Mehta**, part of Today Is Our Tomorrow Festival, organised by PUBLICS, Helsinki, FI
 
-2016               **MATERIAL///IMMATERIAL**, A: SPACE, Espoo, Finland
+2016               **MATERIAL///IMMATERIAL**, A: SPACE, Espoo, FI
 
-2016               **SOAK**, D/func.t, Helsinki, Finland
+2016               **SOAK**, D/func.t, Helsinki, FI
 <br /><br />
 
 ## **Residencies**
