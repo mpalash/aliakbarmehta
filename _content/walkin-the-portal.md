@@ -3,7 +3,7 @@ title: Walkin the Portal
 subtitle: Curated by Vivek Chockalingam and Marialaura Ghidini, Walkin Studios,
   Bangalore.
 layout: content
-tag: text
+tag: publication
 pubdate: "2020"
 hero: assets/img/walkin-the-portal_publication-cover_walkin-studios_2020.jpg
 summary: >-
