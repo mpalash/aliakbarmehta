@@ -5,7 +5,7 @@ subtitle: in 'How To Work Together?', Impossible Reader 02, (pub.) Museum of
   Impossible Forms
 layout: content
 tag: publication
-pubdate: "2021"
+pubdate: "2020"
 summary: "**Essay for upcoming  publication** by Museum of Impossible Forms"
 parent: Museum of Impossible Forms
 ---
