@@ -2,7 +2,7 @@
 title: Processing In-Between(ness)
 subtitle: in 'IN BETWEEN', HIAP summer Residency publication, (pub.) HIAP, Helsinki, FI
 layout: content
-tag: press
+tag: publication
 pubdate: "2020"
 summary: "'\\[...] this publication, as a collaborative endeavor between the
   curators Marianne Savallampi and Ali Akbar Mehta and the artists-in-residence,
