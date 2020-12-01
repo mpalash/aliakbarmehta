@@ -1,4 +1,4 @@
-var uniqueYears = [2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2007];
+var uniqueYears = [2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2007];
 var uniqueGenres = ["artwork","group-exhibition","individual-work","ongoing-project","past-project","performance","press","publication","residency","resource","solo-exhibition","talk","text","video"];
 
 var errors = ['600:Aadhar not recognized', '601:Is your passport valid', '602:Class distinction detected', '603:Please check priviledge status', '604:Gender not supported', '605:Political failure', '606:Capital dependency', '607:Language not supported', '608:Government Shutdown'];
