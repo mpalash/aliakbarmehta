@@ -6,8 +6,12 @@ subtitle: in 'The Museum of the Future. 43 New Contributions to the Discussion
 layout: content
 tag: publication
 pubdate: "2020"
-hero: assets/img/museum-of-impossible-forms_james-andean-performance-as-part-of-improv-sesssion-xiv_photo-by-ali-akbar-mehta.jpg
-summary: "***Upcoming Essay***"
+hero: assets/img/museum-of-the-future_books.jpg
+summary: >-
+  ***Upcoming Essay***
+
+
+  > "The Museum of the Future was published in 1970. 43 contributions to the discussion about the future of the museum. 50 years later, a publication brings together 43 new contributions by international authors from museum practice, from theory, education, art and architecture. They create concrete visions of a museum of the future: confident and doubtful, critical, clearly positioned and subjective. What do visions of the future accomplish and what do they make impossible? How empowering or disempowering are speculations about the future for a change in the museum of the present?"
 parent: Museum of Impossible Forms
 ---
 ![](assets/img/museum-of-impossible-forms_james-andean-performance-as-part-of-improv-sesssion-xiv_photo-by-ali-akbar-mehta.jpg)
