@@ -1,7 +1,7 @@
 ---
 title: Planktonian People
 layout: content
-tag: individual work
+tag: ongoing project
 pubdate: "2013"
 children:
   - plank ~ Small is Beautiful – II
