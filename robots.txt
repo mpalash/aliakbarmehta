@@ -1,0 +1,4 @@
+Sitemap: [url]
+
+User-agent: *
+Disallow:

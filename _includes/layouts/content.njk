@@ -1,0 +1,55 @@
+---
+layout: layouts/base.njk
+---
+<article class="project">
+  <span id="top"></span>
+  <aside class="project-tag meta">
+    <div><p>{{ tag }} • {{ pubdate }}</p></div>
+  </aside>
+  <h1 class="project-title fixed">{{ title }}</h1>
+  <h1 class="project-title">{{ title }}</h1>
+  <h2 class="project-subtitle">{{ subtitle }}</h2>
+  {% if hero %}
+    <img class="project-hero" src="{{ page.hero}}" />
+  {% endif %}
+  <section class="intro txt">
+    <div class="section-content">
+      {{ summary | md | safe }}
+
+      {{ layoutContent | safe }}
+    </div>
+  </section>
+
+  {% set sections = collections.content %}
+  {% set contents = children %}
+
+  {% for content in contents %}
+    {% for section in sections %}
+      {% if section.data.title == content %}
+
+      <section id="{{ section.data.title.split('~').slice(-1)[0] | trim | slug }}" class="project-content {{ section.data.tag }}">
+        <aside class="meta">
+          <div><p>{{ section.data.tag }} • {{ section.data.pubdate }}</p></div>
+        </aside>
+        <div class="section-content" data-title="{{ section.data.title.split('~').slice(-1)[0] | trim | slug }}">
+          <h2>{{ section.data.title.split('~').slice(-1)[0] | trim }}</h2>
+          {% if section.subtitle %}
+          <h4>{{ section.data.subtitle | safe }}</h4>
+          {% endif %}
+          {% if section.data.summary %}
+          <div class="summary">{{ section.data.summary | md | safe }}</div>
+          {% endif %}
+          <div class="full-content">{{ section.data.layoutContent | safe }}</div>
+          {% if section.data.summary and section.data.content %}
+          <a href="#" class="toggle-section" data-title="{{ section.data.title.split('~').slice(-1)[0] | trim | slug }}">
+            <span class="more"></span>
+            <span class="less" style="display: none;"></span>
+          </a>
+          {% endif %}
+        </div>
+      </section>
+
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+</article>

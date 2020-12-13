@@ -1,0 +1,59 @@
+// FONTS IMPORT
+@import url('https://fonts.googleapis.com/css?family=Karla:400,400i,700,700i|Spectral:400,400i,600,600i|IBM+Plex+Mono:700');
+
+@font-face {
+    font-family: 'Ryman Eco Regular';
+    src: url('/static/webfonts/rymaneco-regular-webfont.woff2') format('woff2'),
+         url('/static/webfonts/rymaneco-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+html,
+body {
+  width: 100%;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  *,
+  *:before,
+  *:after {
+    box-sizing: border-box;
+    // outline: 1px solid salmon;
+  }
+  div {
+    position: relative;
+  }
+}
+body {
+  font-size: 16px;
+  font-family: $font-sans;
+  line-height: $line-height-base;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: $color-white;
+  color: $color-ink;
+  widows: 2;
+  orphans: 2;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-weight: normal;
+}
+a {
+  text-decoration: none;
+  &:hover {
+    text-decoration: underline;
+  }
+}
+* + p {
+  margin: 1.5em 0 0 0;
+}
+img {
+  max-width: 100%;
+}
+ul, ol {
+  margin-top: 0;
+  li p {
+    margin: 0;
+  }
+}

@@ -1,0 +1,21 @@
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
+  <title>{{ title or renderData.title or metadata.title }}</title>
+
+  <meta property="og:title" content="{{ title or renderData.title or metadata.title }}" />
+  <meta property="og:description" content="" />
+  <meta property="og:image" content="" />
+
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+
+  <link rel="dns-prefetch" href="https://identity.netlify.com">
+  <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="/static/js/responsive-video.js"></script>
+  <script src="/static/js/jBox.min.js"></script>
+  <script src="/static/js/jBox.Image.min.js"></script>
+  <script src="/static/js/scripts.js"></script>
+  <link rel="stylesheet" href="/static/css/styles.css">
+</head>
