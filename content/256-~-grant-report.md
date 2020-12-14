@@ -1,7 +1,7 @@
 ---
 title: 256 ~ Grant Report
 subtitle: 'for 256 Million Colours of Violence, Aalto University Grant'
-layout: content
+layout: layouts/content.njk
 tag: resource
 pubdate: '2017'
 summary: >-

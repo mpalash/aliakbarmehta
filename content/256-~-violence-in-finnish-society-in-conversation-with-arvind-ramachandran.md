@@ -1,7 +1,7 @@
 ---
 title: "256 ~ Violence in Finnish Society: In conversation with Arvind Ramachandran"
 subtitle: Myymälä2, Helsinki
-layout: content
+layout: layouts/content.njk
 tag: talk
 pubdate: "2020"
 hero: assets/img/ali-akbar-mehta_online-program-03_myymala2_2020.jpg

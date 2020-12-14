@@ -39,113 +39,17 @@
         </div>
         <div class="c c-6 p-1 timeline vertical">
           <div class="by-year"></div>
-          <div class="by-genre">
-            {% set projects = 'ongoing project,past project,individual work' %}
-            {% set sortedtags1 = 'performance,talk' %}
-            {% set exhibitions = 'solo exhibition,group exhibition' %}
-            {% set residencies = 'residency' %}
-            {% set text = 'text,unpublished' %}
-            {% set publications = 'publication' %}
-            {% set press = 'press' %}
-
-            {% set sortedcontent = collections.content %}
-
-              <div>
-                <span class="timeline-meta" id="projects">projects</span>
-                <ul>
-                  {% for tag in projects %}
-                  {% for content in sortedcontent %}
-                    {% if tag == content.tag %}
-                      {% include "components/home-project-title.njk" %}
-                    {% endif %}
-                  {% endfor %}
-                  {% endfor %}
-                </ul>
-              </div>
-              {% for tag in sortedtags1 %}
-              <div>
-                <span class="timeline-meta" id="{{ tag }}s">{{ tag }}s</span>
-                <ul>
-                  {% for content in sortedcontent %}
-                    {% if tag == content.tag %}
-                      {% include "components/home-project-title.njk" %}
-                    {% endif %}
-                  {% endfor %}
-                </ul>
-              </div>
-              {% endfor %}
-              <div>
-                <span class="timeline-meta" id="exhibitions">exhibitions</span>
-                <ul>
-                  {% for tag in exhibitions %}
-                  {% for content in sortedcontent %}
-                    {% if tag == content.tag %}
-                      {% include "components/home-project-title.njk" %}
-                    {% endif %}
-                  {% endfor %}
-                  {% endfor %}
-                </ul>
-              </div>
-              <div>
-                <span class="timeline-meta" id="residencies">residencies</span>
-                <ul>
-                  {% for tag in residencies %}
-                  {% for content in sortedcontent %}
-                    {% if tag == content.tag %}
-                      {% include "components/home-project-title.njk" %}
-                    {% endif %}
-                  {% endfor %}
-                  {% endfor %}
-                </ul>
-              </div>
-              <div>
-                <span class="timeline-meta" id="texts">texts</span>
-                <ul>
-                  {% for tag in text %}
-                  {% for content in sortedcontent %}
-                    {% if tag == content.tag %}
-                      {% include "components/home-project-title.njk" %}
-                    {% endif %}
-                  {% endfor %}
-                  {% endfor %}
-                </ul>
-              </div>
-              <div>
-                <span class="timeline-meta" id="publications">publications</span>
-                <ul>
-                  {% for tag in publications %}
-                  {% for content in sortedcontent %}
-                    {% if tag == content.tag %}
-                      {% include "components/home-project-title.njk" %}
-                    {% endif %}
-                  {% endfor %}
-                  {% endfor %}
-                </ul>
-              </div>
-              <div>
-                <span class="timeline-meta" id="press">press</span>
-                <ul>
-                  {% for tag in press %}
-                  {% for content in sortedcontent %}
-                    {% if tag == content.tag %}
-                      {% include "components/home-project-title.njk" %}
-                    {% endif %}
-                  {% endfor %}
-                  {% endfor %}
-                </ul>
-              </div>
-            </div>
-            <!-- GENRE ENDS -->
+          <div class="by-genre"></div>
+          <!-- GENRE ENDS -->
+          <div class="all-projects hide">
+            {% for content in collections.content %}
+              {% include "components/home-project-title.njk" %}
+            {% endfor %}
+          </div>
         </div>
       </div>
       {% include "components/footer.njk" %}
 
-      {% set sortedcontent2 = collections.content %}
-      <div class="all-projects hide">
-        {% for content in sortedcontent2 %}
-          {% include "components/home-project-title.njk" %}
-        {% endfor %}
-      </div>
     </main>
   </body>
 

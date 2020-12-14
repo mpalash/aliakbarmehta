@@ -1,7 +1,7 @@
 ---
 title: "256 ~ Towards a New Internet: In conversation with Palash Mukhopadhyay"
 subtitle: Myymälä2, Helsinki
-layout: content
+layout: layouts/content.njk
 tag: talk
 pubdate: "2020"
 hero: assets/img/ali-akbar-mehta_online-program-05_myymala2_2020.jpg

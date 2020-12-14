@@ -1,7 +1,7 @@
 ---
 title: '256 ~ Limitations of Liability, Piramal Art Foundation'
 subtitle: 'in conversation with Kevin Lobo, Piramal Museum, Mumbai'
-layout: content
+layout: layouts/content.njk
 tag: talk
 pubdate: '2017'
 summary: >-

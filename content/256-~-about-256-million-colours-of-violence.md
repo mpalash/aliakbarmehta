@@ -1,7 +1,7 @@
 ---
 title: 256 ~ About 256 Million Colours of Violence
 subtitle: Artist Statement by Ali Akbar Mehta for website ver.1
-layout: content
+layout: layouts/content.njk
 tag: resource
 pubdate: '2016'
 summary: >-

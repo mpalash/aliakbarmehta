@@ -1,19 +1,19 @@
 {% set displaysub = ['solo exhibition','group exhibition','talk','text','performance','unpublished','publication'] %}
-<li class="project-year-genre" data-year="{{ content.pubdate }}" data-genre="{{ content.tag | replace: ' ', '-' }}">
-{% if content.parent %}
-  {% if content.parent != 'Poems' %}
-    <a href="/content/{{ content.parent | trim | slug }}#{{ content.title.split('~').slice(-1)[0] | trim | slug }}" >
-      {{ content.title.split('~').slice(-1)[0] | trim }}
-      {% if content.tag in displaysub %}
-        {% if content.subtitle and content.subtitle != '' %}<br/><span class="list-subtitle">{{ content.subtitle }}</span>{% endif %}
+<li class="project-year-genre" data-year="{{ content.data.pubdate }}" data-genre="{{ content.data.tag }}">
+{% if content.data.parent %}
+  {% if content.data.parent != 'Poems' %}
+    <a href="/content/{{ content.data.parent | trim | slug }}#{{ content.data.title.split('~').slice(-1)[0] | trim | slug }}" >
+      {{ content.data.title.split('~').slice(-1)[0] | trim }}
+      {% if content.data.tag in displaysub %}
+        {% if content.data.subtitle and content.data.subtitle != '' %}<br/><span class="list-subtitle">{{ content.data.subtitle }}</span>{% endif %}
       {% endif %}
     </a>
   {% endif %}
 {% else %}
-  <a href="/content/{{ content.title.split('~').slice(-1)[0] | trim | slug }}">
-    {{ content.title.split('~').slice(-1)[0] | trim }}
-    {% if content.tag in displaysub %}
-      {% if content.subtitle and content.subtitle != '' %}<br/><span class="list-subtitle">{{ content.subtitle }}</span>{% endif %}
+  <a href="/content/{{ content.data.title.split('~').slice(-1)[0] | trim | slug }}">
+    {{ content.data.title.split('~').slice(-1)[0] | trim }}
+    {% if content.data.tag in displaysub %}
+      {% if content.data.subtitle and content.data.subtitle != '' %}<br/><span class="list-subtitle">{{ content.data.subtitle }}</span>{% endif %}
     {% endif %}
   </a>
 {% endif %}

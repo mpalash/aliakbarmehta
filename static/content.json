@@ -1,0 +1,4 @@
+{
+  "layout": "layouts/content.njk",
+  "permalink": "{{ title.split('~').slice(-1)[0] | trim | slug }}"
+}

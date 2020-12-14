@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {% include "components/head.njk" %}
+
+  <body>
+    <main class="page-content home r" aria-label="Content">
+      {% include "components/header.njk" %}
+
+      <div class="r timeline-wrapper">
+        <div class="c c-4 p-1 sticky">
+          <div class="site-intro" data-title="about">
+            <h1 class="site-title">{{ metadata.title }}</h1>
+
+            {% for page in collections.pages %}
+              {% if page.data.title == 'About' %}
+                <div class="summary">{{ page.data.summary | md | safe }}</div>
+                <div class="full-content">{{ page.data.layoutContent | safe }}</div>
+                <a href="#" class="toggle-section" data-title="about">
+                  <span class="more"></span>
+                  <span class="less" style="display: none;"></span>
+                </a>
+              {% endif %}
+            {% endfor %}
+          </div>
+          <div class="site-genres">
+            <a class="tag small tag-project" href="#projects">projects</a>
+            <a class="tag small tag-performance" href="#performances">performances</a>
+            <a class="tag small tag-exhibition" href="#exhibitions">exhibitions</a>
+            <a class="tag small tag-residency" href="#residencies">residencies</a>
+            <a class="tag small tag-talk" href="#talks">talks</a>
+            <a class="tag small tag-publication" href="#publications">publications</a>
+            <a class="tag small tag-text" href="#texts">texts</a>
+            <a class="tag small tag-press" href="#press">press</a>
+          </div>
+          <div class="site-dates">
+            <a class="tag small tag-dates" href="#"><span>timeline</span></a>
+          </div>
+        </div>
+        <div class="c c-6 p-1 timeline vertical">
+          <div class="by-year"></div>
+          <div class="by-genre">
+            {% set projects = 'ongoing project,past project,individual work' %}
+            {% set sortedtags1 = 'performance,talk' %}
+            {% set exhibitions = 'solo exhibition,group exhibition' %}
+            {% set residencies = 'residency' %}
+            {% set text = 'text,unpublished' %}
+            {% set publications = 'publication' %}
+            {% set press = 'press' %}
+
+            {% set sortedcontent = collections.content %}
+
+              <div>
+                <span class="timeline-meta" id="projects">projects</span>
+                <ul>
+                  {% for tag in projects %}
+                  {% for content in sortedcontent %}
+                    {% if tag == content.tag %}
+                      {% include "components/home-project-title.njk" %}
+                    {% endif %}
+                  {% endfor %}
+                  {% endfor %}
+                </ul>
+              </div>
+              {% for tag in sortedtags1 %}
+              <div>
+                <span class="timeline-meta" id="{{ tag }}s">{{ tag }}s</span>
+                <ul>
+                  {% for content in sortedcontent %}
+                    {% if tag == content.tag %}
+                      {% include "components/home-project-title.njk" %}
+                    {% endif %}
+                  {% endfor %}
+                </ul>
+              </div>
+              {% endfor %}
+              <div>
+                <span class="timeline-meta" id="exhibitions">exhibitions</span>
+                <ul>
+                  {% for tag in exhibitions %}
+                  {% for content in sortedcontent %}
+                    {% if tag == content.tag %}
+                      {% include "components/home-project-title.njk" %}
+                    {% endif %}
+                  {% endfor %}
+                  {% endfor %}
+                </ul>
+              </div>
+              <div>
+                <span class="timeline-meta" id="residencies">residencies</span>
+                <ul>
+                  {% for tag in residencies %}
+                  {% for content in sortedcontent %}
+                    {% if tag == content.tag %}
+                      {% include "components/home-project-title.njk" %}
+                    {% endif %}
+                  {% endfor %}
+                  {% endfor %}
+                </ul>
+              </div>
+              <div>
+                <span class="timeline-meta" id="texts">texts</span>
+                <ul>
+                  {% for tag in text %}
+                  {% for content in sortedcontent %}
+                    {% if tag == content.tag %}
+                      {% include "components/home-project-title.njk" %}
+                    {% endif %}
+                  {% endfor %}
+                  {% endfor %}
+                </ul>
+              </div>
+              <div>
+                <span class="timeline-meta" id="publications">publications</span>
+                <ul>
+                  {% for tag in publications %}
+                  {% for content in sortedcontent %}
+                    {% if tag == content.tag %}
+                      {% include "components/home-project-title.njk" %}
+                    {% endif %}
+                  {% endfor %}
+                  {% endfor %}
+                </ul>
+              </div>
+              <div>
+                <span class="timeline-meta" id="press">press</span>
+                <ul>
+                  {% for tag in press %}
+                  {% for content in sortedcontent %}
+                    {% if tag == content.tag %}
+                      {% include "components/home-project-title.njk" %}
+                    {% endif %}
+                  {% endfor %}
+                  {% endfor %}
+                </ul>
+              </div>
+            </div>
+            <!-- GENRE ENDS -->
+        </div>
+      </div>
+      {% include "components/footer.njk" %}
+
+      {% set sortedcontent2 = collections.content %}
+      <div class="all-projects hide">
+        {% for content in sortedcontent2 %}
+          {% include "components/home-project-title.njk" %}
+        {% endfor %}
+      </div>
+    </main>
+  </body>
+
+</html>
