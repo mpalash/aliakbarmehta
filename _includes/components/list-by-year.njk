@@ -1,0 +1,17 @@
+{% set uniqueYears = ['2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2007'] %}
+
+{% set sortedcontent = collections.content %}
+<div class="by-year active">
+  {% for year in uniqueYears %}
+  <div>
+    <span class="timeline-meta" id="projects">{{ year }}</span>
+    <ul data-year="{{ year }}">
+      {% for content in sortedcontent %}
+        {% if year == content.data.pubdate %}
+          {% include "components/home-project-title.njk" %}
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+  {% endfor %}
+</div>

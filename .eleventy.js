@@ -90,7 +90,7 @@ module.exports = function(eleventyConfig) {
 
   // only content in the `content/` directory
   eleventyConfig.addCollection("content", function(collection) {
-    return collection.getAllSorted().filter(function(item) {
+    return collection.getAll().sort(function(a, b){return parseInt(a.data.pubdate) - parseInt(b.data.pubdate)}).filter(function(item) {
       return item.inputPath.match(/^\.\/content\//) !== null;
     });
   });

@@ -38,16 +38,11 @@
           </div>
         </div>
         <div class="c c-6 p-1 timeline vertical">
-          <div class="by-year"></div>
-          <div class="by-genre"></div>
-          <!-- GENRE ENDS -->
-          <div class="all-projects hide">
-            {% for content in collections.content %}
-              {% include "components/home-project-title.njk" %}
-            {% endfor %}
-          </div>
+          {% include "components/list-by-year.njk" %}
+          {% include "components/list-by-genre.njk" %}
         </div>
       </div>
+      
       {% include "components/footer.njk" %}
 
     </main>
