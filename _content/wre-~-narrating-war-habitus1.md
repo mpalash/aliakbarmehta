@@ -1,7 +1,7 @@
 ---
-title: "WRE ~ Narrating WAR / HABITUS1,  "
-subtitle: Performance by Ali Akbar Mehta and varialambo, curated by Christine
-  Langnauer, Vantaan Taidemuseo ARTSI, Vantaa
+title: WRE ~ Narrating WAR, Vantaan Taidemuseo ARTSI
+subtitle: Performance by Ali Akbar Mehta and varialambo, part of Reciprocities
+  exhibition curated by Christine Langnauer
 layout: content
 tag: performance
 pubdate: "2020"
