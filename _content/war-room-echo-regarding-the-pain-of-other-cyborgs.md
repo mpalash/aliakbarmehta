@@ -8,7 +8,7 @@ children:
   - "wre ~ Foreword: Artist's Note"
   - wre ~  Why is an archive of wars required?
   - wre ~ Narrating War
-  - WRE ~ Narrating WAR, Vantaan Taidemuseo ARTSI
+  - wre ~ Narrating WAR, Vantaan Taidemuseo ARTSI
   - "wre ~ Narrating WAR, New Performance Turku, Festival 2020: Mobilities"
   - WRE ~ Narrating WAR, Mymmälä2, Helsinki
   - wre ~ Narrating War, Experimental Event VI – La Torre de Babel, Pori
@@ -31,12 +31,12 @@ Examining the philosophical terrain of war, **WAR • ROOM • ECHO** is a compo
 
 This project consistis of several modualr components:
 
-1. **The War that is Coming is Not the Last one:**  *a size variable site-specific charcoal drawing on War performed as an act of mourning, viewed in a dark room with torchlight* 
+1. **The War that is Coming is Not the Last one:**  *a size variable site-specific charcoal drawing on War performed as an act of mourning, viewed in a dark room with torchlight*
 2. **War List Codex:** A publication consisting of a comprehensive yet ongoing list archive of every "War, Battle, Revolt, Revolution, Rebellion, Siege, Sacking, Bombing, and Insurgency" in the world, from 3000 B.C. to the present.
-3. **Narrating WAR*:*** Performance reading and typing of the 'War List Codex' 
+3. **Narrating WAR*:*** Performance reading and typing of the 'War List Codex'
 
    1. Data-generated soundscape based on the live typing of the list
-   2. Cameras that automatically take photographs when triggered by the soundscape, creating continual photographic documentation transforming the viewer into an active performer 
+   2. Cameras that automatically take photographs when triggered by the soundscape, creating continual photographic documentation transforming the viewer into an active performer
 4. Memorial style installation of the War List mimicking vertical graves.
 
 The project is envisioned as a temporary museum – as a hybrid cross between ***an archaeological site*** (in itself a branch or a parallel of history), a **war memorial**, and a ***tomb:*** It is a *gesamtkunstwerk* on the idea of war and conflict, creating a significant marker in the form of the largest war based research archive spanning 5020+ years – beyond existing notions of geopolitical identity – positioning the project in the context of a para-museum that critically engages and disrupts existing power relations.
