@@ -4,7 +4,7 @@ subtitle: Performance by Ali Akbar Mehta and varialambo, part of Reciprocities
   exhibition curated by Christine Langnauer
 layout: content
 tag: performance
-pubdate: "2020"
+pubdate: "2021"
 summary: >-
   ![](assets/img/screenshot-2020-12-18-at-0.03.21.png)
 
