@@ -6,7 +6,7 @@ subtitle: in 'The Museum of the Future. 43 New Contributions to the Discussion
 layout: layouts/content.njk
 tag: publication
 pubdate: "2020"
-hero: assets/img/museum-of-the-future_books.jpg
+hero: /static/img/museum-of-the-future_books.jpg
 summary: >
   ***Upcoming Essay***
 
@@ -16,7 +16,7 @@ summary: >
   <br/><br/>
 
 
-  ![](assets/img/museum-of-the-future_books_cover.jpg)
+  ![](/static/img/museum-of-the-future_books_cover.jpg)
 
 
   <br/><br/>

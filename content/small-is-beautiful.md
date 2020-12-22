@@ -5,4 +5,4 @@ layout: layouts/content.njk
 tag: group exhibition
 pubdate: "2012"
 ---
-![Small is Beautiful, Invite, 2012](assets/img/small-is-beautiful-einvite-lo-res.jpg)
+![Small is Beautiful, Invite, 2012](/static/img/small-is-beautiful-einvite-lo-res.jpg)

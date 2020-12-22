@@ -5,7 +5,7 @@ layout: layouts/content.njk
 tag: talk
 pubdate: "2020"
 summary: >-
-  ![](assets/img/central-park-archives-workshops-maunulatalo-helsinki_2020.jpg)
+  ![](/static/img/central-park-archives-workshops-maunulatalo-helsinki_2020.jpg)
 
 
   The *Central Park Archives* project organised two workshops, on **19.08.2020** and **01.09.2020** to introduce *open source*, and *open content* tools and practices for collaborative online publishing. Why and how to contribute to Wikipedia, Wikidata, OpenStreetMap, and other open projects, and how to use Creative Commons licenses to grant permission to share?
@@ -29,4 +29,4 @@ Maunula House, Metsäpuro hall, Metsäpurontie 4, Helsinki**
 *Map services on the Central Park\
 *Central Park Archives clinic: small group sessions
 
-![](assets/img/cpa_black-and-white-01.jpg)
+![](/static/img/cpa_black-and-white-01.jpg)

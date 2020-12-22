@@ -47,4 +47,4 @@ And of course all the support through a growing community of [\#maunula](https:/
 * In addition, Frame is distributing a limited number of hard copies for free from their office space in Helsinki. These can be collected on Thursday 24th September and Thursday 1st October from 10:00 - 15:00. Full information on how to access the building is available on their website.
 <br/><br/>
 
-![](assets/img/rehearsing-hospitalities-ii.jpg)
+![](/static/img/rehearsing-hospitalities-ii.jpg)

@@ -4,7 +4,7 @@ subtitle: ""
 layout: layouts/content.njk
 tag: ongoing project
 pubdate: "2020"
-hero: assets/img/keskuspuistoarkistot-pilotti-kayttoliittyma.png
+hero: /static/img/keskuspuistoarkistot-pilotti-kayttoliittyma.png
 parent: Central Park Archives
 children:
   - Central ~ Central Park Archives, announcement

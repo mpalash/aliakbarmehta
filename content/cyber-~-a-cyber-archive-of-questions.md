@@ -5,7 +5,7 @@ subtitle: in 'cohabitant/mutants', Restricted Fixations, issue 01, edited by
 layout: layouts/content.njk
 tag: publication
 pubdate: "2020"
-hero: assets/img/pith.bull_20201021_095219_0.jpg
+hero: /static/img/pith.bull_20201021_095219_0.jpg
 summary: "*A Cyber Archive of Questions* is an essay and will be published in
   2020, in Restricted Fixations, an independent zine curated and edited by
   Renuka Rajiv."

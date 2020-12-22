@@ -5,7 +5,7 @@ subtitle: Curated by Vivek Chockalingam and Marialaura Ghidini, Walkin Studios,
 layout: layouts/content.njk
 tag: publication
 pubdate: "2020"
-hero: assets/img/walkin-the-portal_publication-cover_walkin-studios_2020.jpg
+hero: /static/img/walkin-the-portal_publication-cover_walkin-studios_2020.jpg
 summary: >-
   > ## “How can this process \[of sharing data] be democratised? How can we
   create a system that does not function as a one-way stream of information
@@ -38,7 +38,7 @@ summary: >-
 
   .
 ---
-![](assets/img/ali-akbar-mehta_installation-view-is-there-a-room-with-just-a-colour-myymala2-helsinki-2020.jpg)
+![](/static/img/ali-akbar-mehta_installation-view-is-there-a-room-with-just-a-colour-myymala2-helsinki-2020.jpg)
 
 **VC: Hi Ali. Good to see you after a long time.** 
 

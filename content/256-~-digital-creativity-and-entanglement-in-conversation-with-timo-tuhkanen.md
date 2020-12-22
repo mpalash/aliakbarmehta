@@ -4,7 +4,7 @@ subtitle: Myymälä2, Helsinki
 layout: layouts/content.njk
 tag: talk
 pubdate: "2020"
-hero: assets/img/ali-akbar-mehta_online-program-02_myymala2_2020.jpg
+hero: /static/img/ali-akbar-mehta_online-program-02_myymala2_2020.jpg
 parent: 256 Million Colours of Violence
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nEzGqrRYdOY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -6,6 +6,6 @@ tag: press
 pubdate: "2018"
 parent: "WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs"
 ---
-![](assets/img/narrating-war-pripovedovanje-vojne-ali-akbar-mehta.jpg)
+![](/static/img/narrating-war-pripovedovanje-vojne-ali-akbar-mehta.jpg)
 
 Read [here](https://mynight.si/events/narrating-war-pripovedovanje-vojne-ali-akbar-mehta/)

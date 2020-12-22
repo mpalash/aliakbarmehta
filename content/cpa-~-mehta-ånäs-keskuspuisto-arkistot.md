@@ -15,7 +15,7 @@ summary: >-
   <br/><br/>
 
 
-  ![](assets/img/susanna-iida-ali-jorma_2nd-field-trip_meadow_16.6.2020.jpg)
+  ![](/static/img/susanna-iida-ali-jorma_2nd-field-trip_meadow_16.6.2020.jpg)
 parent: Central Park Archives
 children:
   - CPA ~ Central Park Archives - workshops
@@ -54,4 +54,4 @@ The Wikidocumentaries project attempts to provide a platform where the globally 
 Together, we explore the ways provided by a familiar online environment to store and archive the memory we collect. Based on this, we outline new processes that would make the preservation of the materials more secure, better linked to the collections stored by others, and could be produced on the terms of both individuals and different communities.
 <br/><br/>
 
-![](assets/img/summer_2nd-field-trip_allotment-garden_16.6.2020.jpg)
+![](/static/img/summer_2nd-field-trip_allotment-garden_16.6.2020.jpg)

@@ -14,7 +14,7 @@ summary: >-
   <br/><br/>
 
 
-  ![](assets/img/rehearsing-hospitalities-ii.jpg)
+  ![](/static/img/rehearsing-hospitalities-ii.jpg)
 
 
   <br/><br/>

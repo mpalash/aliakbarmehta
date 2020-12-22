@@ -4,7 +4,7 @@ subtitle: Interview by Radhika Sharma, Art Fervour (online)
 layout: layouts/content.njk
 tag: press
 pubdate: "2020"
-hero: assets/img/31189450607_7cb672417b_o.jpg
+hero: /static/img/31189450607_7cb672417b_o.jpg
 ---
 "Transmedia artist Ali Akbar Mehta’s journey has been one of continuous learning and unlearning. There are several roles he performs as artist, curator and researcher to focus on alternative, innovative and inclusive discourses.
 

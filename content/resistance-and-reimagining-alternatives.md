@@ -5,7 +5,7 @@ subtitle: Nordic Decolonial Workshop, Center for Research on Ethnic Relations
 layout: layouts/content.njk
 tag: talk
 pubdate: "2019"
-hero: assets/img/denor_resistance-and-reimagining-alternatives_2019.jpg
+hero: /static/img/denor_resistance-and-reimagining-alternatives_2019.jpg
 summary: >+
   In November 2019, I was invited to speak about [Museum of Impossible
   Forms](https://museumofimpossibleforms.org/).

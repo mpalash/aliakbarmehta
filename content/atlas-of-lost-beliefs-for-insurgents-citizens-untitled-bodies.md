@@ -11,7 +11,7 @@ summary: >-
 
   Even now in a time obsessed with the past, devoted as it is to the cult of memory and the fetish of heritage, something still goes forward. Even now when there is no general direction, nor a subject who is supposed to lead, we cannot but ask where to place our next step, what to take along or leave behind. Yet there are still prospects, or in philosopher Bruno Latour’s words, “the shape of things to come.”
 ---
-![Atlas of Lost Beliefs, Ranjit Hoskote, 2018](assets/img/atlas-of-lost-beliefs_poem-by-ranjit-hoskote.jpg)
+![Atlas of Lost Beliefs, Ranjit Hoskote, 2018](/static/img/atlas-of-lost-beliefs_poem-by-ranjit-hoskote.jpg)
 
 > This future-forward projection of culture is enacted, in part, by Museum of Impossible Forms, because that is what we *choose* to do. Choice here is active participation.
 
