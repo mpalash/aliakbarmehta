@@ -1,6 +1,6 @@
 ---
 layout: layouts/content.njk
-title: 'sss ~ Artist Book #3: Kwan Tai Shek'
+title: 'sss ~ Artist Book 3: Kwan Tai Shek'
 parent: 'SITE : STAGE : STRUCTURE'
 tag: artwork
 pubdate: '2014'

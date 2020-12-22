@@ -1,6 +1,6 @@
 ---
 layout: layouts/content.njk
-title: 'sss ~ Artist Book #2: Daarukhana'
+title: 'sss ~ Artist Book 2: Daarukhana'
 parent: 'SITE : STAGE : STRUCTURE'
 tag: artwork
 pubdate: '2014'
