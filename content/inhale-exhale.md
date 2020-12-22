@@ -1,7 +1,7 @@
 ---
 title: Inhale / Exhale
 layout: layouts/content.njk
-tag: individual work
+tag: artwork
 pubdate: "2003"
 parent: Planktonian People
 ---

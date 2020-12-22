@@ -1,7 +1,7 @@
 ---
 title: Tasher Desh
 layout: layouts/content.njk
-tag: individual work
+tag: artwork
 pubdate: "2013"
 parent: Planktonian People
 children:

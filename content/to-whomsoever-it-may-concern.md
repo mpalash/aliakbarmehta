@@ -1,7 +1,7 @@
 ---
 title: To Whomsoever it May Concern
 layout: layouts/content.njk
-tag: individual work
+tag: artwork
 pubdate: '2018'
 children:
   - To Whomsoever ~ No Corners

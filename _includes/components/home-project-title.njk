@@ -2,7 +2,7 @@
 <li class="project-year-genre" data-year="{{ content.data.pubdate }}" data-genre="{{ content.data.tag | replace(' ','-') }}">
 {% if content.data.parent %}
   {% if content.data.parent != 'Poems' %}
-    <a href="/content/{{ content.data.parent | trim | slug }}#{{ content.data.title.split('~').slice(-1)[0] | trim | slug }}" >
+    <a href="/content/{{ content.data.parent | trim | slugify }}#{{ content.data.title.split('~').slice(-1)[0] | trim | slugify }}" >
       {{ content.data.title.split('~').slice(-1)[0] | trim }}
       {% if content.data.tag in displaysub %}
         {% if content.data.subtitle and content.data.subtitle != '' %}<br/><span class="list-subtitle">{{ content.data.subtitle }}</span>{% endif %}
@@ -10,7 +10,7 @@
     </a>
   {% endif %}
 {% else %}
-  <a href="/content/{{ content.data.title.split('~').slice(-1)[0] | trim | slug }}">
+  <a href="/content/{{ content.data.title.split('~').slice(-1)[0] | trim | slugify }}">
     {{ content.data.title.split('~').slice(-1)[0] | trim }}
     {% if content.data.tag in displaysub %}
       {% if content.data.subtitle and content.data.subtitle != '' %}<br/><span class="list-subtitle">{{ content.data.subtitle }}</span>{% endif %}

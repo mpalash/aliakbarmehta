@@ -1,6 +1,6 @@
 ---
-title: sss ~ Memory & the Maximum City
-subtitle: Interview by Shilpa Dubey, for Absolute India
+title: 'sss ~ Interview: Memory & the Maximum City'
+subtitle: by Shilpa Dubey, for Absolute India
 layout: layouts/content.njk
 tag: press
 pubdate: "2015"

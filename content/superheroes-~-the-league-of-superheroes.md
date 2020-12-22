@@ -1,7 +1,7 @@
 ---
 title: Superheroes ~ The League of Superheroes
 layout: layouts/content.njk
-tag: individual work
+tag: artwork
 pubdate: "2013"
 parent: 'The Superhero Series'
 ---

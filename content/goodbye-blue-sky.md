@@ -1,7 +1,7 @@
 ---
 title: Goodbye Blue Sky
 layout: layouts/content.njk
-tag: individual work
+tag: artwork
 pubdate: "2006"
 parent: Planktonian People
 ---

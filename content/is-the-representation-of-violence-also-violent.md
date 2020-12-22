@@ -1,7 +1,7 @@
 ---
 title: Is the representation of violence also violent?
 layout: layouts/content.njk
-tag: individual work
+tag: artwork
 pubdate: '2017'
 children:
   - 'IS ~ IS/NOT: Sculpture for the Post-Truth Era'

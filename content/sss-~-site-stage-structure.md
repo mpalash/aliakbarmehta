@@ -1,6 +1,6 @@
 ---
 layout: layouts/content.njk
-title: 'sss ~ SITE : STAGE : STRUCTURE'
+title: 'sss ~ SITE : STAGE : STRUCTURE - Mazgaon'
 subtitle: Artist Statement by Ali Akbar Mehta
 parent: 'SITE : STAGE : STRUCTURE'
 tag: text

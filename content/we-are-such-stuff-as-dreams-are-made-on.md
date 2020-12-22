@@ -1,7 +1,7 @@
 ---
 title: We are such stuff As dreams are made on
 layout: layouts/content.njk
-tag: individual work
+tag: artwork
 pubdate: '2010'
 children: 'We are ~ April Salon'
 ---

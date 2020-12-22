@@ -1,7 +1,7 @@
 ---
 title: Placebo Singers
 layout: layouts/content.njk
-tag: individual work
+tag: artwork
 pubdate: "2015"
 parent: Planktonian People
 ---
