@@ -2,7 +2,7 @@
 title: 256 ~ Not your Regular Archive
 subtitle: 'Sakal Times, 2018'
 layout: layouts/content.njk
-tag: press
+tags: press
 pubdate: '2018'
 parent: 256 Million Colours of Violence
 ---

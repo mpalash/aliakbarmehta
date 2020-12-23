@@ -2,7 +2,7 @@
 layout: layouts/content.njk
 title: 'sss ~ Mathar Pacady Interviews – Aunty Tessi'
 parent: 'SITE : STAGE : STRUCTURE'
-tag: artwork
+tags: artwork
 pubdate: '2014'
 
 ---

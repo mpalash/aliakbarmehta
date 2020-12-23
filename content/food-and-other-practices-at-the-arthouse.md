@@ -4,7 +4,7 @@ subtitle: >-
   Visual Culture and Contemporary Art Journal #4, (ed.) Ali Akbar Mehta and
   Vidha Saumya, Published by Aalto University, Espoo, 2018
 layout: layouts/content.njk
-tag: publication
+tags: publication
 pubdate: '2018'
 children: []
 ---

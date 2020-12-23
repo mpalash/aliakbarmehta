@@ -2,7 +2,7 @@
 layout: layouts/content.njk
 title: poems ~ What about Infinity
 parent: Poems
-tag: text
+tags: text
 pubdate: '2010'
 summary: ''
 ---

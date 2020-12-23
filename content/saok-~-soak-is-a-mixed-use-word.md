@@ -3,7 +3,7 @@ layout: layouts/content.njk
 title: Soak ~ SOAK is a mixed use world
 subtitle: Curatorial Text by Ali Akbar Mehta 
 parent: SOAK
-tag: text
+tags: text
 pubdate: '2016'
 
 

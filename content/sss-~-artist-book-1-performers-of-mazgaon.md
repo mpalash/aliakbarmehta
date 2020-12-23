@@ -2,7 +2,7 @@
 layout: layouts/content.njk
 title: 'sss ~ Artist Book 1: Performers of Mazgaon'
 parent: 'SITE : STAGE : STRUCTURE'
-tag: artwork
+tags: artwork
 pubdate: '2014'
 ---
 ![Artist Book #1: Performers of Mazgaon, SITE : STAGE : STRUCTURE, 2014](/static/img/slide13.jpg)

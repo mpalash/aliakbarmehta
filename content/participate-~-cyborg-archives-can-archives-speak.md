@@ -2,7 +2,7 @@
 title: 'participate ~ Cyborg Archives: Can Archives Speak?'
 subtitle: 'Performance directed by Ali Akbar Mehta and performed by Ganesh Totekar'
 layout: layouts/content.njk
-tag: performance
+tags: performance
 pubdate: '2018'
 parent: Cyber Archive
 children: []

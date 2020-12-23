@@ -2,7 +2,7 @@
 title: play ~ Immersion 2016
 subtitle: Former ADD LAB Space, Aalto University, Espoo
 layout: layouts/content.njk
-tag: group exhibition
+tags: group exhibition
 pubdate: "2016"
 summery: Mapping the Space – sound is embedded in space, and space is extended
   through sound. The performances of action is to use sound as a way to explore

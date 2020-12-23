@@ -3,7 +3,7 @@ title: CPA ~ Rehearsing Hospitalities Companion 2 Readings with Annet Dekker,
   and Susanna Ånäs and Ali Akbar Mehta
 subtitle: Rehearsing Hospitalities, Frame Contemporary Art Finland, Helsinki (online)
 layout: layouts/content.njk
-tag: talk
+tags: artist talk
 pubdate: "2020"
 summary: >-
   <iframe width="560" height="315"

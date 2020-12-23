@@ -3,7 +3,7 @@ title: Resistance and Reimagining Alternatives
 subtitle: Nordic Decolonial Workshop, Center for Research on Ethnic Relations
   and Nationalism, (CEREN), University of Helsinki, Helsinki
 layout: layouts/content.njk
-tag: talk
+tags: artist talk
 pubdate: "2019"
 hero: /static/img/denor_resistance-and-reimagining-alternatives_2019.jpg
 summary: >+

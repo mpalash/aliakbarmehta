@@ -1,7 +1,7 @@
 ---
 title: wre ~  Why is an archive of wars required?
 layout: layouts/content.njk
-tag: text
+tags: text
 pubdate: '2014'
 summary: >-
   The French poet Eugene Guillevic, whose ‘Charnel Houses’ (1947) is one of the

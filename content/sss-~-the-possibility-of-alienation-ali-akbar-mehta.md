@@ -2,7 +2,7 @@
 title: sss ~ The Possibility Of Alienation – Ali Akbar Mehta
 subtitle: 'Art Daily, 15.04.2014'
 layout: layouts/content.njk
-tag: press
+tags: press
 pubdate: '2014'
 parent: 'SITE : STAGE : STRUCTURE'
 ---

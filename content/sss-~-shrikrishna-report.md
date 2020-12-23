@@ -2,7 +2,7 @@
 layout: layouts/content.njk
 title: sss ~ Shrikrishna Report
 parent: 'SITE : STAGE : STRUCTURE'
-tag: resource
+tags: resource
 pubdate: '2014'
 summary: >-
   https://www.scribd.com/doc/123284071/Shrikrishna-Commission-Report-Mumbai-Riots-of-1992-1993-India

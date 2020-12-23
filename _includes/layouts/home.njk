@@ -4,48 +4,23 @@
   {% include "components/head.njk" %}
 
   <body>
-    <main class="page-content home r" aria-label="Content">
-      {% include "components/header.njk" %}
-
-      <div class="r timeline-wrapper">
-        <div class="c c-4 p-1 sticky">
-          <div class="site-intro" data-title="about">
-            <h1 class="site-title">{{ metadata.title }}</h1>
-
-            {% for page in collections.pages %}
-              {% if page.data.title == 'About' %}
-                <div class="summary">{{ page.data.summary | md | safe }}</div>
-                <div class="full-content">{{ page.data.layoutContent | safe }}</div>
-                <a href="#" class="toggle-section" data-title="about">
-                  <span class="more"></span>
-                  <span class="less" style="display: none;"></span>
-                </a>
-              {% endif %}
-            {% endfor %}
-          </div>
-          <div class="site-genres">
-            <a class="tag small tag-project" href="#projects">projects</a>
-            <a class="tag small tag-performance" href="#performances">performances</a>
-            <a class="tag small tag-exhibition" href="#exhibitions">exhibitions</a>
-            <a class="tag small tag-residency" href="#residencies">residencies</a>
-            <a class="tag small tag-talk" href="#talks">talks</a>
-            <a class="tag small tag-publication" href="#publications">publications</a>
-            <a class="tag small tag-text" href="#texts">texts</a>
-            <a class="tag small tag-press" href="#press">press</a>
-          </div>
-          <div class="site-dates">
-            <a class="tag small tag-dates" href="#"><span>timeline</span></a>
-          </div>
-        </div>
-        <div class="c c-6 p-1 timeline vertical">
-          {% include "components/list-by-year.njk" %}
-          {% include "components/list-by-genre.njk" %}
-        </div>
+    {% include "components/header.njk" %}
+    <main aria-label="Content" style="display: flex;">
+      <div>
+        {% for page in collections.pages %}
+          {% if page.data.title == 'About' %}
+            <div class="summary">{{ page.data.summary | md | safe }}</div>
+            <div class="full-content">{{ page.data.layoutContent | safe }}</div>
+            <a href="#" class="toggle-section" data-title="about">
+              <span class="more"></span>
+              <span class="less" style="display: none;"></span>
+            </a>
+          {% endif %}
+        {% endfor %}
       </div>
-      
-      {% include "components/footer.njk" %}
-
+      {% include "components/list-all.njk" %}
     </main>
+    {% include "components/footer.njk" %}
   </body>
 
 </html>

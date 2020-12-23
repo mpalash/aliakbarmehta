@@ -2,7 +2,7 @@
 title: CPA ~ Central Park Archives (Process)
 subtitle: Keskuspuisto-arkistot – kuvat ja video
 layout: layouts/content.njk
-tag: resource
+tags: resource
 pubdate: "2020"
 summary: >-
   The Central Park Archives project started with fieldwork and meetings in

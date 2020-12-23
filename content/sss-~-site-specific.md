@@ -2,7 +2,7 @@
 title: sss ~ Site Specific
 subtitle: 'Reema Gehi, Mumbai Mirror, 15.08.2014'
 layout: layouts/content.njk
-tag: press
+tags: press
 pubdate: '2014'
 parent: 'SITE : STAGE : STRUCTURE'
 ---

@@ -2,7 +2,7 @@
 title: Superheroes ~ Of Men and Supermen
 subtitle: India Art Festival, by TAO Art Gallery, Mumbai, 2012
 layout: layouts/content.njk
-tag: solo exhibition
+tags: solo exhibition
 pubdate: "2012"
 summary: >-
    //

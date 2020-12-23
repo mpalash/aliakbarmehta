@@ -1,21 +1,16 @@
 footer {
-  @extend .r;
-  padding: $s-b 0;
+  padding: var(--s-b) 0;
   color: $color-ink;
-  font-size: $font-size-small;
+  font-size: var(--font-size-small);
   letter-spacing: 0.05em;
   pointer-events: none;
 
   div {
-    @extend .c;
-    @extend .c-10;
-    padding-left: calc(16.6666666667% + 16px);
-
     display: flex;
     justify-content: flex-start;
   }
   span {
-    margin-right: $gutter;
+    margin-right: var(--gutter);
   }
   a {
     color: $color-ink;

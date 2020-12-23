@@ -1,7 +1,7 @@
 ---
 title: Ballad of the War that Never Was, and Other Basterdised Myths
 layout: layouts/content.njk
-tag: past project
+tags: past project
 pubdate: "2011"
 hero: /static/img/ballad-of-the-war-that-never-was-2011-oil-and-acrylic-on-canvas-152-x-198-cm.jpg
 children:

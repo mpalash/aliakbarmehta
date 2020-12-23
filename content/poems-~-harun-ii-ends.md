@@ -3,7 +3,7 @@ layout: layouts/content.njk
 title: poems ~ Harun II (Ends)
 subtitle: "Last words of paragraphs:"
 parent: Poems
-tag: text
+tags: text
 pubdate: '2017'
 summary: ''
 ---

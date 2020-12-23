@@ -2,7 +2,7 @@
 title: 'sss ~ The BB Art Showcase: Ali Akbar Mehta'
 subtitle: 'Interview by Khubi Amin Ahmed, for Be Beautiful India'
 layout: layouts/content.njk
-tag: press
+tags: press
 pubdate: '2015'
 parent: 'SITE : STAGE : STRUCTURE'
 ---

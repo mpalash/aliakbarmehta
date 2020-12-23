@@ -2,7 +2,7 @@
 title: Ballad ~ Nothing is Mundane
 subtitle: 'Interview by Jayeeta Mazumdar, for DNA India'
 layout: layouts/content.njk
-tag: press
+tags: press
 pubdate: '2011'
 parent: 'Ballad of the War that Never Was, and Other Basterdised Myths'
 children: []

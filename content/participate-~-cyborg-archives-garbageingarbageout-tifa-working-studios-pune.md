@@ -2,7 +2,7 @@
 title: 'participate ~ Cyborg Archives: GarbageInGarbageOut, TIFA Working Studios, Pune'
 subtitle: 'Performance directed by Ali Akbar Mehta, and performed by Luv Mehtani'
 layout: layouts/content.njk
-tag: performance
+tags: performance
 pubdate: '2018'
 parent: To Participate in the Archive
 children: []

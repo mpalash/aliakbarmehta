@@ -2,7 +2,7 @@
 layout: layouts/content.njk
 title: poems ~ A body split in two
 parent: Poems
-tag: text
+tags: text
 pubdate: '2010'
 summary: ''
 ---

@@ -2,7 +2,7 @@
 title: 'Cyber ~ Cyber Archive: Archiving as a sustainable counter-hegemonic practice'
 subtitle: 'Hakara Journal, (ed.) Ashutosh Poddar and Noopur Desai, 2018'
 layout: layouts/content.njk
-tag: publication
+tags: publication
 pubdate: '2018'
 parent: Cyber Archive
 ---

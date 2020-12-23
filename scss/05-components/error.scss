@@ -7,7 +7,7 @@
   h1.error-title {
     margin: 0 auto;
     color: $color-warm-dark;
-    font-family: $title-font-family;
+    font-family: var(--font);
     font-size: 7vw;
     line-height: 1.05;
     letter-spacing: -0.01em;

@@ -2,7 +2,7 @@
 title: Central Park Archives
 subtitle: ""
 layout: layouts/content.njk
-tag: ongoing project
+tags: ongoing project
 pubdate: "2020"
 hero: /static/img/keskuspuistoarkistot-pilotti-kayttoliittyma.png
 parent: Central Park Archives

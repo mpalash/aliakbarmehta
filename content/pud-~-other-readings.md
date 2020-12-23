@@ -1,7 +1,7 @@
 ---
 title: Pud ~ Other Readings
 layout: layouts/content.njk
-tag: resource
+tags: resource
 pubdate: '2016'
 parent: Pudding Manifesto for Togetherness
 ---

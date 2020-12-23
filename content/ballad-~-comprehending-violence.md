@@ -2,7 +2,7 @@
 title: Ballad ~ Comprehending Violence
 subtitle: Review by Abhishek Bandekar
 layout: layouts/content.njk
-tag: text
+tags: text
 pubdate: '2011'
 summary: >-
   It is amazing how you can know an artist as a friend for well over a decade,

@@ -2,7 +2,7 @@
 title: 'WRE ~ Narrating WAR, Mymmälä2, Helsinki'
 subtitle: Performance Reading by Ali Akbar Mehta
 layout: layouts/content.njk
-tag: performance
+tags: performance
 pubdate: '2019'
 parent: 'WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs'
 ---

@@ -1,7 +1,7 @@
 ---
 title: "SITE : STAGE : STRUCTURE"
 layout: layouts/content.njk
-tag: past project
+tags: past project
 pubdate: "2014"
 hero: /static/img/mazgaon-docks.jpg
 summary: "SITE : STAGE : STRUCTURE is an archival documentary project. It is a

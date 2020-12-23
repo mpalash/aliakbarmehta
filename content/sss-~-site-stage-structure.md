@@ -3,7 +3,7 @@ layout: layouts/content.njk
 title: 'sss ~ SITE : STAGE : STRUCTURE - Mazgaon'
 subtitle: Artist Statement by Ali Akbar Mehta
 parent: 'SITE : STAGE : STRUCTURE'
-tag: text
+tags: text
 pubdate: '2014'
 summary: >-
   It is a Transmedia Installation that integrates books, objects, photographs,

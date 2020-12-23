@@ -2,7 +2,7 @@
 title: '256 ~ Limitations of Liability, Mumbai Assembly'
 subtitle: Exhibition and Artist Talks
 layout: layouts/content.njk
-tag: artwork
+tags: artwork
 pubdate: '2017'
 parent: 256 Million Colours of Violence
 ---

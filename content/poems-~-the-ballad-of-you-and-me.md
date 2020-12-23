@@ -2,7 +2,7 @@
 layout: layouts/content.njk
 title: poems ~ The Ballad of you and me
 parent: Poems
-tag: text
+tags: text
 pubdate: '2014'
 summary: ''
 ---

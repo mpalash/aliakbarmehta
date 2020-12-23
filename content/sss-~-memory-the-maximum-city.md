@@ -2,7 +2,7 @@
 title: 'sss ~ Interview: Memory & the Maximum City'
 subtitle: by Shilpa Dubey, for Absolute India
 layout: layouts/content.njk
-tag: press
+tags: press
 pubdate: "2015"
 summary: >-
   **What does ‘Memory & The Maximum City’ mean for you?**

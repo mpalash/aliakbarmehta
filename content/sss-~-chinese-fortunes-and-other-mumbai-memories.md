@@ -2,7 +2,7 @@
 title: sss ~ Chinese Fortunes and other Mumbai Memories
 subtitle: 'Mid-Day, 2015'
 layout: layouts/content.njk
-tag: press
+tags: press
 pubdate: '2015'
 parent: 'SITE : STAGE : STRUCTURE'
 ---

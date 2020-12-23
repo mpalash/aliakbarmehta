@@ -4,7 +4,7 @@ subtitle: >-
   Curated by Bina Sarkar Ellias, IndiaBulls Art Gallery and Auction House, New
   Delhi
 layout: layouts/content.njk
-tag: group exhibition
+tags: group exhibition
 pubdate: '2013'
 parent: Tasher Desh
 ---

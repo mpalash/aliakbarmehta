@@ -2,7 +2,7 @@
 title: 256 ~ Is there a room with just a colour?
 subtitle: Myymälä2, Helsinki
 layout: content
-tag: solo exhibition
+tags: solo exhibition
 pubdate: "2020"
 hero: assets/img/poster.jpg
 summary: >-

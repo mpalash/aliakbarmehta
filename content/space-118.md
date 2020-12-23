@@ -2,7 +2,7 @@
 title: SPACE 118
 subtitle: ''
 layout: layouts/content.njk
-tag: residency
+tags: residency
 parent: 'SITE : STAGE : STRUCTURE'
 pubdate: '2012'
 children: []

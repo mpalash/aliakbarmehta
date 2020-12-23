@@ -2,7 +2,7 @@
 title: "sss ~ Odes and Inquisitions: Sino-Indian Connections in Recent Indian Art"
 subtitle: Essay by Ryan Holmberg
 layout: layouts/content.njk
-tag: press
+tags: press
 pubdate: "2014"
 summary: >-
   ![Mazgaon Gardens, 2012](/static/img/mazgaon-garden.jpg)

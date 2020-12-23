@@ -2,7 +2,7 @@
 layout: layouts/content.njk
 title: poems ~ Images not like words
 parent: Poems
-tag: text
+tags: text
 pubdate: '2004'
 summary: ''
 ---

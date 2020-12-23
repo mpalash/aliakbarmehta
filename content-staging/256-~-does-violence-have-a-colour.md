@@ -2,7 +2,7 @@
 title: 256 ~ Does violence have a colour?
 subtitle: 'Mid-day, 2017'
 layout: content
-tag: press
+tags: press
 pubdate: '2017'
 parent: '256 Million Colours of Violence'
 ---

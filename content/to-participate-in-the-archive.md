@@ -2,7 +2,7 @@
 title: To Participate in the Archive
 subtitle: 'ARTEL 2018: Residency at TIFA Working Studios'
 layout: layouts/content.njk
-tag: residency
+tags: residency
 pubdate: '2018'
 hero: >-
   /static/img/ali-akbar-mehta_installation-view_cyborg-archive-archiving-knowledge_tifa-working-studios_2018.jpg

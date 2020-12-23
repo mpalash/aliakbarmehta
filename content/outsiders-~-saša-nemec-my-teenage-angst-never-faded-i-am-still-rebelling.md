@@ -2,7 +2,7 @@
 title: 'outsiders ~ Saša Nemec: My Teenage Angst Never Faded, I Am Still Rebelling'
 subtitle: Interview by OUTSIDERS AT WORK
 layout: layouts/content.njk
-tag: publication
+tags: publication
 pubdate: '2019'
 parent: Outsiders at Work
 ---

@@ -2,7 +2,7 @@
 layout: layouts/content.njk
 title: 'LM ~ Luminous Matter, Animated Short'
 parent: Luminous Matter
-tag: artwork
+tags: artwork
 pubdate: '2011'
 
 ---

@@ -3,7 +3,7 @@ layout: layouts/content.njk
 title: poems ~ Harun I (Beginnings)
 subtitle: "First Words of paragraphs:"
 parent: Poems
-tag: text
+tags: text
 pubdate: '2017'
 summary: ''
 ---

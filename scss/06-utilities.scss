@@ -2,8 +2,6 @@
   display: none;
 }
 .sticky {
-  @media screen and (min-width: 801px) {
-    position: sticky;
-    top: 0;
-  }
+  position: sticky;
+  top: 0;
 }

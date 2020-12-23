@@ -1,7 +1,7 @@
 ---
 title: Pud ~ Project Report
 layout: layouts/content.njk
-tag: resource
+tags: resource
 pubdate: '2016'
 summary: >-
   **What is questioned:**

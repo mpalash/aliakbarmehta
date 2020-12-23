@@ -1,7 +1,7 @@
 ---
 title: Luminous Matter
 layout: layouts/content.njk
-tag: past project
+tags: past project
 pubdate: '2011'
 hero: /static/img/lm1-large.jpg
 children:

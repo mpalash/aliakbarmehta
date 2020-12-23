@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/mpalash/mm-cms",
   "devDependencies": {
-    "@11ty/eleventy": "^0.11.0",
+    "@11ty/eleventy": "^0.11.1",
     "compress-images": "^1.9.5",
     "debug": "^4.1.1",
     "graceful-fs": "^4.2.4",

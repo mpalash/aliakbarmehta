@@ -1,4 +1,5 @@
 const { DateTime } = require("luxon");
+const _ = require("lodash");
 const CleanCSS = require("clean-css");
 const UglifyJS = require("uglify-es");
 const htmlmin = require("html-minifier");
@@ -81,7 +82,7 @@ module.exports = function(eleventyConfig) {
   });
 
   // only content in the `pages/` directory
-  eleventyConfig.addCollection("pages", function(collection) {
+  eleventyConfig.addCollection('pages', function(collection) {
     return collection.getAllSorted().filter(function(item) {
       return item.inputPath.match(/^\.\/pages\//) !== null;
     });
@@ -89,12 +90,113 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addLayoutAlias('page', 'layouts/page.njk');
 
   // only content in the `content/` directory
-  eleventyConfig.addCollection("content", function(collection) {
+  eleventyConfig.addCollection('content', function(collection) {
     return collection.getAll().sort(function(a, b){return parseInt(a.data.pubdate) - parseInt(b.data.pubdate)}).filter(function(item) {
       return item.inputPath.match(/^\.\/content\//) !== null;
     });
   });
   eleventyConfig.addLayoutAlias('content', 'layouts/content.njk');
+
+  // filtered content
+  // projects = ['ongoing project','past project','artwork','video']
+  // curatorial = ['curatorial']
+  // exhibitions = ['solo exhibition','group exhibition','residency']
+  // talks = ['talk']
+  // performances = ['performance']
+  // texts = ['publication','unpublished']
+  // about = ['press','resource','text']
+
+  eleventyConfig.addCollection('projects',
+  collection => collection
+    .getAll()
+    .filter(function(item){
+      const tagsList = ['ongoing project','past project','artwork','video'];
+      const tags = item.data.tags;
+      return _.intersection(tags, tagsList).length > 0;
+    })
+    .sort(function(a, b){
+      return parseInt(a.data.pubdate) - parseInt(b.data.pubdate)
+    })
+    .reverse()
+  )
+  eleventyConfig.addCollection('curatorial',
+  collection => collection
+    .getAll()
+    .filter(function(item){
+      const tagsList = ['curatorial project'];
+      const tags = item.data.tags;
+      return _.intersection(tags, tagsList).length > 0;
+    })
+    .sort(function(a, b){
+      return parseInt(a.data.pubdate) - parseInt(b.data.pubdate)
+    })
+    .reverse()
+  )
+  eleventyConfig.addCollection('exhibitions',
+  collection => collection
+    .getAll()
+    .filter(function(item){
+      const tagsList = ['solo exhibition','group exhibition','residency'];
+      const tags = item.data.tags;
+      return _.intersection(tags, tagsList).length > 0;
+    })
+    .sort(function(a, b){
+      return parseInt(a.data.pubdate) - parseInt(b.data.pubdate)
+    })
+    .reverse()
+  )
+  eleventyConfig.addCollection('talks',
+  collection => collection
+    .getAll()
+    .filter(function(item){
+      const tagsList = ['artist talk','teaching'];
+      const tags = item.data.tags;
+      return _.intersection(tags, tagsList).length > 0;
+    })
+    .sort(function(a, b){
+      return parseInt(a.data.pubdate) - parseInt(b.data.pubdate)
+    })
+    .reverse()
+  )
+  eleventyConfig.addCollection('performances',
+  collection => collection
+    .getAll()
+    .filter(function(item){
+      const tagsList = ['performance'];
+      const tags = item.data.tags;
+      return _.intersection(tags, tagsList).length > 0;
+    })
+    .sort(function(a, b){
+      return parseInt(a.data.pubdate) - parseInt(b.data.pubdate)
+    })
+    .reverse()
+  )
+  eleventyConfig.addCollection('texts',
+  collection => collection
+    .getAll()
+    .filter(function(item){
+      const tagsList = ['publication','unpublished'];
+      const tags = item.data.tags;
+      return _.intersection(tags, tagsList).length > 0;
+    })
+    .sort(function(a, b){
+      return parseInt(a.data.pubdate) - parseInt(b.data.pubdate)
+    })
+    .reverse()
+  )
+  eleventyConfig.addCollection('about',
+  collection => collection
+    .getAll()
+    .filter(function(item){
+      const tagsList = ['press','resource','text'];
+      const tags = item.data.tags;
+      return _.intersection(tags, tagsList).length > 0;
+    })
+    .sort(function(a, b){
+      return parseInt(a.data.pubdate) - parseInt(b.data.pubdate)
+    })
+    .reverse()
+  )
 
   // Don't process folders with static assets e.g. images
   eleventyConfig.addPassthroughCopy("favicon.ico");

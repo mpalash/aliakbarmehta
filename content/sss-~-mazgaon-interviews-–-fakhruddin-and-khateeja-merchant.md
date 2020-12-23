@@ -2,7 +2,7 @@
 layout: layouts/content.njk
 title: 'sss ~ Mazgaon Interviews – Fakhruddin and Khateeja Merchant'
 parent: 'SITE : STAGE : STRUCTURE'
-tag: artwork
+tags: artwork
 pubdate: '2014'
 ---
 <iframe src="https://player.vimeo.com/video/293507323" width="640"

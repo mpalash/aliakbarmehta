@@ -4,7 +4,7 @@ subtitle: in 'The Museum of the Future. 43 New Contributions to the Discussion
   about the Future of the Museum', (ed.) Nora Sternfeld, (pub.) schnittpunkt and
   Joachim Baur
 layout: layouts/content.njk
-tag: publication
+tags: publication
 pubdate: "2020"
 hero: /static/img/museum-of-the-future_books.jpg
 summary: >

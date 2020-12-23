@@ -1,11 +1,9 @@
 h1.project-title {
-  @extend .o-1;
-  @extend .w-10;
-  padding: 0 $gutter;
-  margin-top: $s-xxxl*1.75;
+  padding: 0 var(--gutter);
+  margin-top: calc(var(--s-xxxl)*1.75);
   margin-bottom: 0;
   color: $color-warm-dark;
-  font-family: $title-font-family;
+  font-family: var(--font);
   font-size: 7vw;
   line-height: 1.05;
   letter-spacing: -0.01em;
@@ -18,51 +16,42 @@ h1.project-title {
 
 }
 .project-subtitle {
-  @extend .o-1;
-  @extend .w-10;
-  padding: 0 $gutter;
+  padding: 0 var(--gutter);
   margin-top: 0;
-  margin-bottom: $s-xxl;
+  margin-bottom: var(--s-xxl);
   color: $color-warm-dark;
 }
 .project-tag p {
-  @extend .o-1;
-  margin-right: $s-xxxl*1.75 !important;
-  padding: 0 $gutter;
+  margin-right: calc(var(--s-xxxl)*1.75) !important;
+  padding: 0 var(--gutter);
 }
 .project-hero {
   display: block;
-  @extend .o-2;
-  @extend .w-10;
-  padding: 0 $gutter;
-  max-width: $max-text-width;
+  padding: 0 var(--gutter);
+  max-width: var(--max-text-width);
   &.top {
     position: absolute;
-    top: $s-xxxl;
+    top: var(--s-xxxl);
     transform: translateY(-100%);
   }
 }
 .intro {
   @include txt;
-  padding-top: $s-l;
-  padding-bottom: $s-l;
+  padding-top: var(--s-l);
+  padding-bottom: var(--s-l);
   div.section-content {
-    @extend .o-2;
   }
 }
 .project-content {
-  @extend .r;
   @include txt;
-  padding-top: $s-l;
-  padding-bottom: $s-l;
-  min-height: $s-xxxl * 2;
+  padding-top: var(--s-l);
+  padding-bottom: var(--s-l);
+  min-height: calc(var(--s-xxxl)*2);
   &.resource {
     background-color: rgba($color-resource, 0.15);
   }
 }
 aside.meta {
-  @extend .c;
-  @extend .c-2;
   > div {
     position: absolute;
     top: 0;
@@ -73,8 +62,8 @@ aside.meta {
       position: absolute;
       top: 0;
       right: 0;
-      margin: $gutter 0;
-      padding-right: $gutter;
+      margin: var(--gutter) 0;
+      padding-right: var(--gutter);
       @include meta;
       color: $color-warm-dark;
       border-right: 1px solid $color-warm-dark;
@@ -82,8 +71,6 @@ aside.meta {
   }
 }
 div.section-content {
-  @extend .c;
-  @extend .c-10;
   > *:first-child {
     margin-top: 0;
   }
@@ -92,7 +79,7 @@ div.section-content {
   }
   h4 {
     font-weight: bold;
-    max-width: $max-text-width;
+    max-width: var(--max-text-width);
   }
 }
 .summary + .full-content {
@@ -102,6 +89,6 @@ div.section-content {
 .fluid-vids {
   min-height: 120px;
   & + .fluid-vids {
-    margin-top: $gutter;
+    margin-top: var(--gutter);
   }
 }

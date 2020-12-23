@@ -2,7 +2,7 @@
 title: trinity ~ The Spaces Are Alive
 subtitle: Design Owl, 2016
 layout: layouts/content.njk
-tag: press
+tags: press
 pubdate: '2016'
 parent: 'TRINITY: Godrej Legacy Park Silos'
 children: []

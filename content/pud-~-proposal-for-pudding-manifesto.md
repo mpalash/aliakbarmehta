@@ -2,7 +2,7 @@
 title: Pud ~ Proposal for Pudding Manifesto
 subtitle: Project Proposal by Ali Akbar Mehta
 layout: layouts/content.njk
-tag: text
+tags: text
 pubdate: '2016'
 summary: >-
   **The Pudding Manifesto for Togetherness** (2016) is a collaborative

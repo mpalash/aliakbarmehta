@@ -4,7 +4,7 @@ subtitle: Rehearsing Hospitalities Companion 2, (ed.) Yvonne Billimore and Jussi
   Koitela, (pub.) Archive Books, Berlin, in collaboration with Frame
   Contemporary Art Finland, Helsinki, FI
 layout: layouts/content.njk
-tag: publication
+tags: publication
 pubdate: "2020"
 summary: >-
   

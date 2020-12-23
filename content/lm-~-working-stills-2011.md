@@ -1,7 +1,7 @@
 ---
 title: LM ~ Working stills, 2011
 layout: layouts/content.njk
-tag: resource
+tags: resource
 pubdate: "2011"
 children: []
 ---

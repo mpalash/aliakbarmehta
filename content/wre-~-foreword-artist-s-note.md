@@ -1,7 +1,7 @@
 ---
 title: 'wre ~ Foreword: Artist''s Note'
 layout: layouts/content.njk
-tag: text
+tags: text
 pubdate: '2014'
 summary: >-
   In 2002, my father, Yusuf Mehta, was commissioned to make a short documentary

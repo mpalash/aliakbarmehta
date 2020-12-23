@@ -2,7 +2,7 @@
 layout: layouts/content.njk
 title: poems ~ Dream II
 parent: Poems
-tag: text
+tags: text
 pubdate: '2009'
 summary: ''
 ---

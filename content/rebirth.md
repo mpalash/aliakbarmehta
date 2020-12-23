@@ -2,7 +2,7 @@
 title: Rebirth
 subtitle: null
 layout: layouts/content.njk
-tag: artwork
+tags: artwork
 pubdate: "2009"
 parent: Planktonian People
 ---

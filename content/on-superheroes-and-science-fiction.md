@@ -2,7 +2,7 @@
 title: On Superheroes and Science fiction
 subtitle: Essay by Ali Akbar Mehta (unpublished)
 layout: layouts/content.njk
-tag: unpublished
+tags: unpublished
 pubdate: "2013"
 ---
 > _You know, I’m quite keen on comic books. Especially the ones about superheroes. I find the whole mythology surrounding superheroes fascinating._

@@ -2,7 +2,7 @@
 title: 256 ~ Shades of Violence
 subtitle: 'Hindustan Times, 2017'
 layout: content
-tag: press
+tags: press
 pubdate: '2017'
 parent: '256 Million Colours of violence'
 ---

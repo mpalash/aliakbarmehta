@@ -2,7 +2,7 @@
 title: sss ~ Interview
 subtitle: by Godrej Culture Lab, Vikhroli, Mumbai
 layout: layouts/content.njk
-tag: press
+tags: press
 pubdate: '2014'
 hero: /static/img/7.-ali-akbar-mehta-site-stage-structure-2014-©-aliakbarmehta.jpg
 summary: >-

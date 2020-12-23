@@ -2,7 +2,7 @@
 title: Ateria/ The Meal
 subtitle: 'URB 2017 + Kiasma Contemporary Art Museum, Helsinki, 2017'
 layout: layouts/content.njk
-tag: group exhibition
+tags: group exhibition
 pubdate: '2017'
 children: []
 ---

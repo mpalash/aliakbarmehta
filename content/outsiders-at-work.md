@@ -2,7 +2,7 @@
 title: Outsiders at Work
 subtitle: new vocabulary and perspectives
 layout: layouts/content.njk
-tag: ongoing project
+tags: ongoing project
 pubdate: '2019'
 hero: /static/img/logo_outsiders-at-work.jpg
 children:

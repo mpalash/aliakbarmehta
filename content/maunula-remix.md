@@ -2,7 +2,7 @@
 title: Maunula Remix
 subtitle: 'mcult, Maunula House, 2018'
 layout: layouts/content.njk
-tag: talk
+tags: artist talk
 pubdate: '2018'
 children: []
 ---

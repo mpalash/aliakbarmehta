@@ -2,7 +2,7 @@
 layout: layouts/content.njk
 title: "No one at the ceremony remembers to mention the artist"
 subtitle: "Essay for Vidha Saumya’s exhibition 'No one at the ceremony remembers to mention the artist', Third Space, 2015"
-tag: publication
+tags: publication
 pubdate: '2015'
 ---
 

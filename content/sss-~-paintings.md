@@ -1,7 +1,7 @@
 ---
 title: sss ~ Paintings
 layout: layouts/content.njk
-tag: artwork
+tags: artwork
 pubdate: '2014'  
 parent: 'SITE : STAGE : STRUCTURE '
 ---

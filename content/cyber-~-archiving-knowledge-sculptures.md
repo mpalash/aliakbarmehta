@@ -2,7 +2,7 @@
 layout: layouts/content.njk
 title: 'Cyber ~ Archiving Knowledge, sculptures'
 parent: Cyber Archive
-tag: artwork
+tags: artwork
 pubdate: '2018'
 
 ---

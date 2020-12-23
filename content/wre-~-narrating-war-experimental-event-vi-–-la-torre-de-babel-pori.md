@@ -3,7 +3,7 @@ title: 'wre ~ Narrating War, Experimental Event VI – La Torre de Babel, Pori'
 subtitle: >-
   curated by Anna Jensen and Andrea Coyotzi Borja, Valimo Hall of Palmgren Conservatory
 layout: layouts/content.njk
-tag: performance
+tags: performance
 pubdate: '2018'
 parent: 'WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs'
 ---

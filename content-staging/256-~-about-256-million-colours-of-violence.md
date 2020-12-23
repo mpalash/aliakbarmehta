@@ -2,7 +2,7 @@
 title: 256 ~ About 256 Million Colours of Violence
 subtitle: Artist Statement by Ali Akbar Mehta for website ver.1
 layout: content
-tag: resource
+tags: resource
 pubdate: '2016'
 summary: >-
   256 Million Colours of Violence is a survey based interactive archival research project that asks the participants to choose a colour that to them represents violence.

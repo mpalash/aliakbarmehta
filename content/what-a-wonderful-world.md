@@ -1,7 +1,7 @@
 ---
 title: What a Wonderful World
 layout: layouts/content.njk
-tag: video
+tags: video
 pubdate: '2014'
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7ZL_0ZJ7n98" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

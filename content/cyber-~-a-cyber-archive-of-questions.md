@@ -3,7 +3,7 @@ title: Cyber ~ A Cyber Archive of Questions
 subtitle: in 'cohabitant/mutants', Restricted Fixations, issue 01, edited by
   Renuka Rajiv, independant publication
 layout: layouts/content.njk
-tag: publication
+tags: publication
 pubdate: "2020"
 hero: /static/img/pith.bull_20201021_095219_0.jpg
 summary: "*A Cyber Archive of Questions* is an essay and will be published in

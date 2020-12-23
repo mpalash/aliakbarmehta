@@ -2,7 +2,7 @@
 title: Maunuala ~ Partizaning Maunula
 subtitle: 'Maunulatalo, Maunula, Helsinki'
 layout: layouts/content.njk
-tag: group exhibition
+tags: group exhibition
 pubdate: '2017'
 parent: Maunual Speaks
 ---

@@ -2,7 +2,7 @@
 title: In Conversation with Ali Akbar Mehta
 subtitle: 'Interview by Arlene Tucker, Pixelache Festival 2019: Breaking the Fifth Wall'
 layout: layouts/content.njk
-tag: press
+tags: press
 pubdate: '2019'
 children: []
 ---

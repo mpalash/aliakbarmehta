@@ -2,7 +2,7 @@
 title: poems ~ There is a Light
 subtitle: (A plageurised script with hybrid inserts)
 layout: layouts/content.njk
-tag: text
+tags: text
 pubdate: '2017'
 parent: Poems
 summary: ''

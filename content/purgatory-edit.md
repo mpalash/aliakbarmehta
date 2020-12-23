@@ -1,7 +1,7 @@
 ---
 title: ' Purgatory Edit'
 layout: layouts/content.njk
-tag: ongoing project
+tags: ongoing project
 pubdate: '2017'
 children:
   - purg ~ Purgatory edit

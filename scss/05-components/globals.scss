@@ -1,28 +1,7 @@
-// body {
-//   border-left: 4px solid #0066FF;
-//   border-right: 4px solid #0066FF;
-//   &:after {
-//     content: '';
-//     position: fixed;
-//     top: 0;
-//     left: 0;
-//     right: 0;
-//     border-bottom: 4px solid #0066FF;
-//     z-index: 999999;
-//   }
-//   &:before {
-//     content: '';
-//     position: fixed;
-//     bottom: 0;
-//     left: 0;
-//     right: 0;
-//     border-bottom: 4px solid #0066FF;
-//     z-index: 999999;
-//   }
-// }
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
 
 .site-title {
-  font-family: $font-identity;
+  font-family: var(--font-identity);
   text-transform: uppercase;
 }
 .page-content {
@@ -39,9 +18,9 @@
 .toggle-section {
   @extend %fa-icon;
   @extend .fas;
-  margin-top: $s-l;
+  margin-top: var(--s-l);
   color: inherit;
-  font-size: $font-size-large;
+  font-size: var(--font-size-large);
   text-decoration: none !important;
 
   .more:before { content: fa-content($fa-var-plus-circle); }
@@ -53,18 +32,18 @@
 }
 .tag {
   display: inline-block;
-  padding: $s-s $s-m;
-  margin: 0 $s-s $s-s 0;
+  padding: var(--s-s) var(--s-m);
+  margin: 0 var(--s-s) var(--s-s) 0;
   background-color: $color-warm;
   color: $color-ink !important;
   text-decoration: none !important;
   @include small-caps;
-  font-size: $font-size-small;
+  font-size: var(--font-size-small);
   font-weight: 700;
-  border-radius: $s-xs;
+  border-radius: var(--s-xs);
   &.small {
-    padding: $s-xs $s-b;
-    font-size: $font-size-small;
+    padding: var(--s-xs) var(--s-b);
+    font-size: var(--font-size-small);
   }
   &.light {
     background-color: $color-warm-light;

@@ -2,7 +2,7 @@
 layout: layouts/content.njk
 title: Ballad ~ Paintings
 parent: 'Ballad of the War that Never Was, and Other Basterdised Myths '
-tag: artwork
+tags: artwork
 pubdate: '2011'
 
 ---

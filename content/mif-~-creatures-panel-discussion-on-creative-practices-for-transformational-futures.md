@@ -3,7 +3,7 @@ title: "mif ~ CreaTures: Panel Discussion on Creative Practices for
   Transformational Futures"
 subtitle: Aalto University, Helsinki, FI (online)
 layout: layouts/content.njk
-tag: talk
+tags: artist talk
 pubdate: "2020"
 hero: /static/img/creatures.png
 summary: Invited to speak about the **[Museum of Impossible

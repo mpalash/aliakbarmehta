@@ -2,7 +2,7 @@
 title: Kru ~ Proposal for Contemporary Ruins of Kruunuvuori
 subtitle: Project Proposal by Ali Akbar Mehta
 layout: layouts/content.njk
-tag: text
+tags: text
 pubdate: '2016'
 summary: >-
   Contemporary Ruins of Kruunuvuori is a ‘Visual Anthropology Research Project’

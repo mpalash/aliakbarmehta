@@ -2,7 +2,7 @@
 layout: layouts/content.njk
 title: poems ~ Excerpts from ‘Giddh’
 parent: Poems
-tag: text
+tags: text
 pubdate: '2007'
 summary: ''
 ---

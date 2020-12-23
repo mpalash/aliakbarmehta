@@ -2,7 +2,7 @@
 title: Contemporary Ruins of Kruunuvuori
 subtitle: The Perfect Ghosts of Helsinki
 layout: layouts/content.njk
-tag: ongoing project
+tags: ongoing project
 pubdate: '2015'
 hero: >-
   /static/img/symbiosis-image.jpg

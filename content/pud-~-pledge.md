@@ -2,7 +2,7 @@
 layout: layouts/content.njk
 title: Pud ~ Pledge
 parent: Pudding Manifesto for Togetherness
-tag: artwork
+tags: artwork
 pubdate: '2016'
 
 ---

@@ -2,7 +2,7 @@
 layout: layouts/content.njk
 title: poems ~ Maurice
 parent: Poems
-tag: text
+tags: text
 pubdate: '2015'
 summary: ''
 ---

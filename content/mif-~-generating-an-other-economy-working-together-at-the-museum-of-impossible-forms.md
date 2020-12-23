@@ -4,7 +4,7 @@ title: "Mif ~ Generating (An)Other Economy: Working Together at the Museum of
 subtitle: in 'How To Work Together?', Impossible Reader 02, (pub.) Museum of
   Impossible Forms
 layout: layouts/content.njk
-tag: publication
+tags: publication
 pubdate: "2021"
 summary: "**Essay for upcoming  publication** by Museum of Impossible Forms"
 parent: Museum of Impossible Forms

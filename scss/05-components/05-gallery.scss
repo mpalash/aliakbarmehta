@@ -27,7 +27,7 @@ p.img {
     flex-direction: column;
     justify-content: flex-end;
     align-items: flex-start;
-    margin-right: $s-b;
+    margin-right: var(--s-b);
   }
   img {
     display: block;
@@ -38,17 +38,17 @@ p.img {
 }
 .img-caption {
   display: block;
-  padding: $s-xs 0;
+  padding: var(--s-xs) 0;
   color: $color-warm-dark;
 }
 .gallery-btn {
   @extend %fa-icon;
   @extend .fas;
   color: inherit;
-  font-size: $font-size-large;
+  font-size: var(--font-size-large);
   text-decoration: none !important;
   cursor: pointer;
-  &.left:before { content: fa-content($fa-var-chevron-circle-left); margin-right: $s-s; }
+  &.left:before { content: fa-content($fa-var-chevron-circle-left); margin-right: var(--s-s); }
   &.right:before { content: fa-content($fa-var-chevron-circle-right); }
 }
 

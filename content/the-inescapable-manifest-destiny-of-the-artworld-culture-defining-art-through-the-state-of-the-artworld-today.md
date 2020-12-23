@@ -4,7 +4,7 @@ title: >-
   the state of the Artworld today
 subtitle: Essay by Ali Akbar Mehta (unpublished)
 layout: layouts/content.njk
-tag: text
+tags: text
 pubdate: '2016'
 summary: >-
   In the theoretical once upon a time, and probably the actual one, everyone (or

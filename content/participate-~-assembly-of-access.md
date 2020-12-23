@@ -2,7 +2,7 @@
 title: participate ~ Assembly of Access
 subtitle: 'TIFA Working Studios, 2018'
 layout: layouts/content.njk
-tag: group exhibition
+tags: group exhibition
 pubdate: '2018'
 parent: To Participate in the Archive
 children: []

@@ -1,7 +1,7 @@
 ---
 title: wre ~ Narrating War
 layout: layouts/content.njk
-tag: text
+tags: text
 pubdate: "2016"
 summary: >-
   

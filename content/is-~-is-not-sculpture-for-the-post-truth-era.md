@@ -2,7 +2,7 @@
 title: 'IS ~ IS/NOT: Sculpture for the Post-Truth Era'
 subtitle: 'Aalto University Learning Centre, Helsinki'
 layout: layouts/content.njk
-tag: group exhibition
+tags: group exhibition
 pubdate: '2017'
 parent: Is the representation of violence also violent?
 children: []

@@ -1,10 +1,10 @@
 {% set displaysub = ['solo exhibition','group exhibition','talk','text','performance','unpublished','publication'] %}
-<li class="project-year-genre" data-year="{{ content.data.pubdate }}" data-genre="{{ content.data.tag | replace(' ','-') }}">
+<li class="project-year-genre" data-year="{{ content.data.pubdate }}" data-genre="{{ content.data.tags | replace(' ','-') }}">
 {% if content.data.parent %}
   {% if content.data.parent != 'Poems' %}
     <a href="/content/{{ content.data.parent | trim | slugify }}#{{ content.data.title.split('~').slice(-1)[0] | trim | slugify }}" >
       {{ content.data.title.split('~').slice(-1)[0] | trim }}
-      {% if content.data.tag in displaysub %}
+      {% if content.data.tags in displaysub %}
         {% if content.data.subtitle and content.data.subtitle != '' %}<br/><span class="list-subtitle">{{ content.data.subtitle }}</span>{% endif %}
       {% endif %}
     </a>
@@ -12,7 +12,7 @@
 {% else %}
   <a href="/content/{{ content.data.title.split('~').slice(-1)[0] | trim | slugify }}">
     {{ content.data.title.split('~').slice(-1)[0] | trim }}
-    {% if content.data.tag in displaysub %}
+    {% if content.data.tags in displaysub %}
       {% if content.data.subtitle and content.data.subtitle != '' %}<br/><span class="list-subtitle">{{ content.data.subtitle }}</span>{% endif %}
     {% endif %}
   </a>

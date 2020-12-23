@@ -4,7 +4,7 @@ subtitle: >-
   RAB-RAB Journal for Political and Formal Inquiries in Art, (ed.) Sezgin
   Boynik, 2017
 layout: layouts/content.njk
-tag: publication
+tags: publication
 pubdate: '2017'
 ---
 ![](/static/img/ali-akbar-mehta_the-photons-of-politics_1.-cover-page_2017.jpg)

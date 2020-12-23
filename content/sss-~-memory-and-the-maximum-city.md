@@ -1,7 +1,7 @@
 ---
 title: sss ~ Memory and the Maximum City
 layout: layouts/content.njk
-tag: talk
+tags: artist talk
 pubdate: '2015'
 parent: 'SITE : STAGE : STRUCTURE'
 children: []

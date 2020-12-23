@@ -2,7 +2,7 @@
 title: "256 ~ Towards a New Internet: In conversation with Palash Mukhopadhyay"
 subtitle: Myymälä2, Helsinki
 layout: content
-tag: talk
+tags: talk
 pubdate: "2020"
 hero: assets/img/ali-akbar-mehta_online-program-05_myymala2_2020.jpg
 parent: 256 Million Colours of Violence

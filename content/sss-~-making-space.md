@@ -2,7 +2,7 @@
 title: sss~ Making Space
 subtitle: curated by Saloni Doshi, Sakshi Art Gallery, Mumbai
 layout: layouts/content.njk
-tag: group exhibition
+tags: group exhibition
 pubdate: "2019"
 hero: /static/img/ali-akbar-mehta-invite-making-space-2020.jpg
 parent: "SITE : STAGE : STRUCTURE"

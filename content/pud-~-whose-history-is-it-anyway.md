@@ -2,7 +2,7 @@
 title: Pud ~ Whose History is it Anyway?*
 subtitle: 'Aalto University, 2016'
 layout: layouts/content.njk
-tag: group exhibition
+tags: group exhibition
 pubdate: '2016'
 parent: Pudding Manifesto for Togetherness
 ---

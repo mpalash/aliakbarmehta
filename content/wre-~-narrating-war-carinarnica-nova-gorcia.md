@@ -1,7 +1,7 @@
 ---
 title: 'wre ~ Narrating War, Carinarnica, Nova Gorcia'
 layout: layouts/content.njk
-tag: performance
+tags: performance
 pubdate: '2018'
 parent: 'WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs'
 ---

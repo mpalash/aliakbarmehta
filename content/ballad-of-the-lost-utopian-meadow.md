@@ -1,7 +1,7 @@
 ---
 title: Ballad of the Lost Utopian Meadow
 layout: layouts/content.njk
-tag: ongoing project
+tags: ongoing project
 pubdate: "2020"
 hero: /static/img/blum_ig.png
 children:

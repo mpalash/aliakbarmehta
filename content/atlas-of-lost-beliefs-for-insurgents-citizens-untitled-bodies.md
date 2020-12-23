@@ -2,7 +2,7 @@
 title: Atlas of Lost Beliefs (for Insurgents, Citizens, & Untitled Bodies)
 subtitle: Curatorial text by Ali Akbar Mehta, Museum of Impossible Forms, Helsinki
 layout: layouts/content.njk
-tag: publication
+tags: publication
 pubdate: "2019"
 parent: Museum of Impossible Forms
 summary: >-

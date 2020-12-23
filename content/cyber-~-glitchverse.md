@@ -2,7 +2,7 @@
 title: cyber ~ Glitchverse
 subtitle: Souja/Shelter Festival 2020, (online)
 layout: layouts/content.njk
-tag: performance
+tags: performance
 pubdate: "2020"
 hero: /static/img/ali-akbar-mehta_glitchverse.jpg
 summary: >-

@@ -1,13 +1,6 @@
 // FONTS IMPORT
-@import url('https://fonts.googleapis.com/css?family=Karla:400,400i,700,700i|Spectral:400,400i,600,600i|IBM+Plex+Mono:700');
-
-@font-face {
-    font-family: 'Ryman Eco Regular';
-    src: url('/static/webfonts/rymaneco-regular-webfont.woff2') format('woff2'),
-         url('/static/webfonts/rymaneco-regular-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
+@import url('https://fonts.googleapis.com/css2?family=Paytone+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
 
 html,
 body {
@@ -26,9 +19,10 @@ body {
   }
 }
 body {
+  padding: var(--body-padding);
   font-size: 16px;
-  font-family: $font-sans;
-  line-height: $line-height-base;
+  font-family: var(--font);
+  line-height: var(--line-height-base);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: $color-white;

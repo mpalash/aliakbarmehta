@@ -2,7 +2,7 @@
 title: Kru ~ Perfect Ghosts
 subtitle: 'A brief historical record of the Kruunuvuori Villas, by Ali Akbar Mehta'
 layout: layouts/content.njk
-tag: text
+tags: text
 pubdate: '2015'
 summary: >-
   In in the midst of an old forest, next to a pond that could be anywhere in

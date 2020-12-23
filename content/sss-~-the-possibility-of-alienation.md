@@ -4,7 +4,7 @@ subtitle: >-
   Exhibition Essay by Sumesh Sharma – co-curator, Clark House Initiative,
   Mumbai  
 layout: layouts/content.njk
-tag: text
+tags: text
 pubdate: '2014'
 summary: >-
   The possibility of alienation in a city that claims cosmopolitanism as a

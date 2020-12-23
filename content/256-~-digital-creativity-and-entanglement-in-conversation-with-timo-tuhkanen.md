@@ -2,7 +2,7 @@
 title: "256 ~ Digital Creativity and Entanglement: In conversation with Timo Tuhkanen"
 subtitle: Myymälä2, Helsinki
 layout: layouts/content.njk
-tag: talk
+tags: artist talk
 pubdate: "2020"
 hero: /static/img/ali-akbar-mehta_online-program-02_myymala2_2020.jpg
 parent: 256 Million Colours of Violence

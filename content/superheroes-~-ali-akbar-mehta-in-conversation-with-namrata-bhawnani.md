@@ -1,7 +1,7 @@
 ---
 title: Superheroes ~ Ali Akbar Mehta in conversation with Namrata Bhawnani
 layout: layouts/content.njk
-tag: press
+tags: press
 pubdate: '2013'
 summary: >-
   **Ali Akbar Mehta’s apartment in Madh Island doubles up as a studio for the

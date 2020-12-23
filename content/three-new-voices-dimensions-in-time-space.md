@@ -2,7 +2,7 @@
 title: "Three New Voices: Dimensions in Time & Space"
 subtitle: Art Heritage, New Delhi
 layout: layouts/content.njk
-tag: group exhibition
+tags: group exhibition
 pubdate: "2010"
 children: []
 ---

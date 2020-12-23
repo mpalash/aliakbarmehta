@@ -1,7 +1,7 @@
 ---
 title: pud ~ The Manifesto for Togetherness
 layout: layouts/content.njk
-tag: artwork
+tags: artwork
 pubdate: '2016'
 parent: Pudding Manifesto for Togetherness
 children: []

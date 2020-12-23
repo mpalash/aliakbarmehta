@@ -1,7 +1,7 @@
 ---
 title: 'participate ~ Cyborg Archives: WAR • ROOM • ECHO, TIFA Working Studios, Pune'
 layout: layouts/content.njk
-tag: artwork
+tags: artwork
 pubdate: '2018'
 parent: To Participate in the Archive
 children: []

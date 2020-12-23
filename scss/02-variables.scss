@@ -39,36 +39,46 @@ $color-publication:  #00FF99;
 $color-press:        #AE69FF;
 $color-resource:     #E871A0;
 
-// TYPOGRAPHY
-$font-serif: 'Spectral','Merriweather', serif;
-$font-sans: 'Karla','Merriweather Sans', sans-serif;
-$font-identity: 'IBM Plex Mono', monospace;
-$font-large: 'Ryman Eco Regular', serif;
-$title-font-family: $font-large;
-$text-font-family: $font-sans;
-$font-size-small: 0.8rem;
-$font-size-large: 1.25rem;
-$line-height-base: 1.5;
+:root {
+  // SPACING
+  // Use these variables for padding & margin
+  --s-xxxl: 128px;
+  --s-xxl:  64px;
+  --s-xl:   48px;
+  --s-l:    32px;
+  --s-m:    24px;
+  --s-b:    16px;
+  --s-s:    12px;
+  --s-xs:   8px;
+  --s-xxs:  4px;
 
-// SIZES
-// Use these to specify fixed size elements
-$container-max-width: 1024px;
-$responsive-medium:   1024px;
-$responsive-small:    640px;
-$max-text-width:      720px;
-$thumbnail-height:    360px;
+  @media only screen and (max-width: 1024px) {
+    --s-xxxl: 72px;
+    --s-xxl:  56px;
+    --s-xl:   48px;
+    --s-l:    36px;
+    --s-m:    24px;
+    --s-b:    16px;
+    --s-s:    12px;
+    --s-xs:   8px;
+    --s-xxs:  4px;
+  }
 
-// SPACING
-// Use these variables for padding & margin
-$s-xxxl:128px;
-$s-xxl: 64px;
-$s-xl:  48px;
-$s-l:   32px;
-$s-m:   24px;
-$s-b:   16px;
-$s-s:   8px;
-$s-xs:  4px;
-$s-xxs: 2px;
+  // TYPOGRAPHY
+  --font: 'Inter', sans-serif;
+  --font-identity: 'Paytone One', sans-serif;
+
+  --font-size-small: 0.8rem;
+  --font-size-large: 1.25rem;
+  --line-height-base: 1.5;
+
+  // SIZES
+  // Use these to specify fixed size elements
+  --container-max-width: 1024px;
+  --max-text-width:      720px;
+  --body-padding:        64px 24px;
+  --gutter:              24px;
+}
 
 // MIXINS
 @mixin small-caps {
@@ -76,8 +86,8 @@ $s-xxs: 2px;
   letter-spacing: 0.05em;
 }
 @mixin meta {
-  font-family: $font-sans;
-  font-size: $font-size-small;
+  font-family: var(--font);
+  font-size: var(--font-size-small);
   text-transform: uppercase;
   letter-spacing: 0.05em;
   * {
@@ -86,6 +96,6 @@ $s-xxs: 2px;
 }
 @mixin txt {
   h1, h2, h3, p, ul, ol {
-    max-width: $max-text-width;
+    max-width: var(--max-text-width);
   }
 }

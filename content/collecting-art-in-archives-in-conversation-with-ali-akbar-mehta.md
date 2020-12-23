@@ -2,7 +2,7 @@
 title: "Collecting Art in Archives: In Conversation with Ali Akbar Mehta "
 subtitle: Interview by Radhika Sharma, Art Fervour (online)
 layout: layouts/content.njk
-tag: press
+tags: press
 pubdate: "2020"
 hero: /static/img/31189450607_7cb672417b_o.jpg
 ---

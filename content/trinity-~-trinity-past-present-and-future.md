@@ -2,7 +2,7 @@
 title: 'TRINITY ~ TRINITY: Past, Present, and Future'
 subtitle: Artist Statement by Ali Akbar Mehta and Vidha Saumya
 layout: layouts/content.njk
-tag: text
+tags: text
 pubdate: '2015'
 parent: 'TRINITY: Godrej Legacy Park Silos'
 ---

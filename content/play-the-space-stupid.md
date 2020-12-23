@@ -2,7 +2,7 @@
 title: 'Play the Space, Stupid!'
 subtitle: Performance in Collaboration with Gabriela Gazova, Parsa Khamehkosh, Ragnar Rael, and Saša Nemec
 layout: layouts/content.njk
-tag: performance
+tags: performance
 pubdate: '2016'
 children: 'play ~ Immersion 2016'
 ---

@@ -2,7 +2,7 @@
 layout: layouts/content.njk
 title: LM ~ Prelude to Luminous Matter (Animated)
 parent: Luminous Matter
-tag: artwork
+tags: artwork
 pubdate: '2011'
 ---
 <iframe width="560" height="315"

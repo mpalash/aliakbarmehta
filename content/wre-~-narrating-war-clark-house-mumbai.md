@@ -1,7 +1,7 @@
 ---
 title: 'wre ~ Narrating War, Clark House, Mumbai'
 layout: layouts/content.njk
-tag: performance
+tags: performance
 pubdate: '2017'
 parent: 'WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs'
 ---

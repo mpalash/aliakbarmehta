@@ -1,7 +1,7 @@
 ---
 title: LM ~ Dystopia and Urban Imagination
 layout: layouts/content.njk
-tag: resource
+tags: resource
 pubdate: '2011'
 summary: |-
   ![Dystopia and Urban Imagination, Poster, 2013](/static/img/invite-dystopia_poster.jpg)

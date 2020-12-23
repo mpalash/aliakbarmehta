@@ -4,7 +4,7 @@ subtitle: "in 'Marginaaleista museoihin'. (From Margins to Museums), (eds.)
   Rastas, Anna & Koivunen, Leila, (trans.) Nurmenniemi, Jenni, Tampere:
   Vastapaino, FI"
 layout: layouts/content.njk
-tag: publication
+tags: publication
 pubdate: "2021"
 hero: /static/img/museum-of-impossible-forms_lecture-and-performance-by-mohsen-namjoo-as-part-of-an-entry-to-iranian-music-curated-by-aman-askarizad_photo-by-ali-akbar-mehta_2020.jpg
 summary: >-

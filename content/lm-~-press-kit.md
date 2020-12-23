@@ -1,7 +1,7 @@
 ---
 title: LM ~ Luminous Matter Press Kit
 layout: layouts/content.njk
-tag: press
+tags: press
 pubdate: '2011'
 parent: Luminous Matter
 ---

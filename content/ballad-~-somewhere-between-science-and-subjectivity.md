@@ -3,7 +3,7 @@ layout: layouts/content.njk
 title: Ballad ~ Somewhere between Science and Subjectivity
 subtitle: Interview by Rahul D'Souza
 parent: 'Ballad of the War that Never Was, and Other Basterdised Myths'
-tag: text
+tags: text
 pubdate: '2011'
 summary: >-
   Meera Nanda's concept of a hyper-spiritual and hyper-religious India, as a direct consequence of a global interest in Indic spiritualism and religion, is an interesting medium through which we can evaluate the identity of an Indian artist. With the world's eyes on India as a culture, how can Indians portray themselves to be genuine? And consequently, how Indian are artists, writers, dancers, actors etc?             

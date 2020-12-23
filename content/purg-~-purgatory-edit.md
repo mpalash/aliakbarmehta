@@ -1,7 +1,7 @@
 ---
 title: purg ~ Purgatory edit
 layout: layouts/content.njk
-tag: artwork
+tags: artwork
 pubdate: "2017"
 parent: " Purgatory Edit"
 ---

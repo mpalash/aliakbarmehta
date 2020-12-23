@@ -1,7 +1,7 @@
 ---
 title: Ballad ~ The Harlequin Series
 layout: layouts/content.njk
-tag: artwork
+tags: artwork
 pubdate: '2011'
 parent: 'Ballad of the War that Never Was, and Other Basterdised Myths'
 ---

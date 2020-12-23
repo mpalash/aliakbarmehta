@@ -1,7 +1,7 @@
 ---
 title: The Superhero Series
 layout: layouts/content.njk
-tag: past project
+tags: past project
 pubdate: "2012"
 children:
   - Superheroes ~ Of Men and Supermen

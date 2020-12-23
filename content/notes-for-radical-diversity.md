@@ -2,7 +2,7 @@
 title: Notes for Radical Diversity
 subtitle: Helsinki Art Museum (HAM), Helsinki
 layout: layouts/content.njk
-tag: talk
+tags: artist talk
 pubdate: "2019"
 summary: >-
   In November 2019, I was invited to talk about diversity within the art

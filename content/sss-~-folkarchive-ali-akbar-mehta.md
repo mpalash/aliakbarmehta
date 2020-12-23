@@ -4,7 +4,7 @@ subtitle: >-
   in Conversation with Sumesh Sharma, moderated by Latika Gupta, Dr. Bhau Daji
   Lad Museum
 layout: layouts/content.njk
-tag: talk
+tags: artist talk
 pubdate: '2014'
 hero: /static/img/bdl-conversation-facebook-cover.jpg
 parent: 'SITE : STAGE : STRUCTURE'

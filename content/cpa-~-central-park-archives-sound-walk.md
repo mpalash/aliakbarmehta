@@ -2,7 +2,7 @@
 title: CPA ~  Central Park Archives sound walk
 subtitle: launch of the prototype interface
 layout: layouts/content.njk
-tag: group exhibition
+tags: group exhibition
 pubdate: "2020"
 hero: /static/img/screenshot-of-the-interface_mobile.jpg
 summary: >-

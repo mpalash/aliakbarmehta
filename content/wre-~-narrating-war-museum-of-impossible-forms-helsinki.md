@@ -2,7 +2,7 @@
 title: 'wre ~ Narrating War, Museum of Impossible Forms, Helsinki'
 subtitle: curated by Vishnu Vardhani as part of Performance LAB VII
 layout: layouts/content.njk
-tag: performance
+tags: performance
 pubdate: '2018'
 parent: 'WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs'
 ---

@@ -2,7 +2,7 @@
 title: Ballad ~  In A Liminal Age
 subtitle: Interview by Rahul D'Souza
 layout: layouts/content.njk
-tag: text
+tags: text
 pubdate: "2011"
 summary: >-
   Ali Akbar Mehta talks candidly with Rahul D'Souza about his first solo

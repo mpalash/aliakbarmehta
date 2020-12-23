@@ -2,7 +2,7 @@
 title: 'Decolonial Dreaming, Urbanapa 2017'
 subtitle: 'curated by Sonya Lindfors, Ateneum Museum, Helsinki, 2017'
 layout: layouts/content.njk
-tag: talk
+tags: artist talk
 pubdate: '2017'
 hero: /static/img/fb_img_1539579471797.jpg
 ---

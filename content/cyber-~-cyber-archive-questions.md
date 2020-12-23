@@ -1,7 +1,7 @@
 ---
 title: 'Cyber ~ Cyber Archive: Questions'
 layout: layouts/content.njk
-tag: text
+tags: text
 pubdate: '2018'
 summary: '![](/static/img/screenshot-2019-03-10-at-12.32.52.jpg)'
 parent: Cyber Archive

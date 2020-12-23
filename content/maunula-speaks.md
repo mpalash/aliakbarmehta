@@ -1,7 +1,7 @@
 ---
 title: Maunula Speaks
 layout: layouts/content.njk
-tag: artwork
+tags: artwork
 pubdate: '2017'
 children:
   - Maunuala ~ Partizaning Maunula

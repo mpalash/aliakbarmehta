@@ -2,7 +2,7 @@
 title: Superheroes ~ Equilibrium
 subtitle: TAO Art Gallery, Mumbai
 layout: layouts/content.njk
-tag: group exhibition
+tags: group exhibition
 pubdate: "2013"
 summary: >-
   **The League of Superheroes** was exhibited at

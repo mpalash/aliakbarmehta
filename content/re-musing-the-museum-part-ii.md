@@ -2,7 +2,7 @@
 title: 'Re-Musing the Museum: Part II'
 subtitle: Kiasma Museum of Contemporary Art, 2018
 layout: layouts/content.njk
-tag: talk
+tags: artist talk
 pubdate: '2018'
 parent: Museum of Impossible Forms
 summary: >-

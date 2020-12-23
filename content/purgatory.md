@@ -2,7 +2,7 @@
 title: Purgatory
 subtitle: null
 layout: layouts/content.njk
-tag: artwork
+tags: artwork
 pubdate: "2010"
 children: []
 ---

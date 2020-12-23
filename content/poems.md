@@ -1,7 +1,7 @@
 ---
 title: Poems
 layout: layouts/content.njk
-tag: publication
+tags: publication
 pubdate: '2011'
 children:
   - poems ~ A body split in two

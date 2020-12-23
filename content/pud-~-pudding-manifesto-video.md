@@ -1,7 +1,7 @@
 ---
 title: 'Pud ~ Pudding Manifesto, Video'
 layout: layouts/content.njk
-tag: artwork
+tags: artwork
 pubdate: '2016'
 parent: Pudding Manifesto for Togetherness
 ---

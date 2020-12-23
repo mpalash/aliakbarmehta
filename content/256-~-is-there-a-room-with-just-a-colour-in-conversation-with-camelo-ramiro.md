@@ -2,7 +2,7 @@
 title: 256 ~ Is there a room with just a colour? In conversation with Camelo Ramiro
 subtitle: Myymälä2, Helsinki
 layout: layouts/content.njk
-tag: talk
+tags: artist talk
 pubdate: "2020"
 parent: 256 Million Colours of Violence
 ---

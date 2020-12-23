@@ -2,7 +2,7 @@
 layout: layouts/content.njk
 title: 'sss ~ Artist Book 2: Daarukhana'
 parent: 'SITE : STAGE : STRUCTURE'
-tag: artwork
+tags: artwork
 pubdate: '2014'
 ---
 ![Artist Book #2: Daarukhana, SITE : STAGE : STRUCTURE, 2014](/static/img/slide15.jpg)

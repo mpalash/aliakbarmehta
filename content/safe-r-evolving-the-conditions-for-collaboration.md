@@ -2,7 +2,7 @@
 title: "SAFE{R}: Evolving the Conditions for Collaboration"
 subtitle: in 'Six years in the Third Space', Third Space, Helsinki (published online)
 layout: layouts/content.njk
-tag: publication
+tags: publication
 pubdate: "2020"
 hero: /static/img/six-years-in-the-third-space_-2020-program.png
 summary: >-

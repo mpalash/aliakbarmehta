@@ -1,7 +1,7 @@
 ---
 title: 256 ~ Limitations of Liability
 layout: content
-tag: solo exhibition
+tags: solo exhibition
 pubdate: '2017'
 summary: >-
   ![](/assets/img/limitations-of-liability-banner-for-facebook.jpg)

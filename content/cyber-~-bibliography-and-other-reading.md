@@ -2,7 +2,7 @@
 title: Cyber ~ Bibliography and other Reading
 subtitle: 'Reading For Cyber Archive: Being and Doing Knowledge'
 layout: layouts/content.njk
-tag: resource
+tags: resource
 pubdate: '2018'
 parent: Cyber Archive
 children: []

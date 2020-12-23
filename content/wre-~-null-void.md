@@ -2,7 +2,7 @@
 title: wre ~ null.void
 subtitle: Soundscapes for WAR • ROOM • ECHO –  Regarding the Pain of Other Cyborgs
 layout: layouts/content.njk
-tag: artwork
+tags: artwork
 pubdate: '2015'
 parent: 'WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs'
 children: []

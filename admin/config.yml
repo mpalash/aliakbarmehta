@@ -46,10 +46,10 @@ collections: # A list of collections the CMS should be able to edit
         name: "layout"
         widget: "hidden"
         default: content
-      - label: "Tag"
-        name: "tag"
+      - label: "Tags"
+        name: "tags"
         widget: "select"
-        options: ["ongoing project","past project","curatorial","artwork","group exhibition","solo exhibition","performance","press","publication","unpublished","residency","resource","talk","text","video"]
+        options: ["ongoing project","past project","curatorial project","artwork","group exhibition","solo exhibition","performance","press","publication","unpublished","residency","resource","artist talk","teaching","text","video"]
       - label: "Date"
         name: "pubdate"
         widget: "date"

@@ -2,7 +2,7 @@
 title: A Tapestry of Time
 subtitle: TAO Art Gallery, Mumbai
 layout: layouts/content.njk
-tag: group exhibition
+tags: group exhibition
 pubdate: "2020"
 ---
 ![Planktonian People II, 2013, ink on paper, 16.5(h) x 23.25(w) inches](/static/img/ali-akbar-mehta-planktonian-people-i-2013-ink-on-paper-16.5-h-x-23.25-w-inches.jpg)

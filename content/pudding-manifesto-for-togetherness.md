@@ -1,7 +1,7 @@
 ---
 title: Pudding Manifesto for Togetherness
 layout: layouts/content.njk
-tag: past project
+tags: past project
 pubdate: '2016'
 children:
   - Pud ~ Proposal for Pudding Manifesto

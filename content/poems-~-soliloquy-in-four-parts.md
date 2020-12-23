@@ -2,7 +2,7 @@
 layout: layouts/content.njk
 title: poems ~ Soliloquy in Four Parts
 parent: Poems
-tag: text
+tags: text
 pubdate: '2010'
 summary: ''
 ---

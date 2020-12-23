@@ -1,7 +1,7 @@
 ---
 title: "WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs"
 layout: layouts/content.njk
-tag: ongoing project
+tags: ongoing project
 pubdate: "2019"
 hero: ""
 children:

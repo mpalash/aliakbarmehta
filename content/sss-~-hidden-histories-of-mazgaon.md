@@ -2,7 +2,7 @@
 layout: layouts/content.njk
 title: sss ~ Hidden Histories of Mazgoan
 parent: 'SITE : STAGE : STRUCTURE'
-tag: resource
+tags: resource
 pubdate: '2014'
 summary: >-
 

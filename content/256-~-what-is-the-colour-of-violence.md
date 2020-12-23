@@ -2,7 +2,7 @@
 title: 256 ~ What is the colour of violence?
 subtitle: 'Hindustan Times, 2017'
 layout: layouts/content.njk
-tag: press
+tags: press
 pubdate: '2017'
 parent: '256 Million Colours of violence'
 ---

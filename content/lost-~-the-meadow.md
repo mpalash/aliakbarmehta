@@ -2,7 +2,7 @@
 title: Lost ~ The Meadow
 subtitle: Onoma Summer Exhibition 2020, curated by Taru Elfving, Fiskars Village
 layout: layouts/content.njk
-tag: group exhibition
+tags: group exhibition
 pubdate: "2020"
 summary: >-
   ![](/static/img/meadow-image.jpg)

@@ -4,7 +4,7 @@ title: >-
   Archive: Being and Doing Knowledge
 subtitle: by Ranjit Hoskote
 layout: layouts/content.njk
-tag: resource
+tags: resource
 pubdate: '2018'
 summary: >-
   I find myself excited by Ali Akbar Mehta’s engagement with a world of rapidly,

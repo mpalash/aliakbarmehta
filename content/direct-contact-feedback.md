@@ -2,7 +2,7 @@
 title: direct contact // feedback
 subtitle: "w/ Vidha Saumya, Pixelache Festival 2019: Breaking the Fourth wall, Helsinki"
 layout: layouts/content.njk
-tag: performance
+tags: performance
 pubdate: "2019"
 children:
   - In Conversation with Ali Akbar Mehta

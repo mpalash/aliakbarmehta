@@ -1,7 +1,7 @@
 ---
 title: 'wre ~ Narrating War, Pispala, Tampere'
 layout: layouts/content.njk
-tag: performance
+tags: performance
 pubdate: '2016'
 summary: |-
   <iframe width="560" height="315"

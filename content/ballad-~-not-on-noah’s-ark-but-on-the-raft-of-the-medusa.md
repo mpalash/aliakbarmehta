@@ -2,7 +2,7 @@
 title: 'Ballad ~ Not on Noah’s Ark, but on the Raft of the Medusa'
 subtitle: 'Essay by Ranjit Hoskote, Mumbai, 2011'
 layout: layouts/content.njk
-tag: text
+tags: text
 pubdate: '2011'
 summary: >-
   ![Harlequin Series: Icarus finds his wings again, 2010, Archival print on Hahnemuhle paper, 182 x 121 cm](/static/img/Ali Akbar Mehta_Harlequin Series; Icarus finds his wings

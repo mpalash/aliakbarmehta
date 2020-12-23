@@ -2,7 +2,7 @@
 title: 'TRINITY ~ TRINITY: Godrej Legacy Park silos'
 subtitle: 'Godrej ONE, Vikhroli, Mumbai'
 layout: layouts/content.njk
-tag: solo exhibition
+tags: solo exhibition
 pubdate: '2015'
 parent: 'TRINITY: Godrej Legacy Park Silos'
 ---

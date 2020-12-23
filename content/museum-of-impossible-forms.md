@@ -2,7 +2,7 @@
 title: Museum of Impossible Forms
 subtitle: Cultural Centre, Kontula, Helsinki
 layout: layouts/content.njk
-tag: ongoing project
+tags: ongoing project
 pubdate: "2016"
 hero: /static/img/m-if-poster.jpg
 summary: I’m one of the co-founders and current co-Artistic Director (2018-2020)

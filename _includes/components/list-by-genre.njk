@@ -1,10 +1,10 @@
-{% set projects = ['ongoing project','past project','individual work'] %}
-{% set sortedtags1 = ['performance','talk'] %}
-{% set exhibitions = ['solo exhibition','group exhibition'] %}
-{% set residencies = ['residency'] %}
-{% set text = ['text','unpublished'] %}
-{% set publications = ['publication'] %}
-{% set press = ['press'] %}
+{% set projects = ['ongoing project','past project','artwork','video'] %}
+{% set curatorial = ['curatorial'] %}
+{% set exhibitions = ['solo exhibition','group exhibition','residency'] %}
+{% set talks = ['talk'] %}
+{% set performances = ['performance'] %}
+{% set texts = ['publication','unpublished'] %}
+{% set about = ['press','resource','text'] %}
 
 {% set sortedcontent = collections.content %}
 <div class="by-genre">
@@ -13,7 +13,7 @@
     <ul>
       {% for tag in projects %}
       {% for content in sortedcontent %}
-        {% if tag == content.data.tag %}
+        {% if tag == content.data.tags %}
           {% include "components/home-project-title.njk" %}
         {% endif %}
       {% endfor %}
@@ -25,7 +25,7 @@
     <span class="timeline-meta" id="{{ tag }}s">{{ tag }}s</span>
     <ul>
       {% for content in sortedcontent %}
-        {% if tag == content.data.tag %}
+        {% if tag == content.data.tags %}
           {% include "components/home-project-title.njk" %}
         {% endif %}
       {% endfor %}
@@ -37,7 +37,7 @@
     <ul>
       {% for tag in exhibitions %}
       {% for content in sortedcontent %}
-        {% if tag == content.data.tag %}
+        {% if tag == content.data.tags %}
           {% include "components/home-project-title.njk" %}
         {% endif %}
       {% endfor %}
@@ -49,7 +49,7 @@
     <ul>
       {% for tag in residencies %}
       {% for content in sortedcontent %}
-        {% if tag == content.data.tag %}
+        {% if tag == content.data.tags %}
           {% include "components/home-project-title.njk" %}
         {% endif %}
       {% endfor %}
@@ -61,7 +61,7 @@
     <ul>
       {% for tag in text %}
       {% for content in sortedcontent %}
-        {% if tag == content.data.tag %}
+        {% if tag == content.data.tags %}
           {% include "components/home-project-title.njk" %}
         {% endif %}
       {% endfor %}
@@ -73,7 +73,7 @@
     <ul>
       {% for tag in publications %}
       {% for content in sortedcontent %}
-        {% if tag == content.data.tag %}
+        {% if tag == content.data.tags %}
           {% include "components/home-project-title.njk" %}
         {% endif %}
       {% endfor %}
@@ -85,7 +85,7 @@
     <ul>
       {% for tag in press %}
       {% for content in sortedcontent %}
-        {% if tag == content.data.tag %}
+        {% if tag == content.data.tags %}
           {% include "components/home-project-title.njk" %}
         {% endif %}
       {% endfor %}

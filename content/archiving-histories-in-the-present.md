@@ -4,7 +4,7 @@ subtitle: >-
   Guest Lecture, Visual Cultures, Curating and Contemporary Art (ViCCA), Aalto
   University, Helsinki
 layout: layouts/content.njk
-tag: talk
+tags: artist talk
 pubdate: '2018'
 hero: /static/img/histories-in-the-present.jpg
 children: []

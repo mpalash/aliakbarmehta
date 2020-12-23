@@ -2,7 +2,7 @@
 title: '256 ~ Limitations of Liability, Harkat Studios'
 subtitle: Exhibition and Film Screenings
 layout: content
-tag: artwork
+tags: artwork
 pubdate: '2017'
 parent: 256 Million Colours of Violence
 ---

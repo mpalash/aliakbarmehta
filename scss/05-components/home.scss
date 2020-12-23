@@ -15,7 +15,7 @@
     font-size: 2.5rem;
   }
   .site-intro {
-    padding-top: $s-l;
+    padding-top: var(--s-l);
     // max-height: 560px;
     // overflow: scroll;
     a {
@@ -23,23 +23,23 @@
     }
   }
   .site-genres {
-    margin-top: $s-xl;
+    margin-top: var(--s-xl);
     .tag {
-      margin: 0 $s-b $s-b 0;
+      margin: 0 var(--s-b) var(--s-b) 0;
     }
   }
   .site-dates {
-    margin-top: $s-m;
+    margin-top: var(--s-m);
   }
   .header-content {
     justify-content: flex-end;
   }
   .listing {
-    max-width: $max-text-width*1.25;
+    max-width: calc(var(--max-text-width)*1.25);
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    margin: $s-l 0;
+    margin: var(--s-l) 0;
     .tag {
       white-space: nowrap;
       cursor: pointer;
@@ -54,21 +54,21 @@
     }
     ul {
       position: absolute;
-      top: $s-b;
+      top: var(--s-b);
       left: 0;
       list-style: none;
       padding: 0;
-      margin: $s-b 0;
+      margin: var(--s-b) 0;
       background-color: $color-warm-dark;
       // border: 1px solid $color-warm;
-      border-radius: $s-xs;
-      width: $s-xxxl * 5;
+      border-radius: var(--s-xs);
+      width: calc(var(--s-xxxl)*5);
       visibility: hidden;
       opacity: 0;
       transition: opacity 0.1s ease-in, width 0.3s ease-in;
 
       li {
-        margin: $s-xs 0;
+        margin: var(--s-xs) 0;
         font-size: 0.9rem;
       }
     }

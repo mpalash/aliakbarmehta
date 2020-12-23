@@ -3,7 +3,7 @@ layout: layouts/content.njk
 title: 'wre ~ Narrating War, Kallio Public Library, Helsinki'
 subtitle: part of Chimurenga Collective's 'The Pan African Space Station', curated by Ahmed Al-Nawas
 parent: 'WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs'
-tag: performance
+tags: performance
 pubdate: '2016'
 
 ---

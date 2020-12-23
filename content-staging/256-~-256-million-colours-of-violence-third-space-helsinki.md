@@ -2,7 +2,7 @@
 title: 256 ~ 256 Million Colours of Violence
 subtitle: 'Third Space, Helsinki'
 layout: content
-tag: solo exhibition
+tags: solo exhibition
 pubdate: '2016'
 parent: 256 Million Colours of Violence
 ---

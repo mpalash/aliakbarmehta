@@ -2,7 +2,7 @@
 title: CPA ~ Central Park Archives - workshops
 subtitle: organised as part of residency w/ M-Cult at﻿ Maunula House, Helsinki
 layout: layouts/content.njk
-tag: talk
+tags: artist talk
 pubdate: "2020"
 summary: >-
   ![](/static/img/central-park-archives-workshops-maunulatalo-helsinki_2020.jpg)

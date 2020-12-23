@@ -3,8 +3,8 @@ header {
   top: 0;
   left: 0;
   right: 0;
-  padding-top: $gutter;
-  padding-bottom: $gutter;
+  padding-top: var(--s-m);
+  padding-bottom: var(--s-m);
   pointer-events: none;
 
   a {
@@ -12,7 +12,6 @@ header {
   }
 
   .header-content {
-    @extend .r;
     align-items: center;
     pointer-events: none;
   }
@@ -20,7 +19,7 @@ header {
     pointer-events: auto;
     > div {
       position: absolute;
-      top: -$gutter;
+      top: 0;
       left: 0;
       white-space: nowrap;
       transform: rotate(-90deg);
@@ -28,24 +27,22 @@ header {
         position: absolute;
         top: 0;
         right: 0;
-        padding: $gutter $gutter*2;
+        padding: var(--s-m) var(--s-l);
         background-color: $color-warm-dark;
         color: $color-white;
         @include meta;
-        font-family: $font-identity;
+        font-family: var(--font-identity);
       }
     }
   }
   .menu-links {
-    @extend .c;
-    @extend .c-10;
     margin: 0;
     list-style: none;
     text-align: right;
     li {
       display: inline-block;
       &:not(:last-child) {
-        margin-right: $s-m;
+        margin-right: var(--s-m);
       }
     }
     a {
@@ -59,9 +56,9 @@ header {
     text-decoration: none;
     span {
       @include small-caps;
-      font-family: $font-sans;
+      font-family: var(--font);
       font-weight: 700;
-      margin-left: $s-s;
+      margin-left: var(--s-s);
     }
   }
   .top:before { content: fa-content($fa-var-arrow-to-top); }
