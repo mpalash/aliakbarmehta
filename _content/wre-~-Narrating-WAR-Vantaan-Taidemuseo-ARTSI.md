@@ -5,6 +5,7 @@ subtitle: Performance by Ali Akbar Mehta and varialambo, part of Reciprocities
 layout: content
 tag: performance
 pubdate: "2021"
+hero: assets/img/screenshot-2020-12-18-at-0.03.21.png
 summary: >-
   ![](assets/img/screenshot-2020-12-18-at-0.03.21.png)
 
