@@ -1,45 +1,45 @@
-// COLORS
-$color-red-light:    #F37677;
-$color-red:          #E8595A;
-$color-red-dark:     #88191A;
-
-$color-pink-light:   #FFC5DC;
-$color-pink:         #E871A0;
-$color-pink-dark:    #74344E;
-
-$color-blue-light:   #C6DCF1;
-$color-blue:         #4F92D3;
-$color-blue-dark:    #1F354B;
-$color-blue-default: #0000EE;
-
-// GREYS
-$color-black:        #000000;
-$color-grey-darkest: #2D2D2D;
-$color-grey-dark:    #4B4B4B;
-$color-grey:         #919191;
-$color-grey-light:   #d7d7d7;
-$color-white:        #FFFFFF;
-
-$color-warm-light:   #F2F0EC;
-$color-warm:         #A09F92;
-$color-warm-dark:    #5A5652;
-$color-warm-darker:  #4c4945;
-
-$color-ink:          $color-grey-darkest;
-$color-link:         #ffff00;
-$color-hover:        #ffff00;
-
-$color-project:      #00FFFF;
-$color-performance:  #FF0099;
-$color-talk:         #FF45E5;
-$color-exhibition:   #FDB913;
-$color-residency:    #66C6FF;
-$color-text:         #CCFF00;
-$color-publication:  #00FF99;
-$color-press:        #AE69FF;
-$color-resource:     #E871A0;
-
 :root {
+  // COLORS
+  --color-red-light:    #F37677;
+  --color-red:          #E8595A;
+  --color-red-dark:     #88191A;
+
+  --color-pink-light:   #FFC5DC;
+  --color-pink:         #E871A0;
+  --color-pink-dark:    #74344E;
+
+  --color-blue-light:   #C6DCF1;
+  --color-blue:         #4F92D3;
+  --color-blue-dark:    #1F354B;
+  --color-blue-default: #0000EE;
+
+  // GREYS
+  --color-black:        #000000;
+  --color-grey-darkest: #2D2D2D;
+  --color-grey-dark:    #4B4B4B;
+  --color-grey:         #919191;
+  --color-grey-light:   #d7d7d7;
+  --color-white:        #FFFFFF;
+
+  --color-warm-light:   #F2F0EC;
+  --color-warm:         #A09F92;
+  --color-warm-dark:    #5A5652;
+  --color-warm-darker:  #4c4945;
+
+  --color-ink:          #2D2D2D;
+  --color-link:         #ffff00;
+  --color-hover:        #ffff00;
+
+  --color-project:      #00FFFF;
+  --color-performance:  #FF0099;
+  --color-talk:         #FF45E5;
+  --color-exhibition:   #FDB913;
+  --color-residency:    #66C6FF;
+  --color-text:         #CCFF00;
+  --color-publication:  #00FF99;
+  --color-press:        #AE69FF;
+  --color-resource:     #E871A0;
+
   // SPACING
   // Use these variables for padding & margin
   --s-xxxl: 128px;

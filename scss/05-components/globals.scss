@@ -34,8 +34,8 @@
   display: inline-block;
   padding: var(--s-s) var(--s-m);
   margin: 0 var(--s-s) var(--s-s) 0;
-  background-color: $color-warm;
-  color: $color-ink !important;
+  background-color: var(--color-warm);
+  color: var(--color-ink) !important;
   text-decoration: none !important;
   @include small-caps;
   font-size: var(--font-size-small);
@@ -46,27 +46,18 @@
     font-size: var(--font-size-small);
   }
   &.light {
-    background-color: $color-warm-light;
+    background-color: var(--color-warm-light);
   }
-  &-project { background-color: $color-project;}
-  &-performance { background-color: $color-performance;}
-  &-talk { background-color: $color-talk;}
-  &-exhibition { background-color: $color-exhibition;}
-  &-residency { background-color: $color-residency;}
-  &-text { background-color: $color-text;}
-  &-publication { background-color: $color-publication;}
-  &-press { background-color: $color-press;}
-  &-resource { background-color: $color-resource;}
+  &-project { background-color: var(--color-project); }
+  &-performance { background-color: var(--color-performance); }
+  &-talk { background-color: var(--color-talk); }
+  &-exhibition { background-color: var(--color-exhibition); }
+  &-residency { background-color: var(--color-residency); }
+  &-text { background-color: var(--color-text); }
+  &-publication { background-color: var(--color-publication); }
+  &-press { background-color: var(--color-press); }
+  &-resource { background-color: var(--color-resource); }
 }
-// #canvas,
-// .p5Canvas {
-//   position: fixed;
-//   top: 0;
-//   left: 0;
-//   width: 100%;
-//   height: 100%;
-//   z-index: -1;
-// }
 .home .list-subtitle {
   opacity: 0.6;
 }

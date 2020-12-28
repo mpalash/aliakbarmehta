@@ -1,9 +1,9 @@
 {
   "name": "aliakbarmehta",
   "version": "0.0.1",
-  "description": "A CMS fpr Ali",
+  "description": "A CMS for Ali",
   "scripts": {
-    "sass": "sass --style=compressed scss/styles.scss static/css/styles.css",
+    "sass": "sass --style=compressed scss/styles.scss _site/static/css/styles.css",
     "scale": "node scale.js",
     "build": "npm run sass && npx eleventy",
     "watch:eleventy": "npx eleventy --serve",

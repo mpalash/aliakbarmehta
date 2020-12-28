@@ -8,17 +8,17 @@ p.img {
   justify-content: flex-start;
   align-items: stretch;
   max-width: calc((100vw * 0.8333333) - 32px) !important;
-  // box-shadow: -16px 0 0 rgba($color-white,1), -20vw 0 0 rgba($color-warm-light,1);
+  // box-shadow: -16px 0 0 rgba(var(--color-white),1), -20vw 0 0 rgba(var(--color-warm-light),1);
 
   &::-webkit-scrollbar-track {
-  	background-color: $color-warm-light;
+  	background-color: var(--color-warm-light);
   }
   &::-webkit-scrollbar {
   	height: 1px;
   	background-color: transparent;
   }
   &::-webkit-scrollbar-thumb {
-  	background-color: $color-warm-dark;
+  	background-color: var(--color-warm-dark);
   }
 
   div {
@@ -39,7 +39,7 @@ p.img {
 .img-caption {
   display: block;
   padding: var(--s-xs) 0;
-  color: $color-warm-dark;
+  color: var(--color-warm-dark);
 }
 .gallery-btn {
   @extend %fa-icon;
@@ -56,7 +56,7 @@ p.img {
   pointer-events: none;
 }
 .jBox-overlay.jBox-overlay-Image {
-  background: $color-white;
+  background: var(--color-white);
 }
 .jBox-image-label-container {
   bottom: 80px;
@@ -76,7 +76,7 @@ p.img {
   padding: 0;
   margin: 0 3em;
   width: auto;
-  color: $color-ink;
+  color: var(--color-ink);
   font-size: 0.9em;
   font-weight: 400;
   // letter-spacing: 0.1em;
@@ -95,7 +95,7 @@ p.img {
   text-align: center;
   transform: none;
   &:hover {
-    color: $color-ink;
+    color: var(--color-ink);
   }
 }
 .jBox-image-pointer-prev:after {

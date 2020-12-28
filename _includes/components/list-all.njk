@@ -2,8 +2,8 @@
 <div>
   <h2>projects</h2>
   {% for year in years %}
-    <span class="separator">{{ year }}</span>
     <ul>
+      <span class="separator">{{ year }}</span>
       {% for content in collections.projects %}
         {% if content.data.pubdate == year %}
           {% include "components/home-project-title.njk" %}
@@ -15,8 +15,8 @@
 <div>
   <h2>curatorial projects</h2>
   {% for year in years %}
-    <span class="separator">{{ year }}</span>
     <ul>
+      <span class="separator">{{ year }}</span>
       {% for content in collections.curatorial %}
         {% if content.data.pubdate == year %}
           {% include "components/home-project-title.njk" %}
@@ -28,8 +28,8 @@
 <div>
   <h2>performances</h2>
   {% for year in years %}
-    <span class="separator">{{ year }}</span>
     <ul>
+      <span class="separator">{{ year }}</span>
       {% for content in collections.performances %}
         {% if content.data.pubdate == year %}
           {% include "components/home-project-title.njk" %}
@@ -41,8 +41,8 @@
 <div>
   <h2>texts</h2>
   {% for year in years %}
-    <span class="separator">{{ year }}</span>
     <ul>
+      <span class="separator">{{ year }}</span>
       {% for content in collections.texts %}
         {% if content.data.pubdate == year %}
           {% include "components/home-project-title.njk" %}
@@ -54,8 +54,8 @@
 <div>
   <h2>talks and teaching</h2>
   {% for year in years %}
-    <span class="separator">{{ year }}</span>
     <ul>
+      <span class="separator">{{ year }}</span>
       {% for content in collections.talks %}
         {% if content.data.pubdate == year %}
           {% include "components/home-project-title.njk" %}
@@ -67,8 +67,8 @@
 <div>
   <h2>exhibitions</h2>
   {% for year in years %}
-    <span class="separator">{{ year }}</span>
     <ul>
+      <span class="separator">{{ year }}</span>
       {% for content in collections.exhibitions %}
         {% if content.data.pubdate == year %}
           {% include "components/home-project-title.njk" %}
@@ -80,8 +80,8 @@
 <div>
   <h2>about</h2>
   {% for year in years %}
-    <span class="separator">{{ year }}</span>
     <ul>
+      <span class="separator">{{ year }}</span>
       {% for content in collections.about %}
         {% if content.data.pubdate == year %}
           {% include "components/home-project-title.njk" %}

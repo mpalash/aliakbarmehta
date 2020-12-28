@@ -1,6 +1,6 @@
 footer {
   padding: var(--s-b) 0;
-  color: $color-ink;
+  color: var(--color-ink);
   font-size: var(--font-size-small);
   letter-spacing: 0.05em;
   pointer-events: none;
@@ -13,7 +13,7 @@ footer {
     margin-right: var(--gutter);
   }
   a {
-    color: $color-ink;
+    color: var(--color-ink);
     pointer-events: auto;
   }
 }

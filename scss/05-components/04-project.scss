@@ -2,7 +2,7 @@ h1.project-title {
   padding: 0 var(--gutter);
   margin-top: calc(var(--s-xxxl)*1.75);
   margin-bottom: 0;
-  color: $color-warm-dark;
+  color: var(--color-warm-dark);
   font-family: var(--font);
   font-size: 7vw;
   line-height: 1.05;
@@ -11,7 +11,7 @@ h1.project-title {
   &.fixed {
     position: fixed;
     z-index: -1;
-    color: lighten($color-warm, 35%);
+    color: var(--color-warm);
   }
 
 }
@@ -19,7 +19,7 @@ h1.project-title {
   padding: 0 var(--gutter);
   margin-top: 0;
   margin-bottom: var(--s-xxl);
-  color: $color-warm-dark;
+  color: var(--color-warm-dark);
 }
 .project-tag p {
   margin-right: calc(var(--s-xxxl)*1.75) !important;
@@ -48,7 +48,7 @@ h1.project-title {
   padding-bottom: var(--s-l);
   min-height: calc(var(--s-xxxl)*2);
   &.resource {
-    background-color: rgba($color-resource, 0.15);
+    background-color: rgba(var(--color-resource), 0.15);
   }
 }
 aside.meta {
@@ -65,8 +65,8 @@ aside.meta {
       margin: var(--gutter) 0;
       padding-right: var(--gutter);
       @include meta;
-      color: $color-warm-dark;
-      border-right: 1px solid $color-warm-dark;
+      color: var(--color-warm-dark);
+      border-right: 1px solid var(--color-warm-dark);
     }
   }
 }

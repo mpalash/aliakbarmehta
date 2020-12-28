@@ -5,7 +5,7 @@
 
   <body>
     {% include "components/header.njk" %}
-    <main aria-label="Content" style="display: flex;">
+    <main class="home" aria-label="content">
       <div>
         {% for page in collections.pages %}
           {% if page.data.title == 'About' %}
