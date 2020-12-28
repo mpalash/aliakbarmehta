@@ -70,16 +70,20 @@
   --font-identity: 'Montserrat', sans-serif;
 
   --font-size-small: 0.8rem;
-  --font-size-large: 1.25rem;
   --line-height-base: 1.65;
 
   // SIZES
   // Use these to specify fixed size elements
   --container-max-width: 1024px;
   --max-text-width:      720px;
-  --max-column-width:    480px;
+  --max-column-width:    400px;
   --body-padding:        64px 64px 0 64px;
   --gutter:              24px;
+
+  // TRANSITION
+  --transition-all:     all 0.3s ease-out;
+  --transition-timing:  0.3s ease-out;
+
 }
 
 // MIXINS

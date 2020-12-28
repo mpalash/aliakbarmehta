@@ -11,14 +11,17 @@
 }
 .toggle-section {
   @extend %fa-icon;
-  @extend .fas;
-  margin-top: var(--s-l);
-  color: inherit;
-  font-size: var(--font-size-large);
+  @extend .far;
+  margin-top: var(--s-b);
+  color: var(--color-ink);
+  font-size: 1em;
   text-decoration: none !important;
 
-  .more:before { content: fa-content($fa-var-plus-circle); }
-  .less:before { content: fa-content($fa-var-minus-circle); }
+  .less {
+    display: none;
+  }
+  .more:before { content: fa-content($fa-var-plus); }
+  .less:before { content: fa-content($fa-var-minus); }
 }
 .tags {
   list-style: none;
@@ -51,7 +54,4 @@
   &-publication { background-color: var(--color-publication); }
   &-press { background-color: var(--color-press); }
   &-resource { background-color: var(--color-resource); }
-}
-.home .list-subtitle {
-  opacity: 0.6;
 }

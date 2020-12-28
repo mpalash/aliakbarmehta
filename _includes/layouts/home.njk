@@ -6,18 +6,37 @@
   <body>
     {% include "components/header.njk" %}
     <main class="home" aria-label="content">
-      <div>
-        {% for page in collections.pages %}
-          {% if page.data.title == 'About' %}
-            <div class="summary">{{ page.data.summary | md | safe }}</div>
-            <div class="full-content">{{ page.data.layoutContent | safe }}</div>
-            <a href="#" class="toggle-section" data-title="about">
-              <span class="more"></span>
-              <span class="less" style="display: none;"></span>
-            </a>
-          {% endif %}
-        {% endfor %}
+      <div class="home-about" data-title="about">
+        <div class="summary">{{ summary | md | safe }}</div>
+        <div class="full-content">{{ layoutContent | safe }}</div>
+        <a href="#" class="toggle-section" data-title="about">
+          <span class="more"></span>
+          <span class="less"></span>
+        </a>
+
+        <div class="social">
+          <a href="mailto:{{ metadata.email }}" target="_blank">{{ metadata.emailtxt }}</a>
+          <a href="{{ metadata.instagram }}" target="_blank">IG</a>
+          <a href="{{ metadata.facebook }}" target="_blank">FB</a>
+          <a href="{{ metadata.twitter }}" target="_blank">TW</a>
+        </div>
+
+        <div class="partners">
+          <h3>Partners</h3>
+          {% for p in metadata.partners %}
+            <a href="{{ p.url }}" target="_blank">{{ p.name }}</a>
+          {% endfor %}
+        </div>
+
+        <div class="copyright">
+          {{ metadata.copyrighttxt | md | safe }}
+
+          <p>{{ metadata.copyright }}</p>
+
+          <p><a href="https://mpalash.com" target="_blank">Website dev-design by mpalash</a></p>
+        </div>
       </div>
+
       {% include "components/list-all.njk" %}
     </main>
     {% include "components/footer.njk" %}

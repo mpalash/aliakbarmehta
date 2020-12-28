@@ -4,7 +4,7 @@
   {% if content.data.parent != 'Poems' %}
     <a href="/content/{{ content.data.parent | trim | slugify }}#{{ content.data.title.split('~') | last | trim | slugify }}" >
       {{ content.data.title.split('~') | last | trim }}
-      {% if content.data.tags in displaysub %}
+      {% if content.data.tags.toString() in displaysub %}
         {% if content.data.subtitle and content.data.subtitle != '' %}<br/><span class="list-subtitle">{{ content.data.subtitle }}</span>{% endif %}
       {% endif %}
     </a>
@@ -12,7 +12,7 @@
 {% else %}
   <a href="/content/{{ content.data.title.split('~') | last | trim | slugify }}">
     {{ content.data.title.split('~') | last | trim }}
-    {% if content.data.tags in displaysub %}
+    {% if content.data.tags.toString() in displaysub %}
       {% if content.data.subtitle and content.data.subtitle != '' %}<br/><span class="list-subtitle">{{ content.data.subtitle }}</span>{% endif %}
     {% endif %}
   </a>

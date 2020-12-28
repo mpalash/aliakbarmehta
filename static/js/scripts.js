@@ -4,9 +4,19 @@
 var errors = ['600:Aadhar not recognized', '601:Is your passport valid', '602:Class distinction detected', '603:Please check priviledge status', '604:Gender not supported', '605:Political failure', '606:Capital dependency', '607:Language not supported', '608:Government Shutdown'];
 
 $(function() {
-  toggleContent();
-  fixVids();
-  makeGallery();
+  toggleContent(); // Read more
+  fixVids();       // Responsive video
+  makeGallery();   // Galleries
+
+  $('.home div h2').on('click',function(e){
+    e.preventDefault();
+    if($(this).parent().hasClass('collapsed')) {
+      $('.home > div:not(.home-about)').addClass('collapsed');
+      $(this).parent().removeClass('collapsed')
+    } else {
+      $(this).parent().addClass('collapsed')
+    }
+  })
 
   if($('.container').hasClass('error')){
     var rnd = Math.floor(Math.random() * Math.floor(errors.length));
@@ -54,7 +64,7 @@ function toggleContent(){
     var title = $(this).data('title');
 
     $(this).find('span').toggle();
-    $('.section-content[data-title=' + title + '] .full-content, .site-intro[data-title=' + title + '] .full-content').toggle();
+    $('*[data-title=' + title + '] .full-content').toggle();
   });
 }
 function makeGallery(){
