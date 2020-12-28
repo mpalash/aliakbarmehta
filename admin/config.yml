@@ -23,9 +23,11 @@ collections: # A list of collections the CMS should be able to edit
         widget: "string"
       - label: "Permalink"
         name: "permalink"
+        required: true
         widget: "string"
       - label: "Body"
         name: "body"
+        required: false
         widget: "markdown"
   - name: "content" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Content" # Used in the UI, ie.: "New Post"
@@ -64,6 +66,7 @@ collections: # A list of collections the CMS should be able to edit
         widget: "markdown"
       - label: "Body"
         name: "body"
+        required: false
         widget: "markdown"
       - label: "Parent"
         name: "parent"
