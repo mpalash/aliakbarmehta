@@ -1,12 +1,14 @@
 header {
   position: fixed;
   top: 0;
-  left: 0;
-  right: 0;
+  left: var(--s-l);
+  right: var(--s-l);
   height: var(--s-xxl);
+  padding: var(--s-b) var(--s-l);
+  line-height: var(--s-l);
   display: flex;
   justify-content: flex-start;
-  align-items: center;
+  align-items: baseline;
   background: var(--color-white);
   border-bottom: 1px solid var(--color-warm-light);
 
@@ -15,23 +17,16 @@ header {
   }
 
   .site-title {
-    pointer-events: auto;
-    > div {
-      position: absolute;
-      top: 0;
-      left: 0;
-      white-space: nowrap;
-      transform: rotate(-90deg);
-      span {
-        position: absolute;
-        top: 0;
-        right: 0;
-        padding: var(--s-m) var(--s-l);
-        background-color: var(--color-warm-dark);
-        color: var(--color-white);
-        @include meta;
-        font-family: var(--font-identity);
-      }
+    font-family: var(--font-identity);
+    font-size: var(--s-d);
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+
+    & + span {
+      @include small-caps;
+      font-size: var(--s-s);
+      font-weight: 400;
+      margin-left: var(--s-b);
     }
   }
 
@@ -45,11 +40,9 @@ header {
     }
   }
 
-  span {
-    @include small-caps;
-    font-family: var(--font);
-    font-weight: 700;
-    margin-left: var(--s-s);
+  .search {
+    @extend %fa-icon;
+    @extend .far;
+    &:before { content: fa-content($fa-var-search); }
   }
-  .search:before { content: fa-content($fa-var-search); }
 }

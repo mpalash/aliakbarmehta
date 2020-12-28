@@ -1,6 +1,7 @@
 // FONTS IMPORT
-@import url('https://fonts.googleapis.com/css2?family=Paytone+One&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+// @import url('https://fonts.googleapis.com/css2?family=Paytone+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..700&display=swap');
 
 html,
 body {
@@ -8,6 +9,8 @@ body {
   min-height: 100vh;
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
+  overscroll-behavior: none;
   *,
   *:before,
   *:after {
@@ -20,9 +23,10 @@ body {
 }
 body {
   padding: var(--body-padding);
-  font-size: 16px;
+  font-size: 14px;
   font-family: var(--font);
   line-height: var(--line-height-base);
+  font-weight: 300;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: var(--color-white);
