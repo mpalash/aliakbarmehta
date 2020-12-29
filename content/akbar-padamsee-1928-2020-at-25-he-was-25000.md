@@ -1,7 +1,7 @@
 ---
 title: "Akbar Padamsee 1928-2020: At 25, he was 25000"
 layout: layouts/content.njk
-tags: text
+tags: publication
 pubdate: "2020"
 summary: I have a faint memory of the first time I met Akbar Padamsee, but I
   vividly remember the first time I saw his Metascape series in the late 90's, a
