@@ -1,26 +1,16 @@
 ---
-title: >-
-  The Inescapable Manifest Destiny of the Artworld Culture: Defining Art through
-  the state of the Artworld today
-subtitle: Essay by Ali Akbar Mehta (unpublished)
+title: "The Inescapable Manifest Destiny of the Artworld Culture: Defining Art
+  through the state of the Artworld today"
+subtitle: Essay by Ali Akbar Mehta
 layout: layouts/content.njk
-tags: text
-pubdate: '2016'
+tags: unpublished
+pubdate: "2016"
 summary: >-
   In the theoretical once upon a time, and probably the actual one, everyone (or
   at least most) read about art. Everyone went to the theater. Everyone knew the
   composer of the day. Everyone discussed the arts and everyone loved them.
 
-  Then the 20th century happened. In the words of composer and critic Theodor
-  Adorno, “New music has taken upon itself all of the darkness and guilt of the
-  world.” Sure he was referring to music but the assertion could just as easily
-  be broadened to include the entire world of art. European and American artists
-  and composers and writers in the early 20th century saw violence like the
-  world hadn’t seen for hundreds of years. The manifold amount of changes
-  wrought by technology and innovation in fin de siècle Europe and America meant
-  nothing about life before would ever be the same. Then World War One and World
-  War Two turned the world completely upside down. How could we go back to the
-  way the world was before? The answer was that we couldn’t.
+  Then the 20th century happened. In the words of composer and critic Theodor Adorno, “New music has taken upon itself all of the darkness and guilt of the world.” Sure he was referring to music but the assertion could just as easily be broadened to include the entire world of art. European and American artists and composers and writers in the early 20th century saw violence like the world hadn’t seen for hundreds of years. The manifold amount of changes wrought by technology and innovation in fin de siècle Europe and America meant nothing about life before would ever be the same. Then World War One and World War Two turned the world completely upside down. How could we go back to the way the world was before? The answer was that we couldn’t.
 
   Modernism was here.
 ---
