@@ -1,6 +1,7 @@
 ---
 title: "Re-Musing the Museum: Part II"
-subtitle: Kiasma Museum of Contemporary Art, 2018
+subtitle: "ArTalk: Just Art? Ethics, guidance and art autonomy, Kiasma Museum of
+  Contemporary Art, 2018"
 layout: layouts/content.njk
 tags: artist talk
 pubdate: "2018"
