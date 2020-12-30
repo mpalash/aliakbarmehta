@@ -1,28 +1,25 @@
 ---
 title: Resistance and Reimagining Alternatives
-subtitle: Nordic Decolonial Workshop, Center for Research on Ethnic Relations
-  and Nationalism, (CEREN), University of Helsinki, Helsinki
+subtitle: "Nordic Decolonial Workshop (DENOR) 3rd exploratory workshop:
+  Decoloniality, Politics & Social Change, organised and moderated by Amirah
+  Salleh-Hoddin, Center for Research on Ethnic Relations and Nationalism,
+  (CEREN), University of Helsinki, Helsinki"
 layout: layouts/content.njk
 tags: artist talk
 pubdate: "2019"
 hero: /static/img/denor_resistance-and-reimagining-alternatives_2019.jpg
-summary: >+
+summary: >
   In November 2019, I was invited to speak about [Museum of Impossible
   Forms](https://museumofimpossibleforms.org/).
 
 
-  The transcript of the talk is below:
+  *The following is the transcript of the talk:*
 
 
   <br/>
-
-  <br/>
-
 parent: Museum of Impossible Forms
 ---
 > I always think it's good to think about how you arrive at the work that you do. There's always a story to the combinations that we bring to our work and to the world. And I would like to thank the Nordic Decolonial Workshop for inviting me to share some of the work we do at Museum of Impossible Forms.
->
->
 >
 > Good afternoon,
 >
@@ -35,8 +32,6 @@ parent: Museum of Impossible Forms
 > The Museum of Impossible Forms opens up a broad horizon though its political character, its accessibility and openness, its multilingual[library](https://museumofimpossibleforms.org/library), an ongoing[archive](https://museumofimpossibleforms.org/archives), and through its[workshops and events](https://museumofimpossibleforms.org/events).It facilitates curated discursive art programs, with an opportunity for norm-critical dialogue framed within the discourse of decoloniality, intersectional feminism, and queer theory. These equally create a complexmind-space fuelledby these socio-political ideologies that are shared by the members of the m{if}, and that become visible through our various efforts. We are striving towards a para-institutional culture that focuses on ‘Alternate Pedagogy’.
 >
 > Museum of Impossible Forms M{if} was founded by an independent group of Helsinki artists/curators/philosophers/activists/pedagogists in spring 2017 as an antiracist and queer-feminist project, a heterogeneous space exploring experimental and migrant form of expression. It is the coming together of a collective of people – artists, curators, pedagogues, philosophers and facilitators – art and cultural workers who believe in the need for this space. M{if} currently consists of:
->
-> <br/>
 >
 > * Marianne Savallampi
 > * Ahmed Al-Nawas
@@ -56,8 +51,6 @@ parent: Museum of Impossible Forms
 > * David Muoz
 >
 > Beyond these individuals, Museum of Impossible Forms works with a number of collectives, organisations and institutions to create a lattice of shared concerns and practice solidarity. Some of these are:
->
-> <br/>
 >
 > * FAR Night School
 > * Nynnyt Collective
