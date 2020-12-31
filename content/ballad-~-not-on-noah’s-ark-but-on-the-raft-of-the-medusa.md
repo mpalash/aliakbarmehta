@@ -1,21 +1,20 @@
 ---
-title: 'Ballad ~ Not on Noah’s Ark, but on the Raft of the Medusa'
-subtitle: 'Essay by Ranjit Hoskote, Mumbai, 2011'
+title: Ballad ~ Not on Noah’s Ark, but on the Raft of the Medusa
+subtitle: Essay by Ranjit Hoskote, Mumbai, 2011
 layout: layouts/content.njk
 tags: text
-pubdate: '2011'
+pubdate: "2011"
+hero: static/img/Ali Akbar Mehta_Harlequin Series; Icarus finds his wings again,
+  2010, Archival print on Hahnemuhle paper, 182 x 121 cm.jpg
 summary: >-
-  ![Harlequin Series: Icarus finds his wings again, 2010, Archival print on Hahnemuhle paper, 182 x 121 cm](/static/img/Ali Akbar Mehta_Harlequin Series; Icarus finds his wings
-  again, 2010, Archival print on Hahnemuhle paper, 182 x 121 cm.jpg)
+  ![Harlequin Series: Icarus finds his wings again, 2010, Archival print on
+  Hahnemuhle paper, 182 x 121 cm](/static/img/Ali Akbar Mehta_Harlequin Series;
+  Icarus finds his wings again, 2010, Archival print on Hahnemuhle paper, 182 x
+  121 cm.jpg)
 
 
-  Normality is the somewhat misleading name that many of us give to the present.
-  It is often the only means of remaining sane while enduring the abrupt horrors
-  and dehumanising provocations that surround us. The artist, however, is not
-  obliged either to neutralise himself to these horrors and provocations; nor is
-  he afraid of exploring the regimes of consciousness that lie beneath the
-  sanctioned threshold of sanity.
-parent: 'Ballad of the War that Never Was, and Other Basterdised Myths'
+  Normality is the somewhat misleading name that many of us give to the present. It is often the only means of remaining sane while enduring the abrupt horrors and dehumanising provocations that surround us. The artist, however, is not obliged either to neutralise himself to these horrors and provocations; nor is he afraid of exploring the regimes of consciousness that lie beneath the sanctioned threshold of sanity.
+parent: Ballad of the War that Never Was, and Other Basterdised Myths
 ---
 And so the jesters, harlequins, cerecloth-swaddled zombies and explosion- flayed refugees who populate Ali Akbar Mehta’s paintings and digital works are not strangers. Not at all, for we know them intimately well, these figures who dominate the 1983-born Mehta’s first solo exhibition: they are ourselves an hour from now, a decade from now, in the near future, or at any moment. Allegories of the present, veiled thinly as a post apocalyptic future, Mehta’s works alternate, tonally, between melancholia and the ludic, between Lent and Carnival. They emerge from a long tradition of critique-through-image that turns our conventions of time, space, gravity and propriety topsy-turvy: a tradition that counts, among its major exponents, Hieronymus Bosch and Pieter Brueghel.
 
