@@ -3,7 +3,7 @@ title: "WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs"
 layout: layouts/content.njk
 tags: ongoing project
 pubdate: "2019"
-hero: ""
+hero: static/img/screenshot-2018-10-12-at-15.54.22.png
 children:
   - "wre ~ Foreword: Artist's Note"
   - wre ~  Why is an archive of wars required?

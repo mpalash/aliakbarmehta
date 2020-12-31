@@ -1,18 +1,33 @@
 ---
-title: 'Re-Musing the Museum: Part II'
-subtitle: Kiasma Museum of Contemporary Art, 2018
+title: "Re-Musing the Museum: Part II"
+subtitle: "ArTalk: Just Art? Ethics, guidance and art autonomy, Kiasma Museum of
+  Contemporary Art, 2018"
 layout: layouts/content.njk
 tags: artist talk
-pubdate: '2018'
-parent: Museum of Impossible Forms
+pubdate: "2018"
 summary: >-
-  Re-Musing the Museum was a lecture performance on the occasion of TAKU
-  (Culture Worker's Associated) and MAL (Museum worker's Union)'s first joint
-  event, held at Kiasma Museum of Contemporay Art. For this occasion, I was
-  invited to represent 'Museum of Impossible Forms'.
+  **Re-Musing the Museum: Part II** was a talk presented in my capacity as
+  Co-Artistic director of Museum of Impossible Forms, discussing the precarity
+  of cultural work in the context of Museum work.
 
 
-  Below is the text of my prepared lecture performance:
+  > \[I]n today's information society, museums have an important role to play in preserving, producing and transmitting information. However, as cultural funding continues to decline, the responsibility for producing information and culture increasingly shifts to the individual: the museum worker, the artist, the spectator and the experiencer, the museum visitor, the curator. How can museums redefine themselves in a rapidly changing world?
+
+
+  This was the first event in the **[ArTalk series titled ArTalk: Just Art? Ethics, guidance and art autonomy](http://taku.fi/tag/taide/)** was organized by TAKU Ry (Culture Worker's Association) and MAL Ry (Museum worker's Union), on 27 November 2018 at the **Museum of Contemporary Art Kiasma**.
+
+
+  <br/>
+
+
+  *Below is the text of my prepared lecture performance:*
+
+
+  *<br/>*
+
+
+  *<br/>*
+parent: Museum of Impossible Forms
 children: []
 ---
 ## Re-Musing the Museum, Part II
@@ -73,7 +88,7 @@ Where ‘post’ in Post Adolescent, Post Modern, Post Human, Post Jargon, Post 
 
 As the poet and philosopher Sun Ra has said,
 
-**_“The possible has been tried and failed. Now it's time to try the impossible.”_**
+***“The possible has been tried and failed. Now it's time to try the impossible.”***
 
 And so , if you will repeat after me, “Museums:
 
@@ -115,6 +130,8 @@ Today the question is
 It is a critical method applied towards learning, unlearning and relearning its subject of enquiry, through the shedding of the illusion of predestination and the Superego. It is especially useful in ascertaining other methods and fields of making sense of the world. It resonates with the post-structural theories of first invalidating all truths, and subsequently, through a process of theoretical reasoning and a praxis of ‘doing the everyday’ formulating newer – updated socio-political values. The act of tenderness in essential in the way toward “learning to learn from below” as in Gayatri Chakravorty Spivak’s formulation, or, as Souleymane Bachir Diagne puts it, learning from others in order to live together. Such learning, for Adam Szymczyk, allows us, as artists to imagine a symmetrical situation of the encounter of equals, and not not an asmmetrical power relationship between the soveriegn and the subaltern.
 
 Whatever the archive may not do, it must do this. It must be unflinchingly non-selective, and be cognizant of our differences, our diversity, our plurality; but it must also highlight our affinities, our intersections, our togetherness – in order to counter alienation by providing spaces for familiarisation. Familiarisation is the key function for the archive of today, the act of familiarising ourselves to each other is the crucial task we face. Through it we present ourselves ‘\[…] only as members of a biological species which has a remarkable history, and whose disappearance none of us can desire’, rather than as beings who present themselves to each other as unrecognisable aliens, self censored and segregated into claims of uniqueness and markers of identity that can have no ultimate meaning.
+
+*<br/>*
 
 ## Museum of Impossible Forms:
 
@@ -160,6 +177,8 @@ For example:
 > Its library consists of books, zines, pamphlets and music, films and other material that is not usually available in public libraries, with specific leaning towards works on decoloniality, anti-racism. intersectionality, feminism and queer theory. Within the operations of the library is our creative writing programmes, which contribute to the library through self-published texts, published under the Publishing Table project.
 >
 > The Publishing Table hosts regular book and zine-making workshops, similarly contributing to the library and archive. The Publishing table is also central in producing an annual edition of The Impossible Reader, a critical publication to consolidate practices, events and programs at M{if}, the first edition of which will be available by summer of 2019.
+
+*<br/>*
 
 ## The centre/margin binary:
 
@@ -213,102 +232,106 @@ These are not just ongoing events, but represent a slow work of building communi
 
 To conclude, I would like to ask you to participate in the reading of this poem by Saul Williams, by repating each line that begins with the word 'hack'
 
-> _"Hack into dietary sustenance_
+*<br/>*
+
+> *"Hack into dietary sustenance*
 >
-> _Tradition versus health_
+> *Tradition versus health*
 >
-> _Hack into comfort compliance_
+> *Hack into comfort compliance*
 >
-> _Hack into the rebellious gene_
+> *Hack into the rebellious gene*
 >
-> _Hack into doctrine_
+> *Hack into doctrine*
 >
-> _Capitalism, the relation of free labor and slavery_
+> *Capitalism, the relation of free labor and slavery*
 >
-> _Hack into the history of the bank_
+> *Hack into the history of the bank*
 >
-> _Is beating the odds the mere act of joining the winning team?_
+> *Is beating the odds the mere act of joining the winning team?*
 >
-> _Hack into desperation and loneliness_
+> *Hack into desperation and loneliness*
 >
-> _The history of community and the marketplace_
+> *The history of community and the marketplace*
 >
-> _Hack into land rights and ownership_
+> *Hack into land rights and ownership*
 >
-> _Hack into business, law of proprietorship_
+> *Hack into business, law of proprietorship*
 >
-> _Hack into ambition and greed_
+> *Hack into ambition and greed*
 >
-> _Hack into forms of government_
+> *Hack into forms of government*
 >
-> _The history of revolutions_
+> *The history of revolutions*
 >
-> _The relation of suffering and sufferance_
+> *The relation of suffering and sufferance*
 >
-> _Hack into faith and morality_
+> *Hack into faith and morality*
 >
-> _The treatment of one faith towards another_
+> *The treatment of one faith towards another*
 >
-> _Hack into masculinity, femininity, sexuality_
+> *Hack into masculinity, femininity, sexuality*
 >
-> _What is taught, what is felt, what is learned, what is shared_
+> *What is taught, what is felt, what is learned, what is shared*
 >
-> _Hack into God_
+> *Hack into God*
 >
-> _Stories of creation, serpents and eggs_
+> *Stories of creation, serpents and eggs*
 >
-> _Hack into coincidence_
+> *Hack into coincidence*
 >
-> _The Summer of '68_
+> *The Summer of '68*
 >
-> _The 27th club_
+> *The 27th club*
 >
-> _The number of people with Facebook profiles_
+> *The number of people with Facebook profiles*
 >
-> _People who choose to share_
+> *People who choose to share*
 >
-> _People who share too much_
+> *People who share too much*
 >
-> _People who seem lonely_
+> *People who seem lonely*
 >
-> _People who want to connect_
+> *People who want to connect*
 >
-> _People who want to uplift_
+> *People who want to uplift*
 >
-> _People who need uplifting_
+> *People who need uplifting*
 >
-> _Three simple copper wires coiled around an orb_
+> *Three simple copper wires coiled around an orb*
 >
-> _Parked in an orbit_
+> *Parked in an orbit*
 >
-> _Equatorial landmines, useful and precious metals_
+> *Equatorial landmines, useful and precious metals*
 >
-> _Coltan as Cotton_
+> *Coltan as Cotton*
 >
-> _Coltan as Colton as Cotton (x4)_
+> *Coltan as Colton as Cotton (x4)*
 >
-> _Hack into whores_
+> *Hack into whores*
 >
-> _Industrial, digital_
+> *Industrial, digital*
 >
-> _Hack into code_
+> *Hack into code*
 >
-> _Use your instrument as metaphor_
+> *Use your instrument as metaphor*
 >
-> _Hallowed to the ground, type into the mainframe_
+> *Hallowed to the ground, type into the mainframe*
 >
-> _Dismantle definition, dogma and duty_
+> *Dismantle definition, dogma and duty*
 >
-> _Hack into the database_
+> *Hack into the database*
 >
-> _Hold it in the subconscious_
+> *Hold it in the subconscious*
 >
-> _The panel marked "survival"_
+> *The panel marked "survival"*
 >
-> _Hack into celebrity_
+> *Hack into celebrity*
 >
-> _Hack into the cultural development of taste_
+> *Hack into the cultural development of taste*
 >
-> _Hack into violence, fear, and ignorance."_
+> *Hack into violence, fear, and ignorance."*
 
 __
+
+Thank you.

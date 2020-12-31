@@ -3,19 +3,20 @@ layout: layouts/page.njk
 title: Partners
 permalink: /partners/
 ---
-## Organisations
+[Museum of Impossible Forms](mofimpossibleforms.org/)[](https://www.m-cult.org/)
 
-1. [Museum of Impossible Forms](mofimpossibleforms.org/)
-2. [mcult](https://www.m-cult.org/)
-3. [OUTSIDERSATWORK](https://outsidersatwork.wordpress.com/)
-4. StudioVAAK
-5. Composite Films
+[Kiila ry](http://kiila.eu/)
 
-## People
+[mcult](https://www.m-cult.org/)[](https://outsidersatwork.wordpress.com/)
 
-1. Vidha Saumya
-2. Palash Mukhopadhyay
-3. Minna Tarkka
-4. Abhinit Khanna
-5. Andrew Fernandes
-6. Jernej Čuček Gerbec
+[OUTSIDERSATWORK](https://outsidersatwork.wordpress.com/)
+
+StudioVAAK
+
+[Vidha Saumya](https://vidhasaumya.wordpress.com/)
+
+[Palash Mukhopadhyay](https://mpalash.com/)
+
+Abhinit Khanna
+
+Jernej Čuček Gerbec
