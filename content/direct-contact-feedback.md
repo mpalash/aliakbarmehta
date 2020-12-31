@@ -4,6 +4,7 @@ subtitle: "w/ Vidha Saumya, Pixelache Festival 2019: Breaking the Fourth wall, H
 layout: layouts/content.njk
 tags: performance
 pubdate: "2019"
+hero: static/img/vidha-saumya_image-for-direct-contact_radical-roti_2018.jpg
 children:
   - In Conversation with Ali Akbar Mehta
 ---
