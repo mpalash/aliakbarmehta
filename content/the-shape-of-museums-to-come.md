@@ -6,7 +6,15 @@ subtitle: in 'The Museum of the Future. 43 New Contributions to the Discussion
 layout: layouts/content.njk
 tags: publication
 pubdate: "2020"
-hero: /static/img/museum-of-the-future_books.jpg
+hero: static/img/museum-of-the-future_books_cover.jpg
+shortdesc: '"The Museum of the Future was published in 1970. 43 contributions to
+  the discussion about the future of the museum. 50 years later, a publication
+  brings together 43 new contributions by international authors from museum
+  practice, from theory, education, art and architecture. They create concrete
+  visions of a museum of the future: confident and doubtful, critical, clearly
+  positioned and subjective. What do visions of the future accomplish and what
+  do they make impossible? How empowering or disempowering are speculations
+  about the future for a change in the museum of the present?"'
 summary: >
   ***Upcoming Essay***
 
