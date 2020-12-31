@@ -1,5 +1,5 @@
 ---
-title: 256 ~ 256 Million Colours of Violence Exhibition
+title: 256 ~ 256 Million Colours of Violence, Exhibition
 subtitle: Third Space, Helsinki
 layout: layouts/content.njk
 tags: solo exhibition
