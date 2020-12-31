@@ -132,6 +132,10 @@
 
   a {
     color: var(--color-ink);
+    text-decoration: underline;
+    &:hover {
+      text-decoration: none;
+    }
   }
   .social,
   .partners,
