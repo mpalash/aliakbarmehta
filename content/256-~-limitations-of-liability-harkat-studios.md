@@ -1,9 +1,10 @@
 ---
-title: '256 ~ Limitations of Liability, Harkat Studios'
+title: 256 ~ Limitations of Liability, Harkat Studios
 subtitle: Exhibition and Film Screenings
 layout: layouts/content.njk
 tags: artwork
-pubdate: '2017'
+pubdate: "2017"
+hero: static/img/ali-akbar-mehta_limitation-of-liability_harkat-studio_installation-view-02_2017.jpg
 parent: 256 Million Colours of Violence
 ---
 ![Film Screening schedule, Harkat Studios, 2017](/static/img/Ali Akbar Mehta_256 Million Colours of Violence_ Poster.jpg)
