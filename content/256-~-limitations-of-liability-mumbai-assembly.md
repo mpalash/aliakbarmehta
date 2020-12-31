@@ -1,9 +1,10 @@
 ---
-title: '256 ~ Limitations of Liability, Mumbai Assembly'
+title: 256 ~ Limitations of Liability, Mumbai Assembly
 subtitle: Exhibition and Artist Talks
 layout: layouts/content.njk
 tags: artwork
-pubdate: '2017'
+pubdate: "2017"
+hero: static/img/colour-wall-survey-table.jpg
 parent: 256 Million Colours of Violence
 ---
 The project is displayed in Mumbai for the first time, in 2017.
