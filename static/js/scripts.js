@@ -8,10 +8,10 @@ $(function() {
   fixVids();       // Responsive video
   makeGallery();   // Galleries
 
-  $('.home div h2').on('click',function(e){
+  $('.home-list h2').on('click',function(e){
     e.preventDefault();
     if($(this).parent().hasClass('collapsed')) {
-      $('.home > div:not(.home-about)').addClass('collapsed');
+      $('.home-list > div').addClass('collapsed');
       $(this).parent().removeClass('collapsed')
     } else {
       $(this).parent().addClass('collapsed')

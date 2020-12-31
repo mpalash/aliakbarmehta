@@ -3,7 +3,7 @@ title: Ballad of the Lost Utopian Meadow
 layout: layouts/content.njk
 tags: ongoing project
 pubdate: "2020"
-hero: /static/img/blum_ig.png
+hero: /static/img/blum_ig.jpg
 children:
   - Lost ~ The Meadow
 ---

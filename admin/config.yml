@@ -60,6 +60,10 @@ collections: # A list of collections the CMS should be able to edit
         name: "hero"
         required: false
         widget: "image"
+      - label: "Short description"
+        name: "shortdesc"
+        required: false
+        widget: "markdown"
       - label: "Summary"
         name: "summary"
         required: false

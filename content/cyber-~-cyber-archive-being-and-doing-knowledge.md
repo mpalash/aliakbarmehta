@@ -5,7 +5,7 @@ subtitle: MA thesis, Aalto University, 2018
 layout: layouts/content.njk
 tags: publication
 pubdate: '2018'
-hero: /static/img/cyber-archive_hero-image.png
+hero: /static/img/cyber-archive_hero-image.jpg
 summary: >-
   The thesis is framed through the question: How can ‘archives transformed by
   the use of digital technologies’ be studied within the framework of
