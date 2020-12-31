@@ -4,6 +4,7 @@ subtitle: organised as part of residency w/ M-Cult at﻿ Maunula House, Helsinki
 layout: layouts/content.njk
 tags: artist talk
 pubdate: "2020"
+hero: static/img/central-park-archives-workshops-maunulatalo-helsinki_2020.jpg
 summary: >-
   ![](/static/img/central-park-archives-workshops-maunulatalo-helsinki_2020.jpg)
 
