@@ -4,7 +4,7 @@ subtitle: launch of the prototype interface
 layout: layouts/content.njk
 tags: group exhibition
 pubdate: "2020"
-hero: /static/img/screenshot-of-the-interface_mobile.jpg
+hero: static/img/central-park-archives-sound-walk-forest-path_photojaimeculebro.jpg
 summary: >-
   The **pilot phase** of *Central Park Archives* culminated with a launch of the
   interface and a curated walk that demonstrated the workings of the website
