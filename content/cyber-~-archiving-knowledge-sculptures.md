@@ -1,10 +1,10 @@
 ---
+title: Cyber ~ Archiving Knowledge, sculptures
 layout: layouts/content.njk
-title: 'Cyber ~ Archiving Knowledge, sculptures'
-parent: Cyber Archive
 tags: artwork
-pubdate: '2018'
-
+pubdate: "2018"
+hero: static/img/ali-akbar-mehta-archiving-knowledge_01-2008.jpg
+parent: Cyber Archive
 ---
 ![‘Will the new generation of (cyber) archives be accessible, decolonised, norm critical, and counter hegemonic to dominant forms of knowledge?’, From the series: Archiving Knowledge, hand engraved marble, 2018](/static/img/ali-akbar-mehta-archiving-knowledge_01-2008.jpg)
 ![The act of archiving is a performative act – that actively disengages with the statement of ethnocentrism, and states instead that 'your knowledge is better than mine', From the series: Archiving Knowledge, hand engraved marble, 2018](/static/img/ali-akbar-mehta-archiving-knowledge_02-2008.jpg)
