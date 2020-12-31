@@ -1,10 +1,11 @@
 ---
 title: 256 ~ What is the colour of violence?
-subtitle: 'Hindustan Times, 2017'
+subtitle: Hindustan Times, 2017
 layout: layouts/content.njk
 tags: press
-pubdate: '2017'
-parent: '256 Million Colours of violence'
+pubdate: "2017"
+hero: static/img/ali-akbar-mehta_256-million-colours-of-violence_detail_2017.jpg
+parent: 256 Million Colours of violence
 ---
 ![](/static/img/ht_256millcov.jpg)
 
