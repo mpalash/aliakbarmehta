@@ -6,6 +6,7 @@ subtitle: in 'Different shapes of racism. Critical perspectives on
 layout: layouts/content.njk
 tags: publication
 pubdate: "2021"
+hero: static/img/museum-of-impossible-forms.png
 parent: Museum of Impossible Forms
 ---
 Upcoming ***Essay***
