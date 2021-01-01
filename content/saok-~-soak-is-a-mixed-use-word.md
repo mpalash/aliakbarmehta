@@ -1,12 +1,11 @@
 ---
-layout: layouts/content.njk
 title: Soak ~ SOAK is a mixed use world
-subtitle: Curatorial Text by Ali Akbar Mehta 
-parent: SOAK
+subtitle: Curatorial Text by Ali Akbar Mehta
+layout: layouts/content.njk
 tags: text
-pubdate: '2016'
-
-
+pubdate: "2016"
+hero: static/img/received_10153360436612014.jpeg
+parent: SOAK
 ---
 An exhibition is always an act of placing artworks and understanding the
 importance of engaging with a site and at the same time producing a polylogue
