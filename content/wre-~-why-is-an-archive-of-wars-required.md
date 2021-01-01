@@ -3,6 +3,7 @@ title: wre ~  Why is an archive of wars required?
 layout: layouts/content.njk
 tags: unpublished
 pubdate: "2014"
+hero: static/img/ali-akbar-mehta_installation-of-war-list_cyborg-archive-war-room-echo_tifa-working-studios_2018.jpg
 summary: >-
   The French poet Eugene Guillevic, whose ‘Charnel Houses’ (1947) is one of the
   first, and finest, poetic responses to the Shoah (Jewish, meaning Holocaust),
