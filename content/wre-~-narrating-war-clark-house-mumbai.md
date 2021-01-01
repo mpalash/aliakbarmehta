@@ -1,9 +1,10 @@
 ---
-title: 'wre ~ Narrating War, Clark House, Mumbai'
+title: wre ~ Narrating War, Clark House, Mumbai
 layout: layouts/content.njk
 tags: performance
-pubdate: '2017'
-parent: 'WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs'
+pubdate: "2017"
+hero: static/img/ali-akbar-mehta-narrating-war-03-clark-house-2017.jpg
+parent: "WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs"
 ---
 ![performance view, Clark House Initiative, Mumbai](/static/img/ali-akbar-mehta-narrating-war-03-clark-house-2017.jpg)
 ![performance view, Clark House Initiative, Mumbai](/static/img/ali-akbar-mehta-narrating-war-01-clark-house-2017.jpg)
