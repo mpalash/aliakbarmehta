@@ -1,11 +1,11 @@
 ---
-title: 'The Photons of Politics: Footnotes for a New History'
-subtitle: >-
-  RAB-RAB Journal for Political and Formal Inquiries in Art, (ed.) Sezgin
-  Boynik, 2017
+title: "The Photons of Politics: Footnotes for a New History"
+subtitle: RAB-RAB Journal for Political and Formal Inquiries in Art, (ed.)
+  Sezgin Boynik, 2017
 layout: layouts/content.njk
 tags: publication
-pubdate: '2017'
+pubdate: "2017"
+hero: static/img/rab-rab-volume-4.png
 ---
 ![](/static/img/ali-akbar-mehta_the-photons-of-politics_1.-cover-page_2017.jpg)
 ![](/static/img/ali-akbar-mehta_the-photons-of-politics_2.-page-one_2017.jpg)
