@@ -1,16 +1,15 @@
 ---
 title: sss ~ The Possibility of Alienation
-subtitle: >-
-  Exhibition Essay by Sumesh Sharma – co-curator, Clark House Initiative,
-  Mumbai  
+subtitle: "Exhibition Essay by Sumesh Sharma – co-curator, Clark House
+  Initiative, Mumbai  "
 layout: layouts/content.njk
 tags: text
-pubdate: '2014'
-summary: >-
-  The possibility of alienation in a city that claims cosmopolitanism as a
-  constant, cannot be attributed to the loss of cultural space specifically due
-  to revisits to the city’s history, but bizarrely it has and specifically in
-  particular name change that occurred many years go now erases those many
+pubdate: "2014"
+hero: static/img/1.-ali-akbar-mehta-site-stage-structure-2014_installation-view-©-aliakbarmehta.jpg
+summary: The possibility of alienation in a city that claims cosmopolitanism as
+  a constant, cannot be attributed to the loss of cultural space specifically
+  due to revisits to the city’s history, but bizarrely it has and specifically
+  in particular name change that occurred many years go now erases those many
   diverse histories.  Ali Akbar Mehta studied at the JJ School of Art that stood
   at the beginning of the road that leads into the city’s eastern districts.  As
   one drives onto a flyover that shares the same name with Ali’s school and was
@@ -20,7 +19,7 @@ summary: >-
   the stretch.  Here ‘Mumbaikars’ stare into the homes from the cars of a
   community whom they might not easily find in the endogamous housing societies
   of Bombay.
-parent: 'SITE : STAGE : STRUCTURE'
+parent: "SITE : STAGE : STRUCTURE"
 ---
 The buildings that line the roads of Bhendi Bazaar were built by Jewish merchants who were Sephardic immigrants from Baghdad and were initially inhabited by indigenous Bene Israelis from the Konkan hinterland, soon Muslim tenants replaced the migrating Baghdadis and the area soon was host to many different merchant communities which include the Dawoodi Bohras, Jains, Ismaili Khojas and Memons.  In the days of a siege that slaughters thousands in Palestine, Jewish charity runs a school mostly attended by Muslim children while the synagogue is colloquially called the mosque.  Not far from here is Mazgaon that translates from Marathi as ‘My village’. The varied urbanscape today actually arose from leafy plantation houses that once house the East Indians of Bombay and Parsis who were escaping the malarial crowd of the city.  The East Indians were descended mainly from indigenous fishing communities that were converted to Catholicism by the missionaries’ activities of Portuguese missionaries and inquisitions against the locale populace.   A certain bourgeoise arose from families that claimed Mulatto or Portuguese descent, one such family was the De Souza – De Lima family that was granted Mazgaon as an agricultural estate.  The Island of Bombay contained many East Indian villages and Matharpakadi is one that remains though constantly nudged by realtors essentially a village.
 
