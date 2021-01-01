@@ -1,8 +1,8 @@
 ---
 title: wre ~  Why is an archive of wars required?
 layout: layouts/content.njk
-tags: text
-pubdate: '2014'
+tags: unpublished
+pubdate: "2014"
 summary: >-
   The French poet Eugene Guillevic, whose ‘Charnel Houses’ (1947) is one of the
   first, and finest, poetic responses to the Shoah (Jewish, meaning Holocaust),
@@ -13,7 +13,7 @@ summary: >-
 
 
   __
-parent: 'WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs'
+parent: "WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs"
 ---
 > _“War is essentially an evil thing. Its consequences are not confined to the belligerent states alone, but affect the whole world. To initiate a war of aggression, therefore, is not only an international crime; it is the supreme international crime differing only from other war crimes in that it contains within itself the accumulated evil of the whole._
 >
