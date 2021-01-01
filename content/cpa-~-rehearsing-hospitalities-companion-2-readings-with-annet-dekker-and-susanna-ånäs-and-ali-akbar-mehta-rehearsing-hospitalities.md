@@ -5,6 +5,7 @@ subtitle: Rehearsing Hospitalities, Frame Contemporary Art Finland, Helsinki (on
 layout: layouts/content.njk
 tags: artist talk
 pubdate: "2020"
+hero: static/img/rehearsing-hospitalities-companion-2-readings-with-annet-dekker-and-susanna-ånäs-and-ali-akbar-mehta.png
 summary: >-
   <iframe width="560" height="315"
   src="https://www.youtube.com/embed/YUeC7AnDZDE" frameborder="0"
