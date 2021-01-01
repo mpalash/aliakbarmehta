@@ -5,6 +5,7 @@ layout: layouts/content.njk
 tags: group exhibition
 pubdate: "2017"
 hero: static/img/Ateria 18.JPG
+parent: 256 Million Colours of Violence
 children: []
 ---
 Project in collaboration with Kiasma Theatre and students of Visual Culture and Contemporary Art (ViCCA), Aalto University, Helsinki.
