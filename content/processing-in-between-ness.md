@@ -4,6 +4,7 @@ subtitle: in 'IN BETWEEN', HIAP summer Residency publication, (pub.) HIAP, Helsi
 layout: layouts/content.njk
 tags: publication
 pubdate: "2020"
+hero: static/img/hero-image-for-in-between-publication.png
 summary: "'\\[...] this publication, as a collaborative endeavor between the
   curators Marianne Savallampi and Ali Akbar Mehta and the artists-in-residence,
   is a culmination of an ‘in-between’ time. It documents this time
