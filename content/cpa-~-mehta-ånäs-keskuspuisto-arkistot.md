@@ -4,6 +4,7 @@ subtitle: Interview by M-Cult, for Maunulassa
 layout: layouts/content.njk
 tags: press
 pubdate: "2020"
+hero: static/img/central-park-archives_fieldtrip-june2020_photominnatarkka.jpg
 summary: >-
   The artists of the Central Park Archives project, Ali Akbar Mehta and Susanna
   Ånäs bring together the history, present, and future of Central Park together
