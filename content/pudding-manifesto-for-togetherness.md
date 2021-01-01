@@ -2,12 +2,13 @@
 title: Pudding Manifesto for Togetherness
 layout: layouts/content.njk
 tags: past project
-pubdate: '2016'
+pubdate: "2016"
+hero: static/img/pudding-manifesto_installation-view-cropped_2016.jpg
 children:
   - Pud ~ Proposal for Pudding Manifesto
   - pud ~ The Manifesto for Togetherness
   - Pud ~ Whose History is it Anyway?*
-  - 'Pud ~ Pudding Manifesto, Video'
+  - Pud ~ Pudding Manifesto, Video
   - Pud ~ Pledge
   - Pud ~ Project Report
   - Pud ~ Other Readings
