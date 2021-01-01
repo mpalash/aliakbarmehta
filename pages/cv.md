@@ -3,8 +3,6 @@ layout: layouts/cv.njk
 title: Ali Akbar Mehta | curriculum vitae
 permalink: /curriculum-vitae/
 ---
-
-
 **[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai) is a Transmedia artist, curator, and researcher. Through a research-based practice, he creates immersive cyber archives that map narratives of history, memory, and identity constructs through a multifocal lens of violence, conflict, and trauma. He is a founding member and current co-Artistic Director (w/ Marianne Savallampi) of **[Museum of Impossible Forms](https://museumofimpossibleforms.org/)**, Helsinki; a board member of **[Kiila ry](http://kiila.eu/)**, and pursuing his Doctoral Research in the Contemporary Art Department at **[Aalto University](https://www.aalto.fi/)**, Helsinki.
 
 He lives and works in Helsinki and Mumbai.
@@ -107,7 +105,7 @@ Kiila Archives
 
 *(upcoming)*    **To Err is Human**, Mäntä Art Festival 2021, Jyvaskylä, FI
 
-*(upcoming)*    ****, Vantaan Taidemuseo ARTSI, Vantaa, FI
+2021               **Reciprocities**, Vantaan Taidemuseo ARTSI, Vantaa, FI
 
 2020               **Meadow**, curated by Taru Elfving, Fiskars Village, FI
 
@@ -217,7 +215,6 @@ Kiila Archives
 
 ## **Teaching / Lectures**
 
-
 *(Upcoming)*  *Mentor:* **Anti-Caste Archive**, Party Office, New Delhi, IN
 
 2020               *Guest Lecturer and Mentor:* **[Kuvan Kevät 2020](https://www.exhibitionlaboratory.fi/exhibition/kuvan-kevaet-2020)**, Exhibition Laboratory, University of Arts Helsinki, FI
@@ -231,16 +228,15 @@ Kiila Archives
 2018               *Guest lecturer:* **‘Histories of the Present’**, Visual Cultures, Curating & Contemporary Art, Aalto University, Helsinki, FI
 <br/><br/>
 
-
 ## **Publications**
 
 *(Upcoming)*   **Cultural production and racism: How to challenge racist structures**, Muuntautuva rasismi. Kriittisiä näkökulmia rodullistamiseen, valkoisuuteen ja vallan koloniaalisuuteen (Different shapes of racism. Critical perspectives on racialization, whiteness and coloniality of power), (ed.) Suvi Keskinen, CEREN, Helsinki University, 2020
 
-*(Upcoming)*   **[SAFE{R}: Evolving the Conditions for Collaboration](https://aliakbarmehta.com/content/safe-r-evolving-the-conditions-for-collaboration)**, Third Space, Helsinki, 2020
-
-*(Upcoming)*   **[The Shape of Museums to Come](https://aliakbarmehta.com/content/the-shape-of-museums-to-come)**, The Museum of the Future. 43 New Contributions to the Discussion about the Future of the Museum, (ed) Nora Sternfeld, 2020
-
 *(Upcoming)*   **[Museum of Impossible Forms: Voicing the Margins](https://aliakbarmehta.com/content/museum-of-impossible-forms-voicing-the-margins)**, From Margins to Museums, (ed) Anna Rastas, Tampere University, 2020
+
+2020              **[The Shape of Museums to Come](https://aliakbarmehta.com/content/the-shape-of-museums-to-come)**, The Museum of the Future. 43 New Contributions to the Discussion about the Future of the Museum, (ed) Nora Sternfeld, 2020
+
+2020              **[SAFE{R}: Evolving the Conditions for Collaboration](https://aliakbarmehta.com/content/safe-r-evolving-the-conditions-for-collaboration)**, Third Space, Helsinki, 2020
 
 2020              **[Who is Welcome? – Thinking Hospitality as Museum of Impossible Forms](https://aliakbarmehta.com/content/museum-of-impossible-forms#who-is-welcome-thinking-hospitality-as-museum-of-impossible-forms)**, Rehearsing Hospitalities Companion 2, (ed.) Yvonne Billimore and Jussi Koitela, (pub.) Archive Books, Berlin, in collaboration with Frame Contemporary Art Finland, Helsinki
 
@@ -270,7 +266,7 @@ Kiila Archives
 
 2015               **[No one at the ceremony remembers to mention the artist](https://aliakbarmehta.com/content/no-one-at-the-ceremony-remembers-to-mention-the-artist)**, Essay for Exhibition *No one at the ceremony remembers to mention the artist*, Third Space, Helsinki
 
-2014               **Site: Stage: Structure**, (pub) StudioVAAK, Mumbai
+2014               **Site: Stage: Structure**, (pub.) StudioVAAK, Mumbai
 
 2011               **[A body split in two](https://aliakbarmehta.com/content/a-body-split-in-two)**, International Gallerie, Journal of Contemporary art, issue 30, (ed.) Bina Sarkar Ellias, Mumbai
 <br /><br />
@@ -339,7 +335,7 @@ Kiila Archives
 2011 – 2013   *Creative Director and Head of Post Production,* ***Luminous Matter***, a stop-motion animated short film by COMPOSITE Films
 
 > > > Screened at:
->
+> >
 > > > * Austria Film Festival 2013
 > > > * Jaipur Film Festival, 2013
 > > > * Leeds Film Festival, 2012
