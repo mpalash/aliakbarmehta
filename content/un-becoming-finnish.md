@@ -2,9 +2,10 @@
 title: (Un)Becoming Finnish
 layout: layouts/content.njk
 tags: artwork
-pubdate: '2016'
+pubdate: "2016"
+hero: static/img/becoming-uh-finnish_space-invaders-iv_matinkyla-espoo_2016.jpg
 children:
-  - 'unbecoming ~ Space Invaders IV: Heterotopia'
+  - "unbecoming ~ Space Invaders IV: Heterotopia"
 ---
 What does space mean on a national level? How does one’s own space reflect identity? Are space and identity a fixed thing or a fluid causal loop?
 
