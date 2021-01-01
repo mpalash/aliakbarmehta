@@ -1,6 +1,6 @@
 ---
 layout: layouts/page.njk
-title: Biography
+title: Long Biography
 permalink: /long-bio/
 ---
 Since 2016, I’ve been an active voice as an artist, writer, activist in the contemporary art and cultural spaces of Helsinki. Currently, I’m a Doctoral candidate at Aalto University, Helsinki, where I research ‘online performativity’ as a relationship between archives and its Users. I’m co-founder and Artistic Director (2018-2020) of ‘Museum of Impossible Forms’, Helsinki, an anti-racist, queer feminist cultural-center where I curate events, oversee programming, and provide support for multiple events.
