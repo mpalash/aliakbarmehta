@@ -1,11 +1,11 @@
 ---
 title: Tasher ~ Tagore Lost and Found
-subtitle: >-
-  Curated by Bina Sarkar Ellias, IndiaBulls Art Gallery and Auction House, New
-  Delhi
+subtitle: Curated by Bina Sarkar Ellias, IndiaBulls Art Gallery and Auction
+  House, New Delhi
 layout: layouts/content.njk
 tags: group exhibition
-pubdate: '2013'
+pubdate: "2013"
+hero: static/img/tagore-lost-and-found.jpg
 parent: Tasher Desh
 ---
 
