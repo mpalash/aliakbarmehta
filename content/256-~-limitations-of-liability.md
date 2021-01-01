@@ -2,21 +2,15 @@
 title: 256 ~ Limitations of Liability
 layout: layouts/content.njk
 tags: solo exhibition
-pubdate: '2017'
+pubdate: "2017"
+hero: static/img/limitations-of-liability-banner-for-facebook.jpg
 summary: >-
-  ![](/static/img/limitations-of-liability-banner-for-facebook.jpg)
-
   **Limitations of Liability** was an eight day program between March 17 to 28,
   2017, structured around ‘**256 Million Colours of Violence**’ – an interactive
   survey-based-research project by contemporary transmedia artist, **Ali Akbar
   Mehta**.
 
-  This interactive survey-based-research project started in 2016, now includes
-  more than 200 entries of people from all walks of life. 256 Million Colours of
-  Violence is available to the public for free. The exposition of the past
-  survey results will be installed along with a participation booth at The
-  Mumbai Assembly and Harkat studios inviting everyone to participate in the
-  ongoing survey.
+  This interactive survey-based-research project started in 2016, now includes more than 200 entries of people from all walks of life. 256 Million Colours of Violence is available to the public for free. The exposition of the past survey results will be installed along with a participation booth at The Mumbai Assembly and Harkat studios inviting everyone to participate in the ongoing survey.
 parent: 256 Million Colours of Violence
 ---
 ![Limitations of Liability, segment 1, The Mumbai Assembly, 2017](/static/img/limitations-of-liability-segment-1.jpg)
