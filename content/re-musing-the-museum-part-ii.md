@@ -5,6 +5,7 @@ subtitle: "ArTalk: Just Art? Ethics, guidance and art autonomy, Kiasma Museum of
 layout: layouts/content.njk
 tags: artist talk
 pubdate: "2018"
+hero: static/img/museum-of-impossible-forms.png
 summary: >-
   **Re-Musing the Museum: Part II** was a talk presented in my capacity as
   Co-Artistic director of Museum of Impossible Forms, discussing the precarity
