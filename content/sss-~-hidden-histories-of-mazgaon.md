@@ -1,14 +1,15 @@
 ---
-layout: layouts/content.njk
 title: sss ~ Hidden Histories of Mazgoan
-parent: 'SITE : STAGE : STRUCTURE'
+layout: layouts/content.njk
 tags: resource
-pubdate: '2014'
+pubdate: "2014"
+hero: static/img/mazgaon-docks.jpg
 summary: >-
-
+  
   ![](/static/img/mazgaon-docks.jpg)
 
   'Hidden Histories of Mazgoan' are the accumulated research notes and trivia, gathered through online research, interviews, and conversations with local historians and residents.
+parent: "SITE : STAGE : STRUCTURE"
 ---
 ## Mazgaon and Wadibunder
 
