@@ -1,8 +1,9 @@
 ---
-title: 'wre ~ Narrating War, Pispala, Tampere'
+title: wre ~ Narrating War, Pispala, Tampere
 layout: layouts/content.njk
 tags: performance
-pubdate: '2016'
+pubdate: "2016"
+hero: static/img/pispala-performance.jpg
 summary: |-
   <iframe width="560" height="315"
   src="https://www.youtube.com/embed/7M0vfJweVU0" frameborder="0"
@@ -20,7 +21,7 @@ summary: |-
 
   > _‘On this Pispala ridge, the Red Guard in Tampere last stood with weopans in
   > hand defending their cause in 1918’._
-parent: 'WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs'
+parent: "WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs"
 ---
 
 
