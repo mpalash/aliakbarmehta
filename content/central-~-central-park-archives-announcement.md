@@ -1,5 +1,5 @@
 ---
-title: Central ~ Central Park Archives, announcement
+title: Central ~ Maunula Commons
 subtitle: local/online residency w/ mcult, Helsinki
 layout: layouts/content.njk
 tags: residency
