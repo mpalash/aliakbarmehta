@@ -5,6 +5,7 @@ subtitle: International Gallerie, Journal of Contemporary art, issue 30, (ed.)
 layout: layouts/content.njk
 tags: publication
 pubdate: "2011"
+hero: static/img/ali-akbar-mehta_cover-international-gallerie-magazine-journal-of-contemporary-art-issue-30-bina-sarkar-ellias-mumbai_2011.jpg
 children: []
 ---
 ![Cover, International Gallerie - Journal of Contemporary art - issue 30 (ed.) Bina Sarkar Ellias, Mumbai, 2011](/static/img/ali-akbar-mehta_cover-international-gallerie-magazine-journal-of-contemporary-art-issue-30-bina-sarkar-ellias-mumbai_2011.jpg)
