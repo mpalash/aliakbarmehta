@@ -2,7 +2,8 @@
 title: Poems
 layout: layouts/content.njk
 tags: publication
-pubdate: '2011'
+pubdate: "2011"
+hero: static/img/sketch-for-unselfed-iii-2014-digital-drawing.jpg
 children:
   - poems ~ A body split in two
   - poems ~ Awakening
