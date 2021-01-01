@@ -3,7 +3,7 @@ title: Soak ~ SOAK is a mixed use world
 subtitle: Curatorial Text by Ali Akbar Mehta
 layout: layouts/content.njk
 tags: text
-pubdate: "2016"
+pubdate: "2021"
 hero: static/img/received_10153360436612014.jpeg
 parent: SOAK
 ---
