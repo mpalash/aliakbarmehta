@@ -1,10 +1,11 @@
 ---
-layout: layouts/content.njk
-title: 'sss ~ SITE : STAGE : STRUCTURE'
+title: "sss ~ SITE : STAGE : STRUCTURE"
 subtitle: Clark House, Mumbai
-parent: 'SITE : STAGE : STRUCTURE'
-tags: "solo exhibition"
-pubdate: '2014'
+layout: layouts/content.njk
+tags: solo exhibition
+pubdate: "2014"
+hero: static/img/1.-ali-akbar-mehta-site-stage-structure-2014_installation-view-©-aliakbarmehta.jpg
+parent: "SITE : STAGE : STRUCTURE"
 ---
 ![Installation views, SITE : STAGE : STRUCTURE, 2014, Clark House, Mumbai](/static/img/1.-ali-akbar-mehta-site-stage-structure-2014_installation-view-©-aliakbarmehta.jpg)
 ![](/static/img/2.-ali-akbar-mehta-site-stage-structure-2014_installation-view-©-aliakbarmehta.jpg)
