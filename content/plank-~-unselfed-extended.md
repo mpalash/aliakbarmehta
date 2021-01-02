@@ -3,14 +3,24 @@ title: plank ~ Unselfed Extended
 layout: layouts/content.njk
 tags: artwork
 pubdate: "2013"
+hero: static/img/sketch-for-unselfed-i-2014-digital-drawing.jpg
 summary: >-
-  ![Planktonian People, 2014](/static/img/sketch-for-unselfed-i-2014-digital-drawing.jpg)
-  ![Planktonian People, 2014](/static/img/sketch-for-unselfed-ii-2014-digital-drawing.jpg)
+  ![Planktonian People,
+  2014](/static/img/sketch-for-unselfed-i-2014-digital-drawing.jpg) 
+
+  ![Planktonian People, 2014](/static/img/sketch-for-unselfed-ii-2014-digital-drawing.jpg) 
+
   ![Planktonian People, 2014](/static/img/sketch-for-unselfed-iii-2014-digital-drawing.jpg)
 
 
   Unselfed Extended is a mix media body of work that includes a series of drawings/copper plate etchings, prosthetic sculpture/masks and other props/objects. It is an interpretive work based on and furthering the artistic vision of an 80 minute performance of the same name. It is a search for a hybrid form, one which invites the viewer to engage simply with bodies moving in space, with gestures, with objects, movement, images and the spoken word...
 parent: Planktonian People
+children:
+  - Superheroes ~ Of Men and Supermen
+  - Superheroes ~ Visual Disobedience
+  - Superheroes ~ Ali Akbar Mehta in conversation with Namrata Bhawnani
+  - Superheroes ~ The League of Superheroes
+  - Superheroes ~ Equilibrium
 ---
 
 
