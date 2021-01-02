@@ -17,6 +17,7 @@ children:
   - Superheroes ~ The League of Superheroes
   - The Superhero Series
   - Ballad ~ The Harlequin Series
+  - Ballad ~ Everybody's a Jester
   - Ballad ~ Paintings
   - Ballad ~ Drawings
   - We are such stuff As dreams are made on
