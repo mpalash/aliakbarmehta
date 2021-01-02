@@ -2,10 +2,11 @@
 title: Maunula Speaks
 layout: layouts/content.njk
 tags: artwork
-pubdate: '2017'
+pubdate: "2017"
+hero: static/img/PartizaningMaunula_photo27_VesaPekkaGronfors_web.jpg
 children:
   - Maunuala ~ Partizaning Maunula
 ---
-![Partizaning Maunula, Ali Akbar Mehta and Vidha Saumya making soup, 2017, photo: Vesa Pekka Gronfors](/static/img/partizaningmaunula-ali-vidha-soup_photovesapekkagronfors-web.jpg)
-![Partizaning Maunula, Ali Akbar Mehta and Vidha Saumya making soup, 2017, photo: Vesa Pekka Gronfors](/static/img/PartizaningMaunula-Soup2_photoVesaPekkaGronfors-web.jpg)
-![Partizaning Maunula, installation view, photo: Vesa Pekka Gronfors](/static/img/PartizaningMaunula_photo27_VesaPekkaGronfors_web.jpg)
+![](static/img/Maunula speaks_Poster_Ali and Vidha.jpg)
+
+**Maunula Speaks as** a culmination of an intervention in the Helsinki suburb of Maunula, together with Partizaning Collective, a Russian artist-duo working in Maunula as part of the **M-cult** artist residency programme.
