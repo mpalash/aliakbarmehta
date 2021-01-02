@@ -2,20 +2,35 @@
 title: Ballad ~ The Harlequin Series
 layout: layouts/content.njk
 tags: artwork
-pubdate: '2011'
-parent: 'Ballad of the War that Never Was, and Other Basterdised Myths'
+pubdate: "2011"
+summary: >-
+  ![To Glory in Self like some kind of New Monster, 2010, Archival print on
+  Hahnemuhle paper, 182 x 121 cm.jpg](/static/img/Ali Akbar Mehta_Harlequin
+  Series; To Glory in Self, like some kind of New Monster, 2010, Archival print
+  on Hahnemuhle paper, 182 x 121 cm.jpg)
+
+
+  ![Safdar, 2010, Archival print on Hahnemuhle paper, 152 x 213 cm](/static/img/Ali Akbar Mehta_Harlequin Series; Safdar, 2010, Archival print on Hahnemuhle paper, 152 x 213 cm.jpg)
+
+
+  ![Icarus finds his wings again, 2010, Archival print on Hahnemuhle paper, 182 x 121 cm](/static/img/Ali Akbar Mehta_Harlequin Series; Icarus finds his wings again, 2010, Archival print on Hahnemuhle paper, 182 x 121 cm.jpg)
+
+
+  ![Caught Somewhere in Time, 2010, Archival print on Hahnemuhle paper, 182 x 152 cm](/static/img/Ali Akbar Mehta_Harlequin Series; Caught Somewhere in Time, 2010, Archival print on Hahnemuhle paper, 182 x 152 cm.jpg)
+
+
+  ![All that was Solid is Liquid again, 2010, Archival print on archival paper, 229 x 152 cm](/static/img/Ali Akbar Mehta_Harlequin Series; All that was Solid is Liquid again, 2010, Archival print on archival paper, 229 x 152 cm.jpg)
+
+
+  ![Soliloquies in the Garden of Earthly Delights, 2011, Archival print on Hahnemuhle paper, 229 x 152 cm](/static/img/Ali Akbar Mehta_Harlequin Series; Soliloquies in the Garden of Earthly Delights, 2011, Archival print on Hahnemuhle paper, 229 x 152 cm.jpg)
+
+
+  ![The Ascension of Karna, 2010, Archival print on Hahnemuhle paper, 121 x 91.5 cm](/static/img/Ali Akbar Mehta_The Ascension of Karna, 2010, Archival print on Hahnemuhle paper, 121 x 91.5 cm.jpg)
+
+
+  ![Karnabhaaram, 2010, Archival print on archival paper, 91.5 x 91.5 cm](/static/img/Ali AKbar Mehta_Karnabhaaram, 2010, Archival print on archival paper, 91.5 x 91.5 cm.jpg)
+parent: Ballad of the War that Never Was, and Other Basterdised Myths
 ---
-![To Glory in Self like some kind of New Monster, 2010, Archival print on Hahnemuhle paper, 182 x 121 cm.jpg](/static/img/Ali Akbar Mehta_Harlequin Series; To Glory in Self, like some kind of New Monster, 2010, Archival print on Hahnemuhle paper, 182 x 121 cm.jpg)
-![Safdar, 2010, Archival print on Hahnemuhle paper, 152 x 213 cm](/static/img/Ali Akbar Mehta_Harlequin Series; Safdar, 2010, Archival print on Hahnemuhle paper, 152 x 213 cm.jpg)
-![Icarus finds his wings again, 2010, Archival print on Hahnemuhle paper, 182 x 121 cm](/static/img/Ali Akbar Mehta_Harlequin Series; Icarus finds his wings again, 2010, Archival print on Hahnemuhle paper, 182 x 121 cm.jpg)
-![Caught Somewhere in Time, 2010, Archival print on Hahnemuhle paper, 182 x 152 cm](/static/img/Ali Akbar Mehta_Harlequin Series; Caught Somewhere in Time, 2010, Archival print on Hahnemuhle paper, 182 x 152 cm.jpg)
-![All that was Solid is Liquid again, 2010, Archival print on archival paper, 229 x 152 cm](/static/img/Ali Akbar Mehta_Harlequin Series; All that was Solid is Liquid again, 2010, Archival print on archival paper, 229 x 152 cm.jpg)
-![Soliloquies in the Garden of Earthly Delights, 2011, Archival print on Hahnemuhle paper, 229 x 152 cm](/static/img/Ali Akbar Mehta_Harlequin Series; Soliloquies in the Garden of Earthly Delights, 2011, Archival print on Hahnemuhle paper, 229 x 152 cm.jpg)
-![The Ascension of Karna, 2010, Archival print on Hahnemuhle paper, 121 x 91.5 cm](/static/img/Ali Akbar Mehta_The Ascension of Karna, 2010, Archival print on Hahnemuhle paper, 121 x 91.5 cm.jpg)
-![Karnabhaaram, 2010, Archival print on archival paper, 91.5 x 91.5 cm](/static/img/Ali AKbar Mehta_Karnabhaaram, 2010, Archival print on archival paper, 91.5 x 91.5 cm.jpg)
-
-
-
 ## The Harlequin
 
 The Harlequin appears in Dante's _Inferno_ "roaming the streets with a band of devils, searching for souls to drag back to Hell"; In Medieval French miracle plays; to more positive and mystical interpretations with a multi-colored diamond-patterned costume that embodies the many-sidedness and richness of life.
