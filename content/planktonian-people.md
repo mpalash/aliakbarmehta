@@ -9,11 +9,18 @@ shortdesc: "*Planktonian People* is an ongoing series of ink, watercolour, and
   present and the future."
 parent: Planktonian People
 children:
+  - To Whomsoever it May Concern
   - plank ~ Small is Beautiful – II
   - plank ~ Unselfed Extended
   - Tasher Desh
   - Placebo Singers
+  - Superheroes ~ The League of Superheroes
+  - The Superhero Series
+  - Ballad ~ The Harlequin Series
+  - Ballad ~ Paintings
+  - Ballad ~ Drawings
   - We are such stuff As dreams are made on
+  - Purgatory
   - Rebirth
   - Goodbye Blue Sky
   - Inhale / Exhale
