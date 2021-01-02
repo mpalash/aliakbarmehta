@@ -3,6 +3,7 @@ title: Planktonian People
 layout: layouts/content.njk
 tags: ongoing project
 pubdate: "2013"
+hero: static/img/ali-akbar-mehta_to-whomsoever-it-may-concern_tao-art-gallery_cc_2018.jpg
 shortdesc: "*Planktonian People* is an ongoing series of ink, watercolour, and
   digital works on paper. the series portrays *human/non-human hybrids, Mutants,
   Androids and Cyborgs* as a cast of time-travellers, constantly in the past,
