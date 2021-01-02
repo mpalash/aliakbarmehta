@@ -13,7 +13,7 @@ summary: >-
 
 
   *The following is the prepared text of the talk and workshop:*
-parent: Planktonian People
+parent: ‘Museum of Impossible Forms’
 children:
   - To Whomsoever it May Concern
   - plank ~ Small is Beautiful – II
