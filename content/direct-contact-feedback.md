@@ -5,16 +5,28 @@ layout: layouts/content.njk
 tags: performance
 pubdate: "2019"
 hero: static/img/vidha-saumya_image-for-direct-contact_radical-roti_2018.jpg
+summary: >-
+  ![Vidha Saumya, “Main radical roti hoon/ I am a radical roti”,
+  2018](blob:https://dev-aam.netlify.app/674b918a-c469-a144-8e95-e348f34fccee
+  "Vidha Saumya, “Main radical roti hoon/ I am a radical roti”, 2018")
+
+
+  > Through direct-contact, we stage a ‘time travel’ to Colonial India, where the chapati (a form of unleavened bread) becomes the site for agency, insurrection and community, and then move back forward in time through a history of roti, (and bread in general), which is fraught with radically charged associations: of nobility (let them eat cake), Communist equality (those who grow it, will eat it), institutionalised poverty, where workers, day-wage earners, labourers and farmers carry rotis, salt, and an onion for a ‘working lunch’, and of institutionalised capitalism, where it is preferable for food grain to be burnt than donated.
+
+  >
+
+  > With this radically round low-tech weapon, this imperfect tool, how can we strategically engage with and resist the socio-political of the neo-liberal, xenophobic, and far-right positions of today?
+
+  >
+
+  > In a time where food in Finland is forced to undergo the strenuous processes of contactless cooking (forcing cafeterias to use pre-cutting, prewashing with sanitizers, dehydration process, and other ‘healthy’ cooking methodologies), what capitalist insurrections do eating a food that is necessarily made by ‘direct contact’ and eating with unassisted fingers, mean?
+
+
+  <br/>
 children:
   - In Conversation with Ali Akbar Mehta
 ---
-![Vidha Saumya, “Main radical roti hoon/ I am a radical roti”, 2018](/static/img/vidha-saumya_image-for-direct-contact_radical-roti_2018.jpg "Vidha Saumya, “Main radical roti hoon/ I am a radical roti”, 2018")
 
-Through direct-contact, we stage a ‘time travel’ to Colonial India, where the chapati (a form of unleavened bread) becomes the site for agency, insurrection and community, and then move back forward in time through a history of roti, (and bread in general), which is fraught with radically charged associations: of nobility (let them eat cake), Communist equality (those who grow it, will eat it), institutionalised poverty, where workers, day-wage earners, labourers and farmers carry rotis, salt, and an onion for a ‘working lunch’, and of institutionalised capitalism, where it is preferable for food grain to be burnt than donated.
-
-With this radically round low-tech weapon, this imperfect tool, how can we strategically engage with and resist the socio-political of the neo-liberal, xenophobic, and far-right positions of today?
-
-In a time where food in Finland is forced to undergo the strenuous processes of contactless cooking (forcing cafeterias to use pre-cutting, prewashing with sanitizers, dehydration process, and other ‘healthy’ cooking methodologies), what capitalist insurrections do eating a food that is necessarily made by ‘direct contact’ and eating with unassisted fingers, mean?
 
 ## About
 
