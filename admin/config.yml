@@ -51,11 +51,22 @@ collections: # A list of collections the CMS should be able to edit
       - label: "Tags"
         name: "tags"
         widget: "select"
+        multiple: false
         options: ["ongoing project","past project","curatorial project","artwork","group exhibition","solo exhibition","performance","press","publication","unpublished","residency","resource","artist talk","teaching","text","video"]
       - label: "Date"
         name: "pubdate"
-        widget: "date"
-        format: "YYYY"
+        widget: "datetime"
+        default: ""
+        date_format: "DD-MM-YYYY" # e.g. 24-12-2021
+        time_format: false
+        format: "LLL"
+        picker_utc: false
+      - label: "Unlisted"
+        name: "unlisted"
+        widget: "select"
+        multiple: false
+        default: "true"
+        options: ["true","false"]
       - label: "Hero Image"
         name: "hero"
         required: false
