@@ -2,7 +2,8 @@
 title: Superheroes ~ Ali Akbar Mehta in conversation with Namrata Bhawnani
 layout: layouts/content.njk
 tags: press
-pubdate: '2013'
+pubdate: "2013"
+hero: static/img/Ali-Akbar-Mehta-I-India-Art-Festival-2012-I-Of-Men-and-Supermen-05,-Lenticular-and-vinyl-on-archival-mount,--57-x-92-cm,-edition-1_lo-res-for-web-1.jpg
 summary: >-
   **Ali Akbar Mehta’s apartment in Madh Island doubles up as a studio for the
   artist and it’s not tough to see why he chose to make the island his base. The
@@ -11,19 +12,8 @@ summary: >-
   doubt a stimulating space for an artist.**
 
 
-  This enviable space’s resident, Mehta (29), recently showcased his lenticular
-  series Of Men and Supermen at the India Art Festival. With five of seven works
-  sold, Ali’s series stood out, making him an artist to watch out for. Costumes
-  of superheroes were imposed on photographs of faces on the street. The
-  photographs were extracted from a larger body of archival site-specific work
-  based in Mazgaon and Wadibunder, which comprises an eclectic mix of chawls,
-  shanties and tenements, amidst more permanent historic landmarks and its
-  inhabitants. Mehta says, “These are characters we look at but don’t see them,
-  they belong to the periphery of our vision. The fictional percolates into the
-  realm of the real, generating a new urban metascape and transforming people
-  into the Superheroes of their own narratives.”
-
-parent: 'The Superhero Series'
+  This enviable space’s resident, Mehta (29), recently showcased his lenticular series Of Men and Supermen at the India Art Festival. With five of seven works sold, Ali’s series stood out, making him an artist to watch out for. Costumes of superheroes were imposed on photographs of faces on the street. The photographs were extracted from a larger body of archival site-specific work based in Mazgaon and Wadibunder, which comprises an eclectic mix of chawls, shanties and tenements, amidst more permanent historic landmarks and its inhabitants. Mehta says, “These are characters we look at but don’t see them, they belong to the periphery of our vision. The fictional percolates into the realm of the real, generating a new urban metascape and transforming people into the Superheroes of their own narratives.”
+parent: The Superhero Series
 ---
 The choice of the lenticular medium was crucial as it made the process transparent. Mehta explains, “Here people are able to see the original image and my interpretation of the work. The work is the engagement of reality and fiction.”  
 
