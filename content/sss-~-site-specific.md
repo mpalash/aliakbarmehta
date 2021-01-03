@@ -6,6 +6,23 @@ tags: press
 pubdate: "2014"
 hero: static/img/5.-ali-akbar-mehta-site-stage-structure-2014_installation-view-©-aliakbarmehta.png
 parent: "SITE : STAGE : STRUCTURE"
+children:
+  - To Whomsoever it May Concern
+  - plank ~ Small is Beautiful – II
+  - plank ~ Unselfed Extended
+  - Tasher Desh
+  - Placebo Singers
+  - Superheroes ~ The League of Superheroes
+  - The Superhero Series
+  - Ballad ~ The Harlequin Series
+  - Ballad ~ Everybody's a Jester
+  - Ballad ~ Paintings
+  - Ballad ~ Drawings
+  - We are such stuff As dreams are made on
+  - Purgatory
+  - Rebirth
+  - Goodbye Blue Sky
+  - Inhale / Exhale
 ---
 ![](/static/img/5.-ali-akbar-mehta-site-stage-structure-2014_installation-view-©-aliakbarmehta.png)
 
