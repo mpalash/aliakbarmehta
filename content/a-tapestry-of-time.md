@@ -4,6 +4,7 @@ subtitle: TAO Art Gallery, Mumbai
 layout: layouts/content.njk
 tags: group exhibition
 pubdate: "2020"
+hero: static/img/tapestry-of-time_to-art-gallery-2020.jpg
 ---
 ![Planktonian People II, 2013, ink on paper, 16.5(h) x 23.25(w) inches](/static/img/ali-akbar-mehta-planktonian-people-i-2013-ink-on-paper-16.5-h-x-23.25-w-inches.jpg)
 
