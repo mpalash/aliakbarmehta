@@ -3,7 +3,7 @@ title: Superheroes ~ Ali Akbar Mehta in conversation with Namrata Bhawnani
 layout: layouts/content.njk
 tags: press
 pubdate: "2013"
-hero: static/img/Ali-Akbar-Mehta-I-India-Art-Festival-2012-I-Of-Men-and-Supermen-05,-Lenticular-and-vinyl-on-archival-mount,--57-x-92-cm,-edition-1_lo-res-for-web-1.jpg
+hero: static/img/Ali-Akbar-Mehta-I-India-Art-Festival-2012-I-Of-Men-and-Supermen-03,-Lenticular-and-vinyl-on-archival-mount,--88-x-114-cm,-edition-2_lo-res-for-web-1.jpg
 summary: >-
   **Ali Akbar Mehta’s apartment in Madh Island doubles up as a studio for the
   artist and it’s not tough to see why he chose to make the island his base. The
