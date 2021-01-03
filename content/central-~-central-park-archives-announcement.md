@@ -4,6 +4,7 @@ subtitle: local/online residency w/ mcult, Helsinki
 layout: layouts/content.njk
 tags: residency
 pubdate: "2020"
+hero: static/img/ali_cpa_maunula_map_2020_bw-surround.jpg
 summary: >-
   ![](/static/img/ali_cpa_maunula_map_2020_bw-surround.jpg)
 
