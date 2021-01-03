@@ -23,5 +23,6 @@ children:
   - Goodbye Blue Sky
   - Inhale / Exhale
 ---
+![](static/img/lm1-large.jpg)
 
 Download Press Kit [here](http://luminousmatter.in/)
