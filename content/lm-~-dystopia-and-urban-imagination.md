@@ -2,13 +2,18 @@
 title: LM ~ Dystopia and Urban Imagination
 layout: layouts/content.njk
 tags: resource
-pubdate: '2011'
-summary: |-
-  ![Dystopia and Urban Imagination, Poster, 2013](/static/img/invite-dystopia_poster.jpg)
+pubdate: "2011"
+hero: static/img/invite-dystopia_poster.jpg
+summary: >-
+  ![Dystopia and Urban Imagination, Poster,
+  2013](/static/img/invite-dystopia_poster.jpg)
+
 
   Film Screenings
 
+
   January 21 to 25, 2013
+
 
   4:30 pm onwards
 parent: Luminous Matter
