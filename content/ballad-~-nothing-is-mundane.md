@@ -6,8 +6,24 @@ tags: press
 pubdate: "2011"
 hero: static/img/Ali Akbar Mehta_Harlequin Series; Soliloquies in the Garden of
   Earthly Delights, 2011, Archival print on Hahnemuhle paper, 229 x 152 cm.jpg
-parent: Ballad of the War that Never Was, and Other Basterdised Myths
-children: []
+parent: The Superhero Series
+children:
+  - To Whomsoever it May Concern
+  - plank ~ Small is Beautiful – II
+  - plank ~ Unselfed Extended
+  - Tasher Desh
+  - Placebo Singers
+  - Superheroes ~ The League of Superheroes
+  - The Superhero Series
+  - Ballad ~ The Harlequin Series
+  - Ballad ~ Everybody's a Jester
+  - Ballad ~ Paintings
+  - Ballad ~ Drawings
+  - We are such stuff As dreams are made on
+  - Purgatory
+  - Rebirth
+  - Goodbye Blue Sky
+  - Inhale / Exhale
 ---
 ![](/static/img/Ali Akbar Mehta_Harlequin Series; Soliloquies in the Garden of Earthly Delights, 2011, Archival print on Hahnemuhle paper, 229 x 152 cm.jpg)
 
