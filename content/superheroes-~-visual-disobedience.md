@@ -4,7 +4,7 @@ subtitle: Interview by Kevin Lobo, for Visual Disobedience
 layout: layouts/content.njk
 tags: press
 pubdate: "2012"
-hero: static/img/Ali-Akbar-Mehta-I-India-Art-Festival-2012-I-Of-Men-and-Supermen-05,-Lenticular-and-vinyl-on-archival-mount,--57-x-92-cm,-edition-1_lo-res-for-web.jpg
+hero: static/img/Ali-Akbar-Mehta-I-India-Art-Festival-2012-I-Of-Men-and-Supermen-03,-Lenticular-and-vinyl-on-archival-mount,--88-x-114-cm,-edition-2_lo-res-for-web-1.jpg
 summary: Ali’s work was Visual Disobedience’s pick of the art on display by
   emerging artists at the India Art Festival this year. We speak to him about
   how pictures of the poor don’t need to be patronising, the magic of using
