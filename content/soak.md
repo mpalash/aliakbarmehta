@@ -4,7 +4,8 @@ subtitle: Curated by by Ali Akbar Mehta, Martina Adela, and Ru Zham
 layout: layouts/content.njk
 tags: curatorial project
 pubdate: "2016"
-hero: /static/img/soak-exhibition.jpg
+hero: static/img/received_10153360436612014.jpeg
+parent: To Participate in the Archive
 children:
   - Soak ~ SOAK is a mixed use world
   - SOAK ~ SOAK, Illusia
