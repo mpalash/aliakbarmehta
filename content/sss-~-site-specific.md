@@ -1,10 +1,11 @@
 ---
 title: sss ~ Site Specific
-subtitle: 'Reema Gehi, Mumbai Mirror, 15.08.2014'
+subtitle: Reema Gehi, Mumbai Mirror, 15.08.2014
 layout: layouts/content.njk
 tags: press
-pubdate: '2014'
-parent: 'SITE : STAGE : STRUCTURE'
+pubdate: "2014"
+hero: static/img/5.-ali-akbar-mehta-site-stage-structure-2014_installation-view-©-aliakbarmehta.png
+parent: "SITE : STAGE : STRUCTURE"
 ---
 ![](/static/img/5.-ali-akbar-mehta-site-stage-structure-2014_installation-view-©-aliakbarmehta.png)
 
