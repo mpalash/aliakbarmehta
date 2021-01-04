@@ -84,3 +84,4 @@ CMS, you can reach out in the [Netlify CMS Gitter](https://gitter.im/netlify/net
 - TOC
 - Prev / Next / other projects
 - Footer
+- LFS
