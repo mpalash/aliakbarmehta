@@ -4,7 +4,7 @@ subtitle: Myymälä2, Helsinki
 layout: layouts/content.njk
 tags: artist talk
 pubdate: April 28, 2020 12:00 AM
-unlisted: "false"
+unlisted: "true"
 hero: /static/img/ali-akbar-mehta_online-program-03_myymala2_2020.jpg
 parent: 256 Million Colours of Violence
 ---
