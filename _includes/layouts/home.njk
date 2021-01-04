@@ -14,18 +14,20 @@
           <span class="less"></span>
         </a>
 
-        <div class="social">
-          <a href="mailto:{{ metadata.email }}" target="_blank">{{ metadata.emailtxt }}</a>
-          <a href="{{ metadata.instagram }}" target="_blank">IG</a>
-          <a href="{{ metadata.facebook }}" target="_blank">FB</a>
-          <a href="{{ metadata.twitter }}" target="_blank">TW</a>
-        </div>
+        <ul class="social">
+          <li><a href="mailto:{{ metadata.email }}" target="_blank">{{ metadata.emailtxt }}</a></li>
+          <li><a href="{{ metadata.instagram }}" target="_blank">IG</a></li>
+          <li><a href="{{ metadata.facebook }}" target="_blank">FB</a></li>
+          <li><a href="{{ metadata.twitter }}" target="_blank">TW</a></li>
+        </ul>
 
         <div class="partners">
           <h3>Partners</h3>
+          <ul>
           {% for p in metadata.partners %}
-            <a href="{{ p.url }}" target="_blank">{{ p.name }}</a>
+            <li><a href="{{ p.url }}" target="_blank">{{ p.name }}</a></li>
           {% endfor %}
+          </ul>
         </div>
 
         <div class="copyright">
@@ -36,7 +38,7 @@
           <p><a href="https://mpalash.com" target="_blank">Website dev-design by mpalash</a></p>
         </div>
       </div>
-      <div class="home-list">        
+      <div class="home-list">
         {% include "components/list-all.njk" %}
       </div>
     </main>

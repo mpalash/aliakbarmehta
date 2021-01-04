@@ -131,10 +131,12 @@
   overflow-y: scroll;
 
   a {
-    color: var(--color-ink);
+    color: inherit;
+    font-weight: 325;
     text-decoration: underline;
+    transition: background-color var(--transition-timing);
     &:hover {
-      text-decoration: none;
+      background-color: var(--color-warm-light);
     }
   }
   .social,
@@ -144,11 +146,18 @@
     font-size: var(--s-s);
   }
   .social {
-    a {
+    padding: 0;
+    list-style: none;
+
+    li {
       margin-right: var(--s-b);
+      display: inline-block;
       &:first-child {
         display: block;
       }
+    }
+    a {
+      display: inline-block;
     }
   }
   .partners {
@@ -157,8 +166,13 @@
       font-size: 1em;
       font-weight: 600;
     }
+    ul {
+      padding: 0;
+      margin: 0;
+      list-style: none;
+    }
     a {
-      display: block;
+      display: inline-block;
     }
   }
 }

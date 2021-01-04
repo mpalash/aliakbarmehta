@@ -1,23 +1,30 @@
 ---
 layout: layouts/base.njk
 ---
+<span id="top"></span>
 <article class="project">
-  <span id="top"></span>
-  <aside class="project-tag meta">
-    <div><p>{{ tag }} • {{ pubdate }}</p></div>
-  </aside>
-  <h1 class="project-title fixed">{{ title }}</h1>
-  <h1 class="project-title">{{ title }}</h1>
-  <h2 class="project-subtitle">{{ subtitle }}</h2>
   {% if hero %}
-    <img class="project-hero" src="{{ hero }}" />
+  <div class="project-hero">
+    <img src="{{ hero }}" />
+  </div>
   {% endif %}
-  <section class="intro txt">
-    <div class="section-content">
-      {{ summary | md | safe }}
+  {% if title %}
+  <h1 class="project-title">{{ title }}</h1>
+  {% endif %}
+  {% if subtitle %}
+  <h2 class="project-subtitle">{{ subtitle }}</h2>
+  {% endif %}
 
-      {{ layoutContent | safe }}
-    </div>
+  <div class="project-toc">
+    TOC
+  </div>
+  
+  <aside class="project-tag">
+    <span>{{ tags }} — {{ pubdate }}</span>
+  </aside>
+  <section>
+    <div class="summary">{{ summary | md | safe }}</div>
+    {{ layoutContent | safe }}
   </section>
 
   {% set sections = collections.content %}
@@ -27,26 +34,24 @@ layout: layouts/base.njk
     {% for section in sections %}
       {% if section.data.title == content %}
 
-      <section id="{{ section.data.title.split('~').slice(-1)[0] | trim | slug }}" class="project-content {{ section.data.tag }}">
-        <aside class="meta">
-          <div><p>{{ section.data.tag }} • {{ section.data.pubdate }}</p></div>
-        </aside>
-        <div class="section-content" data-title="{{ section.data.title.split('~').slice(-1)[0] | trim | slug }}">
-          <h2>{{ section.data.title.split('~').slice(-1)[0] | trim }}</h2>
-          {% if section.subtitle %}
+      <aside class="project-tag">
+        <span>{{ section.data.tags }} — {{ section.data.pubdate }}</span>
+      </aside>
+      <section id="{{ section.data.title.split('~').slice(-1)[0] | trim | slug }}" class="section-content {{ section.data.tag }}" data-title="{{ section.data.title.split('~').slice(-1)[0] | trim | slug }}">
+        <h2>{{ section.data.title.split('~').slice(-1)[0] | trim }}</h2>
+        {% if section.subtitle %}
           <h4>{{ section.data.subtitle | safe }}</h4>
-          {% endif %}
-          {% if section.data.summary %}
+        {% endif %}
+        {% if section.data.summary %}
           <div class="summary">{{ section.data.summary | md | safe }}</div>
-          {% endif %}
-          <div class="full-content">{{ section.data.layoutContent | safe }}</div>
-          {% if section.data.summary and section.data.content %}
+        {% endif %}
+        <div class="full-content">{{ section.data.layoutContent | safe }}</div>
+        {% if section.data.summary and section.data.content %}
           <a href="#" class="toggle-section" data-title="{{ section.data.title.split('~').slice(-1)[0] | trim | slug }}">
             <span class="more"></span>
             <span class="less" style="display: none;"></span>
           </a>
-          {% endif %}
-        </div>
+        {% endif %}
       </section>
 
       {% endif %}

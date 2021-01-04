@@ -1,14 +1,14 @@
-.page-content {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  min-height: 100vh;
-
-  > div,
-  > article {
-    flex: 1 0 auto;
-  }
-}
+// .page-content {
+//   display: flex;
+//   flex-direction: column;
+//   justify-content: center;
+//   min-height: 100vh;
+//
+//   > div,
+//   > article {
+//     flex: 1 0 auto;
+//   }
+// }
 .toggle-section {
   @extend %fa-icon;
   @extend .far;
