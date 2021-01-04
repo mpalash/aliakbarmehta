@@ -3,7 +3,13 @@ title: "WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs"
 layout: layouts/content.njk
 tags: ongoing project
 pubdate: "2019"
-hero: ""
+hero: static/img/screenshot-2018-10-12-at-15.54.22.png
+shortdesc: "**WAR • ROOM • ECHO: Regarding the pain of other Cyborgs** is a
+  *collaborative Transmedia Performance-Installation and Research Project*. It
+  examines the philosophical terrain of war and the seemingly permanent state of
+  conflict across the globe – addressing (present and past) violent incidents in
+  the world not as isolated events but as a new condition of *ongoing,
+  unparalleled warfare*."
 children:
   - "wre ~ Foreword: Artist's Note"
   - War List CODEX
