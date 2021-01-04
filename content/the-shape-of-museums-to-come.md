@@ -15,16 +15,22 @@ shortdesc: '"The Museum of the Future was published in 1970. 43 contributions to
   positioned and subjective. What do visions of the future accomplish and what
   do they make impossible? How empowering or disempowering are speculations
   about the future for a change in the museum of the present?"'
-summary: >
+summary: >-
   ***Upcoming Essay***
 
 
   > "The Museum of the Future was published in 1970. 43 contributions to the discussion about the future of the museum. 50 years later, a publication brings together 43 new contributions by international authors from museum practice, from theory, education, art and architecture. They create concrete visions of a museum of the future: confident and doubtful, critical, clearly positioned and subjective. What do visions of the future accomplish and what do they make impossible? How empowering or disempowering are speculations about the future for a change in the museum of the present?"
 
-  <br/><br/>
+  > <br/><br/>
 
 
   ![](/static/img/museum-of-the-future_books_cover.jpg)
+
+
+  ![](static/img/shape-of-museums-to-come-page-01.jpg)
+
+
+  ![](static/img/shape-of-museums-to-come-page-01.jpg)
 
 
   <br/><br/>
