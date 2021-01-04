@@ -3,7 +3,8 @@ title: "256 ~ Violence in Finnish Society: In conversation with Arvind Ramachand
 subtitle: Myymälä2, Helsinki
 layout: layouts/content.njk
 tags: artist talk
-pubdate: "2020"
+pubdate: April 28, 2020 12:00 AM
+unlisted: "false"
 hero: /static/img/ali-akbar-mehta_online-program-03_myymala2_2020.jpg
 parent: 256 Million Colours of Violence
 ---
