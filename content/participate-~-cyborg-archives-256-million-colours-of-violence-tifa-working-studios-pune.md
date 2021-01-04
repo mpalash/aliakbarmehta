@@ -4,7 +4,7 @@ title: "participate ~ Cyborg Archives: 256 Million Colours of Violence, TIFA
 layout: layouts/content.njk
 tags: artwork
 pubdate: "2018"
-unlisted: "true"
+unlisted: "false"
 parent: To Participate in the Archive
 children: []
 ---
