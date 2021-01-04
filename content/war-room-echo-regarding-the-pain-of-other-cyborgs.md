@@ -6,6 +6,7 @@ pubdate: "2019"
 hero: static/img/screenshot-2018-10-12-at-15.54.22.png
 children:
   - "wre ~ Foreword: Artist's Note"
+  - War List CODEX
   - wre ~  Why is an archive of wars required?
   - wre ~ Narrating War
   - Narrating WAR, Vantaan Taidemuseo ARTSI
