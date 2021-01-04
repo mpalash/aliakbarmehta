@@ -1,27 +1,25 @@
 ---
-title: >-
-  Cyber ~ To Not Wait for the Archive: Home and Labour mired in the
-  complications of Invisibalisation
-subtitle: >-
-  Home Issue, Visual Culture and Contemporary Art Journal #5, (ed.) Saara
-  Mahbouba, Paola Jallili and Else Lagerspetz, published by Aalto University,
-  Helsinki 2019
+title: "Cyber ~ To Not Wait for the Archive: Home and Labour mired in the
+  complications of Invisibalisation"
+subtitle: "Home Issue, Visual Culture and Contemporary Art Journal #5, (ed.)
+  Saara Mahbouba, Paola Jallili and Else Lagerspetz, published by Aalto
+  University, Helsinki 2019"
 layout: layouts/content.njk
 tags: publication
-pubdate: '2019'
-summary: >-
-  The idea of _home and labour_ itself has been mired in the complications of
-  invisibilization of labor, the misdirection of value and surplus, and the
-  recontextualization of the capitalist system as the driver of home politics.
-  Is the home, as a site of labour – both visible and invisible – a public
-  space? Not through physical proximity and shared-ness, but as the conceptual
-  framework relevant to all our preoccupations? If we imagine the home as a
-  centre – whether we conform to the idea of a home, rebel against it or are
-  indifferent to it – the home serves as a node through which we may think about
-  “the untagged and unnumbered zones of cultural and political possibility”
-  opened up through an “active seeking out of engagement, exchange, and
-  intersection through the modes of mutuality, collaboration, and emplacement,
-  an experimental poetics of belonging”.
+pubdate: "2019"
+hero: static/img/vicca-journal-home-issue-book-cover.jpg
+summary: The idea of _home and labour_ itself has been mired in the
+  complications of invisibilization of labor, the misdirection of value and
+  surplus, and the recontextualization of the capitalist system as the driver of
+  home politics. Is the home, as a site of labour – both visible and invisible –
+  a public space? Not through physical proximity and shared-ness, but as the
+  conceptual framework relevant to all our preoccupations? If we imagine the
+  home as a centre – whether we conform to the idea of a home, rebel against it
+  or are indifferent to it – the home serves as a node through which we may
+  think about “the untagged and unnumbered zones of cultural and political
+  possibility” opened up through an “active seeking out of engagement, exchange,
+  and intersection through the modes of mutuality, collaboration, and
+  emplacement, an experimental poetics of belonging”.
 parent: Cyber Archive
 children: []
 ---
