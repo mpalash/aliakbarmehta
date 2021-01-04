@@ -19,7 +19,7 @@ summary: >-
 
   ![](https://lh5.googleusercontent.com/D2hwEVg2tiFJ-3AWBbbdRYyTq7qYg824RF0vQV5SAZQM-HTIzNI_F4YshqSK8uVm3CElg-LvDr_-b56n80n5IcdmOE5-1pfK8PqNMWp4keCocWh394prjixHmweGUDTA64NoCujV)
 children:
-  - purg ~ Purgatory edit
+  - purg ~ Purgatory Edit, excerpts
 ---
 Conceived of as an interactive audiovisual performance installation, in collaboration with artist Jernej Čuček Gerbec (SL), it is inspired by the Ludovico Technique, a fictional negative-aversion technique depicted in ‘A Clockwork Orange’ (1971) directed by Stanley Kubrick, based on Anthony Burgess's novel: 
 
