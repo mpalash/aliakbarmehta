@@ -77,3 +77,10 @@ Contact us at [any of netlify's normal channels](https://www.netlify.com/contact
 open issues or pull requests for Netlify CMS at [the netlify-cms GitHub
 repo](https://github.com/netlify/netlify-cms). If you need realtime help with setting up Netlify
 CMS, you can reach out in the [Netlify CMS Gitter](https://gitter.im/netlify/netlifycms).
+
+## 2 The DO
+
+- Galleries
+- TOC
+- Prev / Next / other projects
+- Footer

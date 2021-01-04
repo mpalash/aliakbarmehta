@@ -18,7 +18,7 @@ layout: layouts/base.njk
   <div class="project-toc">
     TOC
   </div>
-  
+
   <aside class="project-tag">
     <span>{{ tags }} — {{ pubdate }}</span>
   </aside>
@@ -39,7 +39,7 @@ layout: layouts/base.njk
       </aside>
       <section id="{{ section.data.title.split('~').slice(-1)[0] | trim | slug }}" class="section-content {{ section.data.tag }}" data-title="{{ section.data.title.split('~').slice(-1)[0] | trim | slug }}">
         <h2>{{ section.data.title.split('~').slice(-1)[0] | trim }}</h2>
-        {% if section.subtitle %}
+        {% if section.data.subtitle %}
           <h4>{{ section.data.subtitle | safe }}</h4>
         {% endif %}
         {% if section.data.summary %}

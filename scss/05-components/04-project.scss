@@ -25,9 +25,13 @@
     font-size: var(--s-l);
     font-weight: 200;
     line-height: 1.5;
+    margin: var(--s-m) 0 0 0;
+  }
+  h4 {
+    margin: 0 0 var(--s-xl) 0;
   }
   p + h2 {
-    margin-top: 2em;
+    margin-top: var(--s-l);
   }
   a {
     color: inherit;

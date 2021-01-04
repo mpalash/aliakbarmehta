@@ -78,10 +78,6 @@ p.img {
   margin: 0 3em;
   width: auto;
   color: var(--color-ink);
-  font-size: 0.9em;
-  font-weight: 400;
-  // letter-spacing: 0.1em;
-  // text-transform: uppercase;
   &:not(.active){
     display: none;
   }
@@ -90,11 +86,12 @@ p.img {
 .jBox-image-pointer-next,
 .jBox-overlay .jBox-closeButton {
   pointer-events: all;
-  font-size: 1.75em;
+  font-size: 1.5em;
   line-height: 40px;
   width: 40px;
   text-align: center;
   transform: none;
+  color: var(--color-ink);
   &:hover {
     color: var(--color-ink);
   }
