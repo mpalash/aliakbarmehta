@@ -4,7 +4,7 @@ subtitle: Myymälä2, Helsinki
 layout: layouts/content.njk
 tags: solo exhibition
 pubdate: April 16, 2020 12:00 AM
-unlisted: "false"
+unlisted: "true"
 hero: /static/img/poster.jpg
 summary: >-
   ![Installation view: Is there a room with just a colour?, 2020, Myymälä2,
