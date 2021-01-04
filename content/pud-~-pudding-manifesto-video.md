@@ -1,8 +1,9 @@
 ---
-title: 'Pud ~ Pudding Manifesto, Video'
+title: Pud ~ Pudding Manifesto, Video
 layout: layouts/content.njk
 tags: artwork
-pubdate: '2016'
+pubdate: "2016"
+unlisted: "true"
 parent: Pudding Manifesto for Togetherness
 ---
 <iframe width="560" height="315"

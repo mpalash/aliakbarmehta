@@ -1,10 +1,10 @@
 ---
-layout: layouts/content.njk
 title: Pud ~ Pledge
-parent: Pudding Manifesto for Togetherness
+layout: layouts/content.njk
 tags: artwork
-pubdate: '2016'
-
+pubdate: "2016"
+unlisted: "true"
+parent: Pudding Manifesto for Togetherness
 ---
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/K4mmZU1ByGs" frameborder="0"

@@ -2,7 +2,8 @@
 title: 256 Million Colours of Violence
 layout: layouts/content.njk
 tags: ongoing project
-pubdate: "2016"
+pubdate: November 24, 2016 12:00 AM
+unlisted: "false"
 hero: /static/img/screen-shot-2018-09-26-at-13.04.19.jpg
 summary: 256 Million Colours of Violence is a survey-based interactive archival
   research project, inviting online and onsite audiences to participate in a
@@ -11,14 +12,14 @@ summary: 256 Million Colours of Violence is a survey-based interactive archival
   at
   [www.256milioncoloursofviolence.com](http://www.256millioncoloursofviolence.com/)
 children:
-  - 256 ~ 256 Million Colours of Violence
+  - 256 ~ 256 Million Colours of Violence, Exhibition
   - 256 ~ Limitations of Liability
   - 256 ~ Limitations of Liability, Mumbai Assembly
-  - 256 ~ Limitations of Liability, Piramal Art Foundation
+  - 256 ~ Urgency of Asking Questions
   - 256 ~ Limitations of Liability, Harkat Studios
   - 256 ~ Colours of Violence, AROOP III - Totems and Taboos
-  - "participate ~ Cyborg Archives: 256 Million Colours of Violence, TIFA Workin
-    Studios, Pune"
+  - "participate ~ Cyborg Archives: 256 Million Colours of Violence, TIFA
+    Working Studios, Pune"
   - 256 ~ Is there a room with just a colour?
   - 256 ~ Is there a room with just a colour? In conversation with Camelo Ramiro
   - "256 ~ Digital Creativity and Entanglement: In conversation with Timo

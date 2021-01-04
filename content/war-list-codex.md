@@ -2,7 +2,8 @@
 title: War List CODEX
 layout: content
 tags: publication
-pubdate: "2021"
+pubdate: "2014"
+unlisted: "false"
 hero: static/img/war-list-codex-front_book-cover.jpg
 shortdesc: ""
 summary: “Violence & the culture it consumes/perpetuates is a fundamental
