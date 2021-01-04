@@ -3,7 +3,7 @@ title: Pud ~ Pledge
 layout: layouts/content.njk
 tags: artwork
 pubdate: "2016"
-unlisted: "false"
+unlisted: "true"
 parent: Pudding Manifesto for Togetherness
 ---
 <iframe width="560" height="315"
