@@ -25,6 +25,12 @@ $(function() {
     $('.error-status').text(errorString.split(':')[1]);
   }
 
+  scrollSpy('#project-toc', {
+    sectionSelector: 'section',
+    targetSelector: '.toc-link',
+    offset: 200
+  });
+
   // Lightbox
   var screenWidth = $(document).width();
   if(screenWidth < 800) {

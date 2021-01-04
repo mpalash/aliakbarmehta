@@ -56,9 +56,6 @@
       margin: 0;
     }
   }
-  .summary + .full-content {
-    display: none;
-  }
   .toggle-section {
     margin-top: var(--s-l);
   }
@@ -100,12 +97,38 @@
   }
 }
 .project-toc {
-  grid-column: 7/-1;
+  grid-column: 8/-1;
   position: sticky;
   top: 88px;
   left: 0;
   height: 0;
   overflow: visible;
+  z-index: 999;
+  ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+  }
+  li {
+    line-height: 1.3;
+    margin-bottom: var(--s-xxs);
+  }
+  a {
+    color: var(--color-warm);
+    font-size: var(--font-size-small);
+    text-decoration: none;
+    transition: var(--transition-all);
+    &:hover {
+      background: transparent;
+      text-decoration: underline;
+    }
+    &.active {
+      color: var(--color-ink);
+    }
+  }
+  .active a {
+    color: var(--color-ink);
+  }
 }
 .project-tag {
   grid-column: 1/2;

@@ -8,7 +8,11 @@
       {% endif %}
       {{ content.data.title.split('~') | last | trim }}
       {% if content.data.tags.toString() in displaysub %}
-        {% if content.data.subtitle and content.data.subtitle != '' %}<br/><span class="list-subtitle">{{ content.data.subtitle }}</span>{% endif %}
+        {% if content.data.shortdesc and content.data.shortdesc != '' %}
+          <br/><span class="list-subtitle">{{ content.data.shortdesc }}</span>
+        {% else %}
+          {% if content.data.subtitle and content.data.subtitle != '' %}<br/><span class="list-subtitle">{{ content.data.subtitle }}</span>{% endif %}
+        {% endif %}
       {% endif %}
     </a>
   {% endif %}
@@ -19,7 +23,11 @@
     {% endif %}
     {{ content.data.title.split('~') | last | trim }}
     {% if content.data.tags.toString() in displaysub %}
-      {% if content.data.subtitle and content.data.subtitle != '' %}<br/><span class="list-subtitle">{{ content.data.subtitle }}</span>{% endif %}
+      {% if content.data.shortdesc and content.data.shortdesc != '' %}
+        <br/><span class="list-subtitle">{{ content.data.shortdesc }}</span>
+      {% else %}
+        {% if content.data.subtitle and content.data.subtitle != '' %}<br/><span class="list-subtitle">{{ content.data.subtitle }}</span>{% endif %}
+      {% endif %}
     {% endif %}
   </a>
 {% endif %}

@@ -1,7 +1,11 @@
 ---
 layout: layouts/base.njk
 ---
-<span id="top"></span>
+{% set sections = collections.content %}
+{% set contents = children %}
+
+<span></span>
+
 <article class="project">
   {% if hero %}
   <div class="project-hero">
@@ -15,20 +19,28 @@ layout: layouts/base.njk
   <h2 class="project-subtitle">{{ subtitle }}</h2>
   {% endif %}
 
-  <div class="project-toc">
-    TOC
+  <div id="project-toc" class="project-toc">
+    <ul>
+      <li><a class="toc-link" href="#top">{{ title }}</a></li>
+      {% for content in contents %}
+        {% for section in sections %}
+          {% if section.data.title == content %}
+            <li><a class="toc-link" href="#{{ section.data.title.split('~').slice(-1)[0] | trim | slug }}">{{ section.data.title.split('~').slice(-1)[0] | trim }}</a></li>
+          {% endif %}
+        {% endfor %}
+      {% endfor %}
+    </ul>
   </div>
 
   <aside class="project-tag">
     <span>{{ tags }} — {{ pubdate }}</span>
   </aside>
-  <section>
-    <div class="summary">{{ summary | md | safe }}</div>
+  <section id="top">
+    {% if summary %}
+      <div class="summary">{{ summary | md | safe }}</div>
+    {% endif %}
     {{ layoutContent | safe }}
   </section>
-
-  {% set sections = collections.content %}
-  {% set contents = children %}
 
   {% for content in contents %}
     {% for section in sections %}

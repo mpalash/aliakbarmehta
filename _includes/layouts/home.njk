@@ -31,18 +31,13 @@
         </div>
 
         <div class="copyright">
-          {{ metadata.copyrighttxt | md | safe }}
-
-          <p>{{ metadata.copyright }}</p>
-
-          <p><a href="https://mpalash.com" target="_blank">Website dev-design by mpalash</a></p>
+          <p>{{ metadata.copyright }} — <a href="https://mpalash.com" target="_blank">Website dev-design by mpalash</a></p>
         </div>
       </div>
       <div class="home-list">
         {% include "components/list-all.njk" %}
       </div>
     </main>
-    {% include "components/footer.njk" %}
   </body>
 
 </html>

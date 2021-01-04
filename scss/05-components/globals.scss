@@ -1,14 +1,6 @@
-// .page-content {
-//   display: flex;
-//   flex-direction: column;
-//   justify-content: center;
-//   min-height: 100vh;
-//
-//   > div,
-//   > article {
-//     flex: 1 0 auto;
-//   }
-// }
+.summary + .full-content {
+  display: none;
+}
 .toggle-section {
   @extend %fa-icon;
   @extend .far;
@@ -16,6 +8,13 @@
   color: var(--color-ink);
   font-size: 1em;
   text-decoration: none !important;
+  display: flex;
+  width: var(--s-m);
+  height: var(--s-m);
+  justify-content: center;
+  align-items: center;
+  background-color: var(--color-warm-light);
+  border-radius: 2px;
 
   .less {
     display: none;
