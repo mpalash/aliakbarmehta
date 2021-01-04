@@ -1,10 +1,11 @@
 ---
-title: 'TRINITY ~ TRINITY: Past, Present, and Future'
+title: "TRINITY ~ TRINITY: Past, Present, and Future"
 subtitle: Artist Statement by Ali Akbar Mehta and Vidha Saumya
 layout: layouts/content.njk
 tags: text
-pubdate: '2015'
-parent: 'TRINITY: Godrej Legacy Park Silos'
+pubdate: "2015"
+hero: static/img/ali-akbar-mehta_installation-view_-ext-01_trinity-godrej_2015.jpg
+parent: "TRINITY: Godrej Legacy Park Silos"
 ---
 An exhibition is always an act of placing artworks and understanding the
 importance of engaging with a site and, at the same time producing a polylogue

@@ -3,7 +3,10 @@ title: Superheroes ~ The League of Superheroes
 layout: layouts/content.njk
 tags: artwork
 pubdate: "2013"
-parent: 'The Superhero Series'
+hero: static/img/superhero-series-013_the-league-for-print-painted-with-text.jpg
+parent: The Superhero Series
+children:
+  - Tasher ~ Tagore Lost and Found
 ---
 
 ![League of Superheroes, 2013, Lenticular and vinyl on archival mount, 60 x 48 in](/static/img/superhero-series-013_the-league-for-print-original-with-text.jpg)

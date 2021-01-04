@@ -2,9 +2,26 @@
 title: sss ~ Memory and the Maximum City
 layout: layouts/content.njk
 tags: artist talk
-pubdate: '2015'
-parent: 'SITE : STAGE : STRUCTURE'
-children: []
+pubdate: "2015"
+hero: static/img/memory-and-the-maximum-city-2015.png
+parent: "SITE : STAGE : STRUCTURE"
+children:
+  - To Whomsoever it May Concern
+  - plank ~ Small is Beautiful – II
+  - plank ~ Unselfed Extended
+  - Tasher Desh
+  - Placebo Singers
+  - Superheroes ~ The League of Superheroes
+  - The Superhero Series
+  - Ballad ~ The Harlequin Series
+  - Ballad ~ Everybody's a Jester
+  - Ballad ~ Paintings
+  - Ballad ~ Drawings
+  - We are such stuff As dreams are made on
+  - Purgatory
+  - Rebirth
+  - Goodbye Blue Sky
+  - Inhale / Exhale
 ---
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/WcnS_jHui58?start=2483" frameborder="0"

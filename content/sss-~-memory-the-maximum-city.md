@@ -1,9 +1,11 @@
 ---
-title: 'sss ~ Interview: Memory & the Maximum City'
+title: "sss ~ Interview: Memory & the Maximum City"
 subtitle: by Shilpa Dubey, for Absolute India
 layout: layouts/content.njk
 tags: press
 pubdate: "2015"
+hero: static/img/Ali Akbar
+  Mehta_site-stage-structure-2014_installation-view_09_©-aliakbarmehta.jpg
 summary: >-
   **What does ‘Memory & The Maximum City’ mean for you?**
 
@@ -16,7 +18,23 @@ summary: >-
 
   One of the things I like reminding people that Mazgaon has been a host to a number of different communities, _Sutari Gujratis, Bohri_ Muslims, Catholics, _Parsis_, Davidian Jews, Israelis and Chinese. Mazgaon represented a true cosmopolitan city – The kind we have always imagined it to be. Such projects enrich Mumbai’s art scene by offering something other than aesthetic wall-hangings and floor pieces, or theory-laden group shows. In an era in which right-wing groups continue to insist on Mumbai narrowly as a 'Hindu Marathi City', counter-historical practices like Site : Stage : Structure serve much more than ethnographic curiosity.
 parent: "SITE : STAGE : STRUCTURE"
-children: []
+children:
+  - To Whomsoever it May Concern
+  - plank ~ Small is Beautiful – II
+  - plank ~ Unselfed Extended
+  - Tasher Desh
+  - Placebo Singers
+  - Superheroes ~ The League of Superheroes
+  - The Superhero Series
+  - Ballad ~ The Harlequin Series
+  - Ballad ~ Everybody's a Jester
+  - Ballad ~ Paintings
+  - Ballad ~ Drawings
+  - We are such stuff As dreams are made on
+  - Purgatory
+  - Rebirth
+  - Goodbye Blue Sky
+  - Inhale / Exhale
 ---
 **Tell us about your association with Godrej India Culture Lab**
 

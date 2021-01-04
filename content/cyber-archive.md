@@ -1,7 +1,7 @@
 ---
 title: Cyber Archive
 layout: layouts/content.njk
-tags: ongoing project
+tags: curatorial project
 pubdate: "2018"
 hero: /static/img/cyber-archive_hero-image.jpg
 children:

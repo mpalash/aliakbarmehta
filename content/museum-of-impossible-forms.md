@@ -16,6 +16,7 @@ children:
   - "Locating: The Museum of Impossible Forms"
   - "Re-Musing the Museum: Part II"
   - Atlas of Lost Beliefs (for Insurgents, Citizens, & Untitled Bodies)
+  - "Mif ~ How to be a hospitable without being a motel:  Thinking Hospitalities"
   - Resistance and Reimagining Alternatives
   - Notes for Radical Diversity
   - "mif ~ CreaTures: Panel Discussion on Creative Practices for

@@ -1,13 +1,32 @@
 ---
 title: Superheroes ~ Visual Disobedience
-subtitle: 'Interview by Kevin Lobo, for Visual Disobedience'
+subtitle: Interview by Kevin Lobo, for Visual Disobedience
 layout: layouts/content.njk
 tags: press
-pubdate: '2012'
-summary: >-
-  Ali’s work was Visual Disobedience’s pick of the art on display by emerging artists at the India Art Festival this year. We speak to him about how pictures of the poor don’t need to be patronising, the magic of using lenticular and why superheroes are myths of the modern world.
-
-parent: 'The Superhero Series'
+pubdate: "2012"
+hero: static/img/Ali-Akbar-Mehta-I-India-Art-Festival-2012-I-Of-Men-and-Supermen-03,-Lenticular-and-vinyl-on-archival-mount,--88-x-114-cm,-edition-2_lo-res-for-web-1.jpg
+summary: Ali’s work was Visual Disobedience’s pick of the art on display by
+  emerging artists at the India Art Festival this year. We speak to him about
+  how pictures of the poor don’t need to be patronising, the magic of using
+  lenticular and why superheroes are myths of the modern world.
+parent: The Superhero Series
+children:
+  - To Whomsoever it May Concern
+  - plank ~ Small is Beautiful – II
+  - plank ~ Unselfed Extended
+  - Tasher Desh
+  - Placebo Singers
+  - Superheroes ~ The League of Superheroes
+  - The Superhero Series
+  - Ballad ~ The Harlequin Series
+  - Ballad ~ Everybody's a Jester
+  - Ballad ~ Paintings
+  - Ballad ~ Drawings
+  - We are such stuff As dreams are made on
+  - Purgatory
+  - Rebirth
+  - Goodbye Blue Sky
+  - Inhale / Exhale
 ---
 
 **Where did you click the original photographs?**

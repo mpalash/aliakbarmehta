@@ -2,11 +2,14 @@
 title: Is the representation of violence also violent?
 layout: layouts/content.njk
 tags: artwork
-pubdate: '2017'
+pubdate: "2017"
+hero: static/img/ali-akbar-mehta-is-the-representation-of-violence-also-violent-sandcasted-aluminium-2017.jpg
 children:
-  - 'IS ~ IS/NOT: Sculpture for the Post-Truth Era'
+  - "IS ~ IS/NOT: Sculpture for the Post-Truth Era"
 ---
-The French poet _Eugene Guillevic_, whose ‘_Charnel House_’ (1947) is one of the first, and finest, poetic responses to the Shoah (Jewish, meaning Holocaust), once wrote, 
+![Is the representation of violence also Violent?, sand-casted aluminium, 2017](static/img/ali-akbar-mehta-is-the-representation-of-violence-also-violent-sandcasted-aluminium-2017.jpg)
+
+The French poet *Eugene Guillevic*, whose ‘*Charnel House*’ (1947) is one of the first, and finest, poetic responses to the Shoah (Jewish, meaning Holocaust), once wrote, 
 
 > "Yes, even horror can be lived out in poetry. This is not to say that poetry weakens or diminishes horror – what it perhaps means is that poetry translates horror to that level where, lived out through poetry, it is no longer degrading." 
 
