@@ -1,10 +1,10 @@
 ---
-title: >-
-  participate ~ Cyborg Archives: 256 Million Colours of Violence, TIFA Working
-  Studios, Pune
+title: "participate ~ Cyborg Archives: 256 Million Colours of Violence, TIFA
+  Working Studios, Pune"
 layout: layouts/content.njk
 tags: artwork
-pubdate: '2018'
+pubdate: "2018"
+unlisted: "true"
 parent: To Participate in the Archive
 children: []
 ---
