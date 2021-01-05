@@ -9,9 +9,9 @@ unlisted: "true"
 hero: static/img/narrating-war-vantaan-taidemuseo-artsi.png
 parent: "WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs"
 ---
-## Reciprocities
+### Reciprocities
 
-## Vantaa Art Museum Artsi 12.2.-16.5.2021
+**Vantaa Art Museum Artsi 12.2.-16.5.2021**
 
 ![](static/img/narrating-war-vantaan-taidemuseo-artsi.png)
 
