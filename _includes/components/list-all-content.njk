@@ -1,5 +1,7 @@
-<div class="all-projects hide">
-  {% for content in collections.content %}
-    {% include "components/home-project-title.njk" %}
-  {% endfor %}
+<div class="all-projects">
+  <ul>
+    {% for content in collections.content %}
+      <li>{{ content.data.pubdate }} — {{ content.data.title.split('~') | last | trim }}</li>
+    {% endfor %}
+  </ul>
 </div>

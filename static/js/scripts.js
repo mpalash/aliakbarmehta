@@ -72,6 +72,7 @@ function toggleContent(){
 }
 function makeGallery(){
   var pimg = $('p:has(img)');
+  pimg.find('br').remove();
   pimg.each(function(j, obj){
     var p = $(this);
     var i = p.find('img');
@@ -85,7 +86,7 @@ function makeGallery(){
       $(this).attr('data-jbox-image','gal_' + j);
       $(this).wrap('<div></div>');
       if( alt != '' && alt != null && alt != 'null' ) {
-        var caption = alt.split(',').join('<br/>');
+        var caption = alt; // alt.split(',').join('<br/>');
         $(this).parent().append('<span class="img-caption">' + caption + '</span>');
       } else {
         if( addCaption ) {
@@ -93,5 +94,15 @@ function makeGallery(){
         }
       }
     });
+  });
+  $('p.img').slick({
+    dots: true,
+    infinite: false,
+    speed: 300,
+    fade: true,
+    autoplay: true,
+    autoplaySpeed: 2400,
+    useCSS: false,
+    arrows: false
   });
 }

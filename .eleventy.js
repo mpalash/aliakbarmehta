@@ -9,6 +9,7 @@ const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
 const markdownItImplicitFigures = require('markdown-it-implicit-figures');
+const markdownItFigureCaption = require('markdown-it-figure-caption');
 
 module.exports = function(eleventyConfig) {
 
@@ -61,7 +62,11 @@ module.exports = function(eleventyConfig) {
 
   // Markdownify
   eleventyConfig.addFilter("md", value => {
-    var md = new markdownIt({}).use(markdownItImplicitFigures, {
+    var md = new markdownIt({
+      html: true,
+      breaks: true,
+      linkify: true
+    }).use(markdownItImplicitFigures, {
       figcaption: true
     });
     var rendered = md.render(String(value)).replace('/images','/images/');
@@ -100,7 +105,7 @@ module.exports = function(eleventyConfig) {
 
   // only content in the `content/` directory
   eleventyConfig.addCollection('content', function(collection) {
-    return collection.getAll().sort(function(a, b){return parseInt(a.data.pubdate) - parseInt(b.data.pubdate)}).filter(function(item) {
+    return collection.getAll().sort(function(a, b){return Date.parse(a.data.pubdate) - Date.parse(b.data.pubdate)}).filter(function(item) {
       return item.inputPath.match(/^\.\/content\//) !== null;
     });
   });
@@ -121,10 +126,10 @@ module.exports = function(eleventyConfig) {
     .filter(function(item){
       const tagsList = ['ongoing project','past project','artwork','video'];
       const tags = item.data.tags;
-      return _.intersection(tags, tagsList).length > 0;
+      return _.intersection(tags, tagsList).length > 0 && item.data.unlisted == "false";
     })
     .sort(function(a, b){
-      return parseInt(a.data.pubdate) - parseInt(b.data.pubdate)
+      return Date.parse(a.data.pubdate) - Date.parse(b.data.pubdate)
     })
     .reverse()
   )
@@ -134,10 +139,10 @@ module.exports = function(eleventyConfig) {
     .filter(function(item){
       const tagsList = ['curatorial project'];
       const tags = item.data.tags;
-      return _.intersection(tags, tagsList).length > 0;
+      return _.intersection(tags, tagsList).length > 0 && item.data.unlisted == "false";
     })
     .sort(function(a, b){
-      return parseInt(a.data.pubdate) - parseInt(b.data.pubdate)
+      return Date.parse(a.data.pubdate) - Date.parse(b.data.pubdate)
     })
     .reverse()
   )
@@ -147,23 +152,26 @@ module.exports = function(eleventyConfig) {
     .filter(function(item){
       const tagsList = ['solo exhibition','group exhibition','residency'];
       const tags = item.data.tags;
-      return _.intersection(tags, tagsList).length > 0;
+      return _.intersection(tags, tagsList).length > 0 && item.data.unlisted == "false";
     })
     .sort(function(a, b){
-      return parseInt(a.data.pubdate) - parseInt(b.data.pubdate)
+      return Date.parse(a.data.pubdate) - Date.parse(b.data.pubdate)
     })
     .reverse()
   )
   eleventyConfig.addCollection('talks',
   collection => collection
     .getAll()
+    // .filter(function(item){
+    //   return ;
+    // })
     .filter(function(item){
       const tagsList = ['artist talk','teaching'];
       const tags = item.data.tags;
-      return _.intersection(tags, tagsList).length > 0;
+      return _.intersection(tags, tagsList).length > 0 && item.data.unlisted == "false";
     })
     .sort(function(a, b){
-      return parseInt(a.data.pubdate) - parseInt(b.data.pubdate)
+      return Date.parse(a.data.pubdate) - Date.parse(b.data.pubdate)
     })
     .reverse()
   )
@@ -173,10 +181,10 @@ module.exports = function(eleventyConfig) {
     .filter(function(item){
       const tagsList = ['performance'];
       const tags = item.data.tags;
-      return _.intersection(tags, tagsList).length > 0;
+      return _.intersection(tags, tagsList).length > 0 && item.data.unlisted == "false";
     })
     .sort(function(a, b){
-      return parseInt(a.data.pubdate) - parseInt(b.data.pubdate)
+      return Date.parse(a.data.pubdate) - Date.parse(b.data.pubdate)
     })
     .reverse()
   )
@@ -186,10 +194,10 @@ module.exports = function(eleventyConfig) {
     .filter(function(item){
       const tagsList = ['publication','unpublished'];
       const tags = item.data.tags;
-      return _.intersection(tags, tagsList).length > 0;
+      return _.intersection(tags, tagsList).length > 0 && item.data.unlisted == "false";
     })
     .sort(function(a, b){
-      return parseInt(a.data.pubdate) - parseInt(b.data.pubdate)
+      return Date.parse(a.data.pubdate) - Date.parse(b.data.pubdate)
     })
     .reverse()
   )
@@ -199,10 +207,10 @@ module.exports = function(eleventyConfig) {
     .filter(function(item){
       const tagsList = ['press','resource','text'];
       const tags = item.data.tags;
-      return _.intersection(tags, tagsList).length > 0;
+      return _.intersection(tags, tagsList).length > 0 && item.data.unlisted == "false";
     })
     .sort(function(a, b){
-      return parseInt(a.data.pubdate) - parseInt(b.data.pubdate)
+      return Date.parse(a.data.pubdate) - Date.parse(b.data.pubdate)
     })
     .reverse()
   )
@@ -214,8 +222,6 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("admin/");
 
   /* Markdown Plugins */
-  let markdownIt = require("markdown-it");
-  let markdownItAnchor = require("markdown-it-anchor");
   let options = {
     html: true,
     breaks: true,
@@ -224,9 +230,16 @@ module.exports = function(eleventyConfig) {
   let opts = {
     permalink: false
   };
+  let figopts = {
+    dataType: false,
+    figcaption: true,
+    tabindex: false,
+    link: false
+  };
 
   eleventyConfig.setLibrary("md", markdownIt(options)
     .use(markdownItAnchor, opts)
+    .use(markdownItImplicitFigures, figopts)
   );
 
   return {

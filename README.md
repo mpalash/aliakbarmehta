@@ -80,8 +80,7 @@ CMS, you can reach out in the [Netlify CMS Gitter](https://gitter.im/netlify/net
 
 ## 2 DO
 
-- Sort by date
-- Prev / Next / other projects
-- Galleries
+- Pages
+- OG
 - Mobile
 - LFS

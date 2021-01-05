@@ -45,6 +45,7 @@
     "@11ty/eleventy-navigation": "^0.1.5",
     "clean-css": "^4.2.1",
     "html-minifier": "^4.0.0",
+    "markdown-it-figure-caption": "^0.1.0",
     "sass": "^1.26.3",
     "uglify-es": "^3.3.9"
   }
