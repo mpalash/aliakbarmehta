@@ -3,6 +3,7 @@ title: "WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs"
 layout: layouts/content.njk
 tags: ongoing project
 pubdate: "2019"
+unlisted: "false"
 hero: static/img/screenshot-2018-10-12-at-15.54.22.png
 shortdesc: "**WAR • ROOM • ECHO: Regarding the pain of other Cyborgs** is a
   *collaborative Transmedia Performance-Installation and Research Project*. It
@@ -15,7 +16,7 @@ children:
   - War List CODEX
   - wre ~  Why is an archive of wars required?
   - wre ~ Narrating War
-  - Narrating WAR, Vantaan Taidemuseo ARTSI
+  - wre ~ Narrating WAR, Vantaan Taidemuseo ARTSI
   - "wre ~ Narrating WAR, New Performance Turku, Festival 2020: Mobilities"
   - WRE ~ Narrating WAR, Mymmälä2, Helsinki
   - wre ~ Narrating War, Experimental Event VI – La Torre de Babel, Pori
