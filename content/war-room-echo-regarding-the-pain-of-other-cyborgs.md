@@ -1,5 +1,6 @@
 ---
 title: "WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs"
+subtitle: A collaborative Transmedia Performance-Installation and Research Project
 layout: layouts/content.njk
 tags: ongoing project
 pubdate: "2019"
