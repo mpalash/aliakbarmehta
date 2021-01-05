@@ -3,6 +3,7 @@ title: Cyber Archive
 layout: layouts/content.njk
 tags: curatorial project
 pubdate: "2018"
+unlisted: "false"
 hero: /static/img/cyber-archive_hero-image.jpg
 children:
   - "participate ~ Cyborg Archives: Can Archives Speak?"
