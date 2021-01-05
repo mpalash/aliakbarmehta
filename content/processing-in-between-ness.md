@@ -16,7 +16,7 @@ summary: "'\\[...] this publication, as a collaborative endeavor between the
   simultaneously a space to reveal and share the processes that go into the
   making of these varied multi-layered practices, and possibly a speculative
   imaginary of what lies beyond their own horizons.'"
-children:
-  - Processing In-Between(ness)
+parent: "Helsinki International Artist Program: Summer Residency 2020"
+children: []
 ---
 the full pdf as a downloadable file is soon available on the HIAP website
