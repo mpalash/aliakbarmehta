@@ -25,6 +25,15 @@ module.exports = function(eleventyConfig) {
   // https://www.11ty.dev/docs/data-deep-merge/
   eleventyConfig.setDataDeepMerge(true);
 
+  // Date formatting (year only) November 24, 2016 12:00 AM
+  eleventyConfig.addFilter("yy", dateObj => {
+    if(dateObj.length > 4) {
+      return DateTime.fromFormat(dateObj,'MMMM d, yyyy h:mm a').toFormat("yyyy");
+    } else {
+      return dateObj
+    }
+  });
+
   // Date formatting (human readable)
   eleventyConfig.addFilter("readableDate", dateObj => {
     return DateTime.fromJSDate(dateObj).toFormat("dd LLL yyyy");

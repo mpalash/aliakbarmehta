@@ -9,7 +9,7 @@
       {{ content.data.title.split('~') | last | trim }}
       {% if content.data.tags.toString() in displaysub %}
         {% if content.data.shortdesc and content.data.shortdesc != '' %}
-          <br/><span class="list-subtitle">{{ content.data.shortdesc }}</span>
+          <br/><span class="list-subtitle">{{ content.data.shortdesc | md | safe }}</span>
         {% else %}
           {% if content.data.subtitle and content.data.subtitle != '' %}<br/><span class="list-subtitle">{{ content.data.subtitle }}</span>{% endif %}
         {% endif %}
@@ -24,7 +24,7 @@
     {{ content.data.title.split('~') | last | trim }}
     {% if content.data.tags.toString() in displaysub %}
       {% if content.data.shortdesc and content.data.shortdesc != '' %}
-        <br/><span class="list-subtitle">{{ content.data.shortdesc }}</span>
+        <br/><span class="list-subtitle">{{ content.data.shortdesc | md | safe }}</span>
       {% else %}
         {% if content.data.subtitle and content.data.subtitle != '' %}<br/><span class="list-subtitle">{{ content.data.subtitle }}</span>{% endif %}
       {% endif %}

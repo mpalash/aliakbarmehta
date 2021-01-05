@@ -4,8 +4,6 @@ layout: layouts/base.njk
 {% set sections = collections.content %}
 {% set contents = children %}
 
-<span></span>
-
 <article class="project">
   {% if hero %}
   <div class="project-hero">
@@ -33,7 +31,7 @@ layout: layouts/base.njk
   </div>
 
   <aside class="project-tag">
-    <span>{{ tags }} — {{ pubdate }}</span>
+    <span>{{ tags }} — {{ pubdate | yy }}</span>
   </aside>
   <section id="top">
     {% if summary %}
@@ -47,7 +45,7 @@ layout: layouts/base.njk
       {% if section.data.title == content %}
 
       <aside class="project-tag">
-        <span>{{ section.data.tags }} — {{ section.data.pubdate }}</span>
+        <span>{{ section.data.tags }} — {{ section.data.pubdate | yy }}</span>
       </aside>
       <section id="{{ section.data.title.split('~').slice(-1)[0] | trim | slug }}" class="section-content {{ section.data.tag }}" data-title="{{ section.data.title.split('~').slice(-1)[0] | trim | slug }}">
         <h2>{{ section.data.title.split('~').slice(-1)[0] | trim }}</h2>

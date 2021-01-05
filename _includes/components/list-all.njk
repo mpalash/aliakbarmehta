@@ -5,7 +5,7 @@
     <ul>
       <li class="separator">{{ year }}</li>
       {% for content in collections.projects %}
-        {% if content.data.pubdate == year %}
+        {% if year in content.data.pubdate %}
           {% include "components/home-project-title.njk" %}
         {% endif %}
       {% endfor %}
@@ -18,7 +18,7 @@
     <ul>
       <li class="separator">{{ year }}</li>
       {% for content in collections.curatorial %}
-        {% if content.data.pubdate == year %}
+        {% if year in content.data.pubdate %}
           {% include "components/home-project-title.njk" %}
         {% endif %}
       {% endfor %}
@@ -31,7 +31,7 @@
     <ul>
       <li class="separator">{{ year }}</li>
       {% for content in collections.performances %}
-        {% if content.data.pubdate == year %}
+        {% if year in content.data.pubdate %}
           {% include "components/home-project-title.njk" %}
         {% endif %}
       {% endfor %}
@@ -44,7 +44,7 @@
     <ul>
       <li class="separator">{{ year }}</li>
       {% for content in collections.texts %}
-        {% if content.data.pubdate == year %}
+        {% if year in content.data.pubdate %}
           {% include "components/home-project-title.njk" %}
         {% endif %}
       {% endfor %}
@@ -57,7 +57,7 @@
     <ul>
       <li class="separator">{{ year }}</li>
       {% for content in collections.talks %}
-        {% if content.data.pubdate == year %}
+        {% if year in content.data.pubdate %}
           {% include "components/home-project-title.njk" %}
         {% endif %}
       {% endfor %}
@@ -70,7 +70,7 @@
     <ul>
       <li class="separator">{{ year }}</li>
       {% for content in collections.exhibitions %}
-        {% if content.data.pubdate == year %}
+        {% if year in content.data.pubdate %}
           {% include "components/home-project-title.njk" %}
         {% endif %}
       {% endfor %}
@@ -83,7 +83,7 @@
     <ul>
       <li class="separator">{{ year }}</li>
       {% for content in collections.about %}
-        {% if content.data.pubdate == year %}
+        {% if year in content.data.pubdate %}
           {% include "components/home-project-title.njk" %}
         {% endif %}
       {% endfor %}
