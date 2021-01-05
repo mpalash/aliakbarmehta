@@ -4,7 +4,7 @@ subtitle: Exhibition and Artist Talks
 layout: layouts/content.njk
 tags: artwork
 pubdate: March 16, 2017 12:00 AM
-unlisted: "false"
+unlisted: "true"
 hero: static/img/colour-wall-survey-table.jpg
 parent: 256 Million Colours of Violence
 ---
