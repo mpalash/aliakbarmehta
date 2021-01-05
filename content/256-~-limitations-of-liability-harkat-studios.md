@@ -4,7 +4,7 @@ subtitle: Exhibition and Film Screenings
 layout: layouts/content.njk
 tags: artwork
 pubdate: March 25, 2017 12:00 AM
-unlisted: "false"
+unlisted: "true"
 hero: static/img/ali-akbar-mehta_limitation-of-liability_harkat-studio_installation-view-02_2017.jpg
 parent: 256 Million Colours of Violence
 ---
