@@ -1,6 +1,6 @@
 ---
-title: Processes 2020
-subtitle: Associate Curator, Helsinki International Artist Program (HIAP), Helsinki, FI
+title: "Helsinki International Artist Program: Summer Residency 2020"
+subtitle: Supporting Curator, Helsinki International Artist Program (HIAP), Helsinki, FI
 layout: content
 tags: curatorial project
 pubdate: May 15, 2020 12:00 AM
