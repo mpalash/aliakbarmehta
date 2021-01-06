@@ -126,7 +126,7 @@ module.exports = function(eleventyConfig) {
     .filter(function(item){
       const tagsList = ['ongoing project','past project','artwork','video'];
       const tags = item.data.tags;
-      return _.intersection(tags, tagsList).length > 0 && item.data.unlisted == "false";
+      return _.intersection(tags, tagsList).length > 0 && item.data.unlisted != "true";
     })
     .sort(function(a, b){
       return Date.parse(a.data.pubdate) - Date.parse(b.data.pubdate)
@@ -139,7 +139,7 @@ module.exports = function(eleventyConfig) {
     .filter(function(item){
       const tagsList = ['curatorial project'];
       const tags = item.data.tags;
-      return _.intersection(tags, tagsList).length > 0 && item.data.unlisted == "false";
+      return _.intersection(tags, tagsList).length > 0 && item.data.unlisted != "true";
     })
     .sort(function(a, b){
       return Date.parse(a.data.pubdate) - Date.parse(b.data.pubdate)
@@ -152,7 +152,7 @@ module.exports = function(eleventyConfig) {
     .filter(function(item){
       const tagsList = ['solo exhibition','group exhibition','residency'];
       const tags = item.data.tags;
-      return _.intersection(tags, tagsList).length > 0 && item.data.unlisted == "false";
+      return _.intersection(tags, tagsList).length > 0 && item.data.unlisted != "true";
     })
     .sort(function(a, b){
       return Date.parse(a.data.pubdate) - Date.parse(b.data.pubdate)
@@ -162,13 +162,10 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addCollection('talks',
   collection => collection
     .getAll()
-    // .filter(function(item){
-    //   return ;
-    // })
     .filter(function(item){
       const tagsList = ['artist talk','teaching'];
       const tags = item.data.tags;
-      return _.intersection(tags, tagsList).length > 0 && item.data.unlisted == "false";
+      return _.intersection(tags, tagsList).length > 0 && item.data.unlisted != "true";
     })
     .sort(function(a, b){
       return Date.parse(a.data.pubdate) - Date.parse(b.data.pubdate)
@@ -181,7 +178,7 @@ module.exports = function(eleventyConfig) {
     .filter(function(item){
       const tagsList = ['performance'];
       const tags = item.data.tags;
-      return _.intersection(tags, tagsList).length > 0 && item.data.unlisted == "false";
+      return _.intersection(tags, tagsList).length > 0 && item.data.unlisted != "true";
     })
     .sort(function(a, b){
       return Date.parse(a.data.pubdate) - Date.parse(b.data.pubdate)
@@ -194,7 +191,7 @@ module.exports = function(eleventyConfig) {
     .filter(function(item){
       const tagsList = ['publication','unpublished'];
       const tags = item.data.tags;
-      return _.intersection(tags, tagsList).length > 0 && item.data.unlisted == "false";
+      return _.intersection(tags, tagsList).length > 0 && item.data.unlisted != "true";
     })
     .sort(function(a, b){
       return Date.parse(a.data.pubdate) - Date.parse(b.data.pubdate)
@@ -207,7 +204,7 @@ module.exports = function(eleventyConfig) {
     .filter(function(item){
       const tagsList = ['press','resource','text'];
       const tags = item.data.tags;
-      return _.intersection(tags, tagsList).length > 0 && item.data.unlisted == "false";
+      return _.intersection(tags, tagsList).length > 0 && item.data.unlisted != "true";
     })
     .sort(function(a, b){
       return Date.parse(a.data.pubdate) - Date.parse(b.data.pubdate)
