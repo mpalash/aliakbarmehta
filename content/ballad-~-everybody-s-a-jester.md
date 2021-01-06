@@ -1,10 +1,10 @@
 ---
-layout: layouts/content.njk
 title: Ballad ~ Everybody's a Jester
-parent: 'Ballad of the War that Never Was, and Other Basterdised Myths'
+layout: layouts/content.njk
 tags: artwork
-pubdate: '2011'
-
+pubdate: "2011"
+unlisted: "true"
+parent: Ballad of the War that Never Was, and Other Basterdised Myths
 ---
 ![Series: Everybody's a Jester 1-10, 2010-2011, Archival print on Hahnemuhle paper, 61 x 45.7 cm / 45.7x61 cm](/static/img/Everybody's%20a%20Jester%20Series_01.jpg)
 ![](/static/img/Everybody's a Jester Series_02.jpg)
