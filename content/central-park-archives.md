@@ -4,6 +4,7 @@ subtitle: ""
 layout: layouts/content.njk
 tags: ongoing project
 pubdate: "2020"
+unlisted: "false"
 hero: /static/img/keskuspuistoarkistot-pilotti-kayttoliittyma.png
 parent: Central Park Archives
 children:
