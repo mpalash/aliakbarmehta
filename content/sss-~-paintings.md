@@ -2,8 +2,9 @@
 title: sss ~ Paintings
 layout: layouts/content.njk
 tags: artwork
-pubdate: '2014'  
-parent: 'SITE : STAGE : STRUCTURE '
+pubdate: "2014"
+unlisted: "true"
+parent: "SITE : STAGE : STRUCTURE "
 ---
 
 The Paintings of Iconic landmarks of Mazgaon were commissioned by the artist
