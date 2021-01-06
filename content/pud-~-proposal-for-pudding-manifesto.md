@@ -3,7 +3,8 @@ title: Pud ~ Proposal for Pudding Manifesto
 subtitle: Project Proposal by Ali Akbar Mehta
 layout: layouts/content.njk
 tags: text
-pubdate: '2016'
+pubdate: "2016"
+unlisted: "true"
 summary: >-
   **The Pudding Manifesto for Togetherness** (2016) is a collaborative
   performance installation in which is embedded a _manifesto_ that presents in
@@ -16,11 +17,7 @@ summary: >-
   refugee integration and assimilation into the homogeneous social soup.
 
 
-  Food has always operated in circulation between the local and the global,
-  migration and resettlement and, with its power in defining and performing
-  social meanings, served to construct notions of home and cultural otherness.
-  Perhaps it can also create notions of togetherness. **We don’t need politics
-  of unification – we need politics of togetherness.**
+  Food has always operated in circulation between the local and the global, migration and resettlement and, with its power in defining and performing social meanings, served to construct notions of home and cultural otherness. Perhaps it can also create notions of togetherness. **We don’t need politics of unification – we need politics of togetherness.**
 parent: Pudding Manifesto for Togetherness
 ---
 Rice Pudding is a dish made from rice mixed with water or milk and other ingredients such as cinnamon and raisins. Recipes can greatly vary even within a single country. Names of Rice Pudding in the world (alphabetical order):
