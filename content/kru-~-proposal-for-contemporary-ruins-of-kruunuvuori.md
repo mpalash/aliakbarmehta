@@ -3,10 +3,10 @@ title: Kru ~ Proposal for Contemporary Ruins of Kruunuvuori
 subtitle: Project Proposal by Ali Akbar Mehta
 layout: layouts/content.njk
 tags: text
-pubdate: '2016'
-summary: >-
-  Contemporary Ruins of Kruunuvuori is a ‘Visual Anthropology Research Project’
-  that indexes forgotten public and personal histories related to the
+pubdate: "2016"
+unlisted: "true"
+summary: Contemporary Ruins of Kruunuvuori is a ‘Visual Anthropology Research
+  Project’ that indexes forgotten public and personal histories related to the
   Kruunuvuori Villas in Helsinki. It aims to interpret layers within history
   that is hidden from formal narratives, and understand how ‘contemporary ruins’
   are conceived and assigned cultural value. By paying attention to the
