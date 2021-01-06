@@ -6,12 +6,12 @@ pubdate: "2018"
 unlisted: "false"
 hero: /static/img/cyber-archive_hero-image.jpg
 children:
+  - "Cyber ~ Cyber Archive: Being and Doing Knowledge"
+  - "Cyber ~ Cyber Archive: Questions"
   - "participate ~ Cyborg Archives: Can Archives Speak?"
+  - Cyber ~ Archiving Knowledge, sculptures
   - "participate ~ Cyborg Archives: GarbageInGarbageOut, TIFA Working Studios,
     Pune"
-  - "Cyber ~ Cyber Archive: Being and Doing Knowledge"
-  - Cyber ~ Archiving Knowledge, sculptures
-  - "Cyber ~ Cyber Archive: Questions"
   - "Cyber ~ Cyber Archive: Archiving as a sustainable counter-hegemonic
     practice"
   - "Archiving: Histories in the Present"
