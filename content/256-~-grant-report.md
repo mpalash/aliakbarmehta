@@ -1,43 +1,35 @@
 ---
 title: 256 ~ Grant Report
-subtitle: 'for 256 Million Colours of Violence, Aalto University Grant'
+subtitle: for 256 Million Colours of Violence, Aalto University Grant
 layout: layouts/content.njk
 tags: resource
-pubdate: '2017'
+pubdate: "2017"
+unlisted: "true"
 summary: >-
-  * Project Title: [**256 Million Colours of
-  Violence**](https://aliakbarmehta.com/content/256-million-colours-of-violence)
+  * Project Title: **[256 Million Colours of
+  Violence](https://aliakbarmehta.com/content/256-million-colours-of-violence)**
 
   * Grant recipient: Ali Akbar Mehta
 
   * Date of grant receipt: 29.09.2017
 
 
-  ## Grant Report:
-
-
-  Requiring grant funding of €2500 for content development and upgrading the
-  website of this project. A grant of amount €1000 was released.
+  Requiring grant funding of €2500 for content development and upgrading the website of this project. A grant of amount €1000 was released.
 
 
   The following were directives of the application for the Aalto Arts Grant:
 
 
-  1. The ‘_back-end development_’ and ‘_front-end design’_ of the website will
-  be done with the help of an advanced programmer and UX designer.
+  1. The ‘*back-end development*’ and ‘*front-end design’* of the website will be done with the help of an advanced programmer and UX designer.
 
-  2. to include this new ‘research data’, creating a data platform of alternate
-  and in-depth education across over 1700 subjects.  
+  2. to include this new ‘research data’, creating a data platform of alternate and in-depth education across over 1700 subjects.  
 
   3. The upgraded website will be published online on November 25, 2017. 
 
-  4. Until then the website continues to be available in its current form for
-  participation in the project.
+  4. Until then the website continues to be available in its current form for participation in the project.
 
 
-  As per these directives, the grant amount of € 1000/- has been treated as
-  initial funding to resume ‘back-end development’ and ‘front-end design’ of the
-  website.
+  As per these directives, the grant amount of € 1000/- has been treated as initial funding to resume ‘back-end development’ and ‘front-end design’ of the website.
 parent: 256 Million Colours of Violence
 children: []
 ---

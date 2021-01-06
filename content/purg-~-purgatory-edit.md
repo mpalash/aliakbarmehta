@@ -3,7 +3,7 @@ title: purg ~ Purgatory Edit, excerpts
 layout: layouts/content.njk
 tags: artwork
 pubdate: "2017"
-unlisted: "false"
+unlisted: "true"
 hero: static/img/Ali Akbar Mehta_Purgatory edit_02.jpg
 summary: >-
   **Purgatory Edit** (working title) is an experimental cinematic experience. 

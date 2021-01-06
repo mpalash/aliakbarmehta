@@ -4,7 +4,7 @@ subtitle: Exhibition and Artist Talks
 layout: layouts/content.njk
 tags: artwork
 pubdate: March 16, 2017 12:00 AM
-unlisted: "false"
+unlisted: "true"
 hero: static/img/colour-wall-survey-table.jpg
 parent: 256 Million Colours of Violence
 ---
@@ -18,24 +18,20 @@ As a traveling project across venues, the project in its iteration at Mumbai Ass
 ![Opening night, Limitations of Liability, Mumbai Assembly, 2017](/static/img/audience-3.jpg)
 ![Filling the form, Limitations of Liability, Mumbai Assembly, 2017](/static/img/filling-the-form.jpg)
 ![Filling the form, Limitations of Liability, Mumbai Assembly, 2017](/static/img/ali-ken.jpg)
+
 ![Response Details, Limitations of Liability, Mumbai Assembly, 2017](/static/img/colours-of-violence.jpg)
 
-
-
-## _Performance by Ramneek Singh_
+## *Performance by Ramneek Singh*
 
 ![Performance and conversation with Ramneek Singh, Limitations of Liability, Mumbai Assembly, 2017](/static/img/ramneek-singh-performance.jpg)
 ![Performance and conversation with Ramneek Singh, Limitations of Liability, Mumbai Assembly, 2017](/static/img/ramneek-singh-performance-2.jpg)
 ![Performance and conversation with Ramneek Singh, Limitations of Liability, Mumbai Assembly, 2017](/static/img/ramneek-and-ali-in-conversation.jpg)
 
-
-
   **March 17, 2017 | 6:30 – 7:30 pm**
 
 Following a spoken word performance by **Ramneek Singh**, a conversation between Artist Ali Akbar Mehta and Ramneek Singh looks at 'Colour and Violence' through the lens of poetry and the spoken word, attempting to bridge the often unverbalised but deeply personal and unique emotional responses.
 
-
-## _Manifestation of Violence_
+## *Manifestation of Violence*
 
 ![In conversation with Simpreet Singh, Limitations of Liability, Mumbai Assembly, 2017](/static/img/ali-akbar-mehta-and-simpreet-singh.jpg)
 ![In conversation with Simpreet Singh, Limitations of Liability, Mumbai Assembly, 2017](/static/img/audience-2.jpg)
@@ -44,8 +40,7 @@ Following a spoken word performance by **Ramneek Singh**, a conversation between
 
 Ali Akbar Mehta and **Simpreet Singh** discuss how the project is addressing the notion of freely given information, conditional agreements and consent – to corporations and governments, as opposed to an artist project. Simpreet Singh brings his knowledge and experience of having worked with the 'Right to Information Act; (RTI) to similarly pursue and make visible those truths that are important to us.
 
-
-## _Big Data Ethics_
+## *Big Data Ethics*
 
 ![In conversation with Sameer Pitalwala, Limitations of Liability, Mumbai Assembly, 2017](/static/img/Ali Akbar Mehta_Limitations of Liability_Mumbai Assembly_Sameer Pitalwala_2016.jpg)
 

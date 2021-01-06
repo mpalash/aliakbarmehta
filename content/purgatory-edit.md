@@ -4,6 +4,7 @@ subtitle: A user-generated montage based cinematic experience by Ali Akbar Mehta
 layout: layouts/content.njk
 tags: ongoing project
 pubdate: "2017"
+unlisted: "false"
 hero: static/img/Ali Akbar Mehta_Purgatory edit_12.jpg
 summary: >-
   **Purgatory Edit** (working title) is an experimental cinematic experience
