@@ -1,10 +1,10 @@
 ---
+title: LM ~ Luminous Matter, Animated Short
 layout: layouts/content.njk
-title: 'LM ~ Luminous Matter, Animated Short'
-parent: Luminous Matter
 tags: artwork
-pubdate: '2011'
-
+pubdate: "2011"
+unlisted: "true"
+parent: Luminous Matter
 ---
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/_wintl2SxiU" frameborder="0"
