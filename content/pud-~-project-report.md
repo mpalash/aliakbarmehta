@@ -2,21 +2,12 @@
 title: Pud ~ Project Report
 layout: layouts/content.njk
 tags: resource
-pubdate: '2016'
+pubdate: "2016"
+unlisted: "true"
 summary: >-
   **What is questioned:**
 
-  The Seminar started with explorations towards notions and strategies of nation
-  building, The issue of living amongst each other and the issue of the
-  perception of the Other, what does this create this ‘other’ imply, not
-  philosophically but in a political and historical perspective. One particular
-  example which became a central point of conversation and debate was the
-  ‘Swastika’ and how the actions of the Nazi ideology has seized the imagination
-  and the fundamental essence of the image/symbol and mutated it through its own
-  actions to transform it into a signifier connoting an unforgettable and
-  unforgivable event in human history. Such a symbol becomes part of the
-  collective history of an entire people, and becomes the shared collective
-  experience of humanity.
+  The Seminar started with explorations towards notions and strategies of nation building, The issue of living amongst each other and the issue of the perception of the Other, what does this create this ‘other’ imply, not philosophically but in a political and historical perspective. One particular example which became a central point of conversation and debate was the ‘Swastika’ and how the actions of the Nazi ideology has seized the imagination and the fundamental essence of the image/symbol and mutated it through its own actions to transform it into a signifier connoting an unforgettable and unforgivable event in human history. Such a symbol becomes part of the collective history of an entire people, and becomes the shared collective experience of humanity.
 parent: Pudding Manifesto for Togetherness
 ---
 We confronted what is chosen to be remembered and what we choose to forget, specifically in the Finnish context – The paradoxical relationship that Finland has with colonialism, of historically being in the role of the victim and now becoming the perpatrator, while also writing its history from an ‘Exceptionalist’ approach, cooperation with nazi-Germany and occupation of Russian territory during The second World War and denying its direct and indirect participation in colonialist and racist international projects.
