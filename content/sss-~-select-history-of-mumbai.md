@@ -1,13 +1,14 @@
 ---
+title: sss ~ A select History of Mumbai
 layout: layouts/content.njk
-title: 'sss ~ A select History of Mumbai'
-parent: 'SITE : STAGE : STRUCTURE'
 tags: resource
-pubdate: '2014'
+pubdate: "2014"
+unlisted: "true"
 summary: |-
   ![](/static/img/research-text_mazgaon-history-wall-text.jpg)
 
   A select history of Mumbai through the lens of Mazgaon:
+parent: "SITE : STAGE : STRUCTURE"
 ---
 
 
