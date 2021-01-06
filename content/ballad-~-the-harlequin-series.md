@@ -3,6 +3,7 @@ title: Ballad ~ The Harlequin Series
 layout: layouts/content.njk
 tags: artwork
 pubdate: "2011"
+unlisted: "true"
 summary: >-
   ![To Glory in Self like some kind of New Monster, 2010, Archival print on
   Hahnemuhle paper, 182 x 121 cm.jpg](/static/img/Ali Akbar Mehta_Harlequin
