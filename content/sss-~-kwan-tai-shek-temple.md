@@ -1,9 +1,10 @@
 ---
+title: sss ~ Kwan Tai Shek Temple
 layout: layouts/content.njk
-title: 'sss ~ Kwan Tai Shek Temple'
-parent: 'SITE : STAGE : STRUCTURE'
 tags: artwork
-pubdate: '2014'
+pubdate: "2014"
+unlisted: "false"
+hero: static/img/7.-ali-akbar-mehta-site-stage-structure-2014-©-aliakbarmehta.jpg
 summary: >-
   <iframe width="560" height="315"
   src="https://www.youtube.com/embed/KG7h-lzm-Gk" frameborder="0"
@@ -13,12 +14,8 @@ summary: >-
   ## **The Chinese in Mumbai**
 
 
-  The Chinese in Mumbai In the early 19th century, hundreds of Chinese labourers
-  joined the East India Company, working as welders, fitters, carpenters and
-  cooks at its operations in Calcutta (now Kolkata) and Bombay (now Mumbai). The
-  Company hired mainly Cantonese from Hong Kong, who were brought by ship
-  to India, while others crossed the border into India from Burma.
-
+  The Chinese in Mumbai In the early 19th century, hundreds of Chinese labourers joined the East India Company, working as welders, fitters, carpenters and cooks at its operations in Calcutta (now Kolkata) and Bombay (now Mumbai). The Company hired mainly Cantonese from Hong Kong, who were brought by ship to India, while others crossed the border into India from Burma.
+parent: "SITE : STAGE : STRUCTURE"
 ---
 In 1820, Kolkata was home to an estimated 50,000 Chinese nationals. In those simpler times, there was no need for passports and visas, and skilled people could migrate to wherever they found employment.
 
