@@ -3,6 +3,7 @@ title: "wre ~ Foreword: Artist's Note"
 layout: layouts/content.njk
 tags: text
 pubdate: "2014"
+unlisted: "true"
 summary: >-
   In 2002, my father, Yusuf Mehta, was commissioned to make a short documentary
   film on the Godhra riots in Gujarat, India, using amateur and found footage
