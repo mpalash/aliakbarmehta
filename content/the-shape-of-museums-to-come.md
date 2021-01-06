@@ -38,8 +38,10 @@ summary: >-
   > *\-excerpt from text*
 
 
+  <br/>
 
-  <br/><br/>
+
+  <br/>
 
 
   ![](/static/img/museum-of-the-future_books_cover.jpg)
