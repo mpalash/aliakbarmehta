@@ -3,9 +3,11 @@ title: 256 ~ About 256 Million Colours of Violence
 subtitle: Artist Statement by Ali Akbar Mehta for website ver.1
 layout: layouts/content.njk
 tags: resource
-pubdate: '2016'
-summary: >-
-  256 Million Colours of Violence is a survey based interactive archival research project that asks the participants to choose a colour that to them represents violence.
+pubdate: "2016"
+unlisted: "true"
+summary: 256 Million Colours of Violence is a survey based interactive archival
+  research project that asks the participants to choose a colour that to them
+  represents violence.
 parent: 256 Million Colours of Violence
 ---
  The project started as a response to the specific events unfolding after the Malegaon Blasts \[1] (2006, India). Now, a decade after the event, this response has grown to encompass several other events in a world that is radically changing.
