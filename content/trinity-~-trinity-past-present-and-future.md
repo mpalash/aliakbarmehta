@@ -4,6 +4,7 @@ subtitle: Artist Statement by Ali Akbar Mehta and Vidha Saumya
 layout: layouts/content.njk
 tags: text
 pubdate: "2015"
+unlisted: "true"
 hero: static/img/ali-akbar-mehta_installation-view_-ext-01_trinity-godrej_2015.jpg
 parent: "TRINITY: Godrej Legacy Park Silos"
 ---
