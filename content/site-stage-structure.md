@@ -3,6 +3,7 @@ title: "SITE : STAGE : STRUCTURE"
 layout: layouts/content.njk
 tags: past project
 pubdate: "2014"
+unlisted: "false"
 hero: /static/img/mazgaon-docks.jpg
 summary: "SITE : STAGE : STRUCTURE is an archival documentary project. It is a
   Transmedia Installation that integrates books, objects, photographs, short
@@ -21,12 +22,12 @@ children:
   - sss ~ Mathar Pacady Interviews – Mr. Julius Valladares
   - sss ~ Mathar Pacady Interviews – Aunty Tessi
   - sss ~ Paintings
+  - sss~ Making Space
   - "sss ~ FOLKARCHIVE: Ali Akbar Mehta"
   - sss ~ Memory and the Maximum City
   - "sss ~ Odes and Inquisitions: Sino-Indian Connections in Recent Indian Art"
   - sss ~ Chinese Fortunes and other Mumbai Memories
   - sss ~ Memory & the Maximum City
-  - sss~ Making Space
   - sss ~ Interview
   - "sss ~ The BB Art Showcase: Ali Akbar Mehta"
   - sss ~ The Possibility Of Alienation – Ali Akbar Mehta
