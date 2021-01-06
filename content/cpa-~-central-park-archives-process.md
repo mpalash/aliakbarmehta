@@ -4,6 +4,7 @@ subtitle: Keskuspuisto-arkistot – kuvat ja video
 layout: layouts/content.njk
 tags: resource
 pubdate: "2020"
+unlisted: "true"
 summary: >-
   The Central Park Archives project started with fieldwork and meetings in
   Central Park. From April to September 2020, the work phases included e.g.
