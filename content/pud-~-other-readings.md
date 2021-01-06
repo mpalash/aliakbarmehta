@@ -2,7 +2,8 @@
 title: Pud ~ Other Readings
 layout: layouts/content.njk
 tags: resource
-pubdate: '2016'
+pubdate: "2016"
+unlisted: "true"
 parent: Pudding Manifesto for Togetherness
 ---
 Eating Culture: The Poetics and Politics of Food, Tobias Döring, Markus Heide, Susanne Muehleisen, 2003
