@@ -4,7 +4,7 @@ subtitle: Soundscapes for WAR • ROOM • ECHO –  Regarding the Pain of Other
 layout: layouts/content.njk
 tags: artwork
 pubdate: "2015"
-unlisted: "false"
+unlisted: "true"
 parent: "WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs"
 children: []
 ---
