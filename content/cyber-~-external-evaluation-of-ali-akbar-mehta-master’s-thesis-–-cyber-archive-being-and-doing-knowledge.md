@@ -1,11 +1,11 @@
 ---
-title: >-
-  Cyber ~  External Evaluation of Ali Akbar Mehta/ Master’s Thesis – Cyber
-  Archive: Being and Doing Knowledge
+title: "Cyber ~  External Evaluation of Ali Akbar Mehta/ Master’s Thesis – Cyber
+  Archive: Being and Doing Knowledge"
 subtitle: by Ranjit Hoskote
 layout: layouts/content.njk
 tags: resource
-pubdate: '2018'
+pubdate: "2018"
+unlisted: "true"
 summary: >-
   I find myself excited by Ali Akbar Mehta’s engagement with a world of rapidly,
   even exponentially escalating technological, social and ecological
@@ -21,13 +21,7 @@ summary: >-
   begins), and so forth.
 
 
-  In such a world, Mehta invites us to consider the nature of the archive as a
-  resource and point of departure for art-making as well as ethical and
-  political action; the residual questions of hegemony and colonialism that
-  accompany it (who builds an archive; who has access to it; who controls the
-  annotation that accompanies the records?), and organises an inquiry into how
-  we may conceive of the archive in its expanded, rhizomatic and hyper-connected
-  avatars in cyberspace as a ‘cyber archive’.
+  In such a world, Mehta invites us to consider the nature of the archive as a resource and point of departure for art-making as well as ethical and political action; the residual questions of hegemony and colonialism that accompany it (who builds an archive; who has access to it; who controls the annotation that accompanies the records?), and organises an inquiry into how we may conceive of the archive in its expanded, rhizomatic and hyper-connected avatars in cyberspace as a ‘cyber archive’.
 parent: Cyber Archive
 ---
 In a key move, Mehta invokes the trope of philology, advancing the claim that, as we go deeper into an epoch when our lifeworlds will be highly encrypted, the cyber archive will function as a language – I find myself thinking, here, of Wittgenstein’s cryptic suggestion that a language is a form of life – by means of which to negotiate and decode such a lifeworld. As a cultural theorist and curator, I find myself enthralled by this thesis, its explorations and its implications for the human subject and artistic agency in an epoch marked by a dramatic form of inter-species mutation as we all become cyborgs, organisms constituted as much by human consciousness as by technological prostheses.
