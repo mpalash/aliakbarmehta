@@ -5,7 +5,7 @@ subtitle: in 'The Museum of the Future. 43 New Contributions to the Discussion
   Joachim Baur
 layout: layouts/content.njk
 tags: publication
-pubdate: "2020"
+pubdate: November 18, 2020 12:00 AM
 unlisted: "false"
 hero: static/img/museum-of-the-future_books_cover.jpg
 shortdesc: '"The Museum of the Future was published in 1970. 43 contributions to
