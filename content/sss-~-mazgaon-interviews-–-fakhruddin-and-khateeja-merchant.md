@@ -1,9 +1,11 @@
 ---
+title: sss ~ Mazgaon Interviews – Fakhruddin and Khateeja Merchant
 layout: layouts/content.njk
-title: 'sss ~ Mazgaon Interviews – Fakhruddin and Khateeja Merchant'
-parent: 'SITE : STAGE : STRUCTURE'
 tags: artwork
-pubdate: '2014'
+pubdate: "2014"
+unlisted: "false"
+hero: static/img/ali-akbar-mehta-site-stage-structure-2014_nana-nani-film-still-01.png
+parent: "SITE : STAGE : STRUCTURE"
 ---
 <iframe src="https://player.vimeo.com/video/293507323" width="640"
 height="512" frameborder="0" webkitallowfullscreen mozallowfullscreen
