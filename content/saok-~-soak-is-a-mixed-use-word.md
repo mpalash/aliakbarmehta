@@ -4,6 +4,7 @@ subtitle: Curatorial Text by Ali Akbar Mehta
 layout: layouts/content.njk
 tags: text
 pubdate: "2016"
+unlisted: "true"
 hero: static/img/received_10153360436612014.jpeg
 parent: SOAK
 ---
