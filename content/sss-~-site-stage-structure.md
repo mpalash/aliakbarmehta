@@ -1,14 +1,15 @@
 ---
-layout: layouts/content.njk
-title: 'sss ~ SITE : STAGE : STRUCTURE - Mazgaon'
+title: "sss ~ SITE : STAGE : STRUCTURE - Mazgaon"
 subtitle: Artist Statement by Ali Akbar Mehta
-parent: 'SITE : STAGE : STRUCTURE'
+layout: layouts/content.njk
 tags: text
-pubdate: '2014'
-summary: >-
-  It is a Transmedia Installation that integrates books, objects, photographs,
-  short films, audio narratives, and heritage walks as a way of revitalizing
-  memories and telling a history that is absent from the formal narratives.
+pubdate: "2014"
+unlisted: "true"
+summary: It is a Transmedia Installation that integrates books, objects,
+  photographs, short films, audio narratives, and heritage walks as a way of
+  revitalizing memories and telling a history that is absent from the formal
+  narratives.
+parent: "SITE : STAGE : STRUCTURE"
 ---
 
 Mazgaon is a port and dock area of Mumbai with a rich heritage and complex history. An integral and once central part of the city seems to be almost abandoned, its history neglected, its heritage slowly corroded by the passages of Time and the amnesia of people.
