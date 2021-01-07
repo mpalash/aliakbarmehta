@@ -5,6 +5,17 @@ layout: layouts/content.njk
 tags: artwork
 pubdate: "2015"
 unlisted: "true"
+summary: The soundscape is dense and layered, blended, and forever thinning and
+  thickening. One hears no unison, only a constant figure to ground motion of
+  densities, decays and fades, of overlapping, alternating, and interlocking
+  sounds... One sound stands out momentarily, then just as quickly fades into a
+  distance, overlapped or echoed by a new or repeated emergence in the mosaic.
+  The idea is to have the sound raise the question about the relation of voice
+  and sound viz. place and non-place, to play with associative memories to
+  generate a lucid space between memory and nothingness. And when you hear the
+  way birds overlap in the forest and you hear the electromagnetic sounds of
+  space, all of a sudden you can grasp something at a sensuous level that is
+  considerably more abstract and difficult to convey.
 parent: "WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs"
 children: []
 ---
