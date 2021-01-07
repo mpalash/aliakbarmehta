@@ -8,6 +8,7 @@ unlisted: "false"
 hero: static/img/out-2-research-pavillion-venice-biennale-2017.png
 summary: "An ongoing, collaborative research project: OUT 2, presented in Venice
   as a multi-screen installation and series of related events."
+parent: Is the representation of violence also violent?
 children: []
 ---
 The project was originally inspired by Jacques Rivette’s Out 1: Noli Me Tangere (1971), a 13 hour film (behemoth in its time) made up of absurd and fragmented scenes. These come together to form an image of Paris in the early 70s that has been described as both dreamlike and nightmarish.
