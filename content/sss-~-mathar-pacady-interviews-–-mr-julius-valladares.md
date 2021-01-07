@@ -1,10 +1,10 @@
 ---
+title: sss ~ Mathar Pacady Interviews – Mr. Julius Valladares
 layout: layouts/content.njk
-title: 'sss ~ Mathar Pacady Interviews – Mr. Julius Valladares'
-parent: 'SITE : STAGE : STRUCTURE'
 tags: artwork
-pubdate: '2014'
-
+pubdate: "2014"
+unlisted: "true"
+parent: "SITE : STAGE : STRUCTURE"
 ---
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/PqcVQ6gKTvA" frameborder="0"
