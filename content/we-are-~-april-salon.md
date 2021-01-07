@@ -4,6 +4,9 @@ subtitle: Galerie Mirchandani + Steinruecke, Mumbai
 layout: layouts/content.njk
 tags: group exhibition
 pubdate: "2010"
+unlisted: "false"
+hero: static/img/Ali Akbar Mehta_Harlequin Series; We are such stuff As dreams
+  are made on, 2010, 182 x 121 cm, Archival print on Hahnemuhle paper, 2010.jpg
 parent: We are such stuff As dreams are made on
 ---
 Among the artworks at *April Salon* are ‘The harlequin’ by Ali Akbar Mehta, which is an archetypal figure struggling to define himself between the spiritual and the material, suffering and rapture, and ‘Flaw’ by Dyutti Mittal, a hand-painted sequential narrative graphic novel that communicates a concept of utopia, using numbers as symbols. Other artists featured are Buddhadev Mukherjee, Lee Hayan, Pranati Panda, Prasanta Bandyopadhyay, Rajesh Kargutkar, Raju Patel, Ranjith Raman, Rony James Martin, Shalinee Kumari, Shinobu Mikami, Subhakar Tadi and Sudip Dutta.
