@@ -7,9 +7,10 @@ subtitle: "Home Issue, Visual Culture and Contemporary Art Journal #5, (ed.)
 layout: layouts/content.njk
 tags: publication
 pubdate: "2019"
+unlisted: "false"
 hero: static/img/vicca-journal-home-issue-book-cover.jpg
-summary: The idea of _home and labour_ itself has been mired in the
-  complications of invisibilization of labor, the misdirection of value and
+summary: The idea of *home and labour* itself has been mired in the
+  complications of invisibilization of labour, the misdirection of value and
   surplus, and the recontextualization of the capitalist system as the driver of
   home politics. Is the home, as a site of labour – both visible and invisible –
   a public space? Not through physical proximity and shared-ness, but as the
@@ -29,4 +30,6 @@ The home in its formulation as a critical commons can perhaps find resonance in 
 
 __
 
-Read the complete essay in the **_Home Issue_**, Visual Culture and Contemporary Art Journal #5, (ed.) Saara Mahbouba, Paola Jallili and Else Lagerspetz, published by Aalto University, Helsinki 2019
+![](static/img/vicca-journal-home-issue-book-cover.jpg)
+
+Read the complete essay in the ***Home Issue***, Visual Culture and Contemporary Art Journal #5, (ed.) Saara Mahbouba, Paola Jallili and Else Lagerspetz, published by Aalto University, Helsinki 2019
