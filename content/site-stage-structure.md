@@ -18,7 +18,7 @@ children:
   - "sss ~ Artist Book #3: Kwan Tai Shek"
   - sss ~ Kwan Tai Shek Temple
   - sss ~ Mazgaon Interviews – Fakhruddin and Khateeja Merchant
-  - sss ~ Mathar Pacady Interviews – Uncle Martin
+  - sss ~ Mathar Pacady Interviews – Aunty Lavina and Uncle Martin
   - sss ~ Mathar Pacady Interviews – Mr. Julius Valladares
   - sss ~ Mathar Pacady Interviews – Aunty Tessi
   - sss ~ Paintings
