@@ -17,6 +17,8 @@ StudioVAAK
 
 [Palash Mukhopadhyay](https://mpalash.com/)
 
+*[varialambo](https://varialambo.com/)*
+
 Abhinit Khanna
 
 Jernej Čuček Gerbec
