@@ -21,6 +21,7 @@ tags: ongoing project
 hero: static/img/Ali Akbar Mehta_Purgatory edit_12.jpg
 children:
   - purg ~ Purgatory Edit, excerpts
+  - purg ~ Purgatory Edit, methodology
 ---
 Conceived of as an interactive audiovisual performance installation, in collaboration with artist Jernej Čuček Gerbec (SL), it is inspired by the Ludovico Technique, a fictional negative-aversion technique depicted in ‘A Clockwork Orange’ (1971) directed by Stanley Kubrick, based on Anthony Burgess's novel: 
 
