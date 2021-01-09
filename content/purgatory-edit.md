@@ -23,7 +23,7 @@ unlisted: "false"
 title: " Purgatory Edit"
 subtitle: A user-generated montage based cinematic experience by Ali Akbar Mehta
 tags: ongoing project
-hero: static/img/Ali Akbar Mehta_Purgatory edit_12.jpg
+hero: static/img/ali-akbar-mehta_purgatory-edit_12.jpg
 children:
   - purg ~ Purgatory Edit, excerpts
   - purg ~ Purgatory Edit, methodology
