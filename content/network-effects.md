@@ -21,13 +21,15 @@ In today's web platforms, the surplus value is based on the labour and behaviour
 
 Combining tools of research, activism and technology, the artists of *Network Effects* expose and disrupt the dystopic logics of the online world. While doing so, they also encourage us to confront its mechanisms by opening up new pathways for agency and citizenship.
 
- 
+<br/>
 
 > ##### *Network Effects at Helsinki's Oodi Central Library, November 17 - December 1, 2019.*
 >
-> ##### *The exhibition is produced by m-cult within the European Media Art Platform EMAP, with support by Creative Europe programme, City of Helsinki, TAIKE Arts Promotion Centre and AVEK.*
+> ##### *The exhibition is produced by [m-cult](https://www.m-cult.org/index.php/) within the European Media Art Platform EMAP, with support by Creative Europe programme, City of Helsinki, TAIKE Arts Promotion Centre and AVEK.*
 >
 > ##### \#networkeffects #europeanmediaartplatform #oodihelsinki
+
+<br/>
 
 ## Productions
 
