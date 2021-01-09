@@ -3,7 +3,7 @@ title: Kuvan Kievat
 subtitle: mentoring at the Academy of Fine Arts, University of Helsinki
 layout: content
 tags: teaching
-pubdate: November 20, 2021 12:00 AM
+pubdate: November 20, 2020 12:00 AM
 unlisted: "false"
 hero: static/img/ali-akbar-mehta-teaching-kk2020.jpg
 ---
