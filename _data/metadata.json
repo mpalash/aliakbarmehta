@@ -13,19 +13,23 @@
   "partners": [
     {
       "name": "Museum of Impossible Forms",
-      "url": "#"
+      "url": "https://www.museumofimpossibleforms.org/"
     },
     {
-      "name": "Mcult",
-      "url": "#"
+      "name": "Kiila ry",
+      "url": "http://kiila.eu/"
+    },
+    {
+      "name": "mcult",
+      "url": "https://www.m-cult.org/"
     },
     {
       "name": "OUTSIDERSATWORK",
-      "url": "#"
+      "url": "https://outsidersatwork.wordpress.com/"
     },
     {
       "name": "StudioVAAK",
-      "url": "#"
+      "url": "https://www.facebook.com/studioVAAK/"
     },
     {
       "name": "Party Office",
@@ -33,14 +37,22 @@
     },
     {
       "name": "Vidha Saumya",
-      "url": "#"
+      "url": "https://vidhasaumya.wordpress.com/"
     },
     {
       "name": "Palash Mukhopadhyay",
-      "url": "#"
+      "url": "https://mpalash.com/"
+    },
+    {
+      "name": "varialambo",
+      "url": "https://varialambo.com/"
     },
     {
       "name": "Abhinit Khanna",
+      "url": "#"
+    },
+    {
+      "name": "Jernej Čuček Gerbec",
       "url": "#"
     }
   ],

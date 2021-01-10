@@ -80,7 +80,7 @@ CMS, you can reach out in the [Netlify CMS Gitter](https://gitter.im/netlify/net
 
 ## 2 DO
 
-- Pages
+- CV
 - OG
 - Mobile
 - LFS
