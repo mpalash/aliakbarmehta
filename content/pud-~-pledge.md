@@ -1,8 +1,8 @@
 ---
 title: Pud ~ Pledge
 layout: layouts/content.njk
-tags: artwork
-pubdate: "2016"
+tags: video
+pubdate: January 11, 2016 12:00 AM
 unlisted: "true"
 parent: Pudding Manifesto for Togetherness
 ---
