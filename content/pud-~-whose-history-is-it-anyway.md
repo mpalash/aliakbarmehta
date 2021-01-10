@@ -3,7 +3,8 @@ title: Pud ~ Whose History is it Anyway?*
 subtitle: Aalto University, 2016
 layout: layouts/content.njk
 tags: group exhibition
-pubdate: "2016"
+pubdate: January 11, 2016 12:00 AM
+unlisted: "false"
 hero: static/img/pudding-manifesto_installation-view-cropped_2016.jpg
 parent: Pudding Manifesto for Togetherness
 ---
