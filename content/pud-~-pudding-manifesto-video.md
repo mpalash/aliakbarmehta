@@ -1,7 +1,7 @@
 ---
 title: Pud ~ Pudding Manifesto, Video
 layout: layouts/content.njk
-tags: artwork
+tags: video
 pubdate: January 11, 2016 12:00 AM
 unlisted: "true"
 parent: Pudding Manifesto for Togetherness
