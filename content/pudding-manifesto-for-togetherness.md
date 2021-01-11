@@ -2,7 +2,8 @@
 title: Pudding Manifesto for Togetherness
 layout: layouts/content.njk
 tags: past project
-pubdate: "2016"
+pubdate: January 11, 2016 12:00 AM
+unlisted: "false"
 hero: static/img/pudding-manifesto_installation-view-cropped_2016.jpg
 children:
   - Pud ~ Proposal for Pudding Manifesto
