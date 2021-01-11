@@ -5,7 +5,7 @@ subtitle: Performance by Ali Akbar Mehta and varialambo, part of Reciprocities
 layout: content
 tags: performance
 pubdate: February 11, 2021 12:00 AM
-unlisted: "true"
+unlisted: "false"
 hero: static/img/narrating-war-vantaan-taidemuseo-artsi.png
 summary: |-
   ![](static/img/narrating-war-vantaan-taidemuseo-artsi.png)
