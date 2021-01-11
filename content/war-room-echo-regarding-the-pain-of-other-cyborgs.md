@@ -5,7 +5,7 @@ layout: layouts/content.njk
 tags: ongoing project
 pubdate: "2019"
 unlisted: "false"
-hero: static/img/Ali Akbar Mehta_War, 2011, Graphite on Paper, 152 x 213 cm.jpg
+hero: static/img/ali-akbar-mehta_simulated-view-of-performance_wre-proposal.jpg
 shortdesc: "**WAR • ROOM • ECHO: Regarding the pain of other Cyborgs** is a
   *collaborative Transmedia Performance-Installation and Research Project*. It
   examines the philosophical terrain of war and the seemingly permanent state of
