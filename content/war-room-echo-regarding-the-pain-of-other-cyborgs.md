@@ -14,7 +14,7 @@ shortdesc: "**WAR • ROOM • ECHO: Regarding the pain of other Cyborgs** is a
   unparalleled warfare*."
 children:
   - "wre ~ Foreword: Artist's Note"
-  - War List CODEX
+  - wre ~ War List CODEX
   - wre ~  Why is an archive of wars required?
   - wre ~ Narrating War
   - wre ~ Narrating WAR, Vantaan Taidemuseo ARTSI
