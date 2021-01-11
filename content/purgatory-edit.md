@@ -1,6 +1,11 @@
 ---
+title: " Purgatory Edit"
+subtitle: A user-generated montage based cinematic experience by Ali Akbar Mehta
 layout: layouts/content.njk
+tags: ongoing project
 pubdate: "2017"
+unlisted: "false"
+hero: static/img/Ali Akbar Mehta_Purgatory edit_12.jpg
 shortdesc: "**Purgatory Edit** is an experimental cinematic experience based on
   the conceptualizations of the Yugoslavian ‘Black Wave’ Cinema movement,
   “standing for the subordination of form to the psychological contents of human
@@ -18,12 +23,7 @@ summary: >-
   the characteristics of the movement, to create concepts and ideas.
 
 
-  ![](https://lh5.googleusercontent.com/D2hwEVg2tiFJ-3AWBbbdRYyTq7qYg824RF0vQV5SAZQM-HTIzNI_F4YshqSK8uVm3CElg-LvDr_-b56n80n5IcdmOE5-1pfK8PqNMWp4keCocWh394prjixHmweGUDTA64NoCujV)
-unlisted: "false"
-title: " Purgatory Edit"
-subtitle: A user-generated montage based cinematic experience by Ali Akbar Mehta
-tags: ongoing project
-hero: static/img/ali-akbar-mehta_purgatory-edit_12.jpg
+  ![](static/img/Ali Akbar Mehta_Purgatory edit_12.jpg)
 children:
   - purg ~ Purgatory Edit, excerpts
   - purg ~ Purgatory Edit, methodology
