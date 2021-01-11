@@ -9,9 +9,7 @@ shortdesc: ""
 summary: >-
   ![](blob:https://dev-aam.netlify.app/cf6403f7-b9e0-f845-9522-aafd21d7ea18)
 
-
   ![](blob:https://dev-aam.netlify.app/b7f0c7dc-12f7-524f-8ddb-cb11da5f6071)
-
 
   ![](blob:https://dev-aam.netlify.app/a7dcde56-bd54-8d4d-98d3-189c82c301cf)
 
