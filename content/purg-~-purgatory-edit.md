@@ -15,15 +15,7 @@ summary: >-
   <iframe src="https://player.vimeo.com/video/496912646" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 parent: " Purgatory Edit"
 ---
-![](static/img/Ali Akbar Mehta_Purgatory edit_01.jpg)
-![](static/img/Ali Akbar Mehta_Purgatory edit_02.jpg)
-![](static/img/Ali Akbar Mehta_Purgatory edit_03.jpg)
-![](static/img/Ali Akbar Mehta_Purgatory edit_04.jpg)
-![](static/img/Ali Akbar Mehta_Purgatory edit_05.jpg)
-![](static/img/Ali Akbar Mehta_Purgatory edit_06.jpg)
-![](static/img/Ali Akbar Mehta_Purgatory edit_07.jpg)
-![](static/img/Ali Akbar Mehta_Purgatory edit_08.jpg)
-![](static/img/Ali Akbar Mehta_Purgatory edit_09.jpg)
-![](static/img/Ali Akbar Mehta_Purgatory edit_10.jpg)
-![](static/img/Ali Akbar Mehta_Purgatory edit_11.jpg)
-![](static/img/Ali Akbar Mehta_Purgatory edit_12.jpg)
+![](static/img/ali-akbar-mehta-purgatory-edit-01.jpg)
+![](static/img/ali-akbar-mehta-purgatory-edit-02.jpg)
+![](static/img/ali-akbar-mehta-purgatory-edit-03.jpg)
+![](static/img/ali-akbar-mehta-purgatory-edit-04.jpg)
