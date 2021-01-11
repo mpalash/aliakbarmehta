@@ -9,7 +9,7 @@ summary: >-
   **Purgatory Edit** (working title) is an experimental cinematic experience. 
 
 
-  Below is a short excerpt of the recording and stills, made during its initial prototyping.
+  Below is a short excerpt of the recording and stills, made during its initial prototyping and demo at Aalto University.
 
 
   <iframe src="https://player.vimeo.com/video/496912646" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
