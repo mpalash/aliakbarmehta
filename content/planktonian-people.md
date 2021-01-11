@@ -1,5 +1,6 @@
 ---
 title: Planktonian People
+subtitle: ongoing series of ink, watercolour, and digital works on paper
 layout: layouts/content.njk
 tags: ongoing project
 pubdate: August 1, 2013 12:00 AM
@@ -9,11 +10,10 @@ shortdesc: "*Planktonian People* is an ongoing series of ink, watercolour, and
   digital works on paper. the series portrays *human/non-human hybrids, Mutants,
   Androids and Cyborgs* as a cast of time-travellers, constantly in the past,
   present and the future."
-parent: Planktonian People
+parent: ""
 children:
   - To Whomsoever it May Concern
   - Placebo Singers
-  - plank ~ Small is Beautiful – II
   - plank ~ Unselfed Extended
   - Tasher Desh
   - Superheroes ~ The League of Superheroes
