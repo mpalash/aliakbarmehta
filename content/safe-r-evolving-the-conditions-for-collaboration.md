@@ -3,7 +3,7 @@ title: "SAFE{R}: Evolving the Conditions for Collaboration"
 subtitle: in 'Six years in the Third Space', Third Space, Helsinki (published online)
 layout: layouts/content.njk
 tags: publication
-pubdate: "2020"
+pubdate: October 30, 2020 12:00 AM
 unlisted: "false"
 hero: /static/img/six-years-in-the-third-space_-2020-program.png
 summary: >-
@@ -30,4 +30,4 @@ Today, Collaboration is at the core of any artistic, curatorial, choreographic, 
 
 **​In 2020 Third Space celebrates its 6th anniversary** with an interdisciplinary program revolving around the **complex theme of COLLABORATION.** Access the online publication and the full text **[here](https://6yearsinthe3rdspace.com/contributions/SAFE_R_Evolving-the-Conditions-for-Collaboration-Or-From-Safer-Spaces-to-Safer-People).**
 
-Read more about Third Space **[here](<  http://www.th1rdspac3.com/2020.html>).**
+Read more about Third Space **[here](http://www.th1rdspac3.com/).**
