@@ -23,7 +23,7 @@ summary: >-
   the characteristics of the movement, to create concepts and ideas.
 
 
-  ![](static/img/Ali Akbar Mehta_Purgatory edit_12.jpg)
+  ![](static/img/ali-akbar-mehta-purgatory-edit-12.jpg)
 children:
   - purg ~ Purgatory Edit, excerpts
   - purg ~ Purgatory Edit, methodology
