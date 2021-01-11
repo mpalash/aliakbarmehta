@@ -1,5 +1,5 @@
 ---
-title: War List CODEX
+title: wre ~ War List CODEX
 layout: content
 tags: publication
 pubdate: "2014"
