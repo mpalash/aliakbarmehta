@@ -1,5 +1,5 @@
 ---
-title: Ballad of The War That Never Was
+title: Ballad ~ Ballad of The War That Never Was
 layout: content
 tags: artwork
 pubdate: August 1, 2010 12:00 AM
