@@ -3,6 +3,7 @@ title: Placebo Singers
 layout: layouts/content.njk
 tags: artwork
 pubdate: "2015"
+unlisted: "true"
 hero: static/img/Ali Akbar Mehta, Placebo Singers, 2015.jpg
 parent: Planktonian People
 children:
