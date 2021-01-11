@@ -20,7 +20,10 @@ children:
   - The Superhero Series
   - Ballad ~ The Harlequin Series
   - Ballad ~ Everybody's a Jester
+  - Ballad ~ The Great Mother Re-Construct(ed)
   - Ballad ~ War
+  - Ballad ~ Ballad of The War That Never Was
+  - Ballad ~ The Identity of Violence Series
   - We are such stuff As dreams are made on
   - Purgatory
   - Rebirth
