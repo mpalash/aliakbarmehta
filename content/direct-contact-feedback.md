@@ -3,11 +3,12 @@ title: direct contact // feedback
 subtitle: "w/ Vidha Saumya, Pixelache Festival 2019: Breaking the Fourth wall, Helsinki"
 layout: layouts/content.njk
 tags: performance
-pubdate: "2019"
+pubdate: May 20, 2019 12:00 AM
+unlisted: "false"
 hero: static/img/vidha-saumya_image-for-direct-contact_radical-roti_2018.jpg
 summary: >-
   ![Vidha Saumya, “Main radical roti hoon/ I am a radical roti”,
-  2018](blob:https://dev-aam.netlify.app/674b918a-c469-a144-8e95-e348f34fccee
+  2018](static/img/vidha-saumya_image-for-direct-contact_radical-roti_2018.jpg
   "Vidha Saumya, “Main radical roti hoon/ I am a radical roti”, 2018")
 
 
@@ -26,11 +27,9 @@ summary: >-
 children:
   - In Conversation with Ali Akbar Mehta
 ---
-
-
 ## About
 
-For Pixelache Festival’s 2019 edition, Breaking the Fifth Wall, we propose to cook chapatis (a type of Indian unleavened bread: https://en.wikipedia.org/wiki/Chapati), made with wheat/rice/millet flour (made with different flour across three days), put together with an assortment of accompaniments that are typically served with it, such as salt, butter, jaggery, pickles, ghee, etc.
+For **[Pixelache Festival’s 2019 edition, Breaking the Fifth Wall](https://breaking5thwall.pixelache.ac/)**, we propose to cook chapatis (a type of Indian unleavened bread: https://en.wikipedia.org/wiki/Chapati), made with wheat/rice/millet flour (made with different flour across three days), put together with an assortment of accompaniments that are typically served with it, such as salt, butter, jaggery, pickles, ghee, etc.
 
 The work will be in the form of a participatory performance installation, where we will knead the dough, cook the bread and bring to a table consisting of pre-arranged accompaniments. Audience will be expected to participate through the act of eating and conversing with each other, as well as with the cooks, who through the process of cooking will converse with eating participants and unfold the narratives of direct-contact.
 
@@ -46,10 +45,12 @@ The work will be in the form of a participatory performance installation, where 
 
 ![direct contact//feedback, installation view, SOLU Space, Helsinki, 2019](/static/img/installation-view-direct-contact_day-01_serving-table_2019.jpg)
 
-
-
-
-
 ![Installation view, direct-contact//feedback, pickle/achaar, 2019](/static/img/installation-view-direct-contact_pickle-achaar_2019.jpg)
 ![Installation view, direct-contact//feedback, clarified butter/ghee, 2019](/static/img/installation-view-direct-contact_clarified-butter-ghee_2019.jpg)
 ![Installation view, direct-contact//feedback, granulated jaggery/gud, 2019](/static/img/installation-view-direct-contact_granulated-jaggery-gud_2019.jpg)
+
+The performance lasting 3 iterations were conducted during the course of the Festival, in:
+
+* [Solu](https://pixelache.ac/festivals/breaking5thwall/solu), Luotsikatu 13, 00160 Helsinki Finland, Katajanokka /// 20.05. /// 18:00 - 20:00 ///
+* [Oranssi](https://breaking5thwall.pixelache.ac/festivals/breaking5thwall/solu), Kaasutehtaankatu 11/20, Suvilahti /// 22.05. /// 18:00 - 20:00 ///
+* [Solu](https://pixelache.ac/festivals/breaking5thwall/solu), Luotsikatu 13, 00160 Helsinki Finland, Katajanokka /// 24.05. /// 18:00 - 20:00 ///
