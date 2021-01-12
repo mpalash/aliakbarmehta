@@ -1,9 +1,11 @@
 ---
+title: "sss ~ Artist Book 3: Kwan Tai Shek"
 layout: layouts/content.njk
-title: 'sss ~ Artist Book 3: Kwan Tai Shek'
-parent: 'SITE : STAGE : STRUCTURE'
-tags: artwork
-pubdate: '2014'
+tags: publication
+pubdate: "2014"
+unlisted: "false"
+hero: static/img/temple.jpg
+parent: "SITE : STAGE : STRUCTURE"
 ---
 ![Artist Book #3: Kwan Tai Shek, SITE : STAGE : STRUCTURE, 2014](/static/img/temple.jpg)
 ![](/static/img/temple-01.jpg)
