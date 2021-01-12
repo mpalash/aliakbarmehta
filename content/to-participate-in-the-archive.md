@@ -1,22 +1,21 @@
 ---
 title: To Participate in the Archive
-subtitle: 'ARTEL 2018: Residency at TIFA Working Studios'
+subtitle: "ARTEL 2018: Residency at TIFA Working Studios"
 layout: layouts/content.njk
 tags: residency
-pubdate: '2018'
-hero: >-
-  /static/img/ali-akbar-mehta_installation-view_cyborg-archive-archiving-knowledge_tifa-working-studios_2018.jpg
-summary: ''
+pubdate: January 5, 2018 12:00 AM
+unlisted: "false"
+hero: /static/img/ali-akbar-mehta_installation-view_cyborg-archive-archiving-knowledge_tifa-working-studios_2018.jpg
+summary: ""
 children:
-  - 'Cyber ~ Archiving Knowledge, sculptures'
-  - >-
-    participate ~ Cyborg Archives: 256 Million Colours of Violence, TIFA Working
-    Studios, Pune
-  - 'participate ~ Cyborg Archives: WAR • ROOM • ECHO, TIFA Working Studios, Pune'
-  - >-
-    participate ~ Cyborg Archives: GarbageInGarbageOut, TIFA Working Studios,
-    Pune
-  - 'participate ~ Cyborg Archives: Can Archives Speak?'
+  - Cyber ~ Archiving Knowledge, sculptures
+  - "participate ~ Cyborg Archives: 256 Million Colours of Violence, TIFA
+    Working Studios, Pune"
+  - "participate ~ Cyborg Archives: WAR • ROOM • ECHO, TIFA Working Studios,
+    Pune"
+  - "participate ~ Cyborg Archives: GarbageInGarbageOut, TIFA Working Studios,
+    Pune"
+  - "participate ~ Cyborg Archives: Can Archives Speak?"
   - participate ~ Assembly of Access
 ---
 From January 5, to Febuary 6, 2018, I was invited with several other artists and practitioners within the field of archiving to be a artist-in-residence at the [ARTEL2018](http://tifa.edu.in/artel/), TIFA Working Studios, Pune. The curatorial framework for ARTEL2018 was defined by artist/curator [Vidisha Fadescha](http://vidisha-fadescha.com/ASSEMBLY-OF-ACCESS) as "_To Participate in the Archive"_.
