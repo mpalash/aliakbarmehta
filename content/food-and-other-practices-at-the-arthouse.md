@@ -5,8 +5,9 @@ subtitle: "Visual Culture and Contemporary Art Journal #4, (ed.) Ali Akbar Mehta
 layout: layouts/content.njk
 tags: publication
 pubdate: "2018"
+unlisted: "false"
 hero: static/img/food-journal-book-cover.jpg
-parent: "SITE : STAGE : STRUCTURE"
+parent: ""
 children: []
 ---
 > **EDITORIAL**
