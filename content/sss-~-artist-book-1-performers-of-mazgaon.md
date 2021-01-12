@@ -1,9 +1,10 @@
 ---
 title: "sss ~ Artist Book 1: Performers of Mazgaon"
 layout: layouts/content.njk
-tags: artwork
+tags: publication
 pubdate: "2014"
-unlisted: "true"
+unlisted: "false"
+hero: static/img/slide13.jpg
 parent: "SITE : STAGE : STRUCTURE"
 ---
 ![Artist Book #1: Performers of Mazgaon, SITE : STAGE : STRUCTURE, 2014](/static/img/slide13.jpg)
