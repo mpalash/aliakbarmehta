@@ -3,7 +3,7 @@ title: Small is Beautiful
 subtitle: TAO Art Gallery, Mumbai
 layout: layouts/content.njk
 tags: group exhibition
-pubdate: "2012"
+pubdate: July 15, 2012 12:00 AM
 unlisted: "false"
 hero: static/img/small-is-beautiful-einvite-lo-res.jpg
 ---
