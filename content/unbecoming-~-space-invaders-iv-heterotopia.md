@@ -3,7 +3,8 @@ title: "unbecoming ~ Space Invaders IV: Heterotopia"
 subtitle: " Espoo, 2016"
 layout: layouts/content.njk
 tags: group exhibition
-pubdate: "2016"
+pubdate: May 16, 2016 12:00 AM
+unlisted: "false"
 hero: static/img/fb_img_1464251160384.jpg
 parent: (Un)Becoming Finnish
 children: []
