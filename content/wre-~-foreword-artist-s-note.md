@@ -5,9 +5,9 @@ tags: text
 pubdate: "2014"
 unlisted: "true"
 summary: >-
-  In 2002, my father, Yusuf Mehta, was commissioned to make a short documentary
-  film on the Godhra riots in Gujarat, India, using amateur and found footage
-  collected during the riots.
+  In 2002, I assisted documentary-filmmaker Yusuf Mehta to make a short
+  documentary film on the **Godhra riots** in Gujarat, India, using 'amateur
+  video documentation' and 'found footage' collected during the riots.
 
 
   > **The 2002 Gujarat riots** (also known as the *2002 Gujarat violence* and the *Gujarat pogrom*) was a three-day period of inter-communal violence in the western Indian state of Gujarat. Following the initial incident there were further outbreaks of violence in Ahmedabad for three weeks; statewide, there were further outbreaks of mass killings against the minority Muslim population for three months. The burning of a train in Godhra on 27 February 2002, which caused the deaths of 58 *karsevaks* (Hindu pilgrims) returning from *Ayodhya* is believed to have triggered the violence. Some commentators, however, hold the view that the attacks had been planned, were well orchestrated, and that the attack on the train was a “staged trigger” for what was actually premeditated violence.
