@@ -17,10 +17,10 @@ summary: >-
   ![Icarus finds his wings again, 2010, Archival print on Hahnemuhle paper, 182 x 121 cm](/static/img/Ali Akbar Mehta_Harlequin Series; Icarus finds his wings again, 2010, Archival print on Hahnemuhle paper, 182 x 121 cm.jpg)
 
 
-  ![Caught Somewhere in Time, 2010, Archival print on Hahnemuhle paper, 182 x 152 cm](/static/img/Ali Akbar Mehta_Harlequin Series; Caught Somewhere in Time, 2010, Archival print on Hahnemuhle paper, 182 x 152 cm.jpg)
+  ![Caught Somewhere in Time, 2010, Archival print on Hahnemuhle paper, 182 x 152 cm](static/img/Ali-Akbar-Mehta_Harlequin-Series-Caught-Somewhere-in-Time-2010-Archival-print-on-Hahnemuhle-paper-182-x-152-cm.jpg)
 
 
-  ![All that was Solid is Liquid again, 2010, Archival print on archival paper, 229 x 152 cm](/static/img/Ali Akbar Mehta_Harlequin Series; All that was Solid is Liquid again, 2010, Archival print on archival paper, 229 x 152 cm.jpg)
+  ![All that was Solid is Liquid again, 2010, Archival print on archival paper, 229 x 152 cm](static/img/Ali-Akbar-Mehta_Harlequin-Series-All-that-was-Solid-is-Liquid-again-2010-Archival-print-on-archival-paper-229-x-152-cm.jpg)
 
 
   ![Soliloquies in the Garden of Earthly Delights, 2011, Archival print on Hahnemuhle paper, 229 x 152 cm](/static/img/Ali Akbar Mehta_Harlequin Series; Soliloquies in the Garden of Earthly Delights, 2011, Archival print on Hahnemuhle paper, 229 x 152 cm.jpg)
