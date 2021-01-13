@@ -4,7 +4,8 @@ subtitle: part of Chimurenga Collective's 'The Pan African Space Station',
   curated by Ahmed Al-Nawas
 layout: layouts/content.njk
 tags: performance
-pubdate: "2016"
+pubdate: April 15, 2016 12:00 AM
+unlisted: "false"
 hero: static/img/kallio-performance.jpg
 parent: "WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs"
 ---
