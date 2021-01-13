@@ -5,8 +5,10 @@ tags: ongoing project
 pubdate: "2020"
 unlisted: "false"
 hero: /static/img/blum_ig.jpg
+parent: Ballad of the Lost Utopian Meadow
 children:
   - Lost ~ The Meadow
+  - The art of making art seen through the lens of serving and consuming food
 ---
 ['Ballad of the Lost Utopian Meadow'](https://www.thelostutopianmeadow.com/) is an archive of Finnish food. The project extends the metaphorical implications of what a meadow means to Finland within the contexts of ecological conservation, cultural significance, and as a site of contemporary co-existence.
 
