@@ -15,4 +15,8 @@ children:
 
 Conceived by Ali Akbar Mehta and Vidha Saumya for ONOMA summer exhibitions 2020 ‘Meadow’, curated by Taru Elfving, the 71 stanzas of the ballad have been transformed into a sound piece with vocals and piano by the amazing #varialambo (Varia Sjöström and Hatz Lambo), sound design by Kim Modig (orker), and recorded at the beautiful studios of Artlab Studio by Albert Ihanus.
 
+The project was produced with the support of **[Contemporary Art Archipelago (CAA)](https://contemporaryartarchipelago.org/commission/ballad-of-the-lost-utopian-meadow-a-finnish-food-archive-by-vidha-saumya-ali-akbar-mehta/)** as part of the *Spectres in Change* project, funded by **Kone Foundation**. 
+
+
+
 ![](/static/img/ali-vidha_ballad-of-the-lost-utopian-meadow_qr-code_2020.jpg)
