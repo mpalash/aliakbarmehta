@@ -1,5 +1,6 @@
 ---
 title: Ballad of the Lost Utopian Meadow
+subtitle: A Finnish Food Archive
 layout: layouts/content.njk
 tags: ongoing project
 pubdate: March 15, 2020 12:00 AM
