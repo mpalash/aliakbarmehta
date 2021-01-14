@@ -10,6 +10,6 @@ shortdesc: What happens when the production or consumption of food lies in the
   lead to a more inclusive society?
 parent: Ballad of the Lost Utopian Meadow
 ---
-![](static/img/balladofthelostutopianmeadow_excerpt01.jpg)
+
 
 Read **[here](https://www.stirworld.com/think-opinions-the-art-of-making-art-seen-through-the-lens-of-serving-and-consuming-food)**
