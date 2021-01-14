@@ -3,7 +3,8 @@ title: "CPA ~ Mehta & Ånäs: Keskuspuisto-arkistot"
 subtitle: Interview by M-Cult, for Maunulassa
 layout: layouts/content.njk
 tags: press
-pubdate: "2020"
+pubdate: August 20, 2020 12:00 AM
+unlisted: "false"
 hero: static/img/central-park-archives_fieldtrip-june2020_photominnatarkka.jpg
 summary: >-
   The artists of the Central Park Archives project, Ali Akbar Mehta and Susanna
