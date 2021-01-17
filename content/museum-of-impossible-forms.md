@@ -4,6 +4,7 @@ subtitle: Cultural Centre, Kontula, Helsinki
 layout: layouts/content.njk
 tags: curatorial project
 pubdate: "2016"
+unlisted: "false"
 hero: /static/img/m-if-poster.jpg
 summary: I’m one of the co-founders and current co-Artistic Director (2018-2020)
   of ‘Museum of Impossible Forms’, an anti-racist, queer feminist
@@ -24,6 +25,7 @@ children:
   - Muse ~ Who is Welcome? – Thinking Hospitality as Museum of Impossible Forms
   - "SAFE{R}: Evolving the Conditions for Collaboration"
   - The Shape of Museums to Come
+  - "Mif ~ Cultural production and racism: How to challenge racist structures"
   - "Museum of Impossible Forms: Voicing the Margins"
   - "Mif ~ Generating (An)Other Economy: Working Together at the Museum of
     Impossible Forms"
