@@ -8,7 +8,7 @@ unlisted: "false"
 hero: static/img/installation-view-direct-contact_day-01_serving-table_2019.jpg
 summary: >-
   ![Vidha Saumya, “Main radical roti hoon/ I am a radical roti”,
-  2018](static/img/vidha-saumya_image-for-direct-contact_radical-roti_2018.jpg
+  2018](/static/img/vidha-saumya_image-for-direct-contact_radical-roti_2018.jpg
   "Vidha Saumya, “Main radical roti hoon/ I am a radical roti”, 2018")
 
 
@@ -55,4 +55,4 @@ The performance lasting 3 iterations were conducted during the course of the Fes
 * [Oranssi](https://breaking5thwall.pixelache.ac/festivals/breaking5thwall/solu), Kaasutehtaankatu 11/20, Suvilahti /// 22.05. /// 18:00 - 20:00 ///
 * [Solu](https://pixelache.ac/festivals/breaking5thwall/solu), Luotsikatu 13, 00160 Helsinki Finland, Katajanokka /// 24.05. /// 18:00 - 20:00 ///
 
-![](static/img/installation-view-direct-contact_day-01_serving-table_2019.jpg)
+![](/static/img/installation-view-direct-contact_day-01_serving-table_2019.jpg)

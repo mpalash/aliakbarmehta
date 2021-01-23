@@ -14,7 +14,7 @@ parent: "WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs"
 
 **Vantaa Art Museum Artsi 12.2.-16.5.2021**
 
-![](static/img/narrating-war-vantaan-taidemuseo-artsi.png)
+![](/static/img/narrating-war-vantaan-taidemuseo-artsi.png)
 
 <br/>
 

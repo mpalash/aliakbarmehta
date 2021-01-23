@@ -7,7 +7,7 @@ hero: static/img/ali-akbar-mehta-is-the-representation-of-violence-also-violent-
 children:
   - "IS ~ IS/NOT: Sculpture for the Post-Truth Era"
 ---
-![Is the representation of violence also Violent?, sand-casted aluminium, 2017](static/img/ali-akbar-mehta-is-the-representation-of-violence-also-violent-sandcasted-aluminium-2017.jpg)
+![Is the representation of violence also Violent?, sand-casted aluminium, 2017](/static/img/ali-akbar-mehta-is-the-representation-of-violence-also-violent-sandcasted-aluminium-2017.jpg)
 
 The French poet *Eugene Guillevic*, whose ‘*Charnel House*’ (1947) is one of the first, and finest, poetic responses to the Shoah (Jewish, meaning Holocaust), once wrote, 
 

@@ -17,10 +17,10 @@ summary: >-
 
 
 
-  ![](static/img/walkin-the-portal_publication-cover_walkin-studios_2020.jpg)
+  ![](/static/img/walkin-the-portal_publication-cover_walkin-studios_2020.jpg)
 
 
-  ![](static/img/ali-akbar-mehta-walkinstudios-quote-2020.jpg)
+  ![](/static/img/ali-akbar-mehta-walkinstudios-quote-2020.jpg)
 
 
 

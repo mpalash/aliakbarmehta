@@ -22,24 +22,24 @@ parent: " Purgatory Edit"
 ---
 
 
-![](static/img/ali-akbar-mehta-purgatory-edit-01.jpg)
+![](/static/img/ali-akbar-mehta-purgatory-edit-01.jpg)
 
-![](static/img/ali-akbar-mehta-purgatory-edit-02.jpg)
+![](/static/img/ali-akbar-mehta-purgatory-edit-02.jpg)
 
-![](static/img/ali-akbar-mehta-purgatory-edit-03.jpg)
+![](/static/img/ali-akbar-mehta-purgatory-edit-03.jpg)
 
-![](static/img/ali-akbar-mehta-purgatory-edit-04.jpg)
+![](/static/img/ali-akbar-mehta-purgatory-edit-04.jpg)
 
-![](static/img/ali-akbar-mehta-purgatory-edit-05.jpg)
+![](/static/img/ali-akbar-mehta-purgatory-edit-05.jpg)
 
-![](static/img/ali-akbar-mehta-purgatory-edit-06.jpg)
+![](/static/img/ali-akbar-mehta-purgatory-edit-06.jpg)
 
-![](static/img/ali-akbar-mehta-purgatory-edit-07.jpg)
+![](/static/img/ali-akbar-mehta-purgatory-edit-07.jpg)
 
-![](static/img/ali-akbar-mehta-purgatory-edit-08.jpg)
+![](/static/img/ali-akbar-mehta-purgatory-edit-08.jpg)
 
-![](static/img/ali-akbar-mehta-purgatory-edit-09.jpg)
+![](/static/img/ali-akbar-mehta-purgatory-edit-09.jpg)
 
-![](static/img/ali-akbar-mehta-purgatory-edit-11.jpg)
+![](/static/img/ali-akbar-mehta-purgatory-edit-11.jpg)
 
-![](static/img/ali-akbar-mehta-purgatory-edit-12.jpg)
+![](/static/img/ali-akbar-mehta-purgatory-edit-12.jpg)

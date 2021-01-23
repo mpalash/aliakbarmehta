@@ -23,7 +23,7 @@ layout: layouts/base.njk
       {% for content in contents %}
         {% for section in sections %}
           {% if section.data.title == content %}
-            <li><a class="toc-link" href="#{{ section.data.title.split('~').slice(-1)[0] | trim | slug }}">{{ section.data.title.split('~').slice(-1)[0] | trim }}</a></li>
+            <li><a class="toc-link" href="#{{ section.data.title.split('~').slice(-1)[0] | trim | slugify }}">{{ section.data.title.split('~').slice(-1)[0] | trim }}</a></li>
           {% endif %}
         {% endfor %}
       {% endfor %}
@@ -47,7 +47,7 @@ layout: layouts/base.njk
       <aside class="project-tag">
         <span>{{ section.data.tags }} — {{ section.data.pubdate | yy }}</span>
       </aside>
-      <section id="{{ section.data.title.split('~').slice(-1)[0] | trim | slug }}" class="section-content {{ section.data.tag }}" data-title="{{ section.data.title.split('~').slice(-1)[0] | trim | slug }}">
+      <section id="{{ section.data.title.split('~').slice(-1)[0] | trim | slugify }}" class="section-content {{ section.data.tag }}" data-title="{{ section.data.title.split('~').slice(-1)[0] | trim | slugify }}">
         <h2>{{ section.data.title.split('~').slice(-1)[0] | trim }}</h2>
         {% if section.data.subtitle %}
           <h4>{{ section.data.subtitle | safe }}</h4>
@@ -57,7 +57,7 @@ layout: layouts/base.njk
         {% endif %}
         <div class="full-content">{{ section.data.layoutContent | safe }}</div>
         {% if section.data.summary and section.data.content %}
-          <a href="#" class="toggle-section" data-title="{{ section.data.title.split('~').slice(-1)[0] | trim | slug }}">
+          <a href="#" class="toggle-section" data-title="{{ section.data.title.split('~').slice(-1)[0] | trim | slugify }}">
             <span class="more"></span>
             <span class="less" style="display: none;"></span>
           </a>

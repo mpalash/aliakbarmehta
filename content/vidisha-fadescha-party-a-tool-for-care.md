@@ -28,7 +28,7 @@ As a continuation of their talk at Stidilä, outlining *Party as a Tool for Care
 
 Redrum will play at Stidila from 2:00 to 4:00 am as the closing gig on the Saturday Night’s programme.
 
-![](static/img/redrum-2019.png)
+![](/static/img/redrum-2019.png)
 
 *Bio*
 

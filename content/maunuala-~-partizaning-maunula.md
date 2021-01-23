@@ -16,13 +16,13 @@ summary: >-
   In collaboration with artists from Aalto University’s *Visual Culture and Contemporary Art* (ViCCA) program, Partizaning created a series of interventions to address the parallel dynamics of gentrification and segregation in the Maunula neighbourhood.
 
 
-  ![](static/img/partizaningmaunula-ali-vidha-soup_photovesapekkagronfors-web.jpg)
+  ![](/static/img/partizaningmaunula-ali-vidha-soup_photovesapekkagronfors-web.jpg)
 
 
-  ![](static/img/PartizaningMaunula-Soup2_photoVesaPekkaGronfors-web.jpg)
+  ![](/static/img/PartizaningMaunula-Soup2_photoVesaPekkaGronfors-web.jpg)
 
 
-  ![](static/img/PartizaningMaunula_photo27_VesaPekkaGronfors_web.jpg)
+  ![](/static/img/PartizaningMaunula_photo27_VesaPekkaGronfors_web.jpg)
 parent: Maunula Speaks
 ---
 

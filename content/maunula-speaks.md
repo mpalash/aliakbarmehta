@@ -9,6 +9,6 @@ hero: static/img/PartizaningMaunula_photo27_VesaPekkaGronfors_web.jpg
 children:
   - Maunuala ~ Partizaning Maunula
 ---
-![](static/img/Maunula speaks_Poster_Ali and Vidha.jpg)
+![](/static/img/Maunula speaks_Poster_Ali and Vidha.jpg)
 
 **Maunula Speaks as** a culmination of an intervention in the Helsinki suburb of Maunula, together with Partizaning Collective, a Russian artist-duo working in Maunula as part of the **M-cult** artist residency programme.

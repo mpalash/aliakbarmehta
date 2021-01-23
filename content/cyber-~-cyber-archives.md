@@ -18,10 +18,10 @@ summary: >-
   as 'the embodiment of the witness', and as a 'location of culture'.
 
 
-  ![](static/img/cyber-archives-talk.jpg)
+  ![](/static/img/cyber-archives-talk.jpg)
 
 
-  ![](static/img/cyber-archives-die-schule-der-archaeutopie-in-conversation-with-ali-akbar-mehta-universität-für-angewandte-kunst-wien-vienna-2018_01.jpg)
+  ![](/static/img/cyber-archives-die-schule-der-archaeutopie-in-conversation-with-ali-akbar-mehta-universität-für-angewandte-kunst-wien-vienna-2018_01.jpg)
 parent: Cyber Archive
 children: []
 ---
