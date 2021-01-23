@@ -4,7 +4,7 @@ subtitle: Curatorial text by Ali Akbar Mehta, Museum of Impossible Forms, Helsin
 layout: layouts/content.njk
 tags: publication
 pubdate: "2019"
-hero: static/img/atlas.jpg
+hero: /static/img/atlas.jpg
 shortdesc: Curatorial Text, written as part of Co-Artistic Directorship at
   [Museum of Impossible Forms,](https://www.museumofimpossibleforms.org/)
   Helsinki

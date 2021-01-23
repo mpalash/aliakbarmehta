@@ -4,7 +4,7 @@ subtitle: Maunulatalo, Maunula, Helsinki
 layout: layouts/content.njk
 tags: group exhibition
 pubdate: "2017"
-hero: static/img/PartizaningMaunula_photo27_VesaPekkaGronfors_web.jpg
+hero: /static/img/PartizaningMaunula_photo27_VesaPekkaGronfors_web.jpg
 summary: >-
   Moscow-based ***Partizaning Collective*** is an urban activist movement
   focusing on art as a tool for social change. Two collective members, *Anton

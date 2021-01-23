@@ -5,7 +5,7 @@ layout: layouts/content.njk
 tags: group exhibition
 pubdate: "2017"
 unlisted: "false"
-hero: static/img/Ateria-18.JPG
+hero: /static/img/Ateria-18.JPG
 parent: ""
 children: []
 ---

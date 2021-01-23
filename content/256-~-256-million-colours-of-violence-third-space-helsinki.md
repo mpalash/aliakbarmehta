@@ -5,7 +5,7 @@ layout: layouts/content.njk
 tags: solo exhibition
 pubdate: November 24, 2016 12:00 AM
 unlisted: "false"
-hero: static/img/Ali Akbar Mehta_256_Third Space_Opening_2016 .jpg
+hero: /static/img/Ali Akbar Mehta_256_Third Space_Opening_2016 .jpg
 parent: 256 Million Colours of Violence
 ---
 ![Installation view, Third Space Helsinki, 2016](/static/img/ali-akbar-mehta_256-million-colours-of-violence_installation-view-01_third-space-helsinkie_2016.jpg)

@@ -4,7 +4,7 @@ layout: layouts/content.njk
 tags: publication
 pubdate: "2014"
 unlisted: "false"
-hero: static/img/temple.jpg
+hero: /static/img/temple.jpg
 parent: "SITE : STAGE : STRUCTURE"
 ---
 ![Artist Book #3: Kwan Tai Shek, SITE : STAGE : STRUCTURE, 2014](/static/img/temple.jpg)

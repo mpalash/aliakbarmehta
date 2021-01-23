@@ -4,7 +4,7 @@ subtitle: "Interview by Arlene Tucker, Pixelache Festival 2019: Breaking the Fif
 layout: layouts/content.njk
 tags: press
 pubdate: "2019"
-hero: static/img/20180104_174708.jpg
+hero: /static/img/20180104_174708.jpg
 parent: Planktonian People
 children:
   - Tasher ~ Tagore Lost and Found

@@ -4,7 +4,7 @@ subtitle: Kalasatama, Helsinki
 layout: layouts/content.njk
 tags: group exhibition
 pubdate: "2016"
-hero: static/img/received_10153360436612014.jpeg
+hero: /static/img/received_10153360436612014.jpeg
 parent: SOAK
 children: []
 ---

@@ -5,7 +5,7 @@ layout: layouts/content.njk
 tags: group exhibition
 pubdate: May 16, 2016 12:00 AM
 unlisted: "false"
-hero: static/img/fb_img_1464251160384.jpg
+hero: /static/img/fb_img_1464251160384.jpg
 parent: (Un)Becoming Finnish
 children: []
 ---

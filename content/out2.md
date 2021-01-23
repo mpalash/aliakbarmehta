@@ -5,7 +5,7 @@ layout: layouts/content.njk
 tags: group exhibition
 pubdate: "2017"
 unlisted: "false"
-hero: static/img/out-2-research-pavillion-venice-biennale-2017.png
+hero: /static/img/out-2-research-pavillion-venice-biennale-2017.png
 summary: "An ongoing, collaborative research project: OUT 2, presented in Venice
   as a multi-screen installation and series of related events."
 parent: Is the representation of violence also violent?

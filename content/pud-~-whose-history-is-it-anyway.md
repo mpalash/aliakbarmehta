@@ -5,7 +5,7 @@ layout: layouts/content.njk
 tags: group exhibition
 pubdate: January 11, 2016 12:00 AM
 unlisted: "false"
-hero: static/img/pudding-manifesto_installation-view-cropped_2016.jpg
+hero: /static/img/pudding-manifesto_installation-view-cropped_2016.jpg
 parent: Pudding Manifesto for Togetherness
 ---
 January 11 – February 2, 2016

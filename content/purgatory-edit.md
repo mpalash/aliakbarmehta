@@ -5,7 +5,7 @@ layout: layouts/content.njk
 tags: ongoing project
 pubdate: "2017"
 unlisted: "false"
-hero: static/img/Ali Akbar Mehta_Purgatory edit_12.jpg
+hero: /static/img/Ali Akbar Mehta_Purgatory edit_12.jpg
 shortdesc: "**Purgatory Edit** is an experimental cinematic experience based on
   the conceptualizations of the Yugoslavian ‘Black Wave’ Cinema movement,
   “standing for the subordination of form to the psychological contents of human

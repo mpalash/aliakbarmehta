@@ -6,7 +6,7 @@ layout: layouts/content.njk
 tags: publication
 pubdate: February 15, 2021 11:35 AM
 unlisted: "false"
-hero: static/img/cultural-production-and-racism-2021.jpg
+hero: /static/img/cultural-production-and-racism-2021.jpg
 parent: Museum of Impossible Forms
 ---
 ![](/static/img/cultural-production-and-racism-2021.jpg)

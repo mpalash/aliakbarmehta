@@ -6,7 +6,7 @@ layout: content
 tags: teaching
 pubdate: October 14, 2020 12:00 AM
 unlisted: "false"
-hero: static/img/ali-akbar-mehta-archiving-knowledge_09-2008.jpg
+hero: /static/img/ali-akbar-mehta-archiving-knowledge_09-2008.jpg
 ---
 In October 2020 I was invited by curator and course leader Marialaura Ghidini, to speak to the MFA students of Srishti School of Art, Design, and Technology (Bengaluru) within the context of curating and archiving.
 

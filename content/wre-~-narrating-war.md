@@ -3,7 +3,7 @@ title: wre ~ Narrating War
 layout: layouts/content.njk
 tags: unpublished
 pubdate: "2016"
-hero: static/img/narrating-war_photoshoot_01.jpg
+hero: /static/img/narrating-war_photoshoot_01.jpg
 summary: >-
   
   Violence & the culture it consumes/perpetuates is a fundamental condition lodged in the core of human experience. It is simultaneously private, public, self-intimating & collective. War is an easy thing to look away from, if we are sitting miles away – we change the channel, we compartmentalise them, sort and neatly fold them into civilizations, time periods, regions and nationalities. By accepting war as normal we have become passive participants. War tears, rends. War rips open, eviscerates. War scorches. War dismembers. War ruins. War is actually Hell.

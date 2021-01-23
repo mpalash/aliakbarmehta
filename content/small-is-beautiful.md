@@ -5,6 +5,6 @@ layout: layouts/content.njk
 tags: group exhibition
 pubdate: July 15, 2012 12:00 AM
 unlisted: "false"
-hero: static/img/small-is-beautiful-einvite-lo-res.jpg
+hero: /static/img/small-is-beautiful-einvite-lo-res.jpg
 ---
 ![Small is Beautiful, Invite, 2012](/static/img/small-is-beautiful-einvite-lo-res.jpg)

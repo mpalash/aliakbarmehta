@@ -5,7 +5,7 @@ layout: layouts/content.njk
 tags: solo exhibition
 pubdate: August 14, 2014 12:00 AM
 unlisted: "false"
-hero: static/img/1.-ali-akbar-mehta-site-stage-structure-2014_installation-view-©-aliakbarmehta.jpg
+hero: /static/img/1.-ali-akbar-mehta-site-stage-structure-2014_installation-view-©-aliakbarmehta.jpg
 parent: "SITE : STAGE : STRUCTURE"
 ---
 ![](/static/img/site-stage-structure-art-night-thursday.png)

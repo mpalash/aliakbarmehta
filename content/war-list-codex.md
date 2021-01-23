@@ -4,7 +4,7 @@ layout: content
 tags: publication
 pubdate: "2014"
 unlisted: "false"
-hero: static/img/war-list-codex-front-book-cover.jpg
+hero: /static/img/war-list-codex-front-book-cover.jpg
 shortdesc: ""
 summary: ""
 parent: "WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs"

@@ -4,7 +4,7 @@ layout: layouts/content.njk
 tags: artwork
 pubdate: "2018"
 unlisted: "false"
-hero: static/img/screenshot-2019-03-10-at-12.32.52.jpg
+hero: /static/img/screenshot-2019-03-10-at-12.32.52.jpg
 summary: |-
   An Archive of questions
 

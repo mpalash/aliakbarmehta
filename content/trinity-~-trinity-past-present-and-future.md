@@ -5,7 +5,7 @@ layout: layouts/content.njk
 tags: text
 pubdate: "2015"
 unlisted: "true"
-hero: static/img/ali-akbar-mehta_installation-view_-ext-01_trinity-godrej_2015.jpg
+hero: /static/img/ali-akbar-mehta_installation-view_-ext-01_trinity-godrej_2015.jpg
 parent: "TRINITY: Godrej Legacy Park Silos"
 ---
 An exhibition is always an act of placing artworks and understanding the

@@ -5,7 +5,7 @@ layout: layouts/content.njk
 tags: artwork
 pubdate: "2017"
 unlisted: "false"
-hero: static/img/PartizaningMaunula_photo27_VesaPekkaGronfors_web.jpg
+hero: /static/img/PartizaningMaunula_photo27_VesaPekkaGronfors_web.jpg
 children:
   - Maunuala ~ Partizaning Maunula
 ---

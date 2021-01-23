@@ -5,7 +5,7 @@ layout: layouts/content.njk
 tags: performance
 pubdate: May 20, 2019 12:00 AM
 unlisted: "false"
-hero: static/img/installation-view-direct-contact_day-01_serving-table_2019.jpg
+hero: /static/img/installation-view-direct-contact_day-01_serving-table_2019.jpg
 summary: >-
   ![Vidha Saumya, “Main radical roti hoon/ I am a radical roti”,
   2018](/static/img/vidha-saumya_image-for-direct-contact_radical-roti_2018.jpg

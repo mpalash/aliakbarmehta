@@ -5,7 +5,7 @@ layout: layouts/content.njk
 tags: group exhibition
 pubdate: February 6, 2018 12:00 AM
 unlisted: "false"
-hero: static/img/ali-akbar-mehta_256-million-colours-of-violence_installation-view_tifa-working-studios-pune_2018.jpg
+hero: /static/img/ali-akbar-mehta_256-million-colours-of-violence_installation-view_tifa-working-studios-pune_2018.jpg
 parent: To Participate in the Archive
 children: []
 ---

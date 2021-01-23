@@ -3,7 +3,7 @@ title: LM ~ Luminous Matter Press Kit
 layout: layouts/content.njk
 tags: press
 pubdate: "2011"
-hero: static/img/lm1-large.jpg
+hero: /static/img/lm1-large.jpg
 parent: Luminous Matter
 children:
   - To Whomsoever it May Concern

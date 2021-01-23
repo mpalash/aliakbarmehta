@@ -4,7 +4,7 @@ subtitle: Art Daily, 15.04.2014
 layout: layouts/content.njk
 tags: press
 pubdate: "2014"
-hero: static/img/ali-akbar-mehta_the-possibility-of-alienation_press.jpg
+hero: /static/img/ali-akbar-mehta_the-possibility-of-alienation_press.jpg
 parent: "SITE : STAGE : STRUCTURE"
 ---
 ![](/static/img/ali-akbar-mehta_the-possibility-of-alienation_press.jpg)

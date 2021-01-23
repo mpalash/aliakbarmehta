@@ -4,7 +4,7 @@ subtitle: Performance by Ali Akbar Mehta with varialambo
 layout: layouts/content.njk
 tags: performance
 pubdate: "2020"
-hero: static/img/naratting-war_new-performance-turku-festival_2020_01_cc.jpg
+hero: /static/img/naratting-war_new-performance-turku-festival_2020_01_cc.jpg
 summary: >-
   ![Narrating WAR, performed by Ali Akbar Mehta together with Helsinki based
   artist-duo varialambo, New Performance Turku Festival 2020: Mobilities,  Forum

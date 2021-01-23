@@ -4,7 +4,7 @@ subtitle: Performance directed by Ali Akbar Mehta and performed by Ganesh Toteka
 layout: layouts/content.njk
 tags: performance
 pubdate: "2018"
-hero: static/img/ali-akbar-mehta-archiving-knowledge_10-2018.jpg
+hero: /static/img/ali-akbar-mehta-archiving-knowledge_10-2018.jpg
 parent: Cyber Archive
 children: []
 ---

@@ -5,7 +5,7 @@ layout: content
 tags: curatorial project
 pubdate: May 15, 2020 12:00 AM
 unlisted: "false"
-hero: static/img/hiap-logo-stacked-narrow-4x-800x525.png
+hero: /static/img/hiap-logo-stacked-narrow-4x-800x525.png
 children:
   - Processing In-Between(ness)
 ---

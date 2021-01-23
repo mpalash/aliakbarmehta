@@ -4,7 +4,7 @@ layout: layouts/content.njk
 tags: publication
 pubdate: "2014"
 unlisted: "false"
-hero: static/img/slide13.jpg
+hero: /static/img/slide13.jpg
 parent: "SITE : STAGE : STRUCTURE"
 ---
 ![Artist Book #1: Performers of Mazgaon, SITE : STAGE : STRUCTURE, 2014](/static/img/slide13.jpg)

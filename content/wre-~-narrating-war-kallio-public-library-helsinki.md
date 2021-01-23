@@ -6,7 +6,7 @@ layout: layouts/content.njk
 tags: performance
 pubdate: April 15, 2016 12:00 AM
 unlisted: "false"
-hero: static/img/kallio-performance.jpg
+hero: /static/img/kallio-performance.jpg
 parent: "WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs"
 ---
 <iframe width="560" height="315"

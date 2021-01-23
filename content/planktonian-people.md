@@ -5,7 +5,7 @@ layout: layouts/content.njk
 tags: ongoing project
 pubdate: August 1, 2013 12:00 AM
 unlisted: "false"
-hero: static/img/ali-akbar-mehta-planktonian-people-ii-2013-ink-on-paper-16.5-h-x-23.25-w-inches.jpg
+hero: /static/img/ali-akbar-mehta-planktonian-people-ii-2013-ink-on-paper-16.5-h-x-23.25-w-inches.jpg
 shortdesc: "*Planktonian People* is an ongoing series of ink, watercolour, and
   digital works on paper. the series portrays *human/non-human hybrids, Mutants,
   Androids and Cyborgs* as a cast of time-travellers, constantly in the past,

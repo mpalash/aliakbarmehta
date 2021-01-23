@@ -3,7 +3,7 @@ title: sss ~ Hidden Histories of Mazgoan
 layout: layouts/content.njk
 tags: resource
 pubdate: "2014"
-hero: static/img/mazgaon-docks.jpg
+hero: /static/img/mazgaon-docks.jpg
 summary: >-
   
   ![](/static/img/mazgaon-docks.jpg)

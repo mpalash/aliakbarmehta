@@ -5,7 +5,7 @@ layout: layouts/content.njk
 tags: press
 pubdate: January 16, 2018 12:00 AM
 unlisted: "false"
-hero: static/img/sakal-times.jpg
+hero: /static/img/sakal-times.jpg
 parent: 256 Million Colours of Violence
 ---
 ![](/static/img/sakal-times.jpg)

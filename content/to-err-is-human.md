@@ -4,7 +4,7 @@ subtitle: Mänttä Kuvataideviikot, curated by Anna Ruth, Mänttä, Jyväskulä,
 layout: layouts/content.njk
 tags: group exhibition
 pubdate: "2021"
-hero: static/img/maantta-exhibition-logo.png
+hero: /static/img/maantta-exhibition-logo.png
 summary: ""
 ---
 The Mänttä Art Festival’s artist list and theme for 2020 have been published. This year’s exhibition title is **Erehtyminen / To Err Is Human**. 

@@ -4,7 +4,7 @@ subtitle: Interview by OUTSIDERS AT WORK
 layout: layouts/content.njk
 tags: publication
 pubdate: "2019"
-hero: static/img/make-memes-not-war_interview-page-image.jpg
+hero: /static/img/make-memes-not-war_interview-page-image.jpg
 parent: Outsiders at Work
 children: []
 ---

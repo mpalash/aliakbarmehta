@@ -5,7 +5,7 @@ layout: layouts/content.njk
 tags: press
 pubdate: "2011"
 unlisted: "false"
-hero: static/img/Ali Akbar Mehta_Harlequin Series; Soliloquies in the Garden of
+hero: /static/img/Ali Akbar Mehta_Harlequin Series; Soliloquies in the Garden of
   Earthly Delights, 2011, Archival print on Hahnemuhle paper, 229 x 152 cm.jpg
 parent: The Superhero Series
 children: []

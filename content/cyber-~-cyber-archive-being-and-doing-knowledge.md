@@ -5,7 +5,7 @@ layout: layouts/content.njk
 tags: publication
 pubdate: "2018"
 unlisted: "false"
-hero: static/img/cyber-archive-book-cover.jpg
+hero: /static/img/cyber-archive-book-cover.jpg
 summary: >-
   The thesis is framed through the question: How can ‘archives transformed by
   the use of digital technologies’ be studied within the framework of

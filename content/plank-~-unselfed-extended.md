@@ -3,7 +3,7 @@ title: plank ~ Unselfed Extended
 layout: layouts/content.njk
 tags: artwork
 pubdate: "2013"
-hero: static/img/sketch-for-unselfed-i-2014-digital-drawing.jpg
+hero: /static/img/sketch-for-unselfed-i-2014-digital-drawing.jpg
 summary: >-
   ![Planktonian People,
   2014](/static/img/sketch-for-unselfed-i-2014-digital-drawing.jpg) 

@@ -4,7 +4,7 @@ subtitle: mcult, Maunula House, 2018
 layout: layouts/content.njk
 tags: artist talk
 pubdate: "2018"
-hero: static/img/maunularemix_aliakbarmehta_photo11_jaimeculebro_web.jpg
+hero: /static/img/maunularemix_aliakbarmehta_photo11_jaimeculebro_web.jpg
 children: []
 ---
 ![](/static/img/maunularemix_aliakbarmehta_photo11_jaimeculebro_web.jpg)

@@ -7,7 +7,7 @@ layout: content
 tags: curatorial project
 pubdate: September 12, 2019 12:00 AM
 unlisted: "false"
-hero: static/img/vidisha-fadescha-party-a-tool-for-care-2019.png
+hero: /static/img/vidisha-fadescha-party-a-tool-for-care-2019.png
 shortdesc: >
   Museum of Impossible Forms in collaboration with Publics has invited
   artist-curator Vidisha Fadescha to present her practice through an artist talk

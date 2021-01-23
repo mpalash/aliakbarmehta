@@ -4,7 +4,7 @@ subtitle: Onoma Summer Exhibition 2020, curated by Taru Elfving, Fiskars Village
 layout: layouts/content.njk
 tags: group exhibition
 pubdate: "2020"
-hero: static/img/meadow-image.jpg
+hero: /static/img/meadow-image.jpg
 summary: >-
   ![](/static/img/meadow-image.jpg)
 

@@ -5,7 +5,7 @@ subtitle: "Exhibition Essay by Sumesh Sharma – co-curator, Clark House
 layout: layouts/content.njk
 tags: text
 pubdate: "2014"
-hero: static/img/1.-ali-akbar-mehta-site-stage-structure-2014_installation-view-©-aliakbarmehta.jpg
+hero: /static/img/1.-ali-akbar-mehta-site-stage-structure-2014_installation-view-©-aliakbarmehta.jpg
 summary: The possibility of alienation in a city that claims cosmopolitanism as
   a constant, cannot be attributed to the loss of cultural space specifically
   due to revisits to the city’s history, but bizarrely it has and specifically

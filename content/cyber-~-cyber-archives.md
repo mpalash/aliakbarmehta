@@ -6,7 +6,7 @@ layout: layouts/content.njk
 tags: artist talk
 pubdate: November 21, 2018 12:00 AM
 unlisted: "false"
-hero: static/img/cyber-archives-die-schule-der-archaeutopie-in-conversation-with-ali-akbar-mehta-universität-für-angewandte-kunst-wien-vienna-2018_02.jpg
+hero: /static/img/cyber-archives-die-schule-der-archaeutopie-in-conversation-with-ali-akbar-mehta-universität-für-angewandte-kunst-wien-vienna-2018_02.jpg
 shortdesc: The 'School of Archeutopia' in a talk with [Ali Akbar
   Mehta](https://www.facebook.com/aliakbarmehta?__cft__[0]=AZVAnrZykD-3EkL1_UfLThhkUfkVb-8JxhlqYei0sm0S__UcobLrZKIZvp-A1S_bHaVsGnre0GhjImZZXtkIQ-_VVGr1IMEsaKMtkUIf97EzUhRR4EPvlN22vkpCMG3rmtKp3QBc51V99O02DBpfdY-g&__tn__=-]K-R)
   on 'Cyber Archives' - their roles and responsibilities as collective memory,

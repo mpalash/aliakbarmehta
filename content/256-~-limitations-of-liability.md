@@ -3,7 +3,7 @@ title: 256 ~ Limitations of Liability
 layout: layouts/content.njk
 tags: solo exhibition
 pubdate: "2017"
-hero: static/img/limitations-of-liability-banner-for-facebook.jpg
+hero: /static/img/limitations-of-liability-banner-for-facebook.jpg
 summary: >-
   **Limitations of Liability** was an eight day program between March 17 to 28,
   2017, structured around ‘**256 Million Colours of Violence**’ – an interactive

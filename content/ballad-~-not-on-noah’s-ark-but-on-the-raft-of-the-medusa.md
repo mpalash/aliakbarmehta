@@ -4,7 +4,7 @@ subtitle: Essay by Ranjit Hoskote, Mumbai, 2011
 layout: layouts/content.njk
 tags: text
 pubdate: "2011"
-hero: static/img/Ali Akbar Mehta_Harlequin Series; Icarus finds his wings again,
+hero: /static/img/Ali Akbar Mehta_Harlequin Series; Icarus finds his wings again,
   2010, Archival print on Hahnemuhle paper, 182 x 121 cm.jpg
 summary: >-
   ![Harlequin Series: Icarus finds his wings again, 2010, Archival print on

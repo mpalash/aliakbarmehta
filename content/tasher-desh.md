@@ -3,7 +3,7 @@ title: Tasher Desh
 layout: layouts/content.njk
 tags: artwork
 pubdate: "2013"
-hero: static/img/ali-akbar-mehta_tasher-desh_painted-with-text.jpg
+hero: /static/img/ali-akbar-mehta_tasher-desh_painted-with-text.jpg
 parent: Planktonian People
 children:
   - Tasher ~ Tagore Lost and Found

@@ -7,7 +7,7 @@ layout: layouts/content.njk
 tags: publication
 pubdate: March 15, 2021 12:00 AM
 unlisted: "false"
-hero: static/img/kontula.jpeg
+hero: /static/img/kontula.jpeg
 shortdesc: This text is written as a contribution for the **Impossible Reader,
   volume 02, *How to Work together?***, to be published by the Museum of
   Impossible Forms, 2021

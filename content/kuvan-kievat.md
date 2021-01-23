@@ -5,7 +5,7 @@ layout: content
 tags: teaching
 pubdate: November 20, 2020 12:00 AM
 unlisted: "false"
-hero: static/img/ali-akbar-mehta-teaching-kk2020.jpg
+hero: /static/img/ali-akbar-mehta-teaching-kk2020.jpg
 ---
 ![](/static/img/ali-akbar-mehta-teaching-kk2020.jpg)
 

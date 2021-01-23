@@ -5,7 +5,7 @@ layout: layouts/content.njk
 tags: artwork
 pubdate: March 25, 2017 12:00 AM
 unlisted: "true"
-hero: static/img/ali-akbar-mehta_limitation-of-liability_harkat-studio_installation-view-02_2017.jpg
+hero: /static/img/ali-akbar-mehta_limitation-of-liability_harkat-studio_installation-view-02_2017.jpg
 parent: 256 Million Colours of Violence
 ---
 ![Film Screening schedule, Harkat Studios, 2017](/static/img/ali-akbar-mehta_256_million_colours_of_violence_poster.jpg)

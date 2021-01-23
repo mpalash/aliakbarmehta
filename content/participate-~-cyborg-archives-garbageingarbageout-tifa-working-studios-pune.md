@@ -6,7 +6,7 @@ layout: layouts/content.njk
 tags: performance
 pubdate: "2018"
 unlisted: "false"
-hero: static/img/ali-akbar-mehta_cyborg-archives_performance-view_2018.jpg
+hero: /static/img/ali-akbar-mehta_cyborg-archives_performance-view_2018.jpg
 parent: To Participate in the Archive
 children: []
 ---

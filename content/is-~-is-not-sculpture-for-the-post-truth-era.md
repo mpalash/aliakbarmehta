@@ -5,7 +5,7 @@ layout: layouts/content.njk
 tags: group exhibition
 pubdate: "2017"
 unlisted: "false"
-hero: static/img/installation-images-is-not-sculpture-2018.jpg
+hero: /static/img/installation-images-is-not-sculpture-2018.jpg
 summary: "!['Is the representation of violence also violent?', sandcasted
   aluminium,
   2017](blob:https://dev-aam.netlify.app/98adbf98-d051-7043-9f72-d8a46da7ddd0)"

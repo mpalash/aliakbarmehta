@@ -4,7 +4,7 @@ subtitle: Reema Gehi, Mumbai Mirror, 15.08.2014
 layout: layouts/content.njk
 tags: press
 pubdate: "2015"
-hero: static/img/5.-ali-akbar-mehta-site-stage-structure-2014_installation-view-©-aliakbarmehta.png
+hero: /static/img/5.-ali-akbar-mehta-site-stage-structure-2014_installation-view-©-aliakbarmehta.png
 parent: "SITE : STAGE : STRUCTURE"
 children:
   - To Whomsoever it May Concern

@@ -4,7 +4,7 @@ subtitle: Godrej ONE, Vikhroli, Mumbai
 layout: layouts/content.njk
 tags: solo exhibition
 pubdate: "2015"
-hero: static/img/ali-akbar-mehta_installation-view_-ext-01_trinity-godrej_2015.jpg
+hero: /static/img/ali-akbar-mehta_installation-view_-ext-01_trinity-godrej_2015.jpg
 parent: "TRINITY: Godrej Legacy Park Silos"
 ---
 ![Installation view: silo 01 PAST, TRINITY: Godrej Legacy Park silos, 2015](/static/img/ali-akbar-mehta_installation-view_-ext-01_trinity-godrej_2015.jpg)

@@ -5,7 +5,7 @@ layout: layouts/content.njk
 tags: group exhibition
 pubdate: "2010"
 unlisted: "false"
-hero: static/img/Ali Akbar Mehta_Harlequin Series; We are such stuff As dreams
+hero: /static/img/Ali Akbar Mehta_Harlequin Series; We are such stuff As dreams
   are made on, 2010, 182 x 121 cm, Archival print on Hahnemuhle paper, 2010.jpg
 parent: We are such stuff As dreams are made on
 ---

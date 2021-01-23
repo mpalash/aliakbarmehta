@@ -5,7 +5,7 @@ layout: layouts/content.njk
 tags: publication
 pubdate: November 21, 2020 12:00 AM
 unlisted: "false"
-hero: static/img/hero-image-for-in-between-publication.png
+hero: /static/img/hero-image-for-in-between-publication.png
 summary: >-
   '\[...] this publication, as a collaborative endeavor between the curators
   Marianne Savallampi and Ali Akbar Mehta and the artists-in-residence, is a

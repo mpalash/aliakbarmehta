@@ -5,7 +5,7 @@ layout: layouts/content.njk
 tags: press
 pubdate: August 20, 2020 12:00 AM
 unlisted: "false"
-hero: static/img/central-park-archives_fieldtrip-june2020_photominnatarkka.jpg
+hero: /static/img/central-park-archives_fieldtrip-june2020_photominnatarkka.jpg
 summary: >-
   The artists of the Central Park Archives project, Ali Akbar Mehta and Susanna
   Ånäs bring together the history, present, and future of Central Park together

@@ -4,7 +4,7 @@ layout: layouts/content.njk
 tags: artwork
 pubdate: "2015"
 unlisted: "true"
-hero: static/img/Ali Akbar Mehta, Placebo Singers, 2015.jpg
+hero: /static/img/Ali Akbar Mehta, Placebo Singers, 2015.jpg
 parent: Planktonian People
 children:
   - Tasher ~ Tagore Lost and Found

@@ -3,7 +3,7 @@ title: wre ~ Narrating War, Pispala, Tampere
 layout: layouts/content.njk
 tags: performance
 pubdate: "2016"
-hero: static/img/pispala-performance.jpg
+hero: /static/img/pispala-performance.jpg
 summary: |-
   <iframe width="560" height="315"
   src="https://www.youtube.com/embed/7M0vfJweVU0" frameborder="0"

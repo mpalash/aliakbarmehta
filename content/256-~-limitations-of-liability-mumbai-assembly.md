@@ -5,7 +5,7 @@ layout: layouts/content.njk
 tags: artwork
 pubdate: March 16, 2017 12:00 AM
 unlisted: "true"
-hero: static/img/colour-wall-survey-table.jpg
+hero: /static/img/colour-wall-survey-table.jpg
 parent: 256 Million Colours of Violence
 ---
 The project is displayed in Mumbai for the first time, in 2017.

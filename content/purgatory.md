@@ -5,7 +5,7 @@ layout: layouts/content.njk
 tags: artwork
 pubdate: "2010"
 unlisted: "true"
-hero: static/img/purgatory.jpeg
+hero: /static/img/purgatory.jpeg
 parent: Planktonian People
 children: []
 ---

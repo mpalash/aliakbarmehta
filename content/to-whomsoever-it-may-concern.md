@@ -3,7 +3,7 @@ title: To Whomsoever it May Concern
 layout: layouts/content.njk
 tags: artwork
 pubdate: "2018"
-hero: static/img/ali-akbar-mehta_to-whomsoever-it-may-concern_tao-art-gallery_cc_2018.jpg
+hero: /static/img/ali-akbar-mehta_to-whomsoever-it-may-concern_tao-art-gallery_cc_2018.jpg
 children:
   - Maunuala ~ Partizaning Maunula
 ---

@@ -8,7 +8,7 @@ layout: layouts/content.njk
 tags: publication
 pubdate: "2019"
 unlisted: "false"
-hero: static/img/vicca-journal-home-issue-book-cover.jpg
+hero: /static/img/vicca-journal-home-issue-book-cover.jpg
 summary: The idea of *home and labour* itself has been mired in the
   complications of invisibilization of labour, the misdirection of value and
   surplus, and the recontextualization of the capitalist system as the driver of

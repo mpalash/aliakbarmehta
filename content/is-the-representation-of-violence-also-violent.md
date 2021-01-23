@@ -3,7 +3,7 @@ title: Is the representation of violence also violent?
 layout: layouts/content.njk
 tags: artwork
 pubdate: "2017"
-hero: static/img/ali-akbar-mehta-is-the-representation-of-violence-also-violent-sandcasted-aluminium-2017.jpg
+hero: /static/img/ali-akbar-mehta-is-the-representation-of-violence-also-violent-sandcasted-aluminium-2017.jpg
 children:
   - "IS ~ IS/NOT: Sculpture for the Post-Truth Era"
 ---

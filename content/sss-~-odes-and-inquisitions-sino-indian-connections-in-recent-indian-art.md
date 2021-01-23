@@ -4,7 +4,7 @@ subtitle: Essay by Ryan Holmberg
 layout: layouts/content.njk
 tags: press
 pubdate: "2014"
-hero: static/img/chinese-temple.jpg
+hero: /static/img/chinese-temple.jpg
 summary: >-
   ![Mazgaon Gardens, 2012](/static/img/mazgaon-garden.jpg)
 

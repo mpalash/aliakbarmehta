@@ -3,7 +3,7 @@ title: Cyber ~ Archiving Knowledge, sculptures
 layout: layouts/content.njk
 tags: artwork
 pubdate: "2018"
-hero: static/img/ali-akbar-mehta-archiving-knowledge_01-2008.jpg
+hero: /static/img/ali-akbar-mehta-archiving-knowledge_01-2008.jpg
 parent: Cyber Archive
 ---
 ![‘Will the new generation of (cyber) archives be accessible, decolonised, norm critical, and counter hegemonic to dominant forms of knowledge?’, From the series: Archiving Knowledge, hand engraved marble, 2018](/static/img/ali-akbar-mehta-archiving-knowledge_01-2008.jpg)

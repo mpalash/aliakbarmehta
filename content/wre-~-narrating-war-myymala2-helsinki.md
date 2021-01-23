@@ -4,7 +4,7 @@ subtitle: Performance Reading by Ali Akbar Mehta
 layout: layouts/content.njk
 tags: performance
 pubdate: "2019"
-hero: static/img/2.-ali-akbar-mehta_narrating-war-war-room-echo_myymala2_23.08.2019.jpg
+hero: /static/img/2.-ali-akbar-mehta_narrating-war-war-room-echo_myymala2_23.08.2019.jpg
 parent: "WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs"
 ---
 ![Performance View, Narrating WAR, 2019, Relational Figures, Myymälä2 Helsinki, photos by Aman Askarizad](/static/img/2.-ali-akbar-mehta_narrating-war-war-room-echo_myymala2_23.08.2019.jpg)
