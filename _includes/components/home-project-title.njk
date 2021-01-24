@@ -1,5 +1,5 @@
 {% set displaysub = ['solo exhibition','group exhibition','talk','text','performance','unpublished','publication'] %}
-<li class="project-year-genre" data-year="{{ content.data.pubdate }}" data-genre="{{ content.data.tags | replace(' ','-') }}">
+<li class="project-year-genre" data-year="{{ content.data.pubdate }}" data-genre="{{ content.data.tags | replace(' ','-') }}" data-parent="{{ content.data.parent }}">
 {% if content.data.parent %}
   {% if content.data.parent != 'Poems' %}
     <a href="/content/{{ content.data.parent | trim | slugify }}#{{ content.data.title.split('~') | last | trim | slugify }}" >

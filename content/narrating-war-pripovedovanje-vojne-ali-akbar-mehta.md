@@ -1,5 +1,5 @@
 ---
-title: "Narrating War / Pripovedovanje vojne: Ali Akbar Mehta "
+title: "wre ~ Narrating War / Pripovedovanje vojne: Ali Akbar Mehta "
 subtitle: My Night, 2018
 layout: layouts/content.njk
 tags: press

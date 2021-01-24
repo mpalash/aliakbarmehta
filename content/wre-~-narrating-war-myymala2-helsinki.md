@@ -1,5 +1,5 @@
 ---
-title: WRE ~ Narrating WAR, Mymmälä2, Helsinki
+title: wre ~ Narrating WAR, Mymmälä2, Helsinki
 subtitle: Performance Reading by Ali Akbar Mehta
 layout: layouts/content.njk
 tags: performance
