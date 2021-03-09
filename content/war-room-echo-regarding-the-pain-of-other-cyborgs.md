@@ -12,6 +12,7 @@ shortdesc: "**WAR • ROOM • ECHO: Regarding the pain of other Cyborgs** is a
   conflict across the globe – addressing (present and past) violent incidents in
   the world not as isolated events but as a new condition of *ongoing,
   unparalleled warfare*."
+parent: "WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs"
 children:
   - "wre ~ Foreword: Artist's Note"
   - wre ~ War List CODEX
@@ -29,6 +30,7 @@ children:
   - wre ~ Narrating War, Kallio Public Library, Helsinki
   - wre ~ null.void
   - "wre ~ Narrating War / Pripovedovanje vojne: Ali Akbar Mehta "
+  - WRE ~ Ali Akbar Mehta & varialambo - Narrating WAR / Habitat 1
 ---
 **WAR • ROOM • ECHO: Regarding the pain of other Cyborgs** is a *collaborative Transmedia Performance-Installation and Research Project*. It examines the philosophical terrain of war and the seemingly permanent state of conflict across the globe – addressing (present and past) violent incidents in the world not as isolated events but as a new condition of *ongoing, unparalleled warfare*.
 
