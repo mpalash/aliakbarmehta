@@ -5,7 +5,7 @@ subtitle: exhibition review of Kirjasto/Library exhibition, (pub.) NO NIIN
 layout: content
 tags: text
 pubdate: March 23, 2021 12:00 AM
-unlisted: "false"
+unlisted: "true"
 hero: /static/img/_d4a6851.jpg
 shortdesc: ""
 summary: >-
