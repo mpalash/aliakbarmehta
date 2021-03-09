@@ -1,5 +1,6 @@
 ---
-title: NONIIN ~ A longing for something written in memory
+title: "NONIIN ~ A longing for something written in memory: Library as Archive
+  as Excavation Site"
 subtitle: exhibition review of Kirjasto/Library exhibition, (pub.) NO NIIN
   online magazine, Helsinki
 layout: content
@@ -10,7 +11,7 @@ hero: /static/img/_d4a6851.jpg
 shortdesc: ""
 summary: ""
 ---
-#### Library as Archive as Excavation Site
+![](/static/img/_d4a6851.jpg)
 
 Upcoming essay in **NO NIIN**
 
