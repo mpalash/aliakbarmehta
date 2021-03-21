@@ -3,7 +3,7 @@ title: wre ~ Narrating WAR, Vantaan Taidemuseo ARTSI
 subtitle: Performance by Ali Akbar Mehta and varialambo, part of Reciprocities
   exhibition curated by Christine Langnauer
 layout: content
-tags: performance
+tags: group exhibition
 pubdate: February 11, 2021 12:00 AM
 unlisted: "false"
 hero: /static/img/narrating-war-vantaan-taidemuseo-artsi.png
