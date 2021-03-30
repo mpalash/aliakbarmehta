@@ -86,4 +86,5 @@ Special characters: !"#$%&'()*+,./:;<=>?@[\]^``{|}~
 - CV
 - OG
 - Mobile
+- Search and Sitemap
 - LFS

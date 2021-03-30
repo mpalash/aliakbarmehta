@@ -69,7 +69,7 @@ module.exports = function(eleventyConfig) {
     }).use(markdownItImplicitFigures, {
       figcaption: true
     });
-    var rendered = md.render(String(value)).replace('/images','/images/');
+    var rendered = md.render(String(value)).replace('/img/','/img-d/');
     return rendered;
   });
 
@@ -91,7 +91,7 @@ module.exports = function(eleventyConfig) {
     return slugify(str, {
       lower: true,
       replacement: "-",
-      remove: /[*+~.·,()'"`´%!?¿:@]/g
+      remove: /[*+~.·,()'"`´%!?¿:@!"#$%&'()*+,.\/:;<=≠>?@\\^``{|}~]/g
     });
   });
 

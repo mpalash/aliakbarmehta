@@ -5,11 +5,12 @@
   @extend %fa-icon;
   @extend .far;
   margin-top: var(--s-b);
+  padding: 0 var(--s-xs);
   color: var(--color-ink);
   font-size: 1em;
   text-decoration: none !important;
   display: flex;
-  width: var(--s-m);
+  width: max-content;
   height: var(--s-m);
   justify-content: center;
   align-items: center;
@@ -21,6 +22,20 @@
   }
   .more:before { content: fa-content($fa-var-plus); }
   .less:before { content: fa-content($fa-var-minus); }
+
+  .more:after { content: 'More'; }
+  .less:after { content: 'Less'; }
+  .more:after,
+  .less:after {
+    display: inline-block;
+    margin-left: var(--s-xs);
+    font-family: var(--font);
+    font-size: var(--s-s);
+    font-weight: 600;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    line-height: 14px;
+  }
 }
 .tags {
   list-style: none;

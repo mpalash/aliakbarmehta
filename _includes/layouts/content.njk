@@ -7,7 +7,12 @@ layout: layouts/base.njk
 <article class="project">
   {% if hero %}
   <div class="project-hero">
-    <img src="{{ hero }}" />
+    <img
+      srcset="{{ hero | replace('/img/','/img-l/') | urlencode }} 1800w, {{ hero | replace('/img/','/img-m/') | urlencode }} 1200w, {{ hero | replace('/img/','/img-d/') | urlencode }} 1000w, {{ hero | replace('/img/','/img-s/') | urlencode }} 800w"
+      src="{{ hero | replace('/img/','/img-s/') | urlencode }}"
+      alt="{{ title }}"
+      loading="eager"
+      onload="this.classList.add('imgLoaded')" />
   </div>
   {% endif %}
   {% if title %}

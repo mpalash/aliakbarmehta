@@ -5,9 +5,9 @@ var sharp  = require('sharp'),
     fs = require('graceful-fs'),
     compress_images = require('compress-images');
 
-var folderSrc = './static/images/',
-    folderOut = ['./static/images-l/', './static/images-m/', './static/images-s/', './static/images-xs/'],
-    dim = [2000, 1000, 600, 300],
+var folderSrc = './static/img/',
+    folderOut = ['./static/img-l/', './static/img-m/', './static/img-d/', './static/img-s/'],
+    dim = [1800, 1200, 1000, 800],
     files = [];
 // var folderSrc = './static/images/',
 //     folderOut = ['./static/images-l/'],

@@ -2,6 +2,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
   <title>{{ title or metadata.title }}</title>
+  <meta name="description" content="{{ summary }}">
 
   <meta property="og:title" content="{{ title or renderData.title or metadata.title }}" />
   <meta property="og:description" content="{{ summary }}" />
@@ -12,7 +13,7 @@
   <link rel="dns-prefetch" href="https://identity.netlify.com">
   <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
   <script src="/static/js/scrollspy.min.js"></script>
   <script src="/static/js/responsive-video.js"></script>
   <script src="/static/js/jBox.min.js"></script>

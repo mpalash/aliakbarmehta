@@ -35,7 +35,7 @@
   }
   a {
     color: inherit;
-    font-weight: 325;
+    font-weight: 375;
     text-decoration: underline;
     transition: background-color var(--transition-timing);
     &:hover {
@@ -159,7 +159,7 @@
 
     @include small-caps;
     font-size: 11px;
-    font-weight: 325;
+    font-weight: 375;
     letter-spacing: 0.1em;
     line-height: calc(2 * var(--s-xxxl));
     text-align: center;
