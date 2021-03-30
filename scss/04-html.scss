@@ -56,3 +56,9 @@ ul, ol {
     margin: 0;
   }
 }
+main {
+  transform: translate3d(0,0,0);
+  img.imgLoaded {
+    animation: fadeIn 0.3s ease-out;
+  }
+}
