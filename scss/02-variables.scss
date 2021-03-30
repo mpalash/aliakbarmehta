@@ -80,6 +80,12 @@
   --body-padding:        64px 64px 0 64px;
   --gutter:              24px;
 
+  @media only screen and (max-width: 800px) {
+    --body-padding:        56px 24px 0 24px;
+    --gutter:              16px;
+    --max-column-width:    calc(100vw - (6 * 24px) - 48px);
+  }
+
   // TRANSITION
   --transition-all:     all 0.3s ease-out;
   --transition-timing:  0.3s ease-out;

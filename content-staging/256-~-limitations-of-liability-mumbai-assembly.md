@@ -10,21 +10,21 @@ The project is displayed in Mumbai for the first time, in 2017.
 
 As a traveling project across venues, the project in its iteration at Mumbai Assembly is conceptualised to be a space for discourse and conversation. This translated as three events, each a dialogue with an invited speaker to collectively reflect on violence in its various forms by forming symbiotic relationships with each other’s praxes.
 
-![Installation detail, Limitations of Liability, Mumbai Assembly, 2017](/assets/img/ali-akbar-mehta_256-million-colours-of-violence_detail_2017.jpg)
-![Installation view, Limitations of Liability, Mumbai Assembly, 2017](/assets/img/colour-wall-survey-table.jpg)
-![Opening night, Limitations of Liability, Mumbai Assembly, 2017](/assets/img/opening-night.jpg)
-![Opening night, Limitations of Liability, Mumbai Assembly, 2017](/assets/img/audience-3.jpg)
-![Filling the form, Limitations of Liability, Mumbai Assembly, 2017](/assets/img/filling-the-form.jpg)
-![Filling the form, Limitations of Liability, Mumbai Assembly, 2017](/assets/img/ali-ken.jpg)
-![Response Details, Limitations of Liability, Mumbai Assembly, 2017](/assets/img/colours-of-violence.jpg)
+![Installation detail, Limitations of Liability, Mumbai Assembly, 2017](/static/img/ali-akbar-mehta_256-million-colours-of-violence_detail_2017.jpg)
+![Installation view, Limitations of Liability, Mumbai Assembly, 2017](/static/img/colour-wall-survey-table.jpg)
+![Opening night, Limitations of Liability, Mumbai Assembly, 2017](/static/img/opening-night.jpg)
+![Opening night, Limitations of Liability, Mumbai Assembly, 2017](/static/img/audience-3.jpg)
+![Filling the form, Limitations of Liability, Mumbai Assembly, 2017](/static/img/filling-the-form.jpg)
+![Filling the form, Limitations of Liability, Mumbai Assembly, 2017](/static/img/ali-ken.jpg)
+![Response Details, Limitations of Liability, Mumbai Assembly, 2017](/static/img/colours-of-violence.jpg)
 
 
 
 ## _Performance by Ramneek Singh_
 
-![Performance and conversation with Ramneek Singh, Limitations of Liability, Mumbai Assembly, 2017](/assets/img/ramneek-singh-performance.jpg)
-![Performance and conversation with Ramneek Singh, Limitations of Liability, Mumbai Assembly, 2017](/assets/img/ramneek-singh-performance-2.jpg)
-![Performance and conversation with Ramneek Singh, Limitations of Liability, Mumbai Assembly, 2017](/assets/img/ramneek-and-ali-in-conversation.jpg)
+![Performance and conversation with Ramneek Singh, Limitations of Liability, Mumbai Assembly, 2017](/static/img/ramneek-singh-performance.jpg)
+![Performance and conversation with Ramneek Singh, Limitations of Liability, Mumbai Assembly, 2017](/static/img/ramneek-singh-performance-2.jpg)
+![Performance and conversation with Ramneek Singh, Limitations of Liability, Mumbai Assembly, 2017](/static/img/ramneek-and-ali-in-conversation.jpg)
 
 
 
@@ -35,8 +35,8 @@ Following a spoken word performance by **Ramneek Singh**, a conversation between
 
 ## _Manifestation of Violence_
 
-![In conversation with Simpreet Singh, Limitations of Liability, Mumbai Assembly, 2017](/assets/img/ali-akbar-mehta-and-simpreet-singh.jpg)
-![In conversation with Simpreet Singh, Limitations of Liability, Mumbai Assembly, 2017](/assets/img/audience-2.jpg)
+![In conversation with Simpreet Singh, Limitations of Liability, Mumbai Assembly, 2017](/static/img/ali-akbar-mehta-and-simpreet-singh.jpg)
+![In conversation with Simpreet Singh, Limitations of Liability, Mumbai Assembly, 2017](/static/img/audience-2.jpg)
 
   **March 18, 2017 | 6:30 to 8:00 pm**
 
@@ -45,7 +45,7 @@ Ali Akbar Mehta and **Simpreet Singh** discuss how the project is addressing the
 
 ## _Big Data Ethics_
 
-![In conversation with Sameer Pitalwala, Limitations of Liability, Mumbai Assembly, 2017](/assets/img/Ali Akbar Mehta_Limitations of Liability_Mumbai Assembly_Sameer Pitalwala_2016.jpg)
+![In conversation with Sameer Pitalwala, Limitations of Liability, Mumbai Assembly, 2017](/static/img/Ali Akbar Mehta_Limitations of Liability_Mumbai Assembly_Sameer Pitalwala_2016.jpg)
 
   **March 19, 2017 | 6:30 to 8:00 pm**
 
