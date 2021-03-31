@@ -61,3 +61,5 @@ The Project also gives rise to secondary works within its folds:
 * **Game of War,** *(animated infographic video, 120 min.)*
 * **War.bot,** (RSS feed-based web project)
 * **Apocalypse Now,** *(interactive post-apocalyptic virtual landscape, VR Experience)*
+
+  *<br/>*
