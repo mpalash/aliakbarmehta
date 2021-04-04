@@ -1,5 +1,5 @@
 ---
-title: Maunuala ~ Partizaning Maunula
+title: Maunula ~ Partizaning Maunula
 subtitle: Maunulatalo, Maunula, Helsinki
 layout: layouts/content.njk
 tags: group exhibition
