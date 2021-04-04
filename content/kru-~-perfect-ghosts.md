@@ -4,6 +4,7 @@ subtitle: A brief historical record of the Kruunuvuori Villas, by Ali Akbar Meht
 layout: layouts/content.njk
 tags: unpublished
 pubdate: "2015"
+unlisted: "false"
 hero: /static/img/img_3698.jpg
 summary: In in the midst of an old forest, next to a pond that could be anywhere
   in wilderness is the area of Kruunuvuori, which in the etymology of Suomi
