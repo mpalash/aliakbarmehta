@@ -7,7 +7,7 @@ pubdate: "2017"
 unlisted: "false"
 hero: /static/img/PartizaningMaunula_photo27_VesaPekkaGronfors_web.jpg
 children:
-  - Maunuala ~ Partizaning Maunula
+  - Maunula ~ Partizaning Maunula
 ---
 ![](/static/img/Maunula speaks_Poster_Ali and Vidha.jpg)
 
