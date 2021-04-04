@@ -23,9 +23,6 @@ summary: >-
 
 
   – Ali Akbar Mehta, excerpt from talk
-
-
-  > <br/>
 ---
 > Hanko Theater meeting convenes its third meeting for the **Finnish Stage-Art field** on Monday 1.3 at. 10-13
 >
