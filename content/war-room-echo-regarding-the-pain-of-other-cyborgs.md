@@ -18,7 +18,7 @@ children:
   - wre ~ War List CODEX
   - wre ~ Why is an archive of wars required?
   - wre ~ Narrating War
-  - Narrating WAR / HABITAT 1
+  - wre ~ Narrating WAR / HABITAT 1
   - wre ~ Narrating WAR, Vantaan Taidemuseo ARTSI
   - "wre ~ Narrating WAR, New Performance Turku, Festival 2020: Mobilities"
   - wre ~ Narrating WAR, Mymmälä2, Helsinki
