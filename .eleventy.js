@@ -69,7 +69,9 @@ module.exports = function(eleventyConfig) {
     }).use(markdownItImplicitFigures, {
       figcaption: true
     });
-    var rendered = md.render(String(value)).replace('/img/','/img-d/');
+    value = String(value).replace(/\/img\//g,'/img-d/');
+    console.log(value);
+    var rendered = md.render(value);
     return rendered;
   });
 
