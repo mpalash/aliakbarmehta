@@ -5,7 +5,7 @@ layout: content
 tags: performance
 pubdate: February 13, 2021 12:00 AM
 unlisted: "false"
-hero: /static/img/narrating-war_photoshoot_01.jpg
+hero: /static/img/ali-akbar-mehta-and-varialambo_artsi-interview_2021.jpg
 parent: "WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs"
 ---
 **Narrating WAR / HABITAT 1** (*I see so much when I am dying*), performance by Ali Akbar Mehta and varialambo, as part of [RECIPROCITIES](https://aliakbarmehta.com/content/war-room-echo-regarding-the-pain-of-other-cyborgs#narrating-war-vantaan-taidemuseo-artsi), group exhibition curated by Christine Langenauer at Vantaa Taidemuseo ARTSI, Vaanta Finland. 
