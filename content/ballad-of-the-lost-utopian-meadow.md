@@ -8,6 +8,7 @@ unlisted: "false"
 hero: /static/img/blum_ig.jpg
 parent: Ballad of the Lost Utopian Meadow
 children:
+  - "BLUM ~ Time Machine and Utopias: Longing, Living conditions, Homecoming"
   - Lost ~ The Meadow
   - The art of making art seen through the lens of serving and consuming food
 ---
