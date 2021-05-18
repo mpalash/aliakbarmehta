@@ -2,10 +2,18 @@
 layout: layouts/cv.njk
 title: Ali Akbar Mehta | curriculum vitae
 permalink: /curriculum-vitae/
+summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
+  is a Transmedia artist, curator, and researcher. Through a research-based
+  practice, he creates immersive cyber archives that map narratives of history,
+  memory, and identity constructs through a multifocal lens of violence,
+  conflict, and trauma. He is a founding member and current co-Artistic Director
+  (w/ Marianne Savallampi) of **[Museum of Impossible
+  Forms](https://museumofimpossibleforms.org/)**, Helsinki; a board member of
+  **[Kiila ry](http://kiila.eu/)**, and pursuing his Doctoral Research in the
+  Contemporary Art Department at **[Aalto University](https://www.aalto.fi/)**,
+  Helsinki."
 ---
-**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai) is a Transmedia artist, curator, and researcher. Through a research-based practice, he creates immersive cyber archives that map narratives of history, memory, and identity constructs through a multifocal lens of violence, conflict, and trauma. He is a founding member and current co-Artistic Director (w/ Marianne Savallampi) of **[Museum of Impossible Forms](https://museumofimpossibleforms.org/)**, Helsinki; a board member of **[Kiila ry](http://kiila.eu/)**, and pursuing his Doctoral Research in the Contemporary Art Department at **[Aalto University](https://www.aalto.fi/)**, Helsinki.
 
-<br /><br />
 
 ## **Education**
 
@@ -300,8 +308,6 @@ permalink: /curriculum-vitae/
 2012               **SPACE 118**, Mumbai, IN
 <br /><br />
 
-
-
 ## **Grants**
 
 2021                **Helsinki City Grant,** working group Museum of Impossible Forms 
@@ -322,8 +328,6 @@ permalink: /curriculum-vitae/
 
 <br /><br />
 
-
-
 ## Awards
 
 2020               **State Art Prize*** awarded to Museum of Impossible Forms, by the Ministry of Art and Culture, FI
@@ -339,7 +343,7 @@ permalink: /curriculum-vitae/
 <br />
 <br />
 <br />
-## \*\*Other work Experience\*\*
+## \\*\\*Other work Experience\\*\\*
 
 2020                     *Associate Curator,* **Helsinki International Artist program** (HIAP), Helsinki
 
