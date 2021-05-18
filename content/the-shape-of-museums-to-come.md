@@ -46,9 +46,7 @@ summary: >-
 
   ![](/static/img/museum-of-the-future_books_cover.jpg)
 
-
   ![](/static/img/shape-of-museums-to-come-cover.jpg)
-
 
   ![](/static/img/shape-of-museums-to-come-page-01.jpg)
 
