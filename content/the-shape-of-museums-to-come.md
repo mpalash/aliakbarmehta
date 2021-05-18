@@ -56,6 +56,4 @@ parent: Museum of Impossible Forms
 ---
 > "The Museum of the Future was published in 1970. 43 contributions to the discussion about the future of the museum. 50 years later, a publication brings together 43 new contributions by international authors from museum practice, from theory, education, art and architecture. They create concrete visions of a museum of the future: confident and doubtful, critical, clearly positioned and subjective. What do visions of the future accomplish and what do they make impossible? How empowering or disempowering are speculations about the future for a change in the museum of the present?"
 
-
-
-For more information on the publication and to download the editors' introduction, please see **[here](https://www.transcript-verlag.de/media/pdf/b0/33/30/ts5270_1zbsIp8F5mUMkH.pdf).**
+For more information on the publication and to download the editors' introduction, please see **[here](https://www.transcript-verlag.de/978-3-8376-5270-3/das-museum-der-zukunft/).**
