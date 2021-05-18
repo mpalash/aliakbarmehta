@@ -14,21 +14,21 @@ summary: I’m one of the co-founders and current co-Artistic Director (2018-202
   through curated events and workshops, a multimedia archive, and a multilingual
   library.
 children:
-  - "Locating: The Museum of Impossible Forms"
-  - "Re-Musing the Museum: Part II"
-  - Atlas of Lost Beliefs (for Insurgents, Citizens, & Untitled Bodies)
-  - "Mif ~ How to be a hospitable without being a motel:  Thinking Hospitalities"
-  - Resistance and Reimagining Alternatives
-  - Notes for Radical Diversity
-  - "mif ~ CreaTures: Panel Discussion on Creative Practices for
-    Transformational Futures"
-  - Muse ~ Who is Welcome? – Thinking Hospitality as Museum of Impossible Forms
-  - "SAFE{R}: Evolving the Conditions for Collaboration"
-  - The Shape of Museums to Come
-  - "Mif ~ Cultural production and racism: How to challenge racist structures"
-  - "Museum of Impossible Forms: Voicing the Margins"
   - "Mif ~ Generating (An)Other Economy: Working Together at the Museum of
     Impossible Forms"
+  - "Museum of Impossible Forms: Voicing the Margins"
+  - "Mif ~ Cultural production and racism: How to challenge racist structures"
+  - The Shape of Museums to Come
+  - "SAFE{R}: Evolving the Conditions for Collaboration"
+  - Muse ~ Who is Welcome? – Thinking Hospitality as Museum of Impossible Forms
+  - "mif ~ CreaTures: Panel Discussion on Creative Practices for
+    Transformational Futures"
+  - Notes for Radical Diversity
+  - Resistance and Reimagining Alternatives
+  - "Mif ~ How to be a hospitable without being a motel:  Thinking Hospitalities"
+  - Atlas of Lost Beliefs (for Insurgents, Citizens, & Untitled Bodies)
+  - "Re-Musing the Museum: Part II"
+  - "Locating: The Museum of Impossible Forms"
 ---
 > In the Autumn of 2016, several artists, curators, philosophers, theorists and cultural workers attempted to respond to the gaping void of Independent and artist-run spaces within Helsinki. This collective, the **[](https://museumofimpossibleforms.org/)Museum of Impossible Forms** applied for a grant from Kone Foundation for funding to conceive, launch and run a space in Kontula, Helsinki. A decision to house ourselves in a space previously occupied by a Night School, allowed us to to evolve from a space of exhibition to a space focusing on 'Alternate Pedagogy', and respond to the unmet needs of the City, where a space of and gathering of the subaltern may take place, without the toxic presence of prejudice and the overbearing sense of anxiety.
 >
