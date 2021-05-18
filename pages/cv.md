@@ -5,54 +5,36 @@ permalink: /curriculum-vitae/
 ---
 **[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai) is a Transmedia artist, curator, and researcher. Through a research-based practice, he creates immersive cyber archives that map narratives of history, memory, and identity constructs through a multifocal lens of violence, conflict, and trauma. He is a founding member and current co-Artistic Director (w/ Marianne Savallampi) of **[Museum of Impossible Forms](https://museumofimpossibleforms.org/)**, Helsinki; a board member of **[Kiila ry](http://kiila.eu/)**, and pursuing his Doctoral Research in the Contemporary Art Department at **[Aalto University](https://www.aalto.fi/)**, Helsinki.
 
-He lives and works in Helsinki and Mumbai.
 <br /><br />
 
 ## **Education**
 
-2019 - ongoing       *Doctor of Arts*, Contemporary Art, [Aalto University](https://www.aalto.fi/), School of Art, Design & Architecture, Helsinki, FI
+2019 - ongoing        *Doctoral Researcher*, Contemporary Art, [Aalto University](https://www.aalto.fi/), School of Art, Design & Architecture, Helsinki, FI
 
-2015 - 2018              *MA* (Visual Cultures, Curating and Contemporary Art), Aalto University, Helsinki, FI
+2015 - 2018             *MA* (Visual Cultures, Curating and Contemporary Art), Aalto University, Helsinki, FI
 
 2001 - 2005             *BFA* (Painting), [Sir J.J. School of Art](http://www.sirjjschoolofart.in/), Mumbai, IN
 <br /><br />
 
 ## **Select Work Experience**
 
+2020 - ongoing        *Co-Founder*, **MAS: Antiracism & DEI Consultancy**, Helsinki, FI   
+
 2020                        *Associate Curator*, [Helsinki International Artist Program](https://www.hiap.fi/) (HIAP), Helsinki, FI
 
-2019 - present      *Board Member*, [Kiila ry](http://kiila.eu/), Helsinki, FI
+2019 - present         *Board Member*, [Kiila ry](http://kiila.eu/), Helsinki, FI
 
-2019                         *Artistic Producer*, [m-cult Media Culture Centre](https://www.m-cult.org/), Helsinki, FI
+2019                        *Artistic Producer*, [m-cult Media Culture Centre](https://www.m-cult.org/), Helsinki, FI
 
-2018 - 2020           *Artistic Director*, [Museum of Impossible Forms](https://museumofimpossibleforms.org/), Helsinki, FI
+2018 - 2020            *Artistic Director*, [Museum of Impossible Forms](https://museumofimpossibleforms.org/), Helsinki, FI
 
-2018                        *Guest Lecturer*, Aalto University, Helsinki, FI
+2018                       *Guest Lecturer*, Aalto University, Helsinki, FI
 
-2011 - 2014             *Guest Lecturer*, [Whistling Woods International Institute of Film, Communication & Media Arts](https://www.whistlingwoods.net/), Mumbai, IN
+2011 - 2014            *Guest Lecturer*, [Whistling Woods International Institute of Film, Communication & Media Arts](https://www.whistlingwoods.net/), Mumbai, IN
 
-2014                        *Head of Post-production*, Composite Films, IN
+2014                       *Head of Post-production*, Composite Films, IN
 
-2002 - 2007          *Co-founder, Lead Animator and Artist*, Mareech Animated Design, Mumbai, IN
-<br /><br />
-
-## **Current Projects**
-
-Practicing Online Performativity: Constructing Politically Conscious Archives for the Future, *Doctoral research*
-
-WAR • ROOM • ECHO : Regarding the Pain of *Other* Cyborg
-
-Kiila Archives
-
-[256 Million Colours of Violence](http://www.256millioncoloursofviolence.com/)
-
-[Outsiders at Work](https://outsidersatwork.wordpress.com/)
-
-[Ballad of The Lost Utopian Meadow](https://www.thelostutopianmeadow.com/)
-
-[Museum Of Impossible Forms](https://museumofimpossibleforms.org/)
-
-[Central Park Archives](https://central-park-archives.github.io/#16/60.227151/24.912975/0/60)
+2002 - 2007            *Co-founder, Lead Animator and Artist*, Mareech Animated Design, Mumbai, IN
 <br /><br />
 
 ## **Solo Exhibitions**
@@ -103,9 +85,11 @@ Kiila Archives
 
 ## **Select Group Exhibitions**
 
-*(upcoming)*    **To Err is Human**, Mäntä Art Festival 2021, Jyvaskylä, FI
+2021               **Time Machine and Utopias: Longing, Living conditions, Homecoming**, curated by Hanna Johansson, Ainola Museum, Visavuori Museum, and Tarvaspää Museum, FI 
 
-2021               **Reciprocities**, Vantaan Taidemuseo ARTSI, Vantaa, FI
+2021               **To Err is Human**, curated by Anna Ruth, Mänttä Kuvataideviikot, Mänttä, FI
+
+2021               **Reciprocities**, curated by Christine Langinauer, Vantaa Art Museum ARTSI, Vantaa, FI
 
 2020               **Meadow**, curated by Taru Elfving, Fiskars Village, FI
 
@@ -174,9 +158,13 @@ Kiila Archives
 
 ## **Artist Talks/ conferences / lectures**
 
+2021               *Artist Talk*: **Commonisms**, Rehearsing Hospitalities, Frame Contemporary Art Finland, Helsinki (online)
+
+2021               *Artist Talk*: **Internationalism, Mobility, and Borders**,  Hangö Teatrträff, (online) 
+
 2020               *Artist Talk:* **[Rehearsing Hospitalities Companion 2 Readings with Annet Dekker, and Susanna Ånäs and Ali Akbar Mehta](https://aliakbarmehta.com/content/central-park-archives#rehearsing-hospitalities-companion-2-readings-with-annet-dekker-and-susanna-anas-and-ali-akbar-mehta),** Rehearsing Hospitalities, Frame Contemporary Art Finland, Helsinki (online)
 
-2020               *Panelist:* **[CreaTures (Creative Practices for Transformational Futures)](https://aliakbarmehta.com/content/museum-of-impossible-forms#creatures-panel-discussion-on-creative-practices-for-transformational-futures)**, Aalto University, Helsinki (online)
+2020               *Panelist:* **CreaTures (Creative Practices for Transformational Futures)**, Aalto University, Helsinki (online)
 
 2020               *Panelist:* **New Standards**, Stop Hatred Now Festival, UrbanApa, Helsinki (online)
 
@@ -215,7 +203,7 @@ Kiila Archives
 
 ## **Teaching / Lectures**
 
-*(Upcoming)*  *Mentor:* **Anti-Caste Archive**, Party Office, New Delhi, IN
+2021               Guest lecturer: **Archives as Witness, Archives as knowledge Systems**, Darpan 2021, Symbiosis School For Liberal Arts (SSLA) Pune (online)
 
 2020               *Guest Lecturer and Mentor:* **[Kuvan Kevät 2020](https://www.exhibitionlaboratory.fi/exhibition/kuvan-kevaet-2020)**, Exhibition Laboratory, University of Arts Helsinki, FI
 
@@ -228,19 +216,23 @@ Kiila Archives
 2018               *Guest lecturer:* **‘Histories of the Present’**, Visual Cultures, Curating & Contemporary Art, Aalto University, Helsinki, FI
 <br/><br/>
 
-## **Publications**
+## **Select Publications**
 
-*(Upcoming)*   **Cultural production and racism: How to challenge racist structures**, Muuntautuva rasismi. Kriittisiä näkökulmia rodullistamiseen, valkoisuuteen ja vallan koloniaalisuuteen (Different shapes of racism. Critical perspectives on racialization, whiteness and coloniality of power), (ed.) Suvi Keskinen, CEREN, Helsinki University, 2020
+2021              *Essay*: **Generating (An)Other Economy: Working together at the Museum of Impossible Forms**, Impossible Reader: How to Work Together, volume 02, (ed.) Aiava, Emily & Aiava, Raine. (pub.) Museum of Impossible Forms, Helsinki.
 
-*(Upcoming)*   **[Museum of Impossible Forms: Voicing the Margins](https://aliakbarmehta.com/content/museum-of-impossible-forms-voicing-the-margins)**, From Margins to Museums, (ed) Anna Rastas, Tampere University, 2020
+2021              *Essay*: **[Museum of Impossible Forms: Voicing the Margins](https://aliakbarmehta.com/content/museum-of-impossible-forms-voicing-the-margins)**, in Marginaaleista Museoihin. (From Margins to Museums), (eds.) Rastas, Anna & Koivunen, Leila (toim.), (trans.) Nurmenniemi, Ki, Tampere: Vastapaino, FI
 
-2020              **[The Shape of Museums to Come](https://aliakbarmehta.com/content/the-shape-of-museums-to-come)**, The Museum of the Future. 43 New Contributions to the Discussion about the Future of the Museum, (ed) Nora Sternfeld, 2020
+2021              *Review*: **A longing for something written in memory**, NO NIIN online magazine, Helsinki, FI
 
-2020              **[SAFE{R}: Evolving the Conditions for Collaboration](https://aliakbarmehta.com/content/safe-r-evolving-the-conditions-for-collaboration)**, Third Space, Helsinki, 2020
+2021              *Essay*: **Cultural production and racism: How to challenge racist structures**, Muuntautuva rasismi. Kriittisiä näkökulmia rodullistamiseen, valkoisuuteen ja vallan koloniaalisuuteen (Different shapes of racism. Critical perspectives on racialization, whiteness and coloniality of power), (ed) Suvi Keskinen, (pub.) Gaudeamus. ISBN 978-9-5234-5107-0 
 
-2020              **[Who is Welcome? – Thinking Hospitality as Museum of Impossible Forms](https://aliakbarmehta.com/content/museum-of-impossible-forms#who-is-welcome-thinking-hospitality-as-museum-of-impossible-forms)**, Rehearsing Hospitalities Companion 2, (ed.) Yvonne Billimore and Jussi Koitela, (pub.) Archive Books, Berlin, in collaboration with Frame Contemporary Art Finland, Helsinki
+2020              *Essay*: **[The Shape of Museums to Come](https://aliakbarmehta.com/content/the-shape-of-museums-to-come)**, The Museum of the Future. 43 New Contributions to the Discussion about the Future of the Museum, (ed) Schnittpunkt and Joachim Baur, (pub.) Transcript. ISBN: 978-3-8394-5270-7
 
-2020               **[A Cyber Archive of Questions](https://aliakbarmehta.com/content/cyber-archive#a-cyber-archive-of-questions)**, Restricted Fixations, Bengaluru
+2020              *Essay*: **[SAFE{R}: Evolving the Conditions for Collaboration](https://aliakbarmehta.com/content/safe-r-evolving-the-conditions-for-collaboration)**, Third Space, Helsinki, 2020
+
+2020              *Text*: **[Who is Welcome? – Thinking Hospitality as Museum of Impossible Forms](https://aliakbarmehta.com/content/museum-of-impossible-forms#who-is-welcome-thinking-hospitality-as-museum-of-impossible-forms)**, Rehearsing Hospitalities Companion 2, (ed.) Yvonne Billimore and Jussi Koitela, (pub.) Archive Books, Berlin, in collaboration with Frame Contemporary Art Finland, Helsinki
+
+2020               *Text*: **[A Cyber Archive of Questions](https://aliakbarmehta.com/content/cyber-archive#a-cyber-archive-of-questions)**, Restricted Fixations, Bengaluru
 
 2020               **[Ali Akbar Mehta](https://aliakbarmehta.com/content/walkin-the-portal)**, Walkin the Portal, Curated by Vivek Chockalingam and Marialaura Ghidini, Walkin Studios, Bengaluru
 
@@ -278,27 +270,76 @@ Kiila Archives
 
 ## **Curatorial Experience**
 
-*(upcoming)*   **Educate-Agitate-Organise,** Museum of Impossible Forms, Helsinki, FI
+*(upcoming)*   *Exhibition Curator*: **Museum of Impossible Forms in Turku,** Titanik Art Gallery, Turku, FI
 
-2020              **PROCESSES 2020**, HIAP Summer Residency 2020, Helsinki Internatonal Artist Programme (HIAP), Helsinki, FI
+*(upcoming)*   *Seminar*: **Educate-Agitate-Organise,** Museum of Impossible Forms, Helsinki, FI
 
-2019               **Vidisha Fadescha: Party, a tool for Care – curated by Ali Akbar Mehta**, part of Today Is Our Tomorrow Festival, organised by PUBLICS, Helsinki, FI
+2021              *Working group*: **What Should Art Institutions Do Now?**, Culture Lab Europe – Spaces for Solidarity, (online)
 
-2016               **MATERIAL///IMMATERIAL**, A: SPACE, Espoo, FI
+2021              *Peer Support:* **Anti-Caste Archive**, Party Office, New Delhi, IN
 
-2016               **SOAK**, D/func.t, Helsinki, FI
+2020              *Supporting Curator*: **In-Between**, HIAP Summer Residency 2020, Helsinki Internatonal Artist Programme (HIAP), Helsinki, FI
+
+2019              *Programme Facilitator*: **Network Effects**, M-cult, Oodi Library, Helsinki, FI
+
+2019               *Event coordinator and Interviewer*: **Vidisha Fadescha: Party, a tool for Care – curated by Ali Akbar Mehta**, part of Today Is Our Tomorrow Festival, organised by PUBLICS, Helsinki, FI
+
+2016              *Exhibition Curator*:  **MATERIAL///IMMATERIAL**, A: SPACE, Espoo, FI
+
+2016              *Exhibition Curator*: **SOAK**, D/func.t, Helsinki, FI
 <br /><br />
 
 ## **Residencies**
 
-2020               **Maunula Commons**, m-cult, Helsinki
+2021               Titanik Artist Residency, Turku, FI
 
-2018               **To Participate in the Archive**, ARTEL 2018, TIFA Working Studios, Pune
+2020               **Maunula Commons**, m-cult, Helsinki, FI
 
-2012               **SPACE 118**, Mumbai
+2018               **To Participate in the Archive**, ARTEL 2018, TIFA Working Studios, Pune, IN
+
+2012               **SPACE 118**, Mumbai, IN
 <br /><br />
 
-## **Other work Experience**
+
+
+## **Grants**
+
+2021                **Helsinki City Grant,** working group Museum of Impossible Forms 
+
+2020                **Kone Säätiö**, COVID grant for organisations, working group Museum of Impossible Forms 
+
+2020               **[Taiteen edistämiskeskus](https://www.taike.fi/etusivu)**, working grant (1 year)
+
+2020              ** [Taiteen edistämiskeskus](https://www.taike.fi/etusivu)**, project grant, working group  – Museum of Impossible Forms
+
+2018               **Kone Säätiö**, operational grant, working group – Museum of Impossible Forms, (2 years)
+
+2018               **Suomen Kulttuurirahasto**, project grant, working group – Museum of Impossible Forms
+
+2017               **Aalto University**, project grant, 256 Million Colours of Violence
+
+2016               **Kone Säätiö**, operational grant, working group – Museum of Impossible Forms, (2 years)
+
+<br /><br />
+
+
+
+## Awards
+
+2020               **State Art Prize*** awarded to Museum of Impossible Forms, by the Ministry of Art and Culture, FI
+
+2019               **[Tutkijaliitto-palkinto](https://tutkijaliitto.fi/2019/12/09/tutkijaliiton-palkinnot-museum-of-impossible-forms-kulttuurikeskukselle-ja-ari-korhoselle/)**, awarded to Museum of Impossible Forms, by the Finnish Association of Researchers, FI
+
+<br />
+<br />
+<br />
+<br />
+...
+<br />
+<br />
+<br />
+<br />
+## \*\*Other work Experience\*\*
 
 2020                     *Associate Curator,* **Helsinki International Artist program** (HIAP), Helsinki
 
@@ -335,7 +376,7 @@ Kiila Archives
 2011 – 2013   *Creative Director and Head of Post Production,* ***Luminous Matter***, a stop-motion animated short film by COMPOSITE Films
 
 > > > Screened at:
-> >
+> > >
 > > > * Austria Film Festival 2013
 > > > * Jaipur Film Festival, 2013
 > > > * Leeds Film Festival, 2012
