@@ -192,10 +192,14 @@
       display: inline-block;
       &:first-child {
         display: block;
+        margin-bottom: var(--s-s);
       }
     }
     a {
       display: inline-block;
+      &:not:first-child {
+        text-decoration: none;
+      }
     }
   }
   .partners {

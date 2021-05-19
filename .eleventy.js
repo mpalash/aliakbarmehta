@@ -10,6 +10,7 @@ const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
 const markdownItImplicitFigures = require('markdown-it-implicit-figures');
 const markdownItFigureCaption = require('markdown-it-figure-caption');
+const markdownItDeflist = require('markdown-it-deflist');
 
 module.exports = function(eleventyConfig) {
 
@@ -239,6 +240,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.setLibrary("md", markdownIt(options)
     .use(markdownItAnchor, opts)
     .use(markdownItImplicitFigures, figopts)
+    .use(markdownItDeflist)
   );
 
   return {
