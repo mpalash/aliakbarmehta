@@ -4,7 +4,7 @@ subtitle: Darpan 2021, Pune (online)
 layout: content
 tags: artist talk
 pubdate: May 8, 2021 12:00 AM
-unlisted: "true"
+unlisted: "false"
 hero: /static/img/ali-akbar-mehta-kari-magazine-talk-darpan-2021-hero-image.jpg
 shortdesc: '"Violence, as a negation of needs, is a symptom of Infrastructural
   Failure. Counter-archiving denotes a responsibility of articulating the
