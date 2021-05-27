@@ -11,28 +11,25 @@ summary: >-
 
 
   M-cult hosts an event with artists, researchers and activists to discuss notions of access within contexts of urban spaces and online resources. How to think about care, commoning and governance in these hybrid networks of social, ecological and digital?
+
+
+  <br/>
 parent: Central Park Archives
 ---
-"Central Park Archives: Access, commons and networks of care"
+**Annet Dekker, Ali Akbar Mehta, Susanna Ånäs, Iida Nissinen, Minna Tarkka** andguests.
 
-Annet Dekker, Ali Akbar Mehta, Susanna Ånäs, Iida Nissinen, Minna Tarkka and guests.
-
-\
-Online conversation (Zoom)
-
-Hosted by m-cult.
-
-Online event streamed at [https://www.youtube.com/channel/UCO9Hbe3QEddu3eIpuq4nm3Q](https://www.youtube.com/channel/UCO9Hbe3QEddu3eIpuq4nm3Q?fbclid=IwAR3ypuREnY_wONLKO-U_IvaNcMG1nI04vAMvrjpQ-HPXwLw2XAS8D95YGxo)
-
-The event is part of Frame Contemporary Art Finland’s public programme Rehearsing Hospitalities.
-
-The event includes short thematic tours of the archive's\
-initial collections.
-
-...
-
-Access: Online event. Conversation in English, recorded interviews in Finnish,\
-captioning in English.
+> \
+> Online conversation (Zoom)
+>
+> Hosted by m-cult.
+>
+> Online event streamed at [https://www.youtube.com/channel/UCO9Hbe3QEddu3eIpuq4nm3Q](https://www.youtube.com/channel/UCO9Hbe3QEddu3eIpuq4nm3Q?fbclid=IwAR3ypuREnY_wONLKO-U_IvaNcMG1nI04vAMvrjpQ-HPXwLw2XAS8D95YGxo)
+>
+> The event is part of Frame Contemporary Art Finland’s public programme Rehearsing Hospitalities.
+>
+> The event includes short thematic tours of the archive's initial collections.
+>
+> Access: Online event. Conversation in English, recorded interviews in Finnish, captioning in English.
 
 \
 <br/>
