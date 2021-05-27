@@ -8,6 +8,7 @@ unlisted: "false"
 hero: /static/img/keskuspuistoarkistot-pilotti-kayttoliittyma.png
 parent: Central Park Archives
 children:
+  - "CPA ~ Central park Archives: Access, Commons and Networks of Care"
   - Central ~ Central Park Archives, announcement
   - CPA ~ Central Park Archives - workshops
   - CPA ~  Central Park Archives sound walk
