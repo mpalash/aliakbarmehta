@@ -21,11 +21,11 @@ parent: Central Park Archives
 > \
 > Online conversation (Zoom)
 >
-> Hosted by m-cult.
+> Hosted by **[m-cult](https://www.m-cult.org/index.php/news/gathering-rehearsing-hospitalities-central-park-archives-programme-may-27)**.
 >
 > Online event streamed at [https://www.youtube.com/channel/UCO9Hbe3QEddu3eIpuq4nm3Q](https://www.youtube.com/channel/UCO9Hbe3QEddu3eIpuq4nm3Q?fbclid=IwAR3ypuREnY_wONLKO-U_IvaNcMG1nI04vAMvrjpQ-HPXwLw2XAS8D95YGxo)
 >
-> The event is part of Frame Contemporary Art Finland’s public programme Rehearsing Hospitalities.
+> The event is part of **[Frame Contemporary Art Finland](https://frame-finland.fi/en/)**’s public programme [Rehearsing Hospitalities](https://frame-finland.fi/en/programme/rehearsing-hospitalities/gathering-for-rehearsing-hospitalities-spring-2021/).
 >
 > The event includes short thematic tours of the archive's initial collections.
 >
@@ -38,15 +38,15 @@ parent: Central Park Archives
 
 **Introduction to Central Park Archives** - moderated by Minna Tarkka and Iida Nissinen
 
-> 3:00 Welcome and introduction to the project
+> 3:00 Introduction to the project
 >
 > 3:10 A tour of the Central Park Archives collections
 >
-> The Stream, The Meadow, The Flying Squirrel
+> \- The Stream, The Meadow, The Flying Squirrel
 >
-> Pixels in the Park
+> \- Pixels in the Park
 >
-> A view on the park's history
+> \- A view on the park's history
 >
 > 3:40 A Dialogue on the commons, archives and cartography, Ali Akbar Mehta and Susanna Ånäs
 >
