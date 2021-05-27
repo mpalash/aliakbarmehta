@@ -1,5 +1,5 @@
 ---
-title: "CPA ~ Central park Archives: Access, Commons and networks of Care"
+title: "CPA ~ Central park Archives: Access, Commons and Networks of Care"
 subtitle: Gathering for Rehearsing Hospitalities Spring 2021, online conversation 3
 layout: content
 tags: artist talk
