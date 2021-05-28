@@ -25,22 +25,18 @@ children:
   - "CPA ~ Mehta & Ånäs: Keskuspuisto-arkistot"
   - CPA ~ Central Park Archives (Process)
 ---
-**Annet Dekker, Ali Akbar Mehta, Susanna Ånäs, Iida Nissinen, Minna Tarkka** andguests.
+The event includes short thematic tours of the archive's initial collections by m-cult (**Minna Tarkka** and **Iida Nissinen**), an unmoderated conversation between its artists **Ali Akbar Mehta** and **Susanna** **Ånäs,** and a moderated conversation with **Annet Dekker.**
 
 > \
-> Online conversation (Zoom)
->
-> Hosted by **[m-cult](https://www.m-cult.org/index.php/news/gathering-rehearsing-hospitalities-central-park-archives-programme-may-27)**.
+> Online conversation (Zoom) hosted by **[m-cult](https://www.m-cult.org/index.php/news/gathering-rehearsing-hospitalities-central-park-archives-programme-may-27)**.
 >
 > Online event streamed at [](https://www.youtube.com/channel/UCO9Hbe3QEddu3eIpuq4nm3Q?fbclid=IwAR3ypuREnY_wONLKO-U_IvaNcMG1nI04vAMvrjpQ-HPXwLw2XAS8D95YGxo)on Frame Contemporary Art Finland's youtube channel **[here](https://www.youtube.com/channel/UCO9Hbe3QEddu3eIpuq4nm3Q)**
 >
 > The event is part of **[Frame Contemporary Art Finland](https://frame-finland.fi/en/)**’s public programme [Rehearsing Hospitalities](https://frame-finland.fi/en/programme/rehearsing-hospitalities/gathering-for-rehearsing-hospitalities-spring-2021/).
 >
-> The event includes short thematic tours of the archive's initial collections by m-cult (**Minna Tarkka** and **Iida Nissinen**), an unmoderated conversation between its artists **Ali Akbar Mehta** and **Susanna** **Ånäs,** and a moderated conversation with **Annet Dekker.**
->
 > Access: Online event. Conversation in English, recorded interviews in Finnish, captioning in English.
->
-> ...
+
+...
 
 \
 <br/>
