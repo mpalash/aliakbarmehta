@@ -16,6 +16,7 @@ summary: I’m one of the co-founders and current co-Artistic Director (2018-202
 children:
   - "Mif ~ Generating (An)Other Economy: Working Together at the Museum of
     Impossible Forms"
+  - Gathering for Rehearsing Hospitalities Spring 2021
   - "Museum of Impossible Forms: Voicing the Margins"
   - "Mif ~ Cultural production and racism: How to challenge racist structures"
   - The Shape of Museums to Come
