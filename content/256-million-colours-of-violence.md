@@ -5,11 +5,15 @@ tags: ongoing project
 pubdate: November 24, 2016 12:00 AM
 unlisted: "false"
 hero: /static/img/ali-akbar-mehta-256-million-colours-of-violence.png
-summary: 256 Million Colours of Violence is a survey-based interactive archival
-  research project, inviting online and onsite audiences to participate in a
-  survey-based research to actively co-create the website’s archive of colours
-  that represent ‘violence’. Know more about the project and participate online
-  at
+shortdesc: 256 Million Colours of Violence, a survey-based interactive archival
+  research project, invites online and onsite audiences participation to
+  actively co-create an archive of colours that represent ‘violence’. Know more
+  about the project and participate online at
+  [www.256milioncoloursofviolence.com](http://www.256millioncoloursofviolence.com/)
+summary: 256 Million Colours of Violence, a survey-based interactive archival
+  research project, invites online and onsite audiences participation to
+  actively co-create an archive of colours that represent ‘violence’. Know more
+  about the project and participate online at
   [www.256milioncoloursofviolence.com](http://www.256millioncoloursofviolence.com/)
 children:
   - 256 ~ Is there a room with just a colour?
