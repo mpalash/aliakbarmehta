@@ -12,20 +12,20 @@ summary: 256 Million Colours of Violence is a survey-based interactive archival
   at
   [www.256milioncoloursofviolence.com](http://www.256millioncoloursofviolence.com/)
 children:
-  - 256 ~ 256 Million Colours of Violence, Exhibition
-  - 256 ~ Limitations of Liability
-  - 256 ~ Limitations of Liability, Mumbai Assembly
-  - 256 ~ Urgency of Asking Questions
-  - 256 ~ Limitations of Liability, Harkat Studios
-  - 256 ~ Colours of Violence, AROOP III - Totems and Taboos
-  - "participate ~ Cyborg Archives: 256 Million Colours of Violence, TIFA
-    Working Studios, Pune"
   - 256 ~ Is there a room with just a colour?
   - 256 ~ Is there a room with just a colour? In conversation with Camelo Ramiro
   - "256 ~ Digital Creativity and Entanglement: In conversation with Timo
     Tuhkanen"
   - "256 ~ Violence in Finnish Society: In conversation with Arvind Ramachandran"
   - "256 ~ Towards a New Internet: In conversation with Palash Mukhopadhyay"
+  - "participate ~ Cyborg Archives: 256 Million Colours of Violence, TIFA
+    Working Studios, Pune"
+  - 256 ~ Colours of Violence, AROOP III - Totems and Taboos
+  - 256 ~ Limitations of Liability
+  - 256 ~ Limitations of Liability, Mumbai Assembly
+  - 256 ~ Urgency of Asking Questions
+  - 256 ~ Limitations of Liability, Harkat Studios
+  - 256 ~ 256 Million Colours of Violence, Exhibition
   - 256 ~ Not your Regular Archive
   - 256 ~ Does violence have a colour?
   - 256 ~ Shades of Violence
