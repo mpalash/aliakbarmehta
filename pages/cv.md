@@ -13,7 +13,6 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
   Contemporary Art Department at **[Aalto University](https://www.aalto.fi/)**,
   Helsinki."
 ---
-
 ## Education
 
 2019 – ongoing
@@ -55,6 +54,9 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 :   *Co-founder, Lead Animator and Artist*, Mareech Animated Design, Mumbai, IN
 
 ## Solo Exhibitions
+
+Upcoming
+:   **Central Park Archives**, produced by m-cult, Maunulatalo, Helsinki, FI
 
 2020
 :   **Is there a room with just a colour?**, Myymälä2, Helsinki, FI
@@ -228,7 +230,7 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 ## Artist Talks / Conferences / Lectures
 
 2021 
-:   *Artist Talk*: **Commonisms**, Rehearsing Hospitalities, Frame Contemporary Art Finland, Helsinki (online)
+:   *Artist Talk:* **Central Park Archives: Access, commons, and networks of care**, moderated by m-cult and invited speaker Annet Dekker, part of Gathering for Rehearsing Hospitalities Spring 2021, Maunulatalo, Helsinki (online)
 
 2021 
 :   *Artist Talk*: **Internationalism, Mobility, and Borders**,  Hangö Teatrträff, (online) 

@@ -10,7 +10,7 @@ parent: 256 Million Colours of Violence
 ---
 The project is displayed in Mumbai for the first time, in 2017.
 
-As a traveling project across venues, the project in its iteration at Mumbai Assembly is conceptualised to be a space for discourse and conversation. This translated as three events, each a dialogue with an invited speaker to collectively reflect on violence in its various forms by forming symbiotic relationships with each other’s praxes.
+As a travelling project across venues, the project in its iteration at Mumbai Assembly is conceptualised to be a space for discourse and conversation. This is translated as three events, each a dialogue with an invited speaker to collectively reflect on 'violence' in its various forms by forming symbiotic relationships with each other’s praxes.
 
 ![Installation detail, Limitations of Liability, Mumbai Assembly, 2017](/static/img-d/ali-akbar-mehta_256-million-colours-of-violence_detail_2017.jpg)
 ![Installation view, Limitations of Liability, Mumbai Assembly, 2017](/static/img-d/colour-wall-survey-table.jpg)
@@ -38,7 +38,7 @@ Following a spoken word performance by **Ramneek Singh**, a conversation between
 
   **March 18, 2017 | 6:30 to 8:00 pm**
 
-Ali Akbar Mehta and **Simpreet Singh** discuss how the project is addressing the notion of freely given information, conditional agreements and consent – to corporations and governments, as opposed to an artist project. Simpreet Singh brings his knowledge and experience of having worked with the 'Right to Information Act; (RTI) to similarly pursue and make visible those truths that are important to us.
+Ali Akbar Mehta and **Simpreet Singh** discuss how the project is addressing the notion of freely-given information, conditional agreements and consent – to corporations and governments, as opposed to an artist project. Simpreet Singh brings his knowledge and experience of having worked with the 'Right to Information Act; (RTI) to similarly pursue and make visible those truths that are important to us.
 
 ## *Big Data Ethics*
 
@@ -46,4 +46,4 @@ Ali Akbar Mehta and **Simpreet Singh** discuss how the project is addressing the
 
   **March 19, 2017 | 6:30 to 8:00 pm**
 
-Ali Akbar Mehta in conversation with **Sameer Pitalwala** discuss how most data-mining exercises and empirical scientific surveys require a culled group in order to eradicate diversity, a standardisation of the test group to remove ‘noise’. Instead, a project such as ‘256 Million Colours of Violence’ is a celebration of that noise which represents the diversity of Human experience and collective memetic history. It is also part of an ongoing discourse to reduce effects of stereo-typification through personal scrutiny of the word and meanings of ‘Violence' by asking how is the narrative experience of colour embodied, embedded and extended in the contexts of these meanings.
+Ali Akbar Mehta and **Sameer Pitalwala** discuss how most data-mining exercises and empirical scientific surveys require a culled group in order to eradicate diversity, a standardisation of the test group to remove ‘noise’. Instead, a project such as ‘256 Million Colours of Violence’ is a celebration of that noise which represents the diversity of human experience and collective memetic history. It is also part of an ongoing discourse to reduce the effects of stereo-typification through personal scrutiny of the word and meanings of ‘Violence' by asking how is the narrative experience of colour embodied, embedded and extended in the contexts of these meanings.
