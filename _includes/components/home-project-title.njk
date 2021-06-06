@@ -6,8 +6,8 @@
       {% if content.data.hero %}
         <img
           class="list-hero"
-          srcset="{{ content.data.hero | replace('/img/','/img-l/') | replace(' ','%20') }} 1800w, {{ content.data.hero | replace('/img/','/img-m/') | replace(' ','%20') }} 1200w, {{ content.data.hero | replace('/img/','/img-d/') | replace(' ','%20') }} 1000w, {{ content.data.hero | replace('/img/','/img-s/') | replace(' ','%20') }} 800w"
-          src="{{ content.data.hero | replace('/img/','/img-s/') | replace(' ','%20') }}"
+          srcset="{{ content.data.hero | replace('/img-d/','/img-s/') }} 800w"
+          src="{{ content.data.hero | replace('/img-d/','/img-s/') }}"
           alt="{{ content.data.title }}"
           loading="lazy"
           onload="this.classList.add('imgLoaded')" />
@@ -27,8 +27,8 @@
     {% if content.data.hero %}
       <img
         class="list-hero"
-        srcset="{{ content.data.hero | replace('/img/','/img-l/') | replace(' ','%20') }} 1800w, {{ content.data.hero | replace('/img/','/img-m/') | replace(' ','%20') }} 1200w, {{ content.data.hero | replace('/img/','/img-d/') | replace(' ','%20') }} 1000w, {{ content.data.hero | replace('/img/','/img-s/') | replace(' ','%20') }} 800w"
-        src="{{ content.data.hero | replace('/img/','/img-s/') | replace(' ','%') }}"
+        srcset="{{ content.data.hero | replace('/img-d/','/img-s/') }} 800w"
+        src="{{ content.data.hero | replace('/img-d/','/img-s/') }}"
         alt="{{ content.data.title }}"
         loading="lazy"
         onload="this.classList.add('imgLoaded')" />
