@@ -4,7 +4,7 @@ subtitle: new vocabulary and perspectives
 layout: layouts/content.njk
 tags: ongoing project
 pubdate: '2019'
-hero: /static/img/logo_outsiders-at-work.jpg
+hero: /static/img-d/logo_outsiders-at-work.jpg
 children:
   - 'Outsider ~ Tuike and Simo Alitalo: All Ears are Equal'
   - 'Outsiders ~ Abhinit Khanna : Make Memes not War'

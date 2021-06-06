@@ -3,7 +3,7 @@
 var path = require('path'),
     fs = require('graceful-fs');
 
-var folderSrc = './content/',
+var folderSrc = './content-raw/',
     folderOut = './content/',
     files = [];
 

@@ -4,7 +4,7 @@ subtitle: Helsinki Art Museum (HAM), Helsinki
 layout: layouts/content.njk
 tags: artist talk
 pubdate: "2019"
-hero: /static/img/museum-of-impossible-forms.png
+hero: /static/img-d/museum-of-impossible-forms.png
 summary: >-
   In November 2019, I was invited to talk about diversity within the art and
   cultural scene of Helsinki, to the curatorial staff at Helsinki Art Museum,

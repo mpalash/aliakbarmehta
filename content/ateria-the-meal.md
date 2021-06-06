@@ -19,7 +19,7 @@ The Meal will be happening on the lawn and theatre space of Kiasma and is hosted
 
 ![](/static/img/Ateria-04.JPG)
 
-![](/static/img/Ateria-01.jpg)
+![](/static/img-d/Ateria-01.jpg)
 
 ![](/static/img/Ateria-12.JPG)
 

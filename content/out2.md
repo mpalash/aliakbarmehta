@@ -5,7 +5,7 @@ layout: layouts/content.njk
 tags: group exhibition
 pubdate: "2017"
 unlisted: "false"
-hero: /static/img/out-2-research-pavillion-venice-biennale-2017.png
+hero: /static/img-d/out-2-research-pavillion-venice-biennale-2017.png
 summary: "An ongoing, collaborative research project: OUT 2, presented in Venice
   as a multi-screen installation and series of related events."
 parent: Is the representation of violence also violent?
@@ -15,11 +15,11 @@ The project was originally inspired by Jacques Rivette’s Out 1: Noli Me Tanger
 
 Instead of adapting or reenacting the film, Out 2 generates a view of possible correspondences surrounding the question “where are we now?”. For OUT 2 this means the unravelling of individual authorship in favour of a collective one. In taking this gamble, the only parameters we have upheld are against creating parameters, including a resistance towards establishing a definitive end. And so OUT 2 unfolds as a self-generating creature, gradually developing into its own master. 
 
-![](/static/img/installation-image-out2-venice-2017-01.jpg)
+![](/static/img-d/installation-image-out2-venice-2017-01.jpg)
 
-![](/static/img/installation-image-out2-venice-2017-02.jpg)
+![](/static/img-d/installation-image-out2-venice-2017-02.jpg)
 
-![](/static/img/installation-image-out2-venice-2017-03.jpg)
+![](/static/img-d/installation-image-out2-venice-2017-03.jpg)
 
 <br/>
 

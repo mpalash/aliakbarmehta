@@ -4,7 +4,7 @@ layout: layouts/content.njk
 tags: past project
 pubdate: "2014"
 unlisted: "false"
-hero: /static/img/mazgaon-docks.jpg
+hero: /static/img-d/mazgaon-docks.jpg
 summary: "SITE : STAGE : STRUCTURE is an archival documentary project. It is a
   Transmedia Installation that integrates books, objects, photographs, short
   films, audio narratives, and heritage walks as a way of revitalizing memories

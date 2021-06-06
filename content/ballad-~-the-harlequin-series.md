@@ -4,26 +4,23 @@ layout: layouts/content.njk
 tags: artwork
 pubdate: "2011"
 unlisted: "true"
-summary: >-
-  ![To Glory in Self like some kind of New Monster, 2010, Archival print on
-  Hahnemuhle paper, 182 x 121 cm.jpg](/static/img/Ali Akbar Mehta_Harlequin
-  Series; To Glory in Self, like some kind of New Monster, 2010, Archival print
-  on Hahnemuhle paper, 182 x 121 cm.jpg)
-
-  ![Safdar, 2010, Archival print on Hahnemuhle paper, 152 x 213 cm](/static/img/Ali Akbar Mehta_Harlequin Series; Safdar, 2010, Archival print on Hahnemuhle paper, 152 x 213 cm.jpg)
-
-  ![Icarus finds his wings again, 2010, Archival print on Hahnemuhle paper, 182 x 121 cm](/static/img/Ali Akbar Mehta_Harlequin Series; Icarus finds his wings again, 2010, Archival print on Hahnemuhle paper, 182 x 121 cm.jpg)
-
-  ![Caught Somewhere in Time, 2010, Archival print on Hahnemuhle paper, 182 x 152 cm](/static/img/Ali-Akbar-Mehta_Harlequin-Series-Caught-Somewhere-in-Time-2010-Archival-print-on-Hahnemuhle-paper-182-x-152-cm.jpg)
-
-  ![All that was Solid is Liquid again, 2010, Archival print on archival paper, 229 x 152 cm](/static/img/Ali-Akbar-Mehta_Harlequin-Series-All-that-was-Solid-is-Liquid-again-2010-Archival-print-on-archival-paper-229-x-152-cm.jpg)
-
-  ![Soliloquies in the Garden of Earthly Delights, 2011, Archival print on Hahnemuhle paper, 229 x 152 cm](/static/img/Ali Akbar Mehta_Harlequin Series; Soliloquies in the Garden of Earthly Delights, 2011, Archival print on Hahnemuhle paper, 229 x 152 cm.jpg)
-
-  ![The Ascension of Karna, 2010, Archival print on Hahnemuhle paper, 121 x 91.5 cm](/static/img/Ali Akbar Mehta_The Ascension of Karna, 2010, Archival print on Hahnemuhle paper, 121 x 91.5 cm.jpg)
-
-  ![Karnabhaaram, 2010, Archival print on archival paper, 91.5 x 91.5 cm](/static/img/Ali AKbar Mehta_Karnabhaaram, 2010, Archival print on archival paper, 91.5 x 91.5 cm.jpg)
 parent: Ballad of the War that Never Was, and Other Basterdised Myths
+summary: >-
+  ![To Glory in Self like some kind of New Monster, 2010, Archival print on Hahnemuhle paper, 182 x 121 cm.jpg](/static/img-d/Ali%20Akbar%20Mehta_Harlequin%20Series;%20To%20Glory%20in%20Self,%20like%20some%20kind%20of%20New%20Monster,%202010,%20Archival%20print%20on%20Hahnemuhle%20paper,%20182%20x%20121%20cm.jpg)
+
+  ![Safdar, 2010, Archival print on Hahnemuhle paper, 152 x 213 cm](/static/img-d/Ali%20Akbar%20Mehta_Harlequin%20Series;%20Safdar,%202010,%20Archival%20print%20on%20Hahnemuhle%20paper,%20152%20x%20213%20cm.jpg)
+
+  ![Icarus finds his wings again, 2010, Archival print on Hahnemuhle paper, 182 x 121 cm](/static/img-d/Ali%20Akbar%20Mehta_Harlequin%20Series;%20Icarus%20finds%20his%20wings%20again,%202010,%20Archival%20print%20on%20Hahnemuhle%20paper,%20182%20x%20121%20cm.jpg)
+
+  ![Caught Somewhere in Time, 2010, Archival print on Hahnemuhle paper, 182 x 152 cm](/static/img-d/Ali-Akbar-Mehta_Harlequin-Series-Caught-Somewhere-in-Time-2010-Archival-print-on-Hahnemuhle-paper-182-x-152-cm.jpg)
+
+  ![All that was Solid is Liquid again, 2010, Archival print on archival paper, 229 x 152 cm](/static/img-d/Ali-Akbar-Mehta_Harlequin-Series-All-that-was-Solid-is-Liquid-again-2010-Archival-print-on-archival-paper-229-x-152-cm.jpg)
+
+  ![Soliloquies in the Garden of Earthly Delights, 2011, Archival print on Hahnemuhle paper, 229 x 152 cm](/static/img-d/Ali%20Akbar%20Mehta_Harlequin%20Series;%20Soliloquies%20in%20the%20Garden%20of%20Earthly%20Delights,%202011,%20Archival%20print%20on%20Hahnemuhle%20paper,%20229%20x%20152%20cm.jpg)
+
+  ![The Ascension of Karna, 2010, Archival print on Hahnemuhle paper, 121 x 91.5 cm](/static/img-d/Ali%20Akbar%20Mehta_The%20Ascension%20of%20Karna,%202010,%20Archival%20print%20on%20Hahnemuhle%20paper,%20121%20x%2091.5%20cm.jpg)
+
+  ![Karnabhaaram, 2010, Archival print on archival paper, 91.5 x 91.5 cm](/static/img-d/Ali%20AKbar%20Mehta_Karnabhaaram,%202010,%20Archival%20print%20on%20archival%20paper,%2091.5%20x%2091.5%20cm.jpg)
 ---
 ## The Harlequin
 

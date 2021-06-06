@@ -5,7 +5,7 @@ layout: layouts/content.njk
 tags: unpublished
 pubdate: "2015"
 unlisted: "false"
-hero: /static/img/img_3698.jpg
+hero: /static/img-d/img_3698.jpg
 summary: In in the midst of an old forest, next to a pond that could be anywhere
   in wilderness is the area of Kruunuvuori, which in the etymology of Suomi
   means ‘The Crown Mountain’ – which is about three kilometers from Market

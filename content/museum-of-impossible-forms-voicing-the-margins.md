@@ -6,7 +6,7 @@ subtitle: "in 'Marginaaleista museoihin'. (From Margins to Museums), (eds.)
 layout: layouts/content.njk
 tags: publication
 pubdate: "2021"
-hero: /static/img/museum-of-impossible-forms_lecture-and-performance-by-mohsen-namjoo-as-part-of-an-entry-to-iranian-music-curated-by-aman-askarizad_photo-by-ali-akbar-mehta_2020.jpg
+hero: /static/img-d/museum-of-impossible-forms_lecture-and-performance-by-mohsen-namjoo-as-part-of-an-entry-to-iranian-music-curated-by-aman-askarizad_photo-by-ali-akbar-mehta_2020.jpg
 summary: >-
   ***Upcoming Essay***
 

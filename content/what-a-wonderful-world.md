@@ -3,7 +3,7 @@ title: What a Wonderful World
 layout: layouts/content.njk
 tags: video
 pubdate: "2014"
-hero: /static/img/what-a-wonderful-world-2014.png
+hero: /static/img-d/what-a-wonderful-world-2014.png
 parent: 256 Million Colours of Violence
 children:
   - "IS ~ IS/NOT: Sculpture for the Post-Truth Era"

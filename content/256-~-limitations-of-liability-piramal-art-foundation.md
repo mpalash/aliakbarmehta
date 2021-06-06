@@ -4,7 +4,7 @@ subtitle: in conversation with Kevin Lobo, Piramal Museum, Mumbai
 layout: layouts/content.njk
 tags: artist talk
 pubdate: "2017"
-hero: /static/img/ali-akbar-mehta-in-conversation-with-kevin-lobo-piramal-museum-of-art-mumbai-2017.jpg
+hero: /static/img-d/ali-akbar-mehta-in-conversation-with-kevin-lobo-piramal-museum-of-art-mumbai-2017.jpg
 summary: >-
   <iframe width="560" height="315"
   src="https://www.youtube.com/embed/X9zBcIMHf10" frameborder="0"

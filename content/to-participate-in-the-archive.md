@@ -5,7 +5,7 @@ layout: layouts/content.njk
 tags: residency
 pubdate: January 5, 2018 12:00 AM
 unlisted: "false"
-hero: /static/img/ali-akbar-mehta_installation-view_cyborg-archive-archiving-knowledge_tifa-working-studios_2018.jpg
+hero: /static/img-d/ali-akbar-mehta_installation-view_cyborg-archive-archiving-knowledge_tifa-working-studios_2018.jpg
 summary: ""
 children:
   - Cyber ~ Archiving Knowledge, sculptures

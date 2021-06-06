@@ -4,7 +4,7 @@ subtitle: curated by Vishnu Vardhani as part of Performance LAB VII
 layout: layouts/content.njk
 tags: performance
 pubdate: "2018"
-hero: /static/img/performance.jpg
+hero: /static/img-d/performance.jpg
 parent: "WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs"
 ---
 <iframe src="https://player.vimeo.com/video/297712769" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

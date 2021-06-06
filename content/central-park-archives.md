@@ -5,7 +5,7 @@ layout: layouts/content.njk
 tags: ongoing project
 pubdate: July 15, 2020 12:00 AM
 unlisted: "false"
-hero: /static/img/keskuspuistoarkistot-pilotti-kayttoliittyma.png
+hero: /static/img-d/keskuspuistoarkistot-pilotti-kayttoliittyma.png
 parent: Central Park Archives
 children:
   - Central ~ Central Park Archives, announcement

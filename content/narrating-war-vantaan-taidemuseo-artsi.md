@@ -6,7 +6,7 @@ layout: content
 tags: group exhibition
 pubdate: February 11, 2021 12:00 AM
 unlisted: "false"
-hero: /static/img/narrating-war-vantaan-taidemuseo-artsi.png
+hero: /static/img-d/narrating-war-vantaan-taidemuseo-artsi.png
 summary: ""
 parent: "WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs"
 ---
@@ -14,9 +14,9 @@ parent: "WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs"
 
 **Vantaa Art Museum Artsi 12.2.-16.5.2021**
 
-![](/static/img/narrating-war-vantaan-taidemuseo-artsi.png)
-![](/static/img/_63a7776.jpg)
-![](/static/img/_63a7832.jpg)
+![](/static/img-d/narrating-war-vantaan-taidemuseo-artsi.png)
+![](/static/img-d/_63a7776.jpg)
+![](/static/img-d/_63a7832.jpg)
 
 <br/>
 

@@ -7,7 +7,7 @@ layout: content
 tags: curatorial project
 pubdate: September 12, 2019 12:00 AM
 unlisted: "false"
-hero: /static/img/vidisha-fadescha-party-a-tool-for-care-2019.png
+hero: /static/img-d/vidisha-fadescha-party-a-tool-for-care-2019.png
 shortdesc: >
   Museum of Impossible Forms in collaboration with Publics has invited
   artist-curator Vidisha Fadescha to present her practice through an artist talk
@@ -28,7 +28,7 @@ As a continuation of their talk at Stidilä, outlining *Party as a Tool for Care
 
 Redrum will play at Stidila from 2:00 to 4:00 am as the closing gig on the Saturday Night’s programme.
 
-![](/static/img/redrum-2019.png)
+![](/static/img-d/redrum-2019.png)
 
 *Bio*
 

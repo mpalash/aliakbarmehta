@@ -3,7 +3,7 @@ title: The Superhero Series
 layout: layouts/content.njk
 tags: past project
 pubdate: "2012"
-hero: /static/img/Ali-Akbar-Mehta-I-India-Art-Festival-2012-I-Of-Men-and-Supermen-01,-Lenticular-and-vinyl-on-archival-mount,--88-x-114-cm,-edition-2_lo-res-for-web-1.jpg
+hero: /static/img-d/Ali-Akbar-Mehta-I-India-Art-Festival-2012-I-Of-Men-and-Supermen-01,-Lenticular-and-vinyl-on-archival-mount,--88-x-114-cm,-edition-2_lo-res-for-web-1.jpg
 parent: The Superhero Series
 children:
   - Superheroes ~ Of Men and Supermen
