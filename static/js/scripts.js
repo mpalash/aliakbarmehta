@@ -22,6 +22,8 @@ $(function() {
     $('.error-status').text(errorString.split(':')[1]);
   }
 
+  $('.page-content img').attr('loading','lazy');
+
   scrollSpy('#project-toc', {
     sectionSelector: 'section',
     targetSelector: '.toc-link',

@@ -5,10 +5,11 @@
   "scripts": {
     "sass": "sass --style=compressed scss/styles.scss static/css/styles.css",
     "scale": "node scale.js",
-    "build": "npm run sass && npx eleventy",
+    "fixpaths": "node fixFilePaths.js",
+    "build": "npm run sass && npm run fixpaths && npx eleventy",
     "watch:eleventy": "npx eleventy --serve",
     "watch:sass": "npm run sass -- --watch",
-    "serve": "npm-run-all sass --parallel watch:*",
+    "serve": "npm run fixpaths && npm-run-all sass --parallel watch:*",
     "debug": "DEBUG=* npx eleventy"
   },
   "repository": {
@@ -47,6 +48,8 @@
     "html-minifier": "^4.0.0",
     "markdown-it-deflist": "^2.1.0",
     "markdown-it-figure-caption": "^0.1.0",
+    "markdown-it-regex": "^0.2.0",
+    "markdown-it-regexp": "^0.4.0",
     "sass": "^1.26.3",
     "uglify-es": "^3.3.9"
   }

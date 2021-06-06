@@ -4,7 +4,7 @@ layout: content
 tags: solo exhibition
 pubdate: '2017'
 summary: >-
-  ![](/static/img/limitations-of-liability-banner-for-facebook.jpg)
+  ![](/static/img-d/limitations-of-liability-banner-for-facebook.jpg)
 
   **Limitations of Liability** was an eight day program between March 17 to 28,
   2017, structured around ‘**256 Million Colours of Violence**’ – an interactive
@@ -19,9 +19,9 @@ summary: >-
   ongoing survey.
 parent: 256 Million Colours of Violence
 ---
-![Limitations of Liability, segment 1, The Mumbai Assembly, 2017](/static/img/limitations-of-liability-segment-1.jpg)
-![Limitations of Liability, segment 2, Piramal Museum of Art, 2017](/static/img/limitations-of-liability-segment-2-updated.jpg)
-![Limitations of Liability, segment 3, Harkat Studios, 2017](/static/img/limitations-of-liability-segment-3.jpg)
+![Limitations of Liability, segment 1, The Mumbai Assembly, 2017](/static/img-d/limitations-of-liability-segment-1.jpg)
+![Limitations of Liability, segment 2, Piramal Museum of Art, 2017](/static/img-d/limitations-of-liability-segment-2-updated.jpg)
+![Limitations of Liability, segment 3, Harkat Studios, 2017](/static/img-d/limitations-of-liability-segment-3.jpg)
 
 Held across three venues – The Mumbai Assembly (Bandra), The Piramal Art Foundation (Lower Parel) and Harkat Studios (Versova) – the program also included poetry recitations, talks and discussions, and a series of films screenings concerned with the subject of violence and trauma.
 

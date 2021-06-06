@@ -11,6 +11,8 @@ const markdownItAnchor = require("markdown-it-anchor");
 const markdownItImplicitFigures = require('markdown-it-implicit-figures');
 const markdownItFigureCaption = require('markdown-it-figure-caption');
 const markdownItDeflist = require('markdown-it-deflist');
+const markdownItRegex = require('markdown-it-regex')
+const markdownItRegexp = require('markdown-it-regexp')
 
 module.exports = function(eleventyConfig) {
 
@@ -70,9 +72,10 @@ module.exports = function(eleventyConfig) {
     }).use(markdownItImplicitFigures, {
       figcaption: true
     });
-    value = String(value).replace(/\/img\//g,'/img-d/');
-    console.log(value);
-    var rendered = md.render(value);
+    // var valueMD = String(value).replace(/\/img\/.*.(?:jpe?g|gif|png)/g, function(match){
+    //   return match.replace(/\s/g,'%20').replace(/\/img\//g,'/img-d/')
+    // });
+    var rendered = md.render(String(value));
     return rendered;
   });
 
@@ -236,8 +239,21 @@ module.exports = function(eleventyConfig) {
     tabindex: false,
     link: false
   };
+  let regexp = markdownItRegexp(/\/img\/.*.(?:jpe?g|gif|png)/,function(match, utils) {
+    let transformed = match.replace(/\s/g,'%20').replace(/\/img\//g,'/img-d/');
+    return transformed;
+  });
+  let regex = {
+    name: 'spacefix',
+    regex: /\/img\/.*.(?:jpe?g|gif|png)/,
+    replace: (match) => {
+      return match.replace(/\s/g,'%20').replace(/\/img\//g,'/img-d/')
+    }
+  };
 
   eleventyConfig.setLibrary("md", markdownIt(options)
+    // .use(markdownItRegex, regex)
+    .use(regexp)
     .use(markdownItAnchor, opts)
     .use(markdownItImplicitFigures, figopts)
     .use(markdownItDeflist)

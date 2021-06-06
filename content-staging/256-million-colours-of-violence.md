@@ -3,7 +3,7 @@ title: 256 Million Colours of Violence
 layout: content
 tags: ongoing project
 pubdate: "2016"
-hero: /static/img/screen-shot-2018-09-26-at-13.04.19.jpg
+hero: /static/img-d/screen-shot-2018-09-26-at-13.04.19.jpg
 summary: 256 Million Colours of Violence is a survey-based interactive archival
   research project, inviting online and onsite audiences to participate in a
   survey-based research to actively co-create the website’s archive of colours
