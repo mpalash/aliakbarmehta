@@ -4,14 +4,80 @@ eleventyExcludeFromCollections: true
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  {% for page in collections.all %}
-    {% if page.url != '' and page.url != '/admin/' %}
-    <url>
-      {{ page.url }}
-      <loc>{{ metadata.url }}{{ page.url | url }}</loc>
-      <lastmod>{{ page.date.toISOString() }}</lastmod>
-      <changefreq>daily</changefreq>
-    </url>
-    {% endif %}
+  <url>
+    <loc>{{ metadata.url }}</loc>
+    <lastmod>{{ "March 24, 2021 12:00 AM" | ISODate }}</lastmod>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>{{ metadata.url }}/curriculum-vitae/</loc>
+    <lastmod>{{ "March 24, 2021 12:00 AM" | ISODate }}</lastmod>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>{{ metadata.url }}/portfolio-2021/</loc>
+    <lastmod>{{ "March 24, 2021 12:00 AM" | ISODate }}</lastmod>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>{{ metadata.url }}/404/</loc>
+    <lastmod>{{ "March 24, 2021 12:00 AM" | ISODate }}</lastmod>
+    <changefreq>daily</changefreq>
+  </url>
+
+  {% for content in collections.projects %}
+  <url>
+    <loc>{{ metadata.url }}{{ content.url | url }}</loc>
+    <lastmod>{{ content.data.pubdate | ISODate }}</lastmod>
+    <changefreq>daily</changefreq>
+  </url>
+  {% endfor %}
+
+  {% for content in collections.curatorial %}
+  <url>
+    <loc>{{ metadata.url }}{{ content.url | url }}</loc>
+    <lastmod>{{ content.data.pubdate | ISODate }}</lastmod>
+    <changefreq>daily</changefreq>
+  </url>
+  {% endfor %}
+
+  {% for content in collections.performances %}
+  <url>
+    <loc>{{ metadata.url }}{{ content.url | url }}</loc>
+    <lastmod>{{ content.data.pubdate | ISODate }}</lastmod>
+    <changefreq>daily</changefreq>
+  </url>
+  {% endfor %}
+
+  {% for content in collections.texts %}
+  <url>
+    <loc>{{ metadata.url }}{{ content.url | url }}</loc>
+    <lastmod>{{ content.data.pubdate | ISODate }}</lastmod>
+    <changefreq>daily</changefreq>
+  </url>
+  {% endfor %}
+
+  {% for content in collections.talks %}
+  <url>
+    <loc>{{ metadata.url }}{{ content.url | url }}</loc>
+    <lastmod>{{ content.data.pubdate | ISODate }}</lastmod>
+    <changefreq>daily</changefreq>
+  </url>
+  {% endfor %}
+
+  {% for content in collections.exhibitions %}
+  <url>
+    <loc>{{ metadata.url }}{{ content.url | url }}</loc>
+    <lastmod>{{ content.data.pubdate | ISODate }}</lastmod>
+    <changefreq>daily</changefreq>
+  </url>
+  {% endfor %}
+
+  {% for content in collections.about %}
+  <url>
+    <loc>{{ metadata.url }}{{ content.url | url }}</loc>
+    <lastmod>{{ content.data.pubdate | ISODate }}</lastmod>
+    <changefreq>daily</changefreq>
+  </url>
   {% endfor %}
 </urlset>

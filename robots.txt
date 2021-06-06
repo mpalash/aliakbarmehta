@@ -1,4 +1,4 @@
-Sitemap: [url]
+Sitemap: https://aliakbarmehta.com/sitemap.xml
 
 User-agent: *
 Disallow:

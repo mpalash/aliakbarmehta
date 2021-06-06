@@ -6,9 +6,9 @@ layout: content
 tags: group exhibition
 pubdate: May 8, 2021 12:00 AM
 unlisted: "false"
-hero: /static/img/time-machine-and-utopias-exhibition-website-homepage.png
+hero: /static/img-d/time-machine-and-utopias-exhibition-website-homepage.png
 summary: >-
-  ![](/static/img/time-machine-and-utopias-exhibition-website-homepage.png)
+  ![](/static/img-d/time-machine-and-utopias-exhibition-website-homepage.png)
 
 
   The **[Time Machines and Utopias](https://aikakoneitajautopioita.fi/)** is an exhibition series showcased in three museums: at in Tarvaspää, Ainola and Visavuori, which explore the museums’ possibilities to operate in our changing society. The exhibition is based on the topical theme of climate change intending to force a rethinking of our day-to-day choices on food, travel and housing.

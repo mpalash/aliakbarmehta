@@ -10,16 +10,16 @@
         <div class="summary">{{ summary | md | safe }}</div>
         <div class="full-content">{{ layoutContent | safe }}</div>
         <a href="#" class="toggle-section" data-title="about">
-          <span class="more"></span>
-          <span class="less"></span>
+          <span class="more">More</span>
+          <span class="less">Less</span>
         </a>
 
         <ul class="social">
           <li><a href="mailto:{{ metadata.email }}" target="_blank" rel="noreferrer">{{ metadata.emailtxt }}</a></li>
-          <li><a href="/curriculum-vitae/"><img src="/static/ui-img/icon-cv.svg"></a></li>
-          <li><a href="{{ metadata.instagram }}" target="_blank" rel="noreferrer"><img src="/static/ui-img/icon-ig.svg"></a></li>
-          <li><a href="{{ metadata.facebook }}" target="_blank" rel="noreferrer"><img src="/static/ui-img/icon-fb.svg"></a></li>
-          <li><a href="{{ metadata.twitter }}" target="_blank" rel="noreferrer"><img src="/static/ui-img/icon-tw.svg"></a></li>
+          <li><a href="/curriculum-vitae/"><img src="/static/ui-img/icon-cv.svg" alt="CV"></a></li>
+          <li><a href="{{ metadata.instagram }}" target="_blank" rel="noreferrer"><img src="/static/ui-img/icon-ig.svg" alt="IG"></a></li>
+          <li><a href="{{ metadata.facebook }}" target="_blank" rel="noreferrer"><img src="/static/ui-img/icon-fb.svg" alt="FB"></a></li>
+          <li><a href="{{ metadata.twitter }}" target="_blank" rel="noreferrer"><img src="/static/ui-img/icon-tw.svg" alt="TW"></a></li>
         </ul>
 
         <div class="partners">

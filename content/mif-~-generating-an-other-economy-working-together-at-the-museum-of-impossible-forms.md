@@ -5,7 +5,7 @@ subtitle: in 'How To Work Together?', Impossible Reader 02, (pub.) Museum of
   Impossible Forms
 layout: layouts/content.njk
 tags: publication
-pubdate: June 10, 2021 12:00 AM
+pubdate: March 15, 2021 12:00 AM
 unlisted: "false"
 hero: /static/img-d/kontula.jpeg
 shortdesc: This text is written as a contribution for the **Impossible Reader,

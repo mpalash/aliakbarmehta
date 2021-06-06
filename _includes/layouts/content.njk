@@ -63,8 +63,8 @@ layout: layouts/base.njk
         <div class="full-content">{{ section.data.layoutContent | safe }}</div>
         {% if section.data.summary and section.data.content %}
           <a href="#" class="toggle-section" data-title="{{ section.data.title.split('~').slice(-1)[0] | trim | slugify }}">
-            <span class="more"></span>
-            <span class="less" style="display: none;"></span>
+            <span class="more">More</span>
+            <span class="less">Less</span>
           </a>
         {% endif %}
       </section>
