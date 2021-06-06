@@ -3,7 +3,8 @@ title: To Err is Human
 subtitle: Mänttä Kuvataideviikot, curated by Anna Ruth, Mänttä, Jyväskulä, FI
 layout: layouts/content.njk
 tags: group exhibition
-pubdate: "2021"
+pubdate: June 13, 2021 10:46 PM
+unlisted: "false"
 hero: /static/img/maantta-exhibition-logo.png
 summary: ""
 ---
