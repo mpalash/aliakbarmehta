@@ -16,15 +16,9 @@ summary: >-
   <br/>
 parent: Central Park Archives
 children:
-  - "CPA ~ Central Park Archives: Access, commons and networks of care"
-  - Central ~ Central Park Archives, announcement
-  - CPA ~ Central Park Archives - workshops
-  - CPA ~  Central Park Archives sound walk
-  - CPA ~ Rehearsing Hospitalities Companion 2 Readings with Annet Dekker, and
-    Susanna Ånäs and Ali Akbar Mehta
-  - "CPA ~ Mehta & Ånäs: Keskuspuisto-arkistot"
-  - CPA ~ Central Park Archives (Process)
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dCxyFHkOxlE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 The event includes short thematic tours of the archive's initial collections by m-cult (**Minna Tarkka** and **Iida Nissinen**), an unmoderated conversation between its artists **Ali Akbar Mehta** and **Susanna** **Ånäs,** and a moderated conversation with **Annet Dekker.**
 
 > \
