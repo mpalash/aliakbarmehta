@@ -13,10 +13,6 @@ summary: >-
 
   <br/>
 parent: Central Park Archives
-<<<<<<< HEAD:content-raw/cpa-~-central-park-archives-access-commons-and-networks-of-care.md
-=======
-children:
->>>>>>> f12684267df64f13b946996c681b9ade51eb9177:content/cpa-~-central-park-archives-access-commons-and-networks-of-care.md
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dCxyFHkOxlE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
