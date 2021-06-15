@@ -84,4 +84,4 @@ Special characters: !"#$%&'()*+,./:;<=>?@[\]^``{|}~
 
 - Multiple paragraph breaks
 - OG
-- Search and Sitemap
+- Search
