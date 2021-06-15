@@ -7,8 +7,6 @@ pubdate: May 27, 2021 9:34 AM
 unlisted: "false"
 hero: /static/img/ali-akbar-mehta-rh-cpa-spring-03-2021.jpg
 summary: >-
-  ![](/static/img/ali-akbar-mehta-rh-cpa-spring-03-2021.jpg)
-
 
   M-cult hosts an event with artists, researchers and activists to discuss notions of access within contexts of urban spaces and online resources. How to think about care, commoning and governance in these hybrid networks of social, ecological and digital?
 
