@@ -6,7 +6,7 @@ layout: layouts/content.njk
 tags: publication
 pubdate: May 1, 2020 12:00 AM
 unlisted: "false"
-hero: /static/img/walkin-the-portal_publication-cover_walkin-studios_2020.jpg
+hero: /static/img-d/walkin-the-portal_publication-cover_walkin-studios_2020.jpg
 summary: >-
   > ## “How can this process \[of sharing data] be democratised? How can we
   create a system that does not function as a one-way stream of information
@@ -17,10 +17,10 @@ summary: >-
 
 
 
-  ![](/static/img/walkin-the-portal_publication-cover_walkin-studios_2020.jpg)
+  ![](/static/img-d/walkin-the-portal_publication-cover_walkin-studios_2020.jpg)
 
 
-  ![](/static/img/ali-akbar-mehta-walkinstudios-quote-2020.jpg)
+  ![](/static/img-d/ali-akbar-mehta-walkinstudios-quote-2020.jpg)
 
 
 
@@ -50,7 +50,7 @@ summary: >-
 
   <br/>
 ---
-![](/static/img/ali-akbar-mehta_installation-view-is-there-a-room-with-just-a-colour-myymala2-helsinki-2020.jpg)
+![](/static/img-d/ali-akbar-mehta_installation-view-is-there-a-room-with-just-a-colour-myymala2-helsinki-2020.jpg)
 
 **VC: Hi Ali. Good to see you after a long time.** 
 

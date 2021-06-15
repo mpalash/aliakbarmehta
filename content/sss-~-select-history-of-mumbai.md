@@ -5,7 +5,7 @@ tags: resource
 pubdate: "2014"
 unlisted: "true"
 summary: |-
-  ![](/static/img/research-text_mazgaon-history-wall-text.jpg)
+  ![](/static/img-d/research-text_mazgaon-history-wall-text.jpg)
 
   A select history of Mumbai through the lens of Mazgaon:
 parent: "SITE : STAGE : STRUCTURE"

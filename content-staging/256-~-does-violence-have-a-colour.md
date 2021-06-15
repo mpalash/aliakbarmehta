@@ -6,6 +6,6 @@ tags: press
 pubdate: '2017'
 parent: '256 Million Colours of Violence'
 ---
-![](/static/img/midday_256millcov.jpg)
+![](/static/img-d/midday_256millcov.jpg)
 
 Read [here](https://www.mid-day.com/articles/violence-colour-mumbai-event-perception-versova-lifestyle-news/18091170)

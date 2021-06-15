@@ -5,11 +5,11 @@ layout: content
 tags: curatorial project
 pubdate: November 17, 2019 12:00 AM
 unlisted: "false"
-hero: /static/img/network-effects_2019.jpg
+hero: /static/img-d/network-effects_2019.jpg
 shortdesc: "***Network Effects*** is an international exhibition confronting the
   political, ecological, and psychological effects of today's online world."
 summary: >-
-  ![](/static/img/network-effects_2019.jpg)
+  ![](/static/img-d/network-effects_2019.jpg)
 
 
   ***Network Effects*** is an international exhibition confronting the political, ecological, and psychological effects of today's online world. The projects investigate the online landscape of propaganda, profiling, and cyberwars, making visible the algorithmic manipulation of our experience and environment.

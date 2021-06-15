@@ -83,8 +83,5 @@ CMS, you can reach out in the [Netlify CMS Gitter](https://gitter.im/netlify/net
 Special characters: !"#$%&'()*+,./:;<=>?@[\]^``{|}~
 
 - Multiple paragraph breaks
-- CV
 - OG
-- Mobile
 - Search and Sitemap
-- LFS

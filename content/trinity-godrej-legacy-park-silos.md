@@ -4,7 +4,7 @@ subtitle: Public Project at Godrej One, Mumbai, India
 layout: layouts/content.njk
 tags: past project
 pubdate: '2015'
-hero: /static/img/hero-image.jpg
+hero: /static/img-d/hero-image.jpg
 children:
   - 'TRINITY ~ TRINITY: Past, Present, and Future'
   - 'TRINITY ~ TRINITY: Godrej Legacy Park silos'

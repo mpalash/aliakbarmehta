@@ -7,13 +7,13 @@ layout: content
 tags: publication
 pubdate: March 23, 2021 12:00 AM
 unlisted: "false"
-hero: /static/img/kirjasto-archive-box.jpg
+hero: /static/img-d/kirjasto-archive-box.jpg
 shortdesc: "**Kirjasto/ Library** does not formally announce a thematic drive at
   its outset, but situates itself within an abstract idea ‘archiving’, or of
   what a collection, library, or an archive could be."
 summary: ""
 ---
-![](/static/img/_d4a6851.jpg)
+![](/static/img-d/_d4a6851.jpg)
 
 > Walking into the gallery space of Forum Box during the exhibition Kirjasto/Library (11.12.2020 – 3.1.2021), one is greeted by multiple expanses of the processual and procedural – a methodically arranged exhibition sections drawings, a grid of paintings, imprints, technical metadata, index cards of conversations, logs, videos, scrolls of automatic writing, soundscapes, as well as collected and found objects (both revealed and hidden).
 >

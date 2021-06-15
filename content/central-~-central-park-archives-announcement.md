@@ -4,9 +4,9 @@ subtitle: local/online residency w/ mcult, Helsinki
 layout: layouts/content.njk
 tags: residency
 pubdate: "2020"
-hero: /static/img/ali_cpa_maunula_map_2020_bw-surround.jpg
+hero: /static/img-d/ali_cpa_maunula_map_2020_bw-surround.jpg
 summary: >-
-  ![](/static/img/ali_cpa_maunula_map_2020_bw-surround.jpg)
+  ![](/static/img-d/ali_cpa_maunula_map_2020_bw-surround.jpg)
 
 
   Central Park Archives is a project exploring practices of collaborative archiving together with communities and residents of Maunula. The long-term project is inaugurated in Spring 2020 as a local/online residency with **Susanna Ånäs** and **Ali Akbar Mehta**, who have an artistic practice dealing with archives and the commons.

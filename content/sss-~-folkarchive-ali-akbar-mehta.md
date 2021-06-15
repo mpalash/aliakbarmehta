@@ -6,9 +6,9 @@ subtitle: >-
 layout: layouts/content.njk
 tags: artist talk
 pubdate: '2014'
-hero: /static/img/bdl-conversation-facebook-cover.jpg
+hero: /static/img-d/bdl-conversation-facebook-cover.jpg
 parent: 'SITE : STAGE : STRUCTURE'
 ---
 An artist talk and presentation about Site : Stage Structure, and a subsequent conversation between Artist Ali Akbar Mehta, curator and director of Clark House Initiative Sumesh Sharma, and writer Latika Gupta.
 
-![](/static/img/bdl-conversation-facebook-invite.jpg)
+![](/static/img-d/bdl-conversation-facebook-invite.jpg)

@@ -4,7 +4,7 @@ subtitle: launch of the prototype interface
 layout: layouts/content.njk
 tags: group exhibition
 pubdate: "2020"
-hero: /static/img/central-park-archives-sound-walk-forest-path_photojaimeculebro.jpg
+hero: /static/img-d/central-park-archives-sound-walk-forest-path_photojaimeculebro.jpg
 summary: >-
   The **pilot phase** of *Central Park Archives* culminated with a launch of the
   interface and a curated walk that demonstrated the workings of the website
@@ -19,7 +19,7 @@ parent: Central Park Archives
 ---
 The first collections include *Allotment Stories*, *Flying Squirrel Mating Games*, *General Plan 2050 Protests*, and a selection of *Maunulan Sanomat* newspaper stories about the Central Park. The collections of sounds and photographs were edited by **Kalle Kuisma**, **Iida Nissinen**, and **Minna Tarkka** with contributions from **Susanna Pitkänen** and **Antti Viren**. Further material will continue to be processed and added to later editions of the interface.
 
-![](/static/img/screenshot-of-the-interface_mobile.jpg)
+![](/static/img-d/screenshot-of-the-interface_mobile.jpg)
 
 *Event details:*
 

@@ -6,10 +6,10 @@ layout: layouts/content.njk
 tags: publication
 pubdate: February 15, 2021 11:35 AM
 unlisted: "false"
-hero: /static/img/cultural-production-and-racism-2021.jpg
+hero: /static/img-d/cultural-production-and-racism-2021.jpg
 parent: Museum of Impossible Forms
 ---
-![](/static/img/cultural-production-and-racism-2021.jpg)
+![](/static/img-d/cultural-production-and-racism-2021.jpg)
 
 Essay written in collaboration with Marianne Savallampi, for [Racism, Power and Resistance](https://www.gaudeamus.fi/rasismivaltajavastarinta/ "Permalink to Suvi Keskinen, Minna Seikkula & Faith Mkwesha (eds.): Racism, Power and Resistance (4/2021)") (in Finnish)
 

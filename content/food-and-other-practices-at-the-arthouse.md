@@ -6,7 +6,7 @@ layout: layouts/content.njk
 tags: publication
 pubdate: "2018"
 unlisted: "false"
-hero: /static/img/food-journal-book-cover.jpg
+hero: /static/img-d/food-journal-book-cover.jpg
 parent: ""
 children: []
 ---

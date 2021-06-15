@@ -4,7 +4,7 @@ layout: layouts/content.njk
 tags: artwork
 pubdate: "2017"
 unlisted: "true"
-hero: /static/img/Ali Akbar Mehta_Purgatory edit_02.jpg
+hero: /static/img-d/Ali%20Akbar%20Mehta_Purgatory%20edit_02.jpg
 summary: >-
   **Purgatory Edit** (working title) is an experimental cinematic experience. 
 
@@ -22,14 +22,14 @@ parent: " Purgatory Edit"
 ---
 
 
-![](/static/img/ali-akbar-mehta-purgatory-edit-01.jpg)
-![](/static/img/ali-akbar-mehta-purgatory-edit-02.jpg)
-![](/static/img/ali-akbar-mehta-purgatory-edit-03.jpg)
-![](/static/img/ali-akbar-mehta-purgatory-edit-04.jpg)
-![](/static/img/ali-akbar-mehta-purgatory-edit-05.jpg)
-![](/static/img/ali-akbar-mehta-purgatory-edit-06.jpg)
-![](/static/img/ali-akbar-mehta-purgatory-edit-07.jpg)
-![](/static/img/ali-akbar-mehta-purgatory-edit-08.jpg)
-![](/static/img/ali-akbar-mehta-purgatory-edit-09.jpg)
-![](/static/img/ali-akbar-mehta-purgatory-edit-11.jpg)
-![](/static/img/ali-akbar-mehta-purgatory-edit-12.jpg)
+![](/static/img-d/ali-akbar-mehta-purgatory-edit-01.jpg)
+![](/static/img-d/ali-akbar-mehta-purgatory-edit-02.jpg)
+![](/static/img-d/ali-akbar-mehta-purgatory-edit-03.jpg)
+![](/static/img-d/ali-akbar-mehta-purgatory-edit-04.jpg)
+![](/static/img-d/ali-akbar-mehta-purgatory-edit-05.jpg)
+![](/static/img-d/ali-akbar-mehta-purgatory-edit-06.jpg)
+![](/static/img-d/ali-akbar-mehta-purgatory-edit-07.jpg)
+![](/static/img-d/ali-akbar-mehta-purgatory-edit-08.jpg)
+![](/static/img-d/ali-akbar-mehta-purgatory-edit-09.jpg)
+![](/static/img-d/ali-akbar-mehta-purgatory-edit-11.jpg)
+![](/static/img-d/ali-akbar-mehta-purgatory-edit-12.jpg)

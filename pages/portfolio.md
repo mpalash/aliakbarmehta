@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.njk
+permalink: /portfolio-2021/
 title: Portfolio
-permalink: /portfolio2021
 ---
 
 

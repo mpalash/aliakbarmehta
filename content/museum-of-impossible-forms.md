@@ -5,14 +5,12 @@ layout: layouts/content.njk
 tags: curatorial project
 pubdate: "2016"
 unlisted: "false"
-hero: /static/img/m-if-poster.jpg
+hero: /static/img-d/m-if-poster.jpg
 summary: >-
-  I’m a co-founder of the **[Museum of Impossible
-  Forms](https://museumofimpossibleforms.org/)** – an anti-racist, queer
-  feminist cultural centre – located in Kontula, Helsinki.
+  I’m a co-founder of the **[Museum of Impossible Forms](https://museumofimpossibleforms.org/)** – an anti-racist, queer feminist cultural centre – located in Kontula, Helsinki.
 
 
-  Along with Marianne Savallampi, I was its co-Artistic Director from 2018-2020. Together, we have been a team "responsible for managing M{if}’s multilingual library and its ongoing archive, as well as the overall programming – including curating workshops and events, making coffee, maintaining the space and its day-to-day functioning, liaising with invited artists and performers, offering technical and documentation support, as well as managing finances and accounts”. 
+  Along with Marianne Savallampi, I was its co-Artistic Director from 2018-2020. Together, we have been a team "responsible for managing M{if}’s multilingual library and its ongoing archive, as well as the overall programming – including curating workshops and events, making coffee, maintaining the space and its day-to-day functioning, liaising with invited artists and performers, offering technical and documentation support, as well as managing finances and accounts”.
 
 
   In short, the co-Artistic Directorship is a position of work that cuts through multiple strata of infrastructural praxis, and as such, is a consolidated set of roles that normally (within an institutional setting) would be distributed through a hierarchical framework. Through multi-layered, recurrent work, we have aimed to create a space and ethos that facilitates the conditions for making significant interventions through cinema, performance, music, spoken word, visual arts, and activism based practices, discourses, and pedagogies.

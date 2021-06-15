@@ -6,7 +6,7 @@ subtitle: Rehearsing Hospitalities Companion 2, (ed.) Yvonne Billimore and Jussi
 layout: layouts/content.njk
 tags: publication
 pubdate: "2020"
-hero: /static/img/rehearsing-hospitalities-ii.jpg
+hero: /static/img-d/rehearsing-hospitalities-ii.jpg
 summary: >-
   
 
@@ -15,7 +15,7 @@ summary: >-
   <br/><br/>
 
 
-  ![](/static/img/rehearsing-hospitalities-ii.jpg)
+  ![](/static/img-d/rehearsing-hospitalities-ii.jpg)
 
 
   <br/><br/>

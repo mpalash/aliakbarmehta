@@ -3,13 +3,13 @@ title: Tasher Desh
 layout: layouts/content.njk
 tags: artwork
 pubdate: "2013"
-hero: /static/img/ali-akbar-mehta_tasher-desh_painted-with-text.jpg
+hero: /static/img-d/ali-akbar-mehta_tasher-desh_painted-with-text.jpg
 parent: Planktonian People
 children:
   - Tasher ~ Tagore Lost and Found
 ---
-![Tasher Desh (Kingdom of Cards), 2012, Lenticular and Vinyl print on archival board, 88x114 cm / 57x92 cm](/static/img/ali-akbar-mehta_tasher-desh_painted-with-text.jpg)
-![](/static/img/ali-akbar-mehta_tasher-desh_original-with-text.jpg)
+![Tasher Desh (Kingdom of Cards), 2012, Lenticular and Vinyl print on archival board, 88x114 cm / 57x92 cm](/static/img-d/ali-akbar-mehta_tasher-desh_painted-with-text.jpg)
+![](/static/img-d/ali-akbar-mehta_tasher-desh_original-with-text.jpg)
 
 Tagore was inspired by Alice in Wonderland and Western opera when he wrote the dance opera Tasher Desh - a satirical portrayal of a society ruled by strict conventions and a veiled criticism of the society he lived in.
 

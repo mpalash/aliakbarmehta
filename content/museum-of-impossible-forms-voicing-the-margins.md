@@ -7,9 +7,9 @@ layout: layouts/content.njk
 tags: publication
 pubdate: "2021"
 unlisted: "false"
-hero: /static/img/ali-akbar-mehta-marginaaleista-museoihin-vastapaino-2021.jpg
+hero: /static/img-d/ali-akbar-mehta-marginaaleista-museoihin-vastapaino-2021.jpg
 summary: >-
-  ![](/static/img/ali-akbar-mehta-marginaaleista-museoihin-vastapaino-2021.jpg)
+  ![](/static/img-d/ali-akbar-mehta-marginaaleista-museoihin-vastapaino-2021.jpg)
 
 
   > *What constitutes the Margins? And how do we calculate with any precise method the marginality of any lived experience?*

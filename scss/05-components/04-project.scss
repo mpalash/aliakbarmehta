@@ -56,7 +56,7 @@
     list-style-type: '-  ';
   }
   figure {
-    margin: 0;
+    margin: var(--s-m) 0;
     width: 100%;
     grid-column: 1/-1;
   }

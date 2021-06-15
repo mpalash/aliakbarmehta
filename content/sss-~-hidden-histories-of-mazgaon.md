@@ -3,18 +3,18 @@ title: sss ~ Hidden Histories of Mazgoan
 layout: layouts/content.njk
 tags: resource
 pubdate: "2014"
-hero: /static/img/mazgaon-docks.jpg
+hero: /static/img-d/mazgaon-docks.jpg
 summary: >-
   
-  ![](/static/img/mazgaon-docks.jpg)
+  ![](/static/img-d/mazgaon-docks.jpg)
 
   'Hidden Histories of Mazgoan' are the accumulated research notes and trivia, gathered through online research, interviews, and conversations with local historians and residents.
 parent: "SITE : STAGE : STRUCTURE"
 ---
 ## Mazgaon and Wadibunder
 
-![Pine Building, 2012](/static/img/pine-building.jpg)
-![Bhaucha Dhakka, 2012](/static/img/bhaucha-dhakka.jpg)
+![Pine Building, 2012](/static/img-d/pine-building.jpg)
+![Bhaucha Dhakka, 2012](/static/img-d/bhaucha-dhakka.jpg)
 
 The word Mazagaon has been derived from the Sanskrit Matsya Gram, meaning fishing village. The original inhabitants were speculated to be tribals of Agari (salt-workers) and Koli (fishermen) tribes. However, folk etymology derives Mazagaon from the Marathi Maza Gaon, meaning my village. Another etymological claim suggests Portuguese origin, with the name borrowed from a city and fort of Mazagão in Morocco (now El Jadida) established by Portuguese in the beginning of the 16th century who totally evacuated to Brazil in 1769
 
@@ -30,7 +30,7 @@ Nearby lie the famous Mazagaon Docks, famed as a site of shipbuilding since the 
 
 ## Mazgaon Docks
 
-![Mazgaon Crane, 2012](/static/img/yellow-crane.jpg)
+![Mazgaon Crane, 2012](/static/img-d/yellow-crane.jpg)
 
 “These are the Docks on one side. It used to be Mahindra and Mohammed: J.C. Mahindra and K.C. Mahindra joined forces with Ghulam Mohammed and started Mahindra & Mohammed as a steel company in Mumbai. Two years later, India won its independence, Ghulam Mohammed left the company to become Pakistan’s first finance minister, and the Mahindra brothers ignited the company’s enduring growth with their decision to manufacture Willys jeeps in Mumbai. Soon, the company’s name changed to Mahindra & Mahindra…”
 
@@ -45,7 +45,7 @@ Main activities are ship building, ship repairs and fabrication of offshore stru
 
 ## Hasanabad
 
-![Hasanabad, 2013](/static/img/hasanabad.jpg)
+![Hasanabad, 2013](/static/img-d/hasanabad.jpg)
 
 Hasanabad or Shah Hasan Ali’s Maqbara or Mausoleum is the resting place of 46th Imam – Aga Khan I, Imam of the Nizari Ismailite sect of the Shiite Muslims, circa 1884, Mazagaon.
 
@@ -56,7 +56,7 @@ This marble mausoleum took a full three years to build and the minaret is said t
 
 ## Portuguese Bungalow:
 
-![Portuguese Bungalow, 2013](/static/img/portuguese-bungalow.jpg)
+![Portuguese Bungalow, 2013](/static/img-d/portuguese-bungalow.jpg)
 
 The first Portuguese settlers were the Jesuits, who established a church in the 16th century. Notwithstanding their claim, in 1572 the King of Portugal granted the island in perpetuity to the de Souza e Lima family, from whom the D’Souzas of Mumbai trace their descent. When the Portuguese ceded the island to the British, there was a well-established population of Roman Catholics, mainly fishermen. Most were Hindu converts, although Eurasians were not uncommon. Some black African slaves brought by the Portuguese, known as Kaffirs, had also entered the ethnic mix. Some of their traditional wooden houses can still be seen, and are now protected heritage structures.
 
@@ -65,7 +65,7 @@ This site refers to one of the only four remaining original examples of Portugue
 
 ## Mathar Pacady Lane
 
-![Mathar Pacady Lane, 2012](/static/img/anthony-s-rest.jpg)
+![Mathar Pacady Lane, 2012](/static/img-d/anthony-s-rest.jpg)
 
 Tucked away in a quiet corner of the concrete jungle is Matharpacady (pacadi means village in Marathi). Back in the early 1900, this quaint little pocket, in the heart of Mazagoan, was called Saiba Gulli as 90 per cent of the residents were Catholics. It has survived the ravages of time and today is close to disintegrating following the nexus between local politicians and the builder lobby that wants to construct apartment blocks here.
 
@@ -96,7 +96,7 @@ When construction pits were excavated, electricity and water supply were cut off
 
 ## Mathar Pacady Oart Holy Cross Oratory
 
-![Mathar Pacady Oart Holy Cross Oratory, 2012](/static/img/matharpacady-oratory.jpg)
+![Mathar Pacady Oart Holy Cross Oratory, 2012](/static/img-d/matharpacady-oratory.jpg)
 
 The 125-year chapel, Mathar Pacady Oart Holy Cross Oratory, stands tall. The feast of St Rock is celebrated here every year on May 1.
 
@@ -129,7 +129,7 @@ There was one train they had which started from Apollo Bunder, where you got off
 
 ## Koli House
 
-![Koli House, 2013](/static/img/vaity-house.jpg)
+![Koli House, 2013](/static/img-d/vaity-house.jpg)
 
 Kolbhat, Palva Bunder, Dongri, Mazgaon, Naigaum and Worli were among the islands the Kolis gave their names to. Kolbhat was distorted to Colaba; Palva Bunder became Apollo Bunder. The temple to Mumbadevi in Dongri gave rise to the name of the city. One of the smaller islands near Colaba, variously called Old Man’s Island and Old Woman’s Island, was a distortion of the Arab name Al-Omani, given for the same fishermen who ranged as far away as the gulf of Oman.
 
@@ -152,14 +152,14 @@ The development of the modern city slowly marginalised these people of the sea. 
 
 ## Mazgaon Gardens
 
-![Mazgaon Gardens, 2012](/static/img/mazgaon-garden.jpg)
+![Mazgaon Gardens, 2012](/static/img-d/mazgaon-garden.jpg)
 
 The Joseph Baptista Gardens, locally known as the Mazagaon Gardens, is a 1.5 acres (0.6 ha) park in south Mumbai in Mazagaon.\[1] It lies atop a hill, the Bhandarwada Hill, and offers a panoramic view of the Mumbai harbour and the southern business district of the city. Beneath the gardens is a water reservoir, constructed by the second Municipal Commissioner of Bombay, John Hay Grant between 1880–1884. The gardens are located behind the Dockyard Road railway station, at an altitude of 32 metres (105 ft). Shortly after India’s independence in 1947, the gardens, was named after Joseph Baptista, an Indian freedom activist.
 
 
 ## Old Gloria Church Cross in BPT Area
 
-![Old Gloria Church Cross, 2013](/static/img/old-gloria-cross.jpg)
+![Old Gloria Church Cross, 2013](/static/img-d/old-gloria-cross.jpg)
 
 The original Gloria church, Nossa Senhora da Glória, was built in 1632 from a donation by the de Souza family. It was destroyed in 1911, being replaced two years later by a new Gothic church of the same name built a opposite the Byculla Railway Station, a kilometer away. When a Church is shifted, The Cross is replaced. So what remains to commemorate the original location of the Old Church is the original Cross, revered and maintained by a small Catholic community living in Bob’s Bungalow in front of the Site.
 

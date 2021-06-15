@@ -5,7 +5,7 @@ layout: layouts/content.njk
 tags: curatorial project
 pubdate: "2018"
 unlisted: "false"
-hero: /static/img/cyber-archive_hero-image.jpg
+hero: /static/img-d/cyber-archive_hero-image.jpg
 shortdesc: "**Cyber Archive** is a curatorial framework inviting the reader to
   consider the Archive, as a narrative, a repository, a state-tool, a fact, a
   fiction, both as a site and trope for artistic inquiry and art production; to
@@ -13,23 +13,21 @@ shortdesc: "**Cyber Archive** is a curatorial framework inviting the reader to
   artist/curator/archivist, a combination of a historian, researcher, performer,
   participant, interventionist, collaborator, urban denizen, and spy."
 children:
-  - Archives as Witness, Archives as Knowledge Systems
-  - Archives as Knowledge Systems
-  - cyber ~ Glitchverse
-  - Cyber ~ A Cyber Archive of Questions
-  - "Cyber ~ To Not Wait for the Archive: Home and Labour mired in the
-    complications of Invisibalisation"
-  - "Cyber ~ Cyber Archive: Archiving as a sustainable counter-hegemonic
-    practice"
-  - cyber ~ Cyber Archives
-  - "Congratulations, the Space is invaded: Now What?"
-  - "Archiving: Histories in the Present"
+  - "Cyber ~ Cyber Archive: Being and Doing Knowledge"
+  - "Cyber ~ Cyber Archive: Questions"
   - "participate ~ Cyborg Archives: Can Archives Speak?"
   - Cyber ~ Archiving Knowledge, sculptures
   - "participate ~ Cyborg Archives: GarbageInGarbageOut, TIFA Working Studios,
     Pune"
-  - "Cyber ~ Cyber Archive: Questions"
-  - "Cyber ~ Cyber Archive: Being and Doing Knowledge"
+  - "Cyber ~ Cyber Archive: Archiving as a sustainable counter-hegemonic
+    practice"
+  - "Archiving: Histories in the Present"
+  - "Congratulations, the Space is invaded: Now What?"
+  - cyber ~ Cyber Archives
+  - "Cyber ~ To Not Wait for the Archive: Home and Labour mired in the
+    complications of Invisibalisation"
+  - Cyber ~ A Cyber Archive of Questions
+  - cyber ~ Glitchverse
   - "Cyber ~  External Evaluation of Ali Akbar Mehta/ Master’s Thesis – Cyber
     Archive: Being and Doing Knowledge"
   - Cyber ~ Bibliography and other Reading

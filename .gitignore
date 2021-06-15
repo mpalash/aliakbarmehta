@@ -5,8 +5,4 @@ _site
 .DS_Store
 _site/
 node_modules/
-static/images-l/*
-static/images-m/*
-static/images-s/*
-static/images-xs/*
 package-lock.json

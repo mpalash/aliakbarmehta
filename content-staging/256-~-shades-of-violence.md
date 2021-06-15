@@ -6,5 +6,5 @@ tags: press
 pubdate: '2017'
 parent: '256 Million Colours of violence'
 ---
-![](/static/img/hindustan-times_256millcov_02.jpg)
+![](/static/img-d/hindustan-times_256millcov_02.jpg)
 Read [here](https://www.hindustantimes.com/art-and-culture/an-art-project-explores-the-association-between-colours-and-violence/story-LPrlyH49KN9d2zjDwjlImO.html)

@@ -5,7 +5,7 @@ subtitle: Decolonial Dreaming, curated by Sonya Lindfors, Urbanapa X Ateneum
 layout: layouts/content.njk
 tags: artist talk
 pubdate: "2017"
-hero: /static/img/fb_img_1539579471797.jpg
+hero: /static/img-d/fb_img_1539579471797.jpg
 ---
 ## Possible and Impossible Futures
 

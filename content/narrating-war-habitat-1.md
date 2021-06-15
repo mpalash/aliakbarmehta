@@ -5,10 +5,10 @@ layout: content
 tags: performance
 pubdate: February 13, 2021 12:00 AM
 unlisted: "false"
-hero: /static/img/narrating-war-still-from-konepaja-2021.jpg
+hero: /static/img-d/narrating-war-still-from-konepaja-2021.jpg
 parent: "WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs"
 ---
-![from L to R: Hatz Lambo Varia Sjöström and Ali Akbar Mehta, Konepaja, Helsinki, 2021](/static/img/narrating-war-still-from-konepaja-2021.jpg)
+![from L to R: Hatz Lambo Varia Sjöström and Ali Akbar Mehta, Konepaja, Helsinki, 2021](/static/img-d/narrating-war-still-from-konepaja-2021.jpg)
 
 **Narrating WAR / HABITAT 1** (*I see so much when I am dying*), performance by Ali Akbar Mehta and varialambo, as part of the **[RECIPROCITIES](https://aliakbarmehta.com/content/war-room-echo-regarding-the-pain-of-other-cyborgs#narrating-war-vantaan-taidemuseo-artsi)** group exhibition curated by Christine Langenauer at Vantaa Taidemuseo ARTSI, Vaanta Finland. 
 
