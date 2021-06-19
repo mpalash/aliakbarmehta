@@ -2,7 +2,7 @@
 title: Network Effects
 subtitle: exhibition and parallel events, Oodi Central Library, Helsinki, FI
 layout: content
-tags: curatorial project
+tags: curatorial work
 pubdate: November 17, 2019 12:00 AM
 unlisted: "false"
 hero: /static/img-d/network-effects_2019.jpg

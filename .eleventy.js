@@ -148,7 +148,7 @@ module.exports = function(eleventyConfig) {
   collection => collection
     .getAll()
     .filter(function(item){
-      const tagsList = ['curatorial project'];
+      const tagsList = ['curatorial work'];
       const tags = item.data.tags;
       return _.intersection(tags, tagsList).length > 0 && item.data.unlisted != "true";
     })

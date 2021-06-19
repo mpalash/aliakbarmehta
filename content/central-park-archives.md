@@ -9,7 +9,7 @@ hero: /static/img-d/keskuspuistoarkistot-pilotti-kayttoliittyma.png
 parent: Central Park Archives
 children:
   - "CPA ~ Central Park Archives: Access, commons and networks of care"
-  - Central ~ Central Park Archives, announcement
+  - Central ~ Maunula Commons
   - CPA ~ Central Park Archives - workshops
   - CPA ~  Central Park Archives sound walk
   - CPA ~ Rehearsing Hospitalities Companion 2 Readings with Annet Dekker, and

@@ -2,7 +2,7 @@
 title: SOAK
 subtitle: Curated by by Ali Akbar Mehta, Martina Adela, and Ru Zham
 layout: layouts/content.njk
-tags: curatorial project
+tags: curatorial work
 pubdate: "2016"
 hero: /static/img/received_10153360436612014.jpeg
 parent: To Participate in the Archive
