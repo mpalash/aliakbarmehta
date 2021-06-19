@@ -7,13 +7,9 @@ pubdate: "2011"
 unlisted: "false"
 hero: /static/img/Ali Akbar Mehta_Harlequin Series; Soliloquies in the Garden of
   Earthly Delights, 2011, Archival print on Hahnemuhle paper, 229 x 152 cm.jpg
-parent: The Superhero Series
+parent: Ballad of the War that Never Was, and Other Basterdised Myths
 children:
-  - Superheroes ~ Of Men and Supermen
-  - Superheroes ~ Visual Disobedience
-  - Superheroes ~ Ali Akbar Mehta in conversation with Namrata Bhawnani
-  - Superheroes ~ The League of Superheroes
-  - Superheroes ~ Equilibrium
+  -
 ---
 ![](/static/img/Ali Akbar Mehta_Harlequin Series; Soliloquies in the Garden of Earthly Delights, 2011, Archival print on Hahnemuhle paper, 229 x 152 cm.jpg)
 
