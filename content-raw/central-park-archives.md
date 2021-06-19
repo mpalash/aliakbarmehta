@@ -10,10 +10,10 @@ parent: Central Park Archives
 children:
   - "CPA ~ Central Park Archives: Access, commons and networks of care"
   - Central ~ Maunula Commons
-  - CPA ~ Central Park Archives - workshops
-  - CPA ~  Central Park Archives sound walk
   - CPA ~ Rehearsing Hospitalities Companion 2 Readings with Annet Dekker, and
     Susanna Ånäs and Ali Akbar Mehta
+  - CPA ~  Central Park Archives sound walk
+  - CPA ~ Central Park Archives - workshops
   - "CPA ~ Mehta & Ånäs: Keskuspuisto-arkistot"
   - CPA ~ Central Park Archives (Process)
 ---
