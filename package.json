@@ -10,6 +10,7 @@
     "watch:eleventy": "npx eleventy --serve",
     "watch:sass": "npm run sass -- --watch",
     "serve": "npm run fixpaths && npm-run-all sass --parallel watch:*",
+    "dev": "npm-run-all sass --parallel watch:*",
     "debug": "DEBUG=* npx eleventy"
   },
   "repository": {

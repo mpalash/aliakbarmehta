@@ -55,7 +55,7 @@ collections: # A list of collections the CMS should be able to edit
       - label: "Tags"
         name: "tags"
         widget: "select"
-        multiple: false
+        multiple: true
         options: ["ongoing project","past project","curatorial project","artwork","group exhibition","solo exhibition","performance","press","publication","unpublished","residency","resource","artist talk","teaching","text","video"]
       - label: "Date"
         name: "pubdate"
