@@ -1,7 +1,7 @@
 ---
 title: Gathering for Rehearsing Hospitalities Spring 2021
 layout: content
-tags: curatorial project
+tags: curatorial work
 pubdate: April 19, 2021 12:00 AM
 unlisted: "true"
 parent: Museum of Impossible Forms

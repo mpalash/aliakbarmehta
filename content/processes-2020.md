@@ -2,7 +2,7 @@
 title: "Helsinki International Artist Program: Summer Residency 2020"
 subtitle: Supporting Curator, Helsinki International Artist Program (HIAP), Helsinki, FI
 layout: content
-tags: curatorial project
+tags: curatorial work
 pubdate: May 15, 2020 12:00 AM
 unlisted: "false"
 hero: /static/img-d/hiap-logo-stacked-narrow-4x-800x525.png

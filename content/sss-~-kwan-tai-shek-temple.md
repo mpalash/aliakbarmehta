@@ -3,7 +3,7 @@ title: sss ~ Kwan Tai Shek Temple
 layout: layouts/content.njk
 tags: artwork
 pubdate: "2014"
-unlisted: "false"
+unlisted: "true"
 hero: /static/img-d/7.-ali-akbar-mehta-site-stage-structure-2014-©-aliakbarmehta.jpg
 summary: >-
   <iframe width="560" height="315"

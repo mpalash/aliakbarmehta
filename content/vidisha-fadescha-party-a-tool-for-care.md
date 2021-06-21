@@ -4,7 +4,7 @@ subtitle: curated by Ali Akbar Mehta, part of Today Is Our Tomorrow Festival,
   organized by PUBLICS, in collaboration with Museum of Impossible Forms,
   Helsinki, FI
 layout: content
-tags: curatorial project
+tags: curatorial work
 pubdate: September 12, 2019 12:00 AM
 unlisted: "false"
 hero: /static/img-d/vidisha-fadescha-party-a-tool-for-care-2019.png

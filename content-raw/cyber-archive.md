@@ -2,7 +2,7 @@
 title: Cyber Archive
 subtitle: ""
 layout: layouts/content.njk
-tags: curatorial project
+tags: curatorial work
 pubdate: "2018"
 unlisted: "false"
 hero: /static/img/cyber-archive_hero-image.jpg
