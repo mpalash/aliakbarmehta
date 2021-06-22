@@ -4,8 +4,10 @@ title: "Mif ~ Generating (An)Other Economy: Working Together at the Museum of
 subtitle: in 'How To Work Together?', Impossible Reader 02, (pub.) Museum of
   Impossible Forms
 layout: layouts/content.njk
-tags: publication
-pubdate: March 15, 2021 12:00 AM
+tags:
+  - publication
+  - text
+pubdate: August 1, 2021 12:28 AM
 unlisted: "false"
 hero: /static/img/kontula.jpeg
 shortdesc: This text is written as a contribution for the **Impossible Reader,
