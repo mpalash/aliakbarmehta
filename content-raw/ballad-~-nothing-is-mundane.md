@@ -4,7 +4,7 @@ subtitle: Interview by Jayeeta Mazumdar, for DNA India
 layout: layouts/content.njk
 tags:
   - press
-pubdate: "2011"
+pubdate: September 20, 2011 12:00 AM
 unlisted: "false"
 hero: /static/img/Ali Akbar Mehta_Harlequin Series; Soliloquies in the Garden of
   Earthly Delights, 2011, Archival print on Hahnemuhle paper, 229 x 152 cm.jpg
