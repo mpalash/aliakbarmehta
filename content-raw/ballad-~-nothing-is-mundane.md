@@ -2,14 +2,14 @@
 title: Ballad ~ Nothing is Mundane
 subtitle: Interview by Jayeeta Mazumdar, for DNA India
 layout: layouts/content.njk
-tags: press
+tags:
+  - press
 pubdate: "2011"
 unlisted: "false"
 hero: /static/img/Ali Akbar Mehta_Harlequin Series; Soliloquies in the Garden of
   Earthly Delights, 2011, Archival print on Hahnemuhle paper, 229 x 152 cm.jpg
 parent: Ballad of the War that Never Was, and Other Basterdised Myths
-children:
-  -
+children: []
 ---
 ![](/static/img/Ali Akbar Mehta_Harlequin Series; Soliloquies in the Garden of Earthly Delights, 2011, Archival print on Hahnemuhle paper, 229 x 152 cm.jpg)
 
