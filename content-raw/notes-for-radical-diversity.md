@@ -16,23 +16,8 @@ summary: >-
 
 
   *The following is the prepared text of the talk and workshop:*
-parent: ‘Museum of Impossible Forms’
-children:
-  - plank ~ Small is Beautiful – II
-  - We are such stuff As dreams are made on
-  - Purgatory
-  - Placebo Singers
-  - Goodbye Blue Sky
-  - Inhale / Exhale
-  - Inhale / Exhale
-  - Inhale / Exhale
-  - Inhale / Exhale
-  - Ballad ~ Drawings
-  - Inhale / Exhale
-  - Purgatory
-  - Goodbye Blue Sky
-  - Inhale / Exhale
-  - Inhale / Exhale
+parent: Museum of Impossible Forms
+children: []
 ---
 Thank you for inviting me to talk about Diversity.
 
