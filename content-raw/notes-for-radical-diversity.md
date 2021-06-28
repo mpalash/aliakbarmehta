@@ -2,8 +2,11 @@
 title: Notes for Radical Diversity
 subtitle: Helsinki Art Museum (HAM), Helsinki
 layout: layouts/content.njk
-tags: artist talk
+tags:
+  - artist talk
+  - unpublished
 pubdate: "2019"
+unlisted: "false"
 hero: /static/img/museum-of-impossible-forms.png
 summary: >-
   In November 2019, I was invited to talk about diversity within the art and
