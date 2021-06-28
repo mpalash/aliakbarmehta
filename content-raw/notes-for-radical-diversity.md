@@ -18,21 +18,20 @@ summary: >-
   *The following is the prepared text of the talk and workshop:*
 parent: ‘Museum of Impossible Forms’
 children:
-  - To Whomsoever it May Concern
   - plank ~ Small is Beautiful – II
-  - plank ~ Unselfed Extended
-  - Tasher Desh
-  - Placebo Singers
-  - Superheroes ~ The League of Superheroes
-  - The Superhero Series
-  - Ballad ~ The Harlequin Series
-  - Ballad ~ Everybody's a Jester
-  - Ballad ~ Paintings
-  - Ballad ~ Drawings
   - We are such stuff As dreams are made on
   - Purgatory
-  - Rebirth
+  - Placebo Singers
   - Goodbye Blue Sky
+  - Inhale / Exhale
+  - Inhale / Exhale
+  - Inhale / Exhale
+  - Inhale / Exhale
+  - Ballad ~ Drawings
+  - Inhale / Exhale
+  - Purgatory
+  - Goodbye Blue Sky
+  - Inhale / Exhale
   - Inhale / Exhale
 ---
 Thank you for inviting me to talk about Diversity.
