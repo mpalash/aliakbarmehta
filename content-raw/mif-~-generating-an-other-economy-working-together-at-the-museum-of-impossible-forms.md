@@ -6,7 +6,6 @@ subtitle: in 'How To Work Together?', Impossible Reader 02, (pub.) Museum of
 layout: layouts/content.njk
 tags:
   - publication
-  - text
 pubdate: August 1, 2021 12:28 AM
 unlisted: "false"
 hero: /static/img/kontula.jpeg
