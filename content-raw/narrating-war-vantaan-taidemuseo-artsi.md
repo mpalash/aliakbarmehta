@@ -17,6 +17,8 @@ parent: "WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs"
 ![](/static/img/narrating-war-vantaan-taidemuseo-artsi.png)
 ![](/static/img/_63a7776.jpg)
 ![](/static/img/_63a7832.jpg)
+![](/static/img/_63a7925.jpg)
+![](/static/img/ali-akbar-mehta_-narrating-war_scrolls.jpg)
 
 <br/>
 
