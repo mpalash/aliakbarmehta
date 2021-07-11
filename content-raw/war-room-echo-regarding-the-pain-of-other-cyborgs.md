@@ -18,8 +18,8 @@ children:
   - "wre ~ Foreword: Artist's Note"
   - wre ~ War List CODEX
   - wre ~ Why is an archive of wars required?
-  - WRE ~ The war that is coming is not the last one, part I
-  - To Err is Human
+  - "WRE ~ The war that is coming is not the last one, part I"
+  - wre ~ To Err is Human
   - wre ~ Narrating War
   - wre ~ Narrating WAR / HABITAT 1
   - wre ~ Narrating WAR, Vantaan Taidemuseo ARTSI
