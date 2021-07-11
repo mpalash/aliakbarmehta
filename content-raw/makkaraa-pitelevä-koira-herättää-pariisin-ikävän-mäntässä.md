@@ -9,5 +9,5 @@ unlisted: "false"
 summary: |-
   ![](/static/img/helsinki-sanomat-mantta-review-sini-mononen-2021-.webp)
 
-  Read more [here](https://www.hs.fi/kulttuuri/art-2000008036396.html)
+  Read [here](https://www.hs.fi/kulttuuri/art-2000008036396.html)
 ---
