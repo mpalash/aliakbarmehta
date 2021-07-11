@@ -5,8 +5,8 @@ title: "Artists Vidha Saumya and Ali Akbar Mehta: Recipes come together from
 subtitle: Episode 9, Podcast for Aikakoneita ja utopioita (Time-machines and utopias)
 layout: content
 tags:
-  - resource
   - artist talk
+  - press
 pubdate: July 1, 2021 12:00 AM
 unlisted: "false"
 hero: /static/img/time-machine-and-utopias-exhibition-website-homepage.png
