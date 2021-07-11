@@ -4,6 +4,7 @@ subtitle: Onoma Summer Exhibition 2020, curated by Taru Elfving, Fiskars Village
 layout: layouts/content.njk
 tags: group exhibition
 pubdate: "2020"
+unlisted: "false"
 hero: /static/img-d/meadow-image.jpg
 summary: >-
   ![](/static/img-d/meadow-image.jpg)
@@ -18,7 +19,7 @@ summary: >-
   ## Open daily 11am-6pm
 
 
-  > The exhibition Meadow sets out to address the planetary ecological urgencies through a dialogue between contemporary art, craft, design and environmental research.
+  > The exhibition [Meadow](https://onoma.fi/en/meadow/#more-5783) sets out to address the planetary ecological urgencies through a dialogue between contemporary art, craft, design and environmental research.
 parent: Ballad of the Lost Utopian Meadow
 ---
 > In the meadow, the slow evolution of the distinctive local ecosystem meets the accelerating planetary changes in all their unpredictability. In the meadow, the cycles of life and death of different species are entangled with the transformations of human cultures and technologies. The time of the meadow is not solely that of the past, even though Finnish meadow ecosystems of today mainly survive due to conservation efforts. Rather, the meadow intertwines the diverse rhythms of change: the geological deep time, the acute decrease in biodiversity, the myriad natural-cultural histories of symbiotic relations between humans and other animals, plants, microbes, and minerals.
@@ -29,4 +30,6 @@ parent: Ballad of the Lost Utopian Meadow
 >
 > Starting from these local coordinates, the exhibition Meadow sets out to address the planetary ecological urgencies through a dialogue between contemporary art, craft, design and environmental research. The exhibition takes place both in the Copper Smithy, the permanent exhibition venue, and as site-specific interventions in and around Fiskars Village, accompanied by a multidisciplinary public programme. Its production has been guided by the commitment to develop ecologically and socially sustainable exhibition practices.
 
-Meadow is produced by The Cooperative of Artisans, Designers and Artists in Fiskars ONOMA and curated by Taru Elfving.
+###### <br/>
+
+##### Meadow is produced by The Cooperative of Artisans, Designers and Artists in Fiskars ONOMA and curated by Taru Elfving.

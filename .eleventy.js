@@ -117,7 +117,7 @@ module.exports = function(eleventyConfig) {
   // only content in the `content/` directory
   eleventyConfig.addCollection('content', function(collection) {
     return collection.getAll().sort(function(a, b){return Date.parse(a.data.pubdate) - Date.parse(b.data.pubdate)}).filter(function(item) {
-      return item.inputPath.match(/^\.\/content-staging\//) !== null;
+      return item.inputPath.match(/^\.\/content\//) !== null;
     });
   });
   eleventyConfig.addLayoutAlias('content', 'layouts/content.njk');

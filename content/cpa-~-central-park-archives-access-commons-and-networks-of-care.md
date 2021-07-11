@@ -7,6 +7,11 @@ pubdate: May 27, 2021 9:34 AM
 unlisted: "false"
 hero: /static/img-d/ali-akbar-mehta-rh-cpa-spring-03-2021.jpg
 summary: >-
+  <iframe width="560" height="315"
+  src="https://www.youtube.com/embed/dCxyFHkOxlE" title="YouTube video player"
+  frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+  encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
   M-cult hosts an event with artists, researchers and activists to discuss notions of access within contexts of urban spaces and online resources. How to think about care, commoning and governance in these hybrid networks of social, ecological and digital?
 
@@ -14,8 +19,6 @@ summary: >-
   <br/>
 parent: Central Park Archives
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dCxyFHkOxlE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 The event includes short thematic tours of the archive's initial collections by m-cult (**Minna Tarkka** and **Iida Nissinen**), an unmoderated conversation between its artists **Ali Akbar Mehta** and **Susanna** **Ånäs,** and a moderated conversation with **Annet Dekker.**
 
 > \
