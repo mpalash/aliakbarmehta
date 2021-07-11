@@ -6,7 +6,7 @@ tags:
   - group exhibition
 pubdate: June 13, 2021 12:00 AM
 unlisted: "false"
-hero: ""
+hero: /static/img/maantta-exhibition-logo.png
 summary: |-
   
 
