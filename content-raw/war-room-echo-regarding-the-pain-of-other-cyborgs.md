@@ -2,7 +2,8 @@
 title: "WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs"
 subtitle: A collaborative Transmedia Performance-Installation and Research Project
 layout: layouts/content.njk
-tags: ongoing project
+tags:
+  - ongoing project
 pubdate: February 12, 2021 12:00 AM
 unlisted: "false"
 hero: /static/img/ali-akbar-mehta_simulated-view-of-performance_wre-proposal.jpg
@@ -17,6 +18,8 @@ children:
   - "wre ~ Foreword: Artist's Note"
   - wre ~ War List CODEX
   - wre ~ Why is an archive of wars required?
+  - WRE ~ The war that is coming is not the last one, part I
+  - To Err is Human
   - wre ~ Narrating War
   - wre ~ Narrating WAR / HABITAT 1
   - wre ~ Narrating WAR, Vantaan Taidemuseo ARTSI
