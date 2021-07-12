@@ -21,8 +21,8 @@ children:
   - WRE ~ The war that is coming is not the last one, part I
   - wre ~ To Err is Human
   - wre ~ Reciprocities
+  - wre ~ Narrating War
   - wre ~ Narrating WAR / HABITAT 1
-  - wre ~ Narrating WAR, Vantaan Taidemuseo ARTSI
   - "wre ~ Narrating WAR, New Performance Turku, Festival 2020: Mobilities"
   - "wre ~ Narrating WAR, New Performance Turku, Festival 2020: Mobilities"
   - wre ~ Narrating WAR, Mymmälä2, Helsinki
