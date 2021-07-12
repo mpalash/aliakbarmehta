@@ -1,12 +1,12 @@
 ---
-title: wre ~ Narrating WAR, Vantaan Taidemuseo ARTSI
-subtitle: Performance by Ali Akbar Mehta and varialambo, part of Reciprocities
-  exhibition curated by Christine Langnauer
+title: wre ~ Reciprocities
+subtitle: exhibition curated by Christine Langnauer, Vantaan Taidemuseo ARTSI, Vantaa
 layout: content
-tags: group exhibition
+tags:
+  - group exhibition
 pubdate: February 11, 2021 12:00 AM
 unlisted: "false"
-hero: /static/img-d/narrating-war-vantaan-taidemuseo-artsi.png
+hero: /static/img-d/_63a7776.jpg
 summary: ""
 parent: "WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs"
 ---
@@ -17,6 +17,10 @@ parent: "WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs"
 ![](/static/img-d/narrating-war-vantaan-taidemuseo-artsi.png)
 ![](/static/img-d/_63a7776.jpg)
 ![](/static/img-d/_63a7832.jpg)
+![](/static/img-d/_63a7925.jpg)
+![](/static/img-d/ali-akbar-mehta_-narrating-war_scrolls.jpg)
+
+Narrating WAR / HABITAT 1, performance-Installation by Ali Akbar Mehta and varialambo, 2021
 
 <br/>
 

@@ -2,13 +2,17 @@
 title: Ballad of the Lost Utopian Meadow
 subtitle: A Finnish Food Archive
 layout: layouts/content.njk
-tags: ongoing project
+tags:
+  - ongoing project
 pubdate: March 15, 2020 12:00 AM
 unlisted: "false"
 hero: /static/img-d/blum_ig.jpg
 parent: Ballad of the Lost Utopian Meadow
 children:
   - "BLUM ~ Time Machine and Utopias: Longing, Living conditions, Homecoming"
+  - "Artists Vidha Saumya and Ali Akbar Mehta: Recipes come together from
+    resources - and we are not living in the world where everybody have the same
+    resources"
   - Lost ~ The Meadow
   - The art of making art seen through the lens of serving and consuming food
 ---

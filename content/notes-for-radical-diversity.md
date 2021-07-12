@@ -2,8 +2,11 @@
 title: Notes for Radical Diversity
 subtitle: Helsinki Art Museum (HAM), Helsinki
 layout: layouts/content.njk
-tags: artist talk
+tags:
+  - artist talk
+  - unpublished
 pubdate: "2019"
+unlisted: "false"
 hero: /static/img-d/museum-of-impossible-forms.png
 summary: >-
   In November 2019, I was invited to talk about diversity within the art and
@@ -13,24 +16,8 @@ summary: >-
 
 
   *The following is the prepared text of the talk and workshop:*
-parent: ‘Museum of Impossible Forms’
-children:
-  - To Whomsoever it May Concern
-  - plank ~ Small is Beautiful – II
-  - plank ~ Unselfed Extended
-  - Tasher Desh
-  - Placebo Singers
-  - Superheroes ~ The League of Superheroes
-  - The Superhero Series
-  - Ballad ~ The Harlequin Series
-  - Ballad ~ Everybody's a Jester
-  - Ballad ~ Paintings
-  - Ballad ~ Drawings
-  - We are such stuff As dreams are made on
-  - Purgatory
-  - Rebirth
-  - Goodbye Blue Sky
-  - Inhale / Exhale
+parent: Museum of Impossible Forms
+children: []
 ---
 Thank you for inviting me to talk about Diversity.
 

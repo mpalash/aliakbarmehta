@@ -6,11 +6,11 @@ tags:
   - group exhibition
 pubdate: June 13, 2021 12:00 AM
 unlisted: "false"
-hero: /static/img/mantta-art-festival-xxv.png
+hero: /static/img-d/mantta-art-festival-xxv.png
 summary: >-
 
 
-  ![](/static/img/ali-akbar-mehta-and-anna-ruth-mantta-2021.jpg)
+  ![](/static/img-d/ali-akbar-mehta-and-anna-ruth-mantta-2021.jpg)
 parent: "WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs"
 ---
 

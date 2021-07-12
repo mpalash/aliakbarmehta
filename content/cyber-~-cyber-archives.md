@@ -3,7 +3,8 @@ title: cyber ~ Cyber Archives
 subtitle: Die Schule der Archaeutopie in conversation with Ali Akbar Mehta,
   Universität für angewandte Kunst Wien, Vienna, 2018
 layout: layouts/content.njk
-tags: artist talk
+tags:
+  - artist talk
 pubdate: November 21, 2018 12:00 AM
 unlisted: "false"
 hero: /static/img-d/cyber-archives-die-schule-der-archaeutopie-in-conversation-with-ali-akbar-mehta-universität-für-angewandte-kunst-wien-vienna-2018_02.jpg
@@ -19,7 +20,6 @@ summary: >-
 
 
   ![](/static/img-d/cyber-archives-talk.jpg)
-
 
   ![](/static/img-d/cyber-archives-die-schule-der-archaeutopie-in-conversation-with-ali-akbar-mehta-universität-für-angewandte-kunst-wien-vienna-2018_01.jpg)
 parent: Cyber Archive
