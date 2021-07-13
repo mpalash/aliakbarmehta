@@ -6,6 +6,7 @@ tags:
   - press
 pubdate: June 18, 2021 12:00 AM
 unlisted: "false"
+hero: /static/img/helsinki-sanomat-mantta-review-sini-mononen-2021-.webp
 summary: ""
 ---
 ![](/static/img/helsinki-sanomat-mantta-review-sini-mononen-2021-.webp)
