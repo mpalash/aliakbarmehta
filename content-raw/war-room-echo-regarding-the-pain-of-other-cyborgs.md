@@ -24,8 +24,9 @@ children:
   - wre ~ Narrating War
   - wre ~ Narrating WAR / HABITAT 1
   - "wre ~ Narrating WAR, New Performance Turku, Festival 2020: Mobilities"
-  - "wre ~ Narrating WAR, New Performance Turku, Festival 2020: Mobilities"
   - wre ~ Narrating WAR, Mymmälä2, Helsinki
+  - "participate ~ Cyborg Archives: WAR • ROOM • ECHO, TIFA Working Studios,
+    Pune"
   - wre ~ Narrating War, Experimental Event VI – La Torre de Babel, Pori
   - wre ~ Narrating War, Carinarnica, Nova Gorcia
   - wre ~ Narrating War, Museum of Impossible Forms, Helsinki
@@ -34,6 +35,7 @@ children:
   - wre ~ Narrating War, Pispala, Tampere
   - wre ~ Narrating War, Kallio Public Library, Helsinki
   - wre ~ null.void
+  - Makkaraa pitelevä koira herättää Pariisin-ikävän Mäntässä
   - WRE ~ Ali Akbar Mehta & varialambo - Narrating WAR / Habitat 1
   - "wre ~ Narrating War / Pripovedovanje vojne: Ali Akbar Mehta "
 ---
