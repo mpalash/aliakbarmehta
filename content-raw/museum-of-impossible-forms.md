@@ -4,7 +4,6 @@ subtitle: Cultural Centre, Kontula, Helsinki
 layout: layouts/content.njk
 tags:
   - curatorial project
-  - ongoing project
 pubdate: "2016"
 unlisted: "false"
 hero: /static/img/m-if-poster.jpg
