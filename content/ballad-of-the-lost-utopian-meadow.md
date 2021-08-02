@@ -10,6 +10,7 @@ hero: /static/img-d/blum_ig.jpg
 parent: Ballad of the Lost Utopian Meadow
 children:
   - "BLUM ~ Time Machine and Utopias: Longing, Living conditions, Homecoming"
+  - Environmental anxiety is a phenomenon more than a hundred years old
   - "Artists Vidha Saumya and Ali Akbar Mehta: Recipes come together from
     resources - and we are not living in the world where everybody have the same
     resources"

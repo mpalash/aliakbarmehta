@@ -1,10 +1,12 @@
 ---
-layout: layouts/content.njk
 title: poems ~ A body split in two
+layout: layouts/content.njk
+tags:
+  - text
+pubdate: "2010"
+unlisted: "true"
+summary: ""
 parent: Poems
-tags: text
-pubdate: '2010'
-summary: ''
 ---
 A Body split in two, not mine anymore
 
