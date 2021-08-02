@@ -1,0 +1,31 @@
+{% set years = ["2021"] %}
+{% set list = [] %}
+<span hidden>
+{% for year in years %}
+  {% for content in collections.content %}
+    {% if year in content.data.pubdate and content.data.hero %}
+      {{ list.push('"' + content.data.hero | replace('/img-d/','/img-l/') + '"')}}
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+</span>
+
+<div id="splash" class="splash" data-images="[{{ list }}]">
+  {% for year in years %}
+    {% for content in collections.content %}
+      {% if year in content.data.pubdate and content.data.hero %}
+        <img
+          srcset="{{ content.data.hero | replace('/img-d/','/img-l/') }} 800w"
+          src="{{ content.data.hero | replace('/img-d/','/img-l/') }}"
+          alt="{{ content.data.title }}"
+          loading="lazy"
+          onload="this.classList.add('imgLoaded')" />
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+</div>
+<script src="/static/js/three.js"></script>
+<script src="/static/js/dat-gui.js"></script>
+<script src="/static/js/gsap.js"></script>
+<script src="/static/js/sketch.js"></script>
+<script src="/static/js/click.js"></script>

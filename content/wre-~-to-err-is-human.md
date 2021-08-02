@@ -7,13 +7,10 @@ tags:
 pubdate: June 13, 2021 12:00 AM
 unlisted: "false"
 hero: /static/img-d/mantta-art-festival-xxv.png
-summary: >-
-
-
-  ![](/static/img-d/ali-akbar-mehta-and-anna-ruth-mantta-2021.jpg)
+summary: ""
 parent: "WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs"
 ---
-
+![](/static/img-d/ali-akbar-mehta-and-anna-ruth-mantta-2021.jpg)
 
 The Mänttä Art Festival’s artist list and theme for 2020 have been published. This year’s exhibition title is **Erehtyminen / To Err Is Human**.
 
@@ -21,10 +18,10 @@ The Mänttä Art Festival’s artist list and theme for 2020 have been published
 >
 > ### –  Anna Ruth, curator, Mantta Art Festival, 2021
 
-
-
 Read more on the Festival website [here](https://www.mantankuvataideviikot.fi/en/index.htm)
 
+<br/>
 
+#### Interview and conversation with curator Anna Ruth:
 
 <iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Fkuvataideviikot%2Fvideos%2F247941250125322%2F&show_text=true&width=267&t=0" width="267" height="591" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>

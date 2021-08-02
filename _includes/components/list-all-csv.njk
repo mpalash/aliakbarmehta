@@ -1,0 +1,6 @@
+<div class="all-projects">
+  <div>"id";"title";"subtitle";"tags";"pubdate";"unlisted";"parent";"children";"hero";"shortdesc";"summary";"body"</div>
+  {% for c in collections.content %}
+    <div>"{{ loop.index }}";"{{ c.data.title }}";"{{ c.data.subtitle }}";[{{ c.data.tags }}];"{{ c.data.pubdate }}";"{{ c.data.unlisted }}";[{{ c.data.parent }}];[{{ c.data.children }}];"{{ c.data.hero }}";"{{ c.data.shortdesc }}";"{{ c.data.summary | replace(';','\\;') }}";"{{ c.data.body | replace(';','\\;') }}"</div>
+  {% endfor %}
+</div>
