@@ -1,5 +1,5 @@
 ---
-title: Decolonisation in the arts and cultutral fields
+title: Decolonisation in the arts and cultural fields
 subtitle: "In conversation with the Finnish institutes, moderated by Monica Guthao, "
 layout: content
 tags:
