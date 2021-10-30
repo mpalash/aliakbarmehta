@@ -8,6 +8,7 @@ tags:
   - curatorial project
 pubdate: October 7, 2021 12:00 AM
 unlisted: "false"
+hero: /static/img/museum-of-impossible-forms.png
 summary: >-
   The Impossible Reader is a biennial book series published by the Museum of
   Impossible Forms. The theme of the 2020 reader is **How to Work Together –
@@ -130,6 +131,7 @@ summary: >-
 
 
   <br/>
+parent: Museum of Impossible Forms
 ---
 <br/>
 
