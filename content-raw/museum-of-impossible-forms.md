@@ -1,6 +1,6 @@
 ---
 title: Museum of Impossible Forms
-subtitle: Cultural Centre, Kontula, Helsinki
+subtitle: ""
 layout: layouts/content.njk
 tags:
   - curatorial project
