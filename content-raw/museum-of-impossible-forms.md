@@ -4,7 +4,7 @@ subtitle: ""
 layout: layouts/content.njk
 tags:
   - curatorial project
-pubdate: January 1, 2016 12:00 AM
+pubdate: December 9, 2016 12:00 AM
 unlisted: "false"
 hero: /static/img/m-if-poster.jpg
 summary: >-
