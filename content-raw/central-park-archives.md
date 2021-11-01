@@ -2,12 +2,14 @@
 title: Central Park Archives
 subtitle: ""
 layout: layouts/content.njk
-tags: ongoing project
+tags:
+  - ongoing project
 pubdate: July 15, 2020 12:00 AM
 unlisted: "false"
 hero: /static/img/keskuspuistoarkistot-pilotti-kayttoliittyma.png
 parent: Central Park Archives
 children:
+  - CPA ~ Central Park Archives, Maunulatalo
   - "CPA ~ Central Park Archives: Access, commons and networks of care"
   - CPA ~ Rehearsing Hospitalities Companion 2 Readings with Annet Dekker, and
     Susanna Ånäs and Ali Akbar Mehta
