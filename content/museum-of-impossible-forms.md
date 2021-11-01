@@ -18,8 +18,10 @@ summary: >-
 
   In short, the co-Artistic Directorship is a position of work that cuts through multiple strata of infrastructural praxis, and as such, is a consolidated set of roles that normally (within an institutional setting) would be distributed through a hierarchical framework. Through multi-layered, recurrent work, we have aimed to create a space and ethos that facilitates the conditions for making significant interventions through cinema, performance, music, spoken word, visual arts, and activism based practices, discourses, and pedagogies.
 children:
+  - Mif ~ How to work together? Extended notes on collaboration
   - "Mif ~ Generating (An)Other Economy: Working Together at the Museum of
     Impossible Forms"
+  - Mif ~ How to Work Together? Seeking Models of Solidarity and Alliance
   - "Museum of Impossible Forms: Voicing the Margins"
   - "Mif ~ Cultural production and racism: How to challenge racist structures"
   - The Shape of Museums to Come
