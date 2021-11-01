@@ -1,19 +1,19 @@
 ---
 title: Museum of Impossible Forms
-subtitle: Cultural Centre, Kontula, Helsinki
+subtitle: ""
 layout: layouts/content.njk
 tags:
   - curatorial project
-pubdate: January 1, 2016 12:00 AM
+pubdate: December 9, 2016 12:00 AM
 unlisted: "false"
 hero: /static/img-d/m-if-poster.jpg
 summary: >-
   I’m a co-founder of the **[Museum of Impossible
   Forms](https://museumofimpossibleforms.org/)** – an anti-racist, queer
-  feminist cultural centre – located in Kontula, Helsinki.
+  feminist cultural centre – located in Kontula, Helsinki.In 2018, I was appointed its co-Artistic Director along with Marianne Savallampi, for a period of two years, from 2019-2020.
 
 
-  Along with Marianne Savallampi, I was its co-Artistic Director from 2018-2020. Together, we have been a team "responsible for managing M{if}’s multilingual library and its ongoing archive, as well as the overall programming – including curating workshops and events, making coffee, maintaining the space and its day-to-day functioning, liaising with invited artists and performers, offering technical and documentation support, as well as managing finances and accounts”.
+  Together, we have been a team "responsible for managing M{if}’s multilingual library and its ongoing archive, as well as the overall programming – including curating workshops and events, making coffee, maintaining the space and its day-to-day functioning, liaising with invited artists and performers, offering technical and documentation support, as well as managing finances and accounts”.
 
 
   In short, the co-Artistic Directorship is a position of work that cuts through multiple strata of infrastructural praxis, and as such, is a consolidated set of roles that normally (within an institutional setting) would be distributed through a hierarchical framework. Through multi-layered, recurrent work, we have aimed to create a space and ethos that facilitates the conditions for making significant interventions through cinema, performance, music, spoken word, visual arts, and activism based practices, discourses, and pedagogies.
