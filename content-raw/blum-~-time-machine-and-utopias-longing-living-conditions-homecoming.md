@@ -16,7 +16,7 @@ summary: >-
   The **[Time Machines and Utopias](https://aikakoneitajautopioita.fi/)** is an exhibition series showcased in three museums, Tarvaspää, Ainola and Visavuori, which explore the museums’ possibilities to operate in our changing society. The exhibition is based on the topical theme of climate change intending to force a rethinking of our day-to-day choices on food, travel and housing.
 
 
-  As part of this exhibition, **‘The Ballad of the Lost Utopian Meadow’** by Vidha Saumya and Ali Akbar Mehta is presented as a studio-recorded sound work accessed via the project website, and installed video work, and as LIVE performances of the ballad, by *varialambo* (Varia Sjöström and Hatz Lambo), and  ‘Ruis’, an autoethnographic fiction about the history and life-cycle of rye written and performed by Joss Allen.
+  As part of this exhibition, **‘The Ballad of the Lost Utopian Meadow’** by Vidha Saumya and Ali Akbar Mehta is presented as a studio-recorded sound work accessed via the project website, and an installed audio-video work, and as LIVE performances of the ballad, by *varialambo* (Varia Sjöström and Hatz Lambo), and  ‘Ruis’, an autoethnographic fiction about the history and life-cycle of rye written and performed by Joss Allen.
 
 
   <br/>
