@@ -3,7 +3,7 @@ title: Decolonisation in the arts and cultural fields
 subtitle: In conversation with the Finnish institutes, moderated by Monica Guthao
 layout: content
 tags:
-  - teaching
+  - artist talk
 pubdate: October 13, 2021 12:00 AM
 unlisted: "false"
 hero: /static/img-d/decolonisation-in-the-arts-and-cultural-fields_2021.jpg

@@ -7,7 +7,7 @@ tags:
   - performance
 pubdate: February 11, 2021 12:00 AM
 unlisted: "false"
-hero: /static/img-d/_63a7776.jpg
+hero: /static/img-d/narrating-war-vantaan-taidemuseo-artsi.png
 summary: ""
 parent: "WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs"
 ---

@@ -3,7 +3,8 @@ title: "BLUM ~ Time Machine and Utopias: Longing, Living conditions, Homecoming"
 subtitle: "curated by Hanna Johansson, at the Ainola Museum, Visavuori Museum,
   and Tarvaspää Museum, FI "
 layout: content
-tags: group exhibition
+tags:
+  - group exhibition
 pubdate: May 8, 2021 12:00 AM
 unlisted: "false"
 hero: /static/img-d/time-machine-and-utopias-exhibition-website-homepage.png
@@ -15,13 +16,13 @@ summary: >-
   The **[Time Machines and Utopias](https://aikakoneitajautopioita.fi/)** is an exhibition series showcased in three museums, Tarvaspää, Ainola and Visavuori, which explore the museums’ possibilities to operate in our changing society. The exhibition is based on the topical theme of climate change intending to force a rethinking of our day-to-day choices on food, travel and housing.
 
 
-  As part of this exhibition, **‘The Ballad of the Lost Utopian Meadow’** by Vidha Saumya and Ali Akbar Mehta is presented, with a LIVE performance-singing of the ballad by varialambo (Varia Sjöström and Hatz Lambo) and a story-reading entitled ‘Ruis’ by Joss Allen, an autoethnographic fiction about the history and life-cycle of rye.
+  As part of this exhibition, **‘The Ballad of the Lost Utopian Meadow’** by Vidha Saumya and Ali Akbar Mehta is presented as a studio-recorded sound work accessed via the project website, and an installed audio-video work, and as LIVE performances of the ballad, by *varialambo* (Varia Sjöström and Hatz Lambo), and  ‘Ruis’, an autoethnographic fiction about the history and life-cycle of rye written and performed by Joss Allen.
 
 
   <br/>
 
 
-  Performance dates:
+  **Performance dates**
 
 
   > 22 August 2021 Visavuori 
@@ -35,14 +36,12 @@ summary: >-
   > 13 August 2021 Ainola
 
 
-  ##### Detailed information available on the Time Machine and Utpias website **[here](https://aikakoneitajautopioita.fi/)**, and in English **[here](https://aikakoneitajautopioita.fi/kieliversiot/english).**
+  <br/>Detailed information available on the Time Machine and Utpias website **[here](https://aikakoneitajautopioita.fi/)**, and in English **[here](https://aikakoneitajautopioita.fi/kieliversiot/english).**
 
 
-  <br/>
+  ##### <br/>
 parent: Ballad of the Lost Utopian Meadow
-children:
-  - The art of making art seen through the lens of serving and consuming food
-  - The art of making art seen through the lens of serving and consuming food
+children: []
 ---
 The exhibition in **Tarvaspää** focuses on travel and transport. The artist Akseli Gallen-Kallela’s (1865–1931) travels across oceans and to virgin forests open new perspectives on the reasons for travel and wanderlust. The exhibition transports the audience from Tyrvää in the 1880s to New Mexico in the 1920s with a visit in Old Rauma and snow-covered Konginkangas.
 
@@ -68,6 +67,4 @@ The exhibition is a project by a group of contemporary artists whose works of ar
 >
 > **Graphic Design** TSTO
 
-###### <br/>
-
-###### This exhibition project has been funded by The Finnish Cultural Foundation, under the Museum Vision grant, and by the Ministry of Education and Culture: special subsidy for artists’ exhibition fees.
+###### <br/>This exhibition project has been funded by The Finnish Cultural Foundation, under the Museum Vision grant, and by the Ministry of Education and Culture: special subsidy for artists’ exhibition fees.

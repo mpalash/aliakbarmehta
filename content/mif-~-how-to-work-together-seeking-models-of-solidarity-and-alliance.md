@@ -6,9 +6,10 @@ subtitle: Impossible Reader 2020, edited by Emily and Raine Aiava, conceived and
 layout: content
 tags:
   - curatorial project
+  - publication
 pubdate: October 7, 2021 12:00 AM
 unlisted: "false"
-hero: /static/img-d/museum-of-impossible-forms.png
+hero: /static/img-d/screenshot-2021-11-02-at-9.54.47.png
 summary: >-
   The Impossible Reader is a biennial book series published by the Museum of
   Impossible Forms. The theme of the 2020 reader is **How to Work Together –
