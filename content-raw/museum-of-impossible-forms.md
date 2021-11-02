@@ -3,14 +3,16 @@ title: Museum of Impossible Forms
 subtitle: ""
 layout: layouts/content.njk
 tags:
-  - curatorial project
+  - ongoing project
 pubdate: December 9, 2016 12:00 AM
 unlisted: "false"
 hero: /static/img/m-if-poster.jpg
 summary: >-
   I’m a co-founder of the **[Museum of Impossible
   Forms](https://museumofimpossibleforms.org/)** – an anti-racist, queer
-  feminist cultural centre – located in Kontula, Helsinki.In 2018, I was appointed its co-Artistic Director along with Marianne Savallampi, for a period of two years, from 2019-2020.
+  feminist cultural centre – located in Kontula, Helsinki.In 2018, I was
+  appointed its co-Artistic Director along with Marianne Savallampi, for a
+  period of two years, from 2019-2020.
 
 
   Together, we have been a team "responsible for managing M{if}’s multilingual library and its ongoing archive, as well as the overall programming – including curating workshops and events, making coffee, maintaining the space and its day-to-day functioning, liaising with invited artists and performers, offering technical and documentation support, as well as managing finances and accounts”.
@@ -36,8 +38,8 @@ children:
   - "Re-Musing the Museum: Part II"
   - "Locating: The Museum of Impossible Forms"
 ---
-In the Autumn of 2016, several artists, curators, philosophers, theorists and cultural workers attempted to respond to the gaping void of Independent and artist-run spaces within Helsinki. This collective, the [](https://museumofimpossibleforms.org/)**Museum of Impossible Forms** applied for a grant from Kone Foundation for funding to conceive, launch and run a space in Kontula, Helsinki. A decision to house ourselves in a space previously occupied by a Night School, allowed us to evolve from a space of exhibition to a space focusing on 'Alternate Pedagogy', and respond to the unmet needs of the City, where a space of and gathering of the subaltern may take place, without the toxic presence of prejudice and the overbearing sense of anxiety.
-
-**[Museum of Impossible Forms](https://museumofimpossibleforms.org/)**  (m{*if*}) is a cultural centre located in Kontula, East-Helsinki. For us the Museum is a space in flux – a contested space representing a contact zone, a space of unlearning, formulating identity constructs, norm-critical consciousness and critical thinking, already containing within it the potential for the *para museum*, the *counter museum*, the *anti museum*. ‘Impossible Forms’ are those that facilitate the process of transgressing the boundaries/borders between art, politics, practice, theory, the artist and the spectator.
-
-The core of the space is a library and an archive – real, imagined and embodied. Museum of Impossible Forms - M{*if*} was founded by an independent group of Helsinki artists/ curators/ philosophers/ activists/ pedagogists in spring 2017 as an antiracist and queer-feminist project, a heterogeneous space, and as an experimental and migrant form of expression. The Museum of Impossible Forms opens up a broad horizon through its political character, its accessibility and openness, its multilingual ***[library](https://museumofimpossibleforms.org/library)***, an ongoing ***[archive](https://museumofimpossibleforms.org/archives)***, and through its ***[workshops and events](https://museumofimpossibleforms.org/events)***.
+> In the Autumn of 2016, several artists, curators, philosophers, theorists and cultural workers attempted to respond to the gaping void of Independent and artist-run spaces within Helsinki. This collective, the [](https://museumofimpossibleforms.org/)**Museum of Impossible Forms** applied for a grant from Kone Foundation for funding to conceive, launch and run a space in Kontula, Helsinki. A decision to house ourselves in a space previously occupied by a Night School, allowed us to evolve from a space of exhibition to a space focusing on 'Alternate Pedagogy', and respond to the unmet needs of the City, where a space of and gathering of the subaltern may take place, without the toxic presence of prejudice and the overbearing sense of anxiety.
+>
+> **[Museum of Impossible Forms](https://museumofimpossibleforms.org/)**  (m{*if*}) is a cultural centre located in Kontula, East-Helsinki. For us the Museum is a space in flux – a contested space representing a contact zone, a space of unlearning, formulating identity constructs, norm-critical consciousness and critical thinking, already containing within it the potential for the *para museum*, the *counter museum*, the *anti museum*. ‘Impossible Forms’ are those that facilitate the process of transgressing the boundaries/borders between art, politics, practice, theory, the artist and the spectator.
+>
+> The core of the space is a library and an archive – real, imagined and embodied. Museum of Impossible Forms - M{*if*} was founded by an independent group of Helsinki artists/ curators/ philosophers/ activists/ pedagogists in spring 2017 as an antiracist and queer-feminist project, a heterogeneous space, and as an experimental and migrant form of expression. The Museum of Impossible Forms opens up a broad horizon through its political character, its accessibility and openness, its multilingual ***[library](https://museumofimpossibleforms.org/library)***, an ongoing ***[archive](https://museumofimpossibleforms.org/archives)***, and through its ***[workshops and events](https://museumofimpossibleforms.org/events)***.
