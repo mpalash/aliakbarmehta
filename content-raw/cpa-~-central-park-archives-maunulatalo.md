@@ -42,7 +42,7 @@ parent: Central Park Archives
 
 **Cartographies**\
 Map table - pin your observations!\
-Locative sound map interface, demo 2020  by Ali Akbar Mehta, Susanna Ånäs, Palash Mukhopadhyay
+Locative sound map interface, demo 2020 by Ali Akbar Mehta, Susanna Ånäs, Palash Mukhopadhyay
 
 ***Central Park Archives installation**\
 **August 10 - 14, 2021**\
