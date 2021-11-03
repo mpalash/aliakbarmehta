@@ -10,11 +10,12 @@ hero: /static/img-d/blum_ig.jpg
 parent: Ballad of the Lost Utopian Meadow
 children:
   - "BLUM ~ Time Machine and Utopias: Longing, Living conditions, Homecoming"
-  - Environmental anxiety is a phenomenon more than a hundred years old
+  - "BLUM ~ Ballad of the Lost Utopian Meadow: LIVE"
   - "Artists Vidha Saumya and Ali Akbar Mehta: Recipes come together from
     resources - and we are not living in the world where everybody have the same
     resources"
   - Lost ~ The Meadow
+  - Environmental anxiety is a phenomenon more than a hundred years old
   - The art of making art seen through the lens of serving and consuming food
 ---
 ['Ballad of the Lost Utopian Meadow'](https://www.thelostutopianmeadow.com/) is an archive of Finnish food. The project extends the metaphorical implications of what a meadow means to Finland within the contexts of ecological conservation, cultural significance, and as a site of contemporary co-existence.

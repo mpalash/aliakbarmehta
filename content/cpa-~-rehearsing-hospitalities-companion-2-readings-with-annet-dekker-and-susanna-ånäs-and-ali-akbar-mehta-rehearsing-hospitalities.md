@@ -3,14 +3,16 @@ title: CPA ~ Rehearsing Hospitalities Companion 2 Readings with Annet Dekker,
   and Susanna Ånäs and Ali Akbar Mehta
 subtitle: Rehearsing Hospitalities, Frame Contemporary Art Finland, Helsinki (online)
 layout: layouts/content.njk
-tags: artist talk
+tags:
+  - artist talk
 pubdate: "2020"
+unlisted: "false"
 hero: /static/img-d/rehearsing-hospitalities-companion-2-readings-with-annet-dekker-and-susanna-ånäs-and-ali-akbar-mehta.png
 summary: >-
   <iframe width="560" height="315"
-  src="https://www.youtube.com/embed/YUeC7AnDZDE" frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;
-  picture-in-picture" allowfullscreen></iframe>
+  src="https://www.youtube.com/embed/YUeC7AnDZDE?controls=0" title="YouTube
+  video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+  encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
   Welcome to **Rehearsing Hospitalities Companion 2 Readings** with Annet Dekker, and Central Park Archives artists Ali Akbar Mehta and Susanna Ånäs, hosted by the publication editors Yvonne Billimore and Jussi Koitela.
