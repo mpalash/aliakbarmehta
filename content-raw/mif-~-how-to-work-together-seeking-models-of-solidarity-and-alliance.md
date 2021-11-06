@@ -23,13 +23,37 @@ summary: >-
   citation ref: 
 
 
-  Impossible Reader 2020**, How to Work Together: Seeking models of solidarity and alliance**, edited by Aiava, Emily & Aiava, Raine. published by Museum of Impossible Forms, Helsinki, FI. 
+  Impossible Reader 2020**, How to Work Together: Seeking models of solidarity and alliance** 
+
+
+  Publication concept and Production
+
+
+  > *Ali Akbar Mehta & Marianne Savallampi*
+
+
+  Edited by 
+
+
+  > *Emily Aiava & Raine Aiava*
+
+
+  Publication coordinator & graphic design 
+
+
+  > *Zahrah Ehsan*
+
+
+  published by Museum of Impossible Forms, Helsinki, FI. 
+
+
+  <br/>
 
 
   **ISBN (print): 978-952-94-4840-1**
 
 
-  **ISBM (pdf):**  
+  **ISBM (pdf):**  **978-952-94-4841-8**
 
 
   **<br/>**
@@ -143,5 +167,7 @@ parent: Museum of Impossible Forms
 > In our work since 2019 and guided by our curatorial framework, ***An Atlas of Lost Beliefs: For Insurgents, Citizens, and Untitled Bodies***, the Museum of Impossible Forms have laid primary emphasis on collaborative working, either in sharing resources or simply offering the M{if} space. In 2019, approximately 35% of the events conducted were such collaborations or simply events that we hosted. Placing ourselves under these conditions not only allowed us to learn more, but it also allowed us to learn more diversely. It created for us the conditions to create a new series of ongoing events in directions we could not have anticipated. The Museum led us in directions of knowledges we didn’t know we needed to ask.
 >
 > Museum of Impossible Forms initiates the second volume of its Impossible Reader under this rubric, titled HOW TO WORK: Seeking models of solidarity and working In alliance.
+>
+> \- Ali Akbar Mehta
 
 .
