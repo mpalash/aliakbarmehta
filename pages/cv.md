@@ -28,7 +28,7 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 ## Select Work Experience
  
 2020 – ongoing
-:   Project curator, **PARTY OFFICE**, New Delhi, IN
+:   *Project curator*, **PARTY OFFICE**, New Delhi, IN
 
 2020
 :   *Supporting Curator*, [Helsinki International Artist Program](https://www.hiap.fi/) (HIAP), Helsinki, FI
