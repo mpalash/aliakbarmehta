@@ -6,7 +6,7 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
   is a Transmedia artist, curator, and researcher. Through a research-based
   practice, he creates immersive cyber archives that map narratives of history,
   memory, and identity constructs through a multifocal lens of violence,
-  conflict, and trauma. He is a founding member of **[Museum of Impossible
+  conflict, and trauma. He is a founding member of the **[Museum of Impossible
   Forms](https://museumofimpossibleforms.org/)** and was its co-Artistic
   Director (w/ Marianne Savallampi)from 2018-2020. He is currently a board
   member of **[Kiila ry](http://kiila.eu/)** and **[Frame Contemporary Art
@@ -27,8 +27,7 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 
 ## Select Work Experience
  
-
-2020 - ongoing
+2020 – ongoing
 :   *Project curator*, **PARTY OFFICE**, New Delhi, IN
 
 2020
@@ -54,13 +53,13 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 
 ## Memberships and Positions of Trust
 
-2021 - ongoing
+2021 – ongoing
 :   *Member*, **Catalysti**, Helsinki, FI
 
-2021 - 2024
+2021 – 2024
 :   *Board Member*, **Frame Contemporary Art Finland**, Helsinki, FI
 
-2021 - 2022
+2021 – 2022
 :   *Board Member*, **TKOK ry**, the supervising body of Museum of Impossible Forms, Helsinki, FI
 
 2021
@@ -72,10 +71,10 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 2019 – present
 :   *Board Member*, **[Kiila ry](http://kiila.eu/)**, Helsinki, FI
 
-2016 - ongoing
+2016 – ongoing
 :   *Founding member*, **Museum of Impossible Forms**, Helsinki, FI
 
-2016 - 2017
+2016 – 2017
 :   *Member*, **Third Space**, Helsinki, FI
 
 ## Solo Exhibitions
@@ -275,7 +274,7 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 *(upcoming)* 
 :   *Seminar*: **Educate-Agitate-Organise,** Museum of Impossible Forms, Helsinki, FI
 
-2021-22
+2021 – 2022
 :   *Project curator*: **Archives as Contemporary Object X**, Documenta (15), Kassel, DE
 
 2021
@@ -291,7 +290,7 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 :   *Peer Support:* **Anti-Caste Archive**, Party Office, New Delhi, IN
 
 2020 
-:   *Supporting Curator*: **In-Between**, HIAP Summer Residency 2020, Helsinki Internatonal Artist Programme (HIAP), Helsinki, FI
+:   *Supporting Curator*: **In-Between**, HIAP Summer Residency 2020, Helsinki International Artist Programme (HIAP), Helsinki, FI
 
 2019 
 :   *Programme Facilitator*: **Network Effects**, M-cult, Oodi Library, Helsinki, FI
@@ -345,7 +344,7 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 :   *Guest Speaker:* **Notes for Radical Diversity,** Helsinki Art Museum HAM, Helsinki
 
 2018 
-:   *Guest Speaker:* **Re:Musing the Museum, Part II**, Kiasma International Museum, Helsinki
+:   *Guest Speaker:* **Re: Musing the Museum, Part II**, Kiasma International Museum, Helsinki
 
 2018 
 :   *Guest Speaker:* **Cyber Archives**, Die Schule der Archaeutopie in conversation with Ali Akbar Mehta, Universität für angewandte Kunst Wien, Vienna
@@ -372,11 +371,11 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 :   *Guest Lecturer:* Whistling Woods International Institute of Film, communication and Media Arts
 
 2014 
-:   *Artist Talk:* **FOLKARCHIVE**, in conversation with Sumesh Sharma; moderated by Latika Gupta, Dr. Bhau Daji Lad City Museum, Mumbai
+:   *Artist Talk:* **FOLKARCHIVE**, in conversation with Sumesh Sharma; moderated by Latika Gupta, Dr Bhau Daji Lad City Museum, Mumbai
 
 ## Teaching / Lectures
 
-2021-22
+2021 – 2022
 :   *Workshop*: **Outlining actionable steps towards antiracism and building DEI (diversity, equity, and inclusion)**, a 5-part workshop series together with MAS working group, Ateneum Art Museum & Finnish National Gallery, Helsinki, FI
 
 2021 
@@ -520,4 +519,4 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 :   **State Art Prize** awarded to Museum of Impossible Forms, by the Ministry of Art and Culture, FI
 
 2019 
-:   **[Tutkijaliitto-palkinto](https://tutkijaliitto.fi/2019/12/09/tutkijaliiton-palkinnot-museum-of-impossible-forms-kulttuurikeskukselle-ja-ari-korhoselle/)**, awarded to Museum of Impossible Forms, by the Finnish Association of Researchers, FI
+:   [Tutkijaliitto-palkinto](https://tutkijaliitto.fi/2019/12/09/tutkijaliiton-palkinnot-museum-of-impossible-forms-kulttuurikeskukselle-ja-ari-korhoselle/), awarded to Museum of Impossible Forms, by the Finnish Association of Researchers, FI
