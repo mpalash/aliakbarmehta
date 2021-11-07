@@ -70,7 +70,7 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 :   *Co-Founder*, **MAS: Antiracism & DEI Consultancy**, Helsinki, FI
 
 2019 – present
-:   *Board Member*, **[Kiila ry](http://kiila.eu/)**, Helsinki, FI
+:   *Board Member*, **Kiila ry**, Helsinki, FI
 
 2016 – ongoing
 :   *Founding member*, **Museum of Impossible Forms**, Helsinki, FI
@@ -104,13 +104,13 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 :   **Narrating WAR**, Teesri Manzil, N. Delhi, IN
 
 2021
-:   **Ballad of the Lost Utopian Meadow**, a series of 3 performances in collaboration with Vidha Saumya, *varialambo*, and Joss Allen, as part of ‘Time Machine and Utopias: Longing, Living, Homecoming’, (cur.) Hanna Johansson, Ainola Museum, Visavuori Museum, and Tarvaspää Museum, FI 
+:   **Ballad of the Lost Utopian Meadow**, a series of 3 performances in collaboration with Vidha Saumya, *varialambo*, and Joss Allen, as part of ‘Time Machine and Utopias: Longing, Living, Homecoming’, curated by Hanna Johansson, Ainola Museum, Visavuori Museum, and Tarvaspää Museum, FI 
 
 2021
-:   **Narrating WAR / Habitat 1**, 4 performances in collaboration w/ varialambo, as part of ‘Reciprocities’, (cur.) Christine Langinauer, Vantaa Art Museum ARTSI, Vantaa, FI
+:   **Narrating WAR / Habitat 1**, 4 performances in collaboration w/ *varialambo*, as part of ‘Reciprocities’, curated by Christine Langinauer, Vantaa Art Museum ARTSI, Vantaa, FI
 
 2020
-:   **Narrating WAR**, New Performance Festival, Turku, FI
+:   **Narrating WAR**, MOBILITY, curated by Leena Kela, New Performance Festival, Turku, FI
 
 2020
 :   **Glitchverse**, [Souja/Shelter Festival 2020](http://suojashelter.tilda.ws/), curated by Lívia Nolasco-Rózsás, Ksenia Yurkova, Anastasia Vepreva, Helsinki (online)
@@ -119,7 +119,7 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 :   **Narrating WAR**, [Relational Figures](http://www.myymala2.com/?page_id=4932), Myymälä2, Helsinki, FI
 
 2019
-:   **direct-contact//feedback**, w/ Vidha Saumya, [Pixelache Festival 2019: Breaking the fifth Wall](https://breaking5thwall.pixelache.ac/festivals/breaking5thwall/pixelache-festival-2019-breaking-the-fifth-wall-press-release), Helsinki, FI
+:   **direct-contact// feedback**, w/ Vidha Saumya, [Pixelache Festival 2019: Breaking the fifth Wall](https://breaking5thwall.pixelache.ac/festivals/breaking5thwall/pixelache-festival-2019-breaking-the-fifth-wall-press-release), Helsinki, FI
 
 2018
 :   **Narrating WAR**, [Experimental Event VI – La Torre de Babel](https://research.aalto.fi/en/publications/the-experimental-event-vi-tower-of-babel(659acfb5-e997-47ae-a71d-83144d8f041d).html), curated by Anna Jensen and Andrea Coyotzi Borja, Valimo Hall of Palmgren Conservatory, Pori, FI
@@ -131,10 +131,10 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 :   **Narrating WAR**, Performance LAB VII, curated by Vishnu Vardhani Rajan, Museum of Impossible Forms, Helsinki, FI
 
 2018 
-:   **Cyborg Archives: *GarbageInGarbageOut***, TIFA Working Studios, Pune, IN
+:   **Cyborg Archives:** ***GarbageInGarbageOut***, TIFA Working Studios, Pune, IN
 
 2018
-:   **Cyborg Archives: Can Archives Speak?**, TIFA Working Studios, Pune, IN
+:   **Cyborg Archives:** ***Can Archives Speak?***, TIFA Working Studios, Pune, IN
 
 2018
 :   **Narrating WAR**, TIFA Working Studios, Pune, IN
@@ -270,10 +270,10 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 ## Curatorial Experience
 
 *(upcoming)* 
-:   *Exhibition Curator*: **Museum of Impossible Forms in Turku,** Titanik Art Gallery, Turku, FI
+:   *Seminar*: **Educate-Agitate-Organise,** Museum of Impossible Forms, Helsinki, FI
 
 *(upcoming)* 
-:   *Seminar*: **Educate-Agitate-Organise,** Museum of Impossible Forms, Helsinki, FI
+:   *Exhibition Curator*: **Museum of Impossible Forms in Turku,** Titanik Art Gallery, Turku, FI
 
 2021 – 2022
 :   *Project curator*: **Archives as Contemporary Object X**, Documenta (15), Kassel, DE
