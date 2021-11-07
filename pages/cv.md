@@ -25,15 +25,13 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 :   *BFA* (Painting), [Sir J.J. School of Art](http://www.sirjjschoolofart.in/), Mumbai, IN
 
 ## Select Work Experience
+ 
 
-2020 – ongoing
-:   *Co-Founder*, **MAS: Antiracism & DEI Consultancy**, Helsinki, FI   
+2020 - ongoing
+:   *Project curator*, **PARTY OFFICE**, New Delhi, IN
 
 2020
-:   *Associate Curator*, [Helsinki International Artist Program](https://www.hiap.fi/) (HIAP), Helsinki, FI
-
-2019 – present
-:   *Board Member*, [Kiila ry](http://kiila.eu/), Helsinki, FI
+:   *Supporting Curator*, [Helsinki International Artist Program](https://www.hiap.fi/) (HIAP), Helsinki, FI
 
 2019
 :   *Artistic Producer*, [m-cult Media Culture Centre](https://www.m-cult.org/), Helsinki, FI
@@ -52,6 +50,32 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 
 2002 – 2007
 :   *Co-founder, Lead Animator and Artist*, Mareech Animated Design, Mumbai, IN
+
+## Memberships and Positions of Trust
+
+2021 - ongoing
+:   *Member*, **Catalysti**, Helsinki, FI
+
+2021 - 2024
+:   *Board Member*, **Frame Contemporary Art Finland**, Helsinki, FI
+
+2021 - 2022
+:   *Board Member*, **TKOK ry**, the supervising body of Museum of Impossible Forms, Helsinki, FI
+
+2021
+:   *Board Chair*,**[Kiila ry](http://kiila.eu/)**, Helsinki, FI
+
+2020 – ongoing
+:   *Co-Founder*, **MAS: Antiracism & DEI Consultancy**, Helsinki, FI
+
+2019 – present
+:   *Board Member*, **[Kiila ry](http://kiila.eu/)**, Helsinki, FI
+
+2016 - ongoing
+:   *Founding member*, **Museum of Impossible Forms**, Helsinki, FI
+
+2016 - 2017
+:   *Member*, **Third Space**, Helsinki, FI
 
 ## Solo Exhibitions
 
