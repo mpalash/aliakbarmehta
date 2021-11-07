@@ -51,6 +51,7 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 2002 – 2007
 :   *Co-founder, Lead Animator and Artist*, Mareech Animated Design, Mumbai, IN
 
+
 ## Memberships and Positions of Trust
 
 2021 – ongoing
