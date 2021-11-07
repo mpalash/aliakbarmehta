@@ -79,9 +79,6 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 
 ## Solo Exhibitions
 
-Upcoming
-:   **Central Park Archives**, produced by m-cult, Maunulatalo, Helsinki, FI
-
 2020
 :   **Is there a room with just a colour?**, Myymälä2, Helsinki, FI
 
@@ -101,6 +98,15 @@ Upcoming
 :   **The Ballad of The War that Never Was, and other Bastardized Myths**, TAO Art Gallery, Mumbai, IN
 
 ## Performance
+
+2022
+:   **Narrating WAR**, Teesri Manzil, N. Delhi, IN
+
+2021
+:   **Ballad of the Lost Utopian Meadow**, a series of 3 performances in collaboration with Vidha Saumya, *varialambo*, and Joss Allen, as part of ‘Time Machine and Utopias: Longing, Living, Homecoming’, (cur.) Hanna Johansson, Ainola Museum, Visavuori Museum, and Tarvaspää Museum, FI 
+
+2021
+:   **Narrating WAR / Habitat 1**, 4 performances in collaboration w/ varialambo, as part of ‘Reciprocities’, (cur.) Christine Langinauer, Vantaa Art Museum ARTSI, Vantaa, FI
 
 2020
 :   **Narrating WAR**, New Performance Festival, Turku, FI
@@ -145,6 +151,15 @@ Upcoming
 :   **null.void**, Chimurenga Collective – Pan-African Space Station, curated by Ahmed Al-Nawas, Kallio Public Library, Helsinki, IN
 
 ## Select Group Exhibitions
+
+2021
+:   **Data Vitality: Soft infrastructures and Economies of Knowledge**, Aalto University, Helsinki, FI
+
+2021
+:   **Piksel Festival 2021**, Bergen, NO
+
+2021
+:   **Central Park Archives**, produced by m-cult, Maunulatalo, Helsinki, FI
 
 2021 
 :   **Time Machine and Utopias: Longing, Living conditions, Homecoming**, curated by Hanna Johansson, Ainola Museum, Visavuori Museum, and Tarvaspää Museum, FI
@@ -251,7 +266,49 @@ Upcoming
 2007 
 :   **Celebrating India**, Treo Foundation, Delhi-Calcutta-Bangalore-Mumbai-New York
 
+## Curatorial Experience
+
+*(upcoming)* 
+:   *Exhibition Curator*: **Museum of Impossible Forms in Turku,** Titanik Art Gallery, Turku, FI
+
+*(upcoming)* 
+:   *Seminar*: **Educate-Agitate-Organise,** Museum of Impossible Forms, Helsinki, FI
+
+2021-22
+:   *Project curator*: **Archives as Contemporary Object X**, Documenta (15), Kassel, DE
+
+2021
+:   *Project curator*: **How to Work Together? Extended notes on collaboration**, part of a collaboration between Museum of Impossible Forms + Platform, in ‘20 Years of Platform Festival’, Vaasa, FI
+
+2021
+:   *project curator*: Impossible Reader 2020, **How to Work Together: Seeking models of solidarity and alliance**, (ed.) Aiava, Emily & Aiava, Raine. (pub.) Museum of Impossible Forms, Helsinki, FI. 
+
+2021 
+:   *Working group*: **What Should Art Institutions Do Now?**, Culture Lab Europe – Spaces for Solidarity, (online)
+
+2021 
+:   *Peer Support:* **Anti-Caste Archive**, Party Office, New Delhi, IN
+
+2020 
+:   *Supporting Curator*: **In-Between**, HIAP Summer Residency 2020, Helsinki Internatonal Artist Programme (HIAP), Helsinki, FI
+
+2019 
+:   *Programme Facilitator*: **Network Effects**, M-cult, Oodi Library, Helsinki, FI
+
+2019 
+:   *Event coordinator and Interviewer*: **Vidisha Fadescha: Party, a tool for Care – curated by Ali Akbar Mehta**, part of Today Is Our Tomorrow Festival, organised by PUBLICS, Helsinki, FI
+
+2016 
+:   *Exhibition Curator*:  **MATERIAL///IMMATERIAL**, A: SPACE, Espoo, FI
+
+2016 
+:   *Exhibition Curator*: **SOAK**, D/func.t, Helsinki, FI
+
+
 ## Artist Talks / Conferences / Lectures
+
+2021
+:   *Panelist*: **Decolonisation in the arts and cultural fields**, part of ‘In Conversation with the Finnish Institutes' moderated by Monica Gathuo, The Finnish Institute UK+Ireland, (online)
 
 2021 
 :   *Artist Talk:* **Central Park Archives: Access, commons, and networks of care**, moderated by m-cult and invited speaker Annet Dekker, part of Gathering for Rehearsing Hospitalities Spring 2021, Maunulatalo, Helsinki (online)
@@ -317,6 +374,9 @@ Upcoming
 :   *Artist Talk:* **FOLKARCHIVE**, in conversation with Sumesh Sharma; moderated by Latika Gupta, Dr. Bhau Daji Lad City Museum, Mumbai
 
 ## Teaching / Lectures
+
+2021-22
+:   *Workshop*: **Outlining actionable steps towards antiracism and building DEI (diversity, equity, and inclusion)**, a 5-part workshop series together with MAS working group, Ateneum Art Museum & Finnish National Gallery, Helsinki, FI
 
 2021 
 :   Guest lecturer: **Archives as Witness, Archives as knowledge Systems**, Darpan 2021, Symbiosis School For Liberal Arts (SSLA) Pune (online)
@@ -409,39 +469,11 @@ Upcoming
 2015 
 :   **TRINITY: Godrej Legacy Park Silos**, Godrej One, Mumbai, IN
 
-## Curatorial Experience
-
-*(upcoming)* 
-:   *Exhibition Curator*: **Museum of Impossible Forms in Turku,** Titanik Art Gallery, Turku, FI
-
-*(upcoming)* 
-:   *Seminar*: **Educate-Agitate-Organise,** Museum of Impossible Forms, Helsinki, FI
-
-2021 
-:   *Working group*: **What Should Art Institutions Do Now?**, Culture Lab Europe – Spaces for Solidarity, (online)
-
-2021 
-:   *Peer Support:* **Anti-Caste Archive**, Party Office, New Delhi, IN
-
-2020 
-:   *Supporting Curator*: **In-Between**, HIAP Summer Residency 2020, Helsinki Internatonal Artist Programme (HIAP), Helsinki, FI
-
-2019 
-:   *Programme Facilitator*: **Network Effects**, M-cult, Oodi Library, Helsinki, FI
-
-2019 
-:   *Event coordinator and Interviewer*: **Vidisha Fadescha: Party, a tool for Care – curated by Ali Akbar Mehta**, part of Today Is Our Tomorrow Festival, organised by PUBLICS, Helsinki, FI
-
-2016 
-:   *Exhibition Curator*:  **MATERIAL///IMMATERIAL**, A: SPACE, Espoo, FI
-
-2016 
-:   *Exhibition Curator*: **SOAK**, D/func.t, Helsinki, FI
 
 ## Residencies
 
 2021 
-:   Titanik Artist Residency, Turku, FI
+:   **Titanik Artist Residency**, Turku, FI
 
 2020 
 :   **Maunula Commons**, m-cult, Helsinki, FI
@@ -454,6 +486,12 @@ Upcoming
 
 ## Grants
 
+2022
+:   [Taiteen edistämiskeskus](https://www.taike.fi/etusivu), working grant (1 year)
+
+2021
+:   [Taiteen edistämiskeskus](https://www.taike.fi/etusivu), working grant (1 year)
+
 2021 
 :   **Helsinki City Grant,** working group Museum of Impossible Forms 
 
@@ -461,10 +499,7 @@ Upcoming
 :   **Kone Säätiö**, COVID grant for organisations, working group Museum of Impossible Forms 
 
 2020 
-:   **[Taiteen edistämiskeskus](https://www.taike.fi/etusivu)**, working grant (1 year)
-
-2020 
-:   **[Taiteen edistämiskeskus](https://www.taike.fi/etusivu)**, project grant, working group  – Museum of Impossible Forms
+:   **Taiteen edistämiskeskus**, project grant, working group  – Museum of Impossible Forms
 
 2018 
 :   **Kone Säätiö**, operational grant, working group – Museum of Impossible Forms, (2 years)
@@ -481,7 +516,7 @@ Upcoming
 ## Awards
 
 2020 
-:   **State Art Prize*** awarded to Museum of Impossible Forms, by the Ministry of Art and Culture, FI
+:   **State Art Prize** awarded to Museum of Impossible Forms, by the Ministry of Art and Culture, FI
 
 2019 
 :   **[Tutkijaliitto-palkinto](https://tutkijaliitto.fi/2019/12/09/tutkijaliiton-palkinnot-museum-of-impossible-forms-kulttuurikeskukselle-ja-ari-korhoselle/)**, awarded to Museum of Impossible Forms, by the Finnish Association of Researchers, FI
