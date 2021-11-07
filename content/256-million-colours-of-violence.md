@@ -16,6 +16,7 @@ summary: 256 Million Colours of Violence, a survey-based interactive archival
   about the project and participate online at
   [www.256milioncoloursofviolence.com](http://www.256millioncoloursofviolence.com/)
 children:
+  - "256 ~ Data Vitality: Soft Infrastructures and Economies of Knowledge"
   - 256 ~ Is there a room with just a colour?
   - 256 ~ Is there a room with just a colour? In conversation with Camelo Ramiro
   - "256 ~ Digital Creativity and Entanglement: In conversation with Timo
