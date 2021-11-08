@@ -8,7 +8,7 @@ pubdate: November 18, 2021 12:00 AM
 unlisted: "false"
 hero: /static/img/data-vitality-visual-identity.jpg
 summary: >-
-  
+  ![](/static/img/data-vitality-visual-identity.jpg)
 
   ![](/static/img/ali-akbar-mehta-256-million-colours-of-violence.png)
 
