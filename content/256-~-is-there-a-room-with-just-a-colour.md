@@ -2,13 +2,15 @@
 title: 256 ~ Is there a room with just a colour?
 subtitle: Myymälä2, Helsinki
 layout: layouts/content.njk
-tags: solo exhibition
+tags:
+  - solo exhibition
 pubdate: April 16, 2020 12:00 AM
 unlisted: "false"
-hero: /static/img-d/poster.jpg
+hero: /static/img-d/ali-akbar-mehta-is-there-a-room-with-just-a-colour-poster-2020.jpg
 summary: >-
-  ![Installation view: Is there a room with just a colour?, 2020, Myymälä2,
-  Helsinki](/static/img-d/ali-akbar-mehta_installation-view-is-there-a-room-with-just-a-colour-myymala2-helsinki-2020.jpg)
+  ![](/static/img-d/ali-akbar-mehta-is-there-a-room-with-just-a-colour-poster-2020.jpg)
+
+  ![Installation view: Is there a room with just a colour?, 2020, Myymälä2, Helsinki](/static/img-d/ali-akbar-mehta_installation-view-is-there-a-room-with-just-a-colour-myymala2-helsinki-2020.jpg)
 
 
   *Is there a room with just a colour?* at [Myymälä2](http://www.myymala2.com), Helsinki is an exhibition by artist **Ali Akbar Mehta** inviting online and on-site audiences to participate and become co-creators of a living archive that represents colours of violence.
