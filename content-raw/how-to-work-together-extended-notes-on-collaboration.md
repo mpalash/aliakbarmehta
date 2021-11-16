@@ -3,7 +3,7 @@ title: Mif ~ How to work together? Extended notes on collaboration
 subtitle: podcast series as collaboration between PLATFORM and Museum of Impossibe Forms
 layout: content
 tags:
-  - curatorial project
+  - curatorial work
 pubdate: October 21, 2021 12:00 AM
 unlisted: "false"
 hero: /static/img/main.png

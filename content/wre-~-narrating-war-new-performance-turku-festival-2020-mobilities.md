@@ -2,14 +2,28 @@
 title: "wre ~ Narrating WAR, New Performance Turku, Festival 2020: Mobilities"
 subtitle: Performance by Ali Akbar Mehta with varialambo
 layout: layouts/content.njk
-tags: performance
+tags:
+  - performance
 pubdate: "2020"
+unlisted: "false"
 hero: /static/img-d/naratting-war_new-performance-turku-festival_2020_01_cc.jpg
 summary: >-
   ![Narrating WAR, performed by Ali Akbar Mehta together with Helsinki based
   artist-duo varialambo, New Performance Turku Festival 2020: Mobilities,  Forum
   Kortteli,
   2020](/static/img-d/naratting-war_new-performance-turku-festival_2020_01_cc.jpg)
+
+
+  <div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/645953698?h=de2bad8c67&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Narrating WAR, 2020, Mobility: New Performance Festival, Turku"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+
+  <br/>
+
+
+  <div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/645960931?h=0fe620201c&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Narrating WAR, 2020, Mobility: New Performance Festival Turku-trailor 02"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+
+  <br/>
 
 
   > Narrating WAR is an invitation to imagine a relationship between the ‘known’ and the ‘unknown’ of our collective human history. It is an ongoing series of performance readings of a comprehensive list of ‘wars, battles, sacks, sieges, revolts, revolutions, bombings and insurgencies – from 3000 BC to the present’ that provides a comprehensive tableau of a history of human beings as a continuous history of violence and conflict.

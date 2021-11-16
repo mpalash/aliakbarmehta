@@ -3,7 +3,7 @@ title: Museum of Impossible Forms
 subtitle: ""
 layout: layouts/content.njk
 tags:
-  - curatorial project
+  - curatorial work
   - ongoing project
 pubdate: December 9, 2016 12:00 AM
 unlisted: "false"

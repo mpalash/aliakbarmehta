@@ -4,7 +4,7 @@ subtitle: curatorial partner (via Museum of Impossible Forms), with Frame
   Contemporary Art Finland
 layout: content
 tags:
-  - curatorial project
+  - curatorial work
 pubdate: April 19, 2021 12:00 AM
 unlisted: "false"
 hero: /static/img-d/grh-spring-2021-curatorial-vidoe-cover.png
