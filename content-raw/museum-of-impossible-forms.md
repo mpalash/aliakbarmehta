@@ -4,7 +4,6 @@ subtitle: ""
 layout: layouts/content.njk
 tags:
   - curatorial work
-  - ongoing project
 pubdate: December 9, 2016 12:00 AM
 unlisted: "false"
 hero: /static/img/m-if-poster.jpg
