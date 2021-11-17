@@ -5,8 +5,7 @@ subtitle: Impossible Reader 2020, edited by Emily and Raine Aiava, conceived and
   Forms, Helsinki FI
 layout: content
 tags:
-  - curatorial work
-  - publication
+  - curatorial project
 pubdate: October 7, 2021 12:00 AM
 unlisted: "false"
 hero: /static/img/screenshot-2021-11-02-at-9.54.47.png
