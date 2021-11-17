@@ -25,4 +25,4 @@ parent: Museum of Impossible Forms
 
 Citation:
 
-Mehta, A. A. (2021b). Generating (an)other economy: Working together at Museum of Impossible Formss. In E. Aiava & R. Aiava (Eds.), *How to Work Together: Seeking models of solidarity and alliance* (pp. 149–176). Museum of Impossible Forms.
+Mehta, A. A. (2021b). Generating (an)other economy: Working together at Museum of Impossible Forms. In E. Aiava & R. Aiava (Eds.), *How to Work Together: Seeking models of solidarity and alliance* (pp. 149–176). Museum of Impossible Forms.
