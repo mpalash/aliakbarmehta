@@ -26,7 +26,7 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 :   *BFA* (Painting), [Sir J.J. School of Art](http://www.sirjjschoolofart.in/), Mumbai, IN
 
 ## Select Work Experience
- 
+
 2020 – ongoing
 :   *Project curator*, **PARTY OFFICE**, New Delhi, IN
 
@@ -50,7 +50,6 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 
 2002 – 2007
 :   *Co-founder, Lead Animator and Artist*, Mareech Animated Design, Mumbai, IN
-
 
 ## Memberships and Positions of Trust
 
@@ -305,7 +304,6 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 2016 
 :   *Exhibition Curator*: **SOAK**, D/func.t, Helsinki, FI
 
-
 ## Artist Talks / Conferences / Lectures
 
 2021
@@ -400,76 +398,71 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 ## Select Publications
 
 2021 
-:   *Essay*: **Generating (An)Other Economy: Working together at the Museum of Impossible Forms**, Impossible Reader: How to Work Together, volume 02, (ed.) Aiava, Emily & Aiava, Raine. (pub.) Museum of Impossible Forms, Helsinki.
+:   *Book Chapter:* **Generating (an)other economy**: Working together at Museum of Impossible Forms. In E. Aiava & R. Aiava (Eds.), *How to Work Together: Seeking models of solidarity and alliance* (pp. 149–176). Museum of Impossible Forms. ISBN: 978-952-94-4840-1
 
 2021 
-:   *Essay*: **[Museum of Impossible Forms: Voicing the Margins](https://aliakbarmehta.com/content/museum-of-impossible-forms-voicing-the-margins)**, in Marginaaleista Museoihin. (From Margins to Museums), (eds.) Rastas, Anna & Koivunen, Leila (toim.), (trans.) Nurmenniemi, Ki, Tampere: Vastapaino, FI
+:   *Book Chapter:* **Ääniä Marginaalista: Museum of Impossible Forms Kontulassa** [[Voicing the Margins: Museum of Impossible Forms](https://aliakbarmehta.com/content/museum-of-impossible-forms-voicing-the-margins)]. In A. Rastas & L. Koivunen (Eds.), *Marginaaleista Museoihin* \[From Margins to Museums] (pp. 259-265). Vastapaino. ISBN 978-951-768-889-5
 
 2021 
-:   *Review*: **A longing for something written in memory**, NO NIIN online magazine, Helsinki, FI
+:   *Review*: **A longing for something written in memory**. In V. Saumya & E. Rahmati (Eds.), NO NIIN, 1.
 
 2021 
-:   *Essay*: **Cultural production and racism: How to challenge racist structures**, Muuntautuva rasismi. Kriittisiä näkökulmia rodullistamiseen, valkoisuuteen ja vallan koloniaalisuuteen (Different shapes of racism. Critical perspectives on racialization, whiteness and coloniality of power), (ed) Suvi Keskinen, (pub.) Gaudeamus. ISBN 978-9-5234-5107-0 
+:   *Book Chapter:* **Museum of Impossible Forms ja antirasistisen kulttuurituatannon haasteet** \[Museum of Impossible Forms and the challenges of antiracist cultural production]. In S. Keskinen, M. Seikkula, & F. Mkwesha (Eds.), *Rasismi, valta ja vastarinta* \[Racism, power and resistance] (pp. 221-224). Gaudeamus. ISBN 978-9-5234-5107-0 
 
 2020 
-:   *Essay*: **[The Shape of Museums to Come](https://aliakbarmehta.com/content/the-shape-of-museums-to-come)**, The Museum of the Future. 43 New Contributions to the Discussion about the Future of the Museum, (ed) Schnittpunkt and Joachim Baur, (pub.) Transcript. ISBN: 978-3-8394-5270-7
+:   *Book Chapter:* **[The Shape of Museums to Come](https://aliakbarmehta.com/content/the-shape-of-museums-to-come)**. In Schnittpunkt & J Baur (Eds.), *Das Museum der Zukunft: 43 Neue beiträge zur diskussion über die zukunft des museums* \[The Museum of the Future. 43 New Contributions to the Discussion about the Future of the Museum] (pp. 189-193). Transcript Verlag. ISBN: 978-3-8394-5270-7
+
+2020
+:   *Curatorial text:* **Processing In-Between(ness)**, In M. Savallampi & A. A. Mehta (Eds.) *In Between HIAP summer Residency publication* (pp. 7-12). Helsinki International Artist Programme (HIAP).
 
 2020 
-:   *Essay*: **[SAFE{R}: Evolving the Conditions for Collaboration](https://aliakbarmehta.com/content/safe-r-evolving-the-conditions-for-collaboration)**, Third Space, Helsinki, 2020
+:   *Book chapter:* **[*SAFE*{R}: Evolving the Conditions for Collaboration](https://aliakbarmehta.com/content/safe-r-evolving-the-conditions-for-collaboration)**. In *Six years in the Third Space*. Third Space (online).
 
 2020 
-:    *Text*: **[Who is Welcome? – Thinking Hospitality as Museum of Impossible Forms](https://aliakbarmehta.com/content/museum-of-impossible-forms#who-is-welcome-thinking-hospitality-as-museum-of-impossible-forms)**, Rehearsing Hospitalities Companion 2, (ed.) Yvonne Billimore and Jussi Koitela, (pub.) Archive Books, Berlin, in collaboration with Frame Contemporary Art Finland, Helsinki
+:    *Curatorial text:* **[Who is Welcome? – Thinking Hospitality as Museum of Impossible Forms](https://aliakbarmehta.com/content/museum-of-impossible-forms#who-is-welcome-thinking-hospitality-as-museum-of-impossible-forms)**. In Y Billimore & J Koitela (Eds.) *Rehearsing Hospitalities Companion 2* (pp. 109-111). Archive Books. ISBN 9783948212438
 
 2020 
-:   *Text*: **[A Cyber Archive of Questions](https://aliakbarmehta.com/content/cyber-archive#a-cyber-archive-of-questions)**, Restricted Fixations, Bengaluru
-
-2020 
-:   **[Ali Akbar Mehta](https://aliakbarmehta.com/content/walkin-the-portal)**, Walkin the Portal, Curated by Vivek Chockalingam and Marialaura Ghidini, Walkin Studios, Bengaluru
+:   *Text*: **[A Cyber Archive of Questions](https://aliakbarmehta.com/content/cyber-archive#a-cyber-archive-of-questions)**. In R. Rajiv (Ed.) *cohabitant/mutants*, Restricted Fixations #1
 
 2019 
-:   **[How to be hospitable without being a motel: Thinking Hospitalities](https://museumofimpossibleforms.org/how-to-be-a-hospitable-without-being-a-motel-thinking-hospitalities)**, Rehearsing Hospitalities Companion 1, (ed.) Yvonne Billimore and Jussi Koitela, (pub.) Archive Books, Berlin, in collaboration with Frame Contemporary Art Finland, Helsinki
+:   *Curatorial text:* **[How to be hospitable without being a motel: Thinking Hospitalities](https://museumofimpossibleforms.org/how-to-be-a-hospitable-without-being-a-motel-thinking-hospitalities)**. In Y. Billimore & J. Koitela (Eds.) *Rehearsing Hospitalities Companion 1* (pp. 57-65). Archive Books. ISBN 978394821215
 
 2019 
-:   **[Atlas of Lost Beliefs (for Insurgents, Citizens, & Untitled Bodies)](https://aliakbarmehta.com/content/atlas-of-lost-beliefs-for-insurgents-citizens-untitled-bodies)**, curatorial text 2019-20, Museum of Impossible Forms
+:   *Curatorial text:* **[Atlas of Lost Beliefs (for Insurgents, Citizens, & Untitled Bodies)](https://aliakbarmehta.com/content/atlas-of-lost-beliefs-for-insurgents-citizens-untitled-bodies)**. Museum of Impossible Forms.
 
 2019 
-:   **[To Not Wait for the Archive: Home and Labour mired in the complications of Invisibalisation](https://aliakbarmehta.com/content/cyber-archive#to-not-wait-for-the-archive-home-and-labour-mired-in-the-complications-of-invisibalisation)**, Visual Culture and Contemporary Art Journal #5, (ed.) Saara Mahbouba, Paola Jallili and Else Lagerspetz, published by Aalto University, Helsinki
+:   *Book Chapter:* **[To Not Wait for the Archive: Home and Labour mired in the complications of Invisibalisation](https://aliakbarmehta.com/content/cyber-archive#to-not-wait-for-the-archive-home-and-labour-mired-in-the-complications-of-invisibalisation)**. In S. Mahbouba, P. Jallili & E. Lagerspetz (Eds.), *The Home Issue*, Visual Culture and Contemporary Art Journal #5, Aalto University.
 
 2018 
-:   **[Colours of Violence](https://aliakbarmehta.com/content/256-million-colours-of-violence#colours-of-violence-aroop-iii-totems-and-taboos)**, AROOP: Totems and Taboos, volume 3, (ed.) Nancy Adajania, published by Raza Foundation, New Delhi
+:   *Text:* **[Colours of Violence](https://aliakbarmehta.com/content/256-million-colours-of-violence#colours-of-violence-aroop-iii-totems-and-taboos)**. In N. Adajania (Ed.), *AROOP III - Totems & Taboos*. Raza Foundation.
 
 2018 
-:   **[Cyber Archive: Archiving as a sustainable counter-hegemonic practice](https://aliakbarmehta.com/content/cyber-archive#cyber-archive-archiving-as-a-sustainable-counter-hegemonic-practice)**, Hakara Journal: *Form / Play*, edition 06, (ed.) Ashutosh Poddar and Noopur Desai, Pune
+:   *Journal article:* **[Cyber Archive: Archiving as a sustainable counter-hegemonic practice](https://aliakbarmehta.com/content/cyber-archive#cyber-archive-archiving-as-a-sustainable-counter-hegemonic-practice)**. In A. Poddar & N. Desai (Eds.), *Inside/Outside*, Hakara Journal, #3
 
 2018 
-:   **[Cyber Archive: Being and Doing Knowledge](https://aliakbarmehta.com/content/cyber-archive#cyber-archive-being-and-doing-knowledge)**, Aalto University, Espoo
+:   *MA Thesis:* **[Cyber Archive: Being and Doing Knowledge](https://aliakbarmehta.com/content/cyber-archive#cyber-archive-being-and-doing-knowledge)**. Aalto University.
 
 2018 
-:   **[FOOD and Other Practices at the Arthouse](https://aliakbarmehta.com/content/food-and-other-practices-at-the-arthouse)**, Visual Culture and Contemporary Art Journal #4, (ed.) Ali Akbar Mehta and Vidha Saumya, Published by Aalto University, Espoo
+:   *Editorial text:* **[FOOD and Other Practices at the Arthouse](https://aliakbarmehta.com/content/food-and-other-practices-at-the-arthouse)**. In A. A. Mehta & V. Saumya (Eds.), Visual Culture and Contemporary Art Journal #4. Aalto University
 
-2017 
-:   **[Locating: The Museum of Impossible Forms](https://koneensaatio.fi/en/museum-of-impossible-forms/)**, Kone Foundation Boldness Blog, Helsinki
+2017    *Article:* **[Locating: The Museum of Impossible Forms](https://koneensaatio.fi/en/museum-of-impossible-forms/)**. In *Kone Foundation Boldness Blog*.
 
-2017 
-:   **[Border Crossing: Reshaping the Agency of Struggle](https://aliakbarmehta.com/content/border-crossing-reshaping-the-agency-of-struggle)**, interview with Ranjit Hoskote, CuMMA Papers publication series, (ed.) Nora Sternfeld, Helsinki
+2017    *Interview:* **[Border Crossing: Reshaping the Agency of Struggle](https://aliakbarmehta.com/content/border-crossing-reshaping-the-agency-of-struggle)**. In *CuMMA Papers Publication Series*. Aalto University. 
 
-2017 
-:   **[The Photons of Politics: Footnotes for a New History](https://aliakbarmehta.com/content/the-photons-of-politics-footnotes-for-a-new-history)**, RAB-RAB Journal for Political and Formal Inquiries in Art, issue#4.01, (ed.) Sezgin Boynik, Helsinki
+2017    *Journal article:* **[The Photons of Politics: Footnotes for a New History](https://aliakbarmehta.com/content/the-photons-of-politics-footnotes-for-a-new-history)**. In S. Boynick (Ed.), *RAB-RAB Journal for Political and Formal Inquiries in Art*, #4.1 (pp. 67-79), RAB-RAB Press.
 
-2015 
-:   **[No one at the ceremony remembers to mention the artist](https://aliakbarmehta.com/content/no-one-at-the-ceremony-remembers-to-mention-the-artist)**, Essay for Exhibition *No one at the ceremony remembers to mention the artist*, Third Space, Helsinki
+2015    *Exhibition Essay:* **[No one at the ceremony remembers to mention the artist](https://aliakbarmehta.com/content/no-one-at-the-ceremony-remembers-to-mention-the-artist)**. for Vidha Saumya’s exhibition, *No one at the ceremony remembers to mention the artist*. Third Space.
 
 2014 
-:   **Site: Stage: Structure**, (pub.) StudioVAAK, Mumbai
+:   *Artist books:* **Site: Stage: Structure**. StudioVAAK.
 
 2011 
-:   **[A body split in two](https://aliakbarmehta.com/content/a-body-split-in-two)**, International Gallerie, Journal of Contemporary art, issue 30, (ed.) Bina Sarkar Ellias, Mumbai
+:   *Poem:* **[A body split in two](https://aliakbarmehta.com/content/a-body-split-in-two)**, In B. Sarkar (Ed.), *International Gallerie: Journal of Contemporary art*, issue 30. Mumbai.
 
 ## Public projects / Commissions
 
 2015 
 :   **TRINITY: Godrej Legacy Park Silos**, Godrej One, Mumbai, IN
-
 
 ## Residencies
 
