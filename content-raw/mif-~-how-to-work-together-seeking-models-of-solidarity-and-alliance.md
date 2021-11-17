@@ -16,34 +16,22 @@ summary: >-
   The Impossible Reader is a biennial book series published by the Museum of Impossible Forms. The theme of the 2020 reader is **How to Work Together – Seeking models of solidarity and alliance**. It gathers a selection of essays, writings and poems on and around the topic of collective working practices. The publication also reflects and celebrates the past four years of operations of the Museum of Impossible Forms cultural centre in Kontula.
 
 
-  <br/>
+  <br/> 
 
 
-  citation ref: 
+  > Publication concept and Production*: Ali Akbar Mehta & Marianne Savallampi*
 
+  >
 
-  Impossible Reader 2020**, How to Work Together: Seeking models of solidarity and alliance** 
+  > Edited by: *Emily Aiava & Raine Aiava*
 
+  >
 
-  Publication concept and Production
+  > Publication coordinator & graphic design: *Zahrah Ehsan*
 
+  >
 
-  > *Ali Akbar Mehta & Marianne Savallampi*
-
-
-  Edited by 
-
-
-  > *Emily Aiava & Raine Aiava*
-
-
-  Publication coordinator & graphic design 
-
-
-  > *Zahrah Ehsan*
-
-
-  published by Museum of Impossible Forms, Helsinki, FI. 
+  > published by Museum of Impossible Forms, Helsinki, FI. 
 
 
   <br/>
