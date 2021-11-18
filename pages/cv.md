@@ -452,20 +452,16 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 :   *Editorial text:* **[FOOD and Other Practices at the Arthouse](https://aliakbarmehta.com/content/food-and-other-practices-at-the-arthouse)**. In A. A. Mehta & V. Saumya (Eds.), Visual Culture and Contemporary Art Journal #4. Aalto University
 
 2017:   
-
-*Article:* **[Locating: The Museum of Impossible Forms](https://koneensaatio.fi/en/museum-of-impossible-forms/)**. In *Kone Foundation Boldness Blog*.
-
-2017
-
-*:   Interview:* **[Border Crossing: Reshaping the Agency of Struggle](https://aliakbarmehta.com/content/border-crossing-reshaping-the-agency-of-struggle)**. In *CuMMA Papers Publication Series*. Aalto University. 
+:   *Article:* **[Locating: The Museum of Impossible Forms](https://koneensaatio.fi/en/museum-of-impossible-forms/)**. In *Kone Foundation Boldness Blog*.
 
 2017
+:   *Interview:* **[Border Crossing: Reshaping the Agency of Struggle](https://aliakbarmehta.com/content/border-crossing-reshaping-the-agency-of-struggle)**. In *CuMMA Papers Publication Series*. Aalto University. 
 
-*:   Journal article:* **[The Photons of Politics: Footnotes for a New History](https://aliakbarmehta.com/content/the-photons-of-politics-footnotes-for-a-new-history)**. In S. Boynick (Ed.), *RAB-RAB Journal for Political and Formal Inquiries in Art*, #4.1 (pp. 67-79), RAB-RAB Press.
+2017
+:   *Journal article:* **[The Photons of Politics: Footnotes for a New History](https://aliakbarmehta.com/content/the-photons-of-politics-footnotes-for-a-new-history)**. In S. Boynick (Ed.), *RAB-RAB Journal for Political and Formal Inquiries in Art*, #4.1 (pp. 67-79), RAB-RAB Press.
 
 2015
-
-*:   Exhibition Essay:* **[No one at the ceremony remembers to mention the artist](https://aliakbarmehta.com/content/no-one-at-the-ceremony-remembers-to-mention-the-artist)**. for Vidha Saumya’s exhibition, *No one at the ceremony remembers to mention the artist*. Third Space.
+:   *Exhibition Essay:* **[No one at the ceremony remembers to mention the artist](https://aliakbarmehta.com/content/no-one-at-the-ceremony-remembers-to-mention-the-artist)**. for Vidha Saumya’s exhibition, *No one at the ceremony remembers to mention the artist*. Third Space.
 
 2014 
 :   *Artist books:* **Site: Stage: Structure**. StudioVAAK.
