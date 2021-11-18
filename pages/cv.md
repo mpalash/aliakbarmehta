@@ -54,28 +54,34 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 ## Memberships and Positions of Trust
 
 2021 – ongoing
-:   *Member*, **Catalysti**, Helsinki, FI
+:   *Member*, **[Catalysti](https://www.catalysti.fi/)**, Helsinki, FI
 
 2021 – 2024
-:   *Board Member*, **Frame Contemporary Art Finland**, Helsinki, FI
+:   *Board Member*, **[Frame Contemporary Art Finland](https://frame-finland.fi/en/about-frame/organisation/)**, Helsinki, FI
 
 2021 – 2022
-:   *Board Member*, **TKOK ry**, the supervising body of Museum of Impossible Forms, Helsinki, FI
+:   *Board Member*, **[TKOK ry](https://www.museumofimpossibleforms.org/tkok-ry)**, the supervising body of Museum of Impossible Forms, Helsinki, FI
 
 2021
-:   *Board Chair*,**[Kiila ry](http://kiila.eu/)**, Helsinki, FI
+:   *Board Chair*, **[Kiila ry](http://kiila.eu/)**, Helsinki, FI
 
 2020 – ongoing
 :   *Co-Founder*, **MAS: Antiracism & DEI Consultancy**, Helsinki, FI
 
+2019 – ongoing
+:   Research Member, **[Cluster of Critical Artistic Research (CCARE)](https://www.ccare.aalto.fi/)**, Aalto University, Helsinki, FI
+
+2019 – ongoing
+:   Member, **[PARTY OFFICE](http://vidisha-fadescha.com/PARTY-OFFICE)**, New Delhi, IN
+
 2019 – present
-:   *Board Member*, **Kiila ry**, Helsinki, FI
+:   *Board Member*, **[Kiila ry](http://kiila.eu/)**, Helsinki, FI
 
 2016 – ongoing
 :   *Founding member*, **Museum of Impossible Forms**, Helsinki, FI
 
 2016 – 2017
-:   *Member*, **Third Space**, Helsinki, FI
+:   *Member*, **[Third Space](http://www.th1rdspac3.com/)**, Helsinki, FI
 
 ## Solo Exhibitions
 
@@ -222,10 +228,10 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 :   **Small is Beautiful – II**, TAO Art Gallery, Mumbai, IN
 
 2013 
-:   **Beyond the Canvas**, ­Curated by Kalpana Shah and Sapna Kar, TAO Art Gallery, Mumbai, IN
+:   **Beyond the Canvas**, ­curated by Kalpana Shah and Sapna Kar, TAO Art Gallery, Mumbai, IN
 
 2013 
-:   **Tagore Lost and Found**, Curated by Bina Sarkar Ellias, IndiaBulls Art Gallery and Auction House, New Delhi, IN
+:   **Tagore Lost and Found**, curated by Bina Sarkar Ellias, IndiaBulls Art Gallery and Auction House, New Delhi, IN
 
 2013 
 :   **Equilibrium**, TAO Art Gallery, Mumbai, IN
