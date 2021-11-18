@@ -109,10 +109,10 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 :   **Narrating WAR**, Teesri Manzil, N. Delhi, IN
 
 2021
-:   **Ballad of the Lost Utopian Meadow**, a series of 3 performances in collaboration with Vidha Saumya, *varialambo*, and Joss Allen, as part of [Aikakoneita Ja Utopiotia](https://aikakoneitajautopioita.fi/) (Time Machine and Utopias: Longing, Living, Homecoming), curated by Hanna Johansson, Ainola Museum, Visavuori Museum, and Tarvaspää Museum, FI 
+:   **Ballad of the Lost Utopian Meadow**, a series of 3 performances in collaboration with Vidha Saumya, *varialambo*, and Joss Allen, as part of **[Aikakoneita Ja Utopiotia: kotinpaluu, kaukokaipuu, Elinehtoja](https://aikakoneitajautopioita.fi/)** (Time Machine and Utopias: Wanderlust, Lifelines, Homecoming), curated by Hanna Johansson, Ainola Museum, Visavuori Museum, and Tarvaspää Museum, FI 
 
 2021
-:   **Narrating WAR / Habitat 1**, 4 performances in collaboration w/ *varialambo*, in ‘Reciprocities’, curated by Christine Langinauer, [Vantaa Art Museum] (https://www.artsimuseo.com/eng/reciprocities) ARTSI, Vantaa, FI
+:   **Narrating WAR / Habitat 1**, 4 performances in collaboration w/ *varialambo*, in ‘Reciprocities’, curated by Christine Langinauer, [Vantaa Art Museum ARTSI](https://www.artsimuseo.com/eng/reciprocities), Vantaa, FI
 
 2020
 :   **Narrating WAR**, [MOBILITIES](http://www.newperformance.fi/en/archive/2020-3/), curated by Leena Kela, New Performance Festival, Turku, FI
@@ -168,7 +168,7 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 :   **Central Park Archives**, produced by m-cult, Maunulatalo, Helsinki, FI
 
 2021 
-:   **Time Machine and Utopias: Longing, Living conditions, Homecoming**, curated by Hanna Johansson, Ainola Museum, Visavuori Museum, and Tarvaspää Museum, FI
+:   **Aikakoneita Ja Utopiotia: kotinpaluu, kaukokaipuu, Elinehtoja** (Time Machine and Utopias: Wanderlust, Lifelines, Homecoming), curated by Hanna Johansson, Ainola Museum, Visavuori Museum, and Tarvaspää Museum, FI
 
 2021 
 :   **To Err is Human**, curated by Anna Ruth, Mänttä Kuvataideviikot, Mänttä, FI
