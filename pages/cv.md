@@ -109,13 +109,13 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 :   **Narrating WAR**, Teesri Manzil, N. Delhi, IN
 
 2021
-:   **Ballad of the Lost Utopian Meadow**, a series of 3 performances in collaboration with Vidha Saumya, *varialambo*, and Joss Allen, as part of ‘Time Machine and Utopias: Longing, Living, Homecoming’, curated by Hanna Johansson, Ainola Museum, Visavuori Museum, and Tarvaspää Museum, FI 
+:   **Ballad of the Lost Utopian Meadow**, a series of 3 performances in collaboration with Vidha Saumya, *varialambo*, and Joss Allen, as part of [Aikakoneita Ja Utopiotia](https://aikakoneitajautopioita.fi/) (Time Machine and Utopias: Longing, Living, Homecoming), curated by Hanna Johansson, Ainola Museum, Visavuori Museum, and Tarvaspää Museum, FI 
 
 2021
-:   **Narrating WAR / Habitat 1**, 4 performances in collaboration w/ *varialambo*, as part of ‘Reciprocities’, curated by Christine Langinauer, Vantaa Art Museum ARTSI, Vantaa, FI
+:   **Narrating WAR / Habitat 1**, 4 performances in collaboration w/ *varialambo*, in ‘Reciprocities’, curated by Christine Langinauer, [Vantaa Art Museum] (https://www.artsimuseo.com/eng/reciprocities) ARTSI, Vantaa, FI
 
 2020
-:   **Narrating WAR**, MOBILITY, curated by Leena Kela, New Performance Festival, Turku, FI
+:   **Narrating WAR**, [MOBILITIES](http://www.newperformance.fi/en/archive/2020-3/), curated by Leena Kela, New Performance Festival, Turku, FI
 
 2020
 :   **Glitchverse**, [Souja/Shelter Festival 2020](http://suojashelter.tilda.ws/), curated by Lívia Nolasco-Rózsás, Ksenia Yurkova, Anastasia Vepreva, Helsinki (online)
@@ -154,7 +154,7 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 :   **Where does poetry nest?**, curated by Giovanna Esposito Yussif, Pispala Memorial, Tampere, IN
 
 2016
-:   **null.void**, Chimurenga Collective – Pan-African Space Station, curated by Ahmed Al-Nawas, Kallio Public Library, Helsinki, IN
+:   **null.void**, for *Chimurenga: Pan-African Space Station*, curated by Ahmed Al-Nawas, Kallio Public Library, Helsinki, IN
 
 ## Select Group Exhibitions
 
