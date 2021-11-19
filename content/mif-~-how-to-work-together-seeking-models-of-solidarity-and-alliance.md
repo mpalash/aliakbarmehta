@@ -6,7 +6,6 @@ subtitle: Impossible Reader 2020, edited by Emily and Raine Aiava, conceived and
 layout: content
 tags:
   - curatorial work
-  - publication
 pubdate: October 7, 2021 12:00 AM
 unlisted: "false"
 hero: /static/img-d/screenshot-2021-11-02-at-9.54.47.png
@@ -20,31 +19,19 @@ summary: >-
   <br/>
 
 
-  citation ref: 
+  > Publication concept and Production*: Ali Akbar Mehta & Marianne Savallampi*
 
+  >
 
-  Impossible Reader 2020**, How to Work Together: Seeking models of solidarity and alliance** 
+  > Edited by: *Emily Aiava & Raine Aiava*
 
+  >
 
-  Publication concept and Production
+  > Publication coordinator & graphic design: *Zahrah Ehsan*
 
+  >
 
-  > *Ali Akbar Mehta & Marianne Savallampi*
-
-
-  Edited by 
-
-
-  > *Emily Aiava & Raine Aiava*
-
-
-  Publication coordinator & graphic design 
-
-
-  > *Zahrah Ehsan*
-
-
-  published by Museum of Impossible Forms, Helsinki, FI. 
+  > published by Museum of Impossible Forms, Helsinki, FI.
 
 
   <br/>

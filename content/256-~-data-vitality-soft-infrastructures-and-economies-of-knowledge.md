@@ -26,4 +26,4 @@ As we live in an increasingly data-driven world, how does this impact our practi
 
 The exhibition at Dipoli Gallery creates a visual and material experience of our relationship with data in the context of research, education and society including new artworks informed by research infrastructures such as OtaNano, developments in quantum technology, arts and media practices, operational impacts of master data and digitalisation, data literacy, digital archiving, open data and intellectual property.
 
-The exhibition website, a pilot of Aalto University’s new virtual exhibition platform,  includes further texts, interviews and media.
+The exhibition [website](https://virtualexhibitions.aalto.fi/en), is a pilot of Aalto University’s new virtual exhibition platform that includes further texts, interviews and media.
