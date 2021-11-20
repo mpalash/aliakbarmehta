@@ -310,7 +310,7 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 2016 
 :   *Exhibition Curator*: **SOAK**, D/func.t, Helsinki, FI
 
-## Artist Talks / Conferences / Lectures
+## Artist Talks / Conferences 
 
 2021
 :   *Panelist*: **Decolonisation in the arts and cultural fields**, part of ‘In Conversation with the Finnish Institutes' moderated by Monica Gathuo, The Finnish Institute UK+Ireland, (online)
@@ -383,6 +383,9 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 2021 – 2022
 :   *Workshop*: **Outlining actionable steps towards antiracism and building DEI (diversity, equity, and inclusion)**, a 5-part workshop series together with MAS working group, Ateneum Art Museum & Finnish National Gallery, Helsinki, FI
 
+2021
+:   2021    *Guest lecturer:* **A small introduction to the history of art from the indian Subcontinent**, w/ Vidha Saumya, UNIARTS, Helsinki, FI
+
 2021 
 :   Guest lecturer: **Archives as Witness, Archives as knowledge Systems**, Darpan 2021, Symbiosis School For Liberal Arts (SSLA) Pune (online)
 
@@ -451,7 +454,7 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 2018 
 :   *Editorial text:* **[FOOD and Other Practices at the Arthouse](https://aliakbarmehta.com/content/food-and-other-practices-at-the-arthouse)**. In A. A. Mehta & V. Saumya (Eds.), Visual Culture and Contemporary Art Journal #4. Aalto University
 
-2017:   
+2017:\
 :   *Article:* **[Locating: The Museum of Impossible Forms](https://koneensaatio.fi/en/museum-of-impossible-forms/)**. In *Kone Foundation Boldness Blog*.
 
 2017
