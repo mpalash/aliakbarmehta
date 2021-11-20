@@ -319,7 +319,7 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 :   *Artist Talk:* **Central Park Archives: Access, commons, and networks of care**, moderated by m-cult and invited speaker Annet Dekker, part of Gathering for Rehearsing Hospitalities Spring 2021, Maunulatalo, Helsinki (online)
 
 2021 
-:   *Artist Talk*: **Internationalism, Mobility, and Borders**,  Hangö Teatrträff, (online) 
+:   *Artist Talk*: **Mobility and its Discontents: Internationalism, Mobility & Borders**,  Hangö Teatrträff, (online) 
 
 2020 
 :   *Artist Talk:* **[Rehearsing Hospitalities Companion 2 Readings with Annet Dekker, and Susanna Ånäs and Ali Akbar Mehta](https://aliakbarmehta.com/content/central-park-archives#rehearsing-hospitalities-companion-2-readings-with-annet-dekker-and-susanna-anas-and-ali-akbar-mehta),** Rehearsing Hospitalities, Frame Contemporary Art Finland, Helsinki (online)
@@ -328,40 +328,34 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 :   *Panelist:* **CreaTures (Creative Practices for Transformational Futures)**, Aalto University, Helsinki (online)
 
 2020 
-:   *Panelist:* **New Standards**, Stop Hatred Now Festival, UrbanApa, Helsinki (online)
+:   *Panelist:* **New Standards**, Stop Hatred Now! Festival, UrbanApa, Helsinki (online)
 
 2020 
 :   *Artist Talk:* **Towards a New Internet**, In conversation with Palash Mukhopadhyay, Myymälä2, Helsinki
 
 2020 
-:   *Artist Talk:* **Violence in Finnish Society,** In conversation with Arvind Ramachandran, Myymälä2, Helsinki
+:   *Artist Talk:* **Violence in Finnish Society**, In conversation with Arvind Ramachandran, Myymälä2, Helsinki
 
 2020 
-:   *Artist Talk:* **Digital Creativity and Entanglement,** In conversation with Timo Tuhkanen, Myymälä2, Helsinki
+:   *Artist Talk:* **Digital Creativity and Entanglement**, In conversation with Timo Tuhkanen, Myymälä2, Helsinki
 
 2020 
 :   *Artist Talk:* **Is there a room with just a colour?** In conversation with Camelo Ramiro, Myymälä2, Helsinki
 
 2019 
-:   *Panelist:* **Resistance and Re-imagining Alternatives,** Nordic Decolonial Workshop, Center for Research on Ethnic Relations and Nationalism (CEREN), Helsinki
+:   *Guest Speaker:* **Notes for Radical Diversity,** Helsinki Art Museum HAM, Helsinki
 
 2019 
-:   *Guest Speaker:* **Notes for Radical Diversity,** Helsinki Art Museum HAM, Helsinki
+:   *Panelist:* **Resistance and Re-imagining Alternatives,** Nordic Decolonial Workshop, Center for Research on Ethnic Relations and Nationalism (CEREN), Helsinki
 
 2018 
 :   *Guest Speaker:* **Re: Musing the Museum, Part II**, Kiasma International Museum, Helsinki
 
-2018 
-:   *Guest Speaker:* **Cyber Archives**, Die Schule der Archaeutopie in conversation with Ali Akbar Mehta, Universität für angewandte Kunst Wien, Vienna
-
-2018 
-:   *Guest Lecturer:* **Archiving: Histories of the Present**, guest lecture, Visual Cultures, Curating and Contemporary Art (ViCCA), Aalto University, Helsinki
+2018
+:   *Guest Speaker:* **Maunula Remix**, m-cult, Maunulatalo, Helsinki, FI
 
 2018 
 :   *Artist Talk:* **Congratulations, the space has been invaded: NOW WHAT?**, Space Invaders VI, Helsinki, FI
-
-2018 
-:   *Guest Artist:* **A Common Sense Manifesto of Cooking Practices for Artists**, Aalto University, Espoo
 
 2017 
 :   *Panelist:* **Decolonial Dreaming**, Urbanapa 2017, Atenuim Museum, Helsinki
@@ -372,9 +366,6 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 2018 
 :   *Artist Talk:* **Memory and the Maximum City**, Godrej India Culture Lab, Mumbai
 
-2018 
-:   *Guest Lecturer:* Whistling Woods International Institute of Film, communication and Media Arts
-
 2014 
 :   *Artist Talk:* **FOLKARCHIVE**, in conversation with Sumesh Sharma; moderated by Latika Gupta, Dr Bhau Daji Lad City Museum, Mumbai
 
@@ -384,7 +375,7 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 :   *Workshop*: **Outlining actionable steps towards antiracism and building DEI (diversity, equity, and inclusion)**, a 5-part workshop series together with MAS working group, Ateneum Art Museum & Finnish National Gallery, Helsinki, FI
 
 2021
-:   2021    *Guest lecturer:* **A small introduction to the history of art from the indian Subcontinent**, w/ Vidha Saumya, UNIARTS, Helsinki, FI
+:   2021    *Guest lecturer:* **A small introduction to the history of art from the Indian Subcontinent**, w/ Vidha Saumya, UNIARTS, Helsinki, FI
 
 2021 
 :   Guest lecturer: **Archives as Witness, Archives as knowledge Systems**, Darpan 2021, Symbiosis School For Liberal Arts (SSLA) Pune (online)
@@ -392,17 +383,26 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 2020 
 :   *Guest Lecturer and Mentor:* **[Kuvan Kevät 2020](https://www.exhibitionlaboratory.fi/exhibition/kuvan-kevaet-2020)**, Exhibition Laboratory, University of Arts Helsinki, FI
 
-2020 
+2020
 :   *Guest lecturer:* **Archiving & the Curatorial Function**, Srishti School of Art, Design and Technology, Bengaluru, (online)
 
 2020
-:   *Workshop:* **[Central Park Archives – Workshops on Collective Authorship](https://aliakbarmehta.com/content/central-park-archives#central-park-archives-workshops)**, M-cult, Maunulatalo, Helsinki
+:   *Workshop:* **[Central Park Archives: Collective Authorship](https://aliakbarmehta.com/content/central-park-archives#central-park-archives-workshops)**, M-cult, Maunulatalo, Helsinki
 
-2020 
+2020
 :   *Guest Lecturer:* **[Surrender? Surrender](https://www.exhibitionlaboratory.fi/exhibition/surrender)**, Exhibition Laboratory, University of the Arts Helsinki, Helsinki, FI
 
-2018  
-:   *Guest lecturer:* **‘Histories of the Present’**, Visual Cultures, Curating & Contemporary Art, Aalto University, Helsinki, FI
+2018 
+:   *Guest Speaker:* **Cyber Archives**, Die Schule der Archaeutopie in conversation with Ali Akbar Mehta, Universität für angewandte Kunst Wien, Vienna
+
+2018 
+:   *Guest Lecturer:* **Archiving: Histories of the Present**, guest lecture, Visual Cultures, Curating and Contemporary Art (ViCCA), Aalto University, Helsinki
+
+2018
+:   *Workshop:* **A Common Sense Manifesto of Cooking Practices for Artists**, Aalto University, Espoo, FI
+2011-14
+:   *Guest Lecturer:* Whistling Woods International Institute of Film, Communication & Media Arts, Mumbai, IN
+
 
 ## Select Publications
 
