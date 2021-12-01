@@ -4,7 +4,7 @@ subtitle: Dipoli Gallery, Aalto University, Helsinki, FI
 layout: content
 tags:
   - group exhibition
-pubdate: November 18, 2021 12:00 AM
+pubdate: November 18, 2021 2:12 PM
 unlisted: "false"
 hero: /static/img-d/data-vitality-visual-identity.jpg
 summary: >-
