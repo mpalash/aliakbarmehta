@@ -3,7 +3,7 @@ title: Outsiders at Work
 subtitle: new vocabulary and perspectives
 layout: layouts/content.njk
 tags:
-  - curatorial project
+  - curatorial work
 pubdate: "2019"
 unlisted: "false"
 hero: /static/img/logo_outsiders-at-work.jpg
