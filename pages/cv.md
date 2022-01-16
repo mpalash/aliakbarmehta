@@ -51,7 +51,7 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 2002 – 2007
 :   *Co-founder, Lead Animator and Artist*, Mareech Animated Design, Mumbai, IN
 
-## Memberships and Positions of Trust
+## Positions of Trust and Memberships 
 
 2021 – ongoing
 :   *Member*, **[Catalysti](https://www.catalysti.fi/)**, Helsinki, FI
@@ -162,7 +162,7 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 :   **Data Vitality: Soft infrastructures and Economies of Knowledge**, Aalto University, Helsinki, FI
 
 2021
-:   **Piksel Festival 2021**, Bergen, NO
+:   **Reboot Me Softly ↻**, 19th edition of Piksel Festival 2021, Bergen, NO
 
 2021
 :   **Central Park Archives**, produced by m-cult, Maunulatalo, Helsinki, FI
@@ -277,9 +277,6 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 *(upcoming)* 
 :   *Seminar*: **Educate-Agitate-Organise,** Museum of Impossible Forms, Helsinki, FI
 
-*(upcoming)* 
-:   *Exhibition Curator*: **Museum of Impossible Forms in Turku,** Titanik Art Gallery, Turku, FI
-
 2021 – 2022
 :   *Project curator*: **Archives as Contemporary Object X**, Documenta (15), Kassel, DE
 
@@ -288,6 +285,9 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 
 2021
 :   *project curator*: Impossible Reader 2020, **How to Work Together: Seeking models of solidarity and alliance**, (ed.) Aiava, Emily & Aiava, Raine. (pub.) Museum of Impossible Forms, Helsinki, FI. 
+
+2021
+:   *Organiser*: **Touching/Transforming**, Seminar, Cluster for Critical Artistic Research, Aalto University, FI
 
 2021 
 :   *Working group*: **What Should Art Institutions Do Now?**, Culture Lab Europe – Spaces for Solidarity, (online)
@@ -310,7 +310,7 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 2016 
 :   *Exhibition Curator*: **SOAK**, D/func.t, Helsinki, FI
 
-## Artist Talks / Conferences 
+## Artist Talks / Conferences
 
 2021
 :   *Panelist*: **Decolonisation in the arts and cultural fields**, part of ‘In Conversation with the Finnish Institutes' moderated by Monica Gathuo, The Finnish Institute UK+Ireland, (online)
@@ -369,7 +369,7 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 2014 
 :   *Artist Talk:* **FOLKARCHIVE**, in conversation with Sumesh Sharma; moderated by Latika Gupta, Dr Bhau Daji Lad City Museum, Mumbai
 
-## Teaching / Lectures
+## Select Teaching / Lectures
 
 2021 – 2022
 :   *Workshop*: **Outlining actionable steps towards antiracism and building DEI (diversity, equity, and inclusion)**, a 5-part workshop series together with MAS working group, Ateneum Art Museum & Finnish National Gallery, Helsinki, FI
@@ -403,7 +403,6 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 
 2011-14
 :   *Guest Lecturer:* Whistling Woods International Institute of Film, Communication & Media Arts, Mumbai, IN
-
 
 ## Select Publications
 
