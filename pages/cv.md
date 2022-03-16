@@ -105,9 +105,6 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 
 ## Performance
 
-2022
-:   **Narrating WAR**, Teesri Manzil, N. Delhi, IN
-
 2021
 :   **Ballad of the Lost Utopian Meadow**, a series of 3 performances in collaboration with Vidha Saumya, *varialambo*, and Joss Allen, as part of **[Aikakoneita Ja Utopiotia: kotinpaluu, kaukokaipuu, Elinehtoja](https://aikakoneitajautopioita.fi/)** (Time Machine and Utopias: Wanderlust, Lifelines, Homecoming), curated by Hanna Johansson, Ainola Museum, Visavuori Museum, and Tarvaspää Museum, FI 
 
@@ -274,11 +271,14 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 
 ## Curatorial Experience
 
-*(upcoming)* 
-:   *Seminar*: **Educate-Agitate-Organise,** Museum of Impossible Forms, Helsinki, FI
+*Upcoming*
+:   *Co-curator* (*via* Museum of Impossible Forms): **Helsinki Biennale 2023**, Helsinki, FI 
 
-2021 – 2022
+*Upcoming*
 :   *Project curator*: **Archives as Contemporary Object X**, Documenta (15), Kassel, DE
+
+*Upcoming*
+:   *Programme facilitator* (*via* MAS): **Outlining actionable steps towards antiracism and building DEI (diversity, equity, and inclusion)**, a multi-part interactive program for Ateneum Art Museum & Finnish National Gallery, Helsinki, FI
 
 2021
 :   *Project curator*: **How to Work Together? Extended notes on collaboration**, part of a collaboration between Museum of Impossible Forms + Platform, in ‘20 Years of Platform Festival’, Vaasa, FI
@@ -371,9 +371,6 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 
 ## Select Teaching / Lectures
 
-2021 – 2022
-:   *Workshop*: **Outlining actionable steps towards antiracism and building DEI (diversity, equity, and inclusion)**, a 5-part workshop series together with MAS working group, Ateneum Art Museum & Finnish National Gallery, Helsinki, FI
-
 2021
 :   2021    *Guest lecturer:* **A small introduction to the history of art from the Indian Subcontinent**, w/ Vidha Saumya, UNIARTS, Helsinki, FI
 
@@ -406,20 +403,26 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 
 ## Select Publications
 
-2021 
-:   *Book Chapter:* **Generating (an)other economy**: Working together at Museum of Impossible Forms. In E. Aiava & R. Aiava (Eds.), *How to Work Together: Seeking models of solidarity and alliance* (pp. 149–176). Museum of Impossible Forms. ISBN: 978-952-94-4840-1
+*Upcoming*
+:   *Book chapter*: **The Politics of Togetherness: Beyond the integration infrastructure of state and institutional apparatus**. In A. Alemanji, et. al. (Eds.), Rethinking and undoing integration. The Society for the Study of Ethnic Relations and International Migration (ETMU)
+
+*Upcoming*
+:   *Journal article*: **The origins of performative coloniality and the caste context: Notes on evolving oppression systems and graded power hierarchies**. In A. Allen, C. Penketh, & A. Wexler (Eds.), Disability Justice: Decentering Colonial Knowledge, Centering Decolonial Epistemologies
 
 2021 
-:   *Book Chapter:* **Ääniä Marginaalista: Museum of Impossible Forms Kontulassa** [[Voicing the Margins: Museum of Impossible Forms](https://aliakbarmehta.com/content/museum-of-impossible-forms-voicing-the-margins)]. In A. Rastas & L. Koivunen (Eds.), *Marginaaleista Museoihin* \[From Margins to Museums] (pp. 259-265). Vastapaino. ISBN 978-951-768-889-5
+:   *Book chapter:* **Generating (an)other economy**: Working together at Museum of Impossible Forms. In E. Aiava & R. Aiava (Eds.), *How to Work Together: Seeking models of solidarity and alliance* (pp. 149–176). Museum of Impossible Forms. ISBN: 978-952-94-4840-1
 
 2021 
-:   *Review*: **A longing for something written in memory**. In V. Saumya & E. Rahmati (Eds.), NO NIIN, 1.
+:   *Book chapter:* **Ääniä Marginaalista: Museum of Impossible Forms Kontulassa** [[Voicing the Margins: Museum of Impossible Forms](https://aliakbarmehta.com/content/museum-of-impossible-forms-voicing-the-margins)]. In A. Rastas & L. Koivunen (Eds.), *Marginaaleista Museoihin* \[From Margins to Museums] (pp. 259-265). Vastapaino. ISBN 978-951-768-889-5
 
 2021 
-:   *Book Chapter:* **Museum of Impossible Forms ja antirasistisen kulttuurituatannon haasteet** \[Museum of Impossible Forms and the challenges of antiracist cultural production]. In S. Keskinen, M. Seikkula, & F. Mkwesha (Eds.), *Rasismi, valta ja vastarinta* \[Racism, power and resistance] (pp. 221-224). Gaudeamus. ISBN 978-9-5234-5107-0 
+:   *Review*: **A longing for something written in memory: Library as Archive as Excavation Site**. In V. Saumya & E. Rahmati (Eds.), NO NIIN, 1.
+
+2021 
+:   *Book chapter:* **Museum of Impossible Forms ja antirasistisen kulttuurituatannon haasteet** \[Museum of Impossible Forms and the challenges of antiracist cultural production]. In S. Keskinen, M. Seikkula, & F. Mkwesha (Eds.), *Rasismi, valta ja vastarinta* \[Racism, power and resistance] (pp. 221-224). Gaudeamus. ISBN 978-9-5234-5107-0 
 
 2020 
-:   *Book Chapter:* **[The Shape of Museums to Come](https://aliakbarmehta.com/content/the-shape-of-museums-to-come)**. In Schnittpunkt & J Baur (Eds.), *Das Museum der Zukunft: 43 Neue beiträge zur diskussion über die zukunft des museums* \[The Museum of the Future. 43 New Contributions to the Discussion about the Future of the Museum] (pp. 189-193). Transcript Verlag. ISBN: 978-3-8394-5270-7
+:   *Book chapter:* **[The Shape of Museums to Come](https://aliakbarmehta.com/content/the-shape-of-museums-to-come)**. In Schnittpunkt & J Baur (Eds.), *Das Museum der Zukunft: 43 Neue beiträge zur diskussion über die zukunft des museums* \[The Museum of the Future. 43 New Contributions to the Discussion about the Future of the Museum] (pp. 189-193). Transcript Verlag. ISBN: 978-3-8394-5270-7
 
 2020
 :   *Curatorial text:* **Processing In-Between(ness)**, In M. Savallampi & A. A. Mehta (Eds.) *In Between HIAP summer Residency publication* (pp. 7-12). Helsinki International Artist Programme (HIAP).
@@ -440,7 +443,7 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 :   *Curatorial text:* **[Atlas of Lost Beliefs (for Insurgents, Citizens, & Untitled Bodies)](https://aliakbarmehta.com/content/atlas-of-lost-beliefs-for-insurgents-citizens-untitled-bodies)**. Museum of Impossible Forms.
 
 2019 
-:   *Book Chapter:* **[To Not Wait for the Archive: Home and Labour mired in the complications of Invisibalisation](https://aliakbarmehta.com/content/cyber-archive#to-not-wait-for-the-archive-home-and-labour-mired-in-the-complications-of-invisibalisation)**. In S. Mahbouba, P. Jallili & E. Lagerspetz (Eds.), *The Home Issue*, Visual Culture and Contemporary Art Journal #5, Aalto University.
+:   *Book chapter:* **[To Not Wait for the Archive: Home and Labour mired in the complications of Invisibalisation](https://aliakbarmehta.com/content/cyber-archive#to-not-wait-for-the-archive-home-and-labour-mired-in-the-complications-of-invisibalisation)**. In S. Mahbouba, P. Jallili & E. Lagerspetz (Eds.), *The Home Issue*, Visual Culture and Contemporary Art Journal #5, Aalto University.
 
 2018 
 :   *Text:* **[Colours of Violence](https://aliakbarmehta.com/content/256-million-colours-of-violence#colours-of-violence-aroop-iii-totems-and-taboos)**. In N. Adajania (Ed.), *AROOP III - Totems & Taboos*. Raza Foundation.
@@ -464,7 +467,7 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 :   *Journal article:* **[The Photons of Politics: Footnotes for a New History](https://aliakbarmehta.com/content/the-photons-of-politics-footnotes-for-a-new-history)**. In S. Boynick (Ed.), *RAB-RAB Journal for Political and Formal Inquiries in Art*, #4.1 (pp. 67-79), RAB-RAB Press.
 
 2015
-:   *Exhibition Essay:* **[No one at the ceremony remembers to mention the artist](https://aliakbarmehta.com/content/no-one-at-the-ceremony-remembers-to-mention-the-artist)**. for Vidha Saumya’s exhibition, *No one at the ceremony remembers to mention the artist*. Third Space.
+:   *Exhibition essay:* **[No one at the ceremony remembers to mention the artist](https://aliakbarmehta.com/content/no-one-at-the-ceremony-remembers-to-mention-the-artist)**. for Vidha Saumya’s exhibition, *No one at the ceremony remembers to mention the artist*. Third Space.
 
 2014 
 :   *Artist books:* **Site: Stage: Structure**. StudioVAAK.
