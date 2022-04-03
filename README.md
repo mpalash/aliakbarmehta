@@ -80,8 +80,12 @@ CMS, you can reach out in the [Netlify CMS Gitter](https://gitter.im/netlify/net
 
 ## 2 DO
 
+https://aws.plainenglish.io/sync-aws-s3-bucket-on-git-push-using-github-actions-54aacc07caf6
+https://github.com/jakejarvis/s3-sync-action
+
 Special characters: !"#$%&'()*+,./:;<=>?@[\]^``{|}~
 
 - Multiple paragraph breaks
-- OG
+
 - Search
+https://www.googleapis.com/customsearch/v1?key=AIzaSyBlypWtl5bkTz_5eBGT-AeYl2zxGJ9nomY&cx=52692460b6ccf68d6&q=lectures

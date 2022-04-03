@@ -5,7 +5,7 @@ subtitle: Interview with Ranjit Hoskote, CuMMA Papers Publication Series, (ed.)
 layout: layouts/content.njk
 tags: publication
 pubdate: "2017"
-hero: /static/img-d/hero-image-for-border-crossings.png
+hero: https://ik.imagekit.io/mp/aam/tr:w-1000/hero-image-for-border-crossings.png
 ---
 In their interview Ali Akbar Mehta and Vidha Saumya discuss with Hoskote _“obsessions of the imagination, influences and ‘acts of remembering, recalling, recounting, archiving, and extending forward’; as well as the need for a curatorial position as a function, the role of amnesia, and empathy within his curatorial interests as well as contexts as a writer and poet.”_
 

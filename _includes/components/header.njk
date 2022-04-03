@@ -1,7 +1,14 @@
 <header class="site-header" role="banner">
-  <a class="site-title" href="/">{{ metadata.title }}</a>
-  <span>{{ metadata.subtitle }}</span>
+  <span class="site-identity">
+    <a class="site-title" href="/">{{ metadata.title }}</a>
+    <span>{{ metadata.subtitle }}</span>
+  </span>
   <ul class="nav-links" role="navigation">
-    {# <li><a class="search" href=""><span></span></a></li> #}
+    <li>
+      <form class="nav-search">
+        <input id="search-field" type="text" value="" placeholder="Search" onchange="this.setAttribute('value', this.value);">
+        <input id="btn-search-submit" type="submit" value="Go">
+      </form>
+    </li>
   </ul>
 </header>

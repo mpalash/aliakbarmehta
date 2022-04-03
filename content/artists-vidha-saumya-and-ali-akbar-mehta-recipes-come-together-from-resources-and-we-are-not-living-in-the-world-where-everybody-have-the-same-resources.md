@@ -9,7 +9,7 @@ tags:
   - press
 pubdate: July 1, 2021 12:00 AM
 unlisted: "false"
-hero: /static/img-d/ali-and-vidha-podcast-cover-blum.png
+hero: https://ik.imagekit.io/mp/aam/tr:w-1000/ali-and-vidha-podcast-cover-blum.png
 parent: Ballad of the Lost Utopian Meadow
 ---
 > ### [Episode 9: Artists Vidha Saumya and Ali Akbar Mehta: "Recipes come together from resources - and we are not living in the world where everybody have the same resources"](https://aikakoneitajautopioita.fi/podcast/episode-9-artists-vidha-saumya-and-ali-akbar-mehta-recipes-come-together-from-resources-and-we-are-not-living-in-the-world-where)

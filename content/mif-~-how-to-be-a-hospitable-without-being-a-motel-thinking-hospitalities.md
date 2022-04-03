@@ -6,7 +6,7 @@ subtitle: Rehearsing Hospitalities Companion 1, (ed.) Yvonne Billimore and Jussi
 layout: content
 tags: publication
 pubdate: "2019"
-hero: /static/img-d/rehearsing-hospitalities-companion-1-ed.-yvonne-billimore-and-jussi-koitela-pub.-archive-books-berlin-in-collaboration-with-frame-contemporary-art-finland-2019.png
+hero: https://ik.imagekit.io/mp/aam/tr:w-1000/rehearsing-hospitalities-companion-1-ed.-yvonne-billimore-and-jussi-koitela-pub.-archive-books-berlin-in-collaboration-with-frame-contemporary-art-finland-2019.png
 shortdesc: ""
 summary: Museum of Impossible Forms (m{*if*}) is a cultural centre run by
   artists/ activists/ curators/  philosophers/ hustlers located in Kontula,

@@ -5,7 +5,7 @@ layout: layouts/content.njk
 tags: curatorial work
 pubdate: "2018"
 unlisted: "false"
-hero: /static/img-d/cyber-archive_hero-image.jpg
+hero: https://ik.imagekit.io/mp/aam/tr:w-1000/cyber-archive_hero-image.jpg
 shortdesc: "**Cyber Archive** is a curatorial framework inviting the reader to
   consider the Archive, as a narrative, a repository, a state-tool, a fact, a
   fiction, both as a site and trope for artistic inquiry and art production; to

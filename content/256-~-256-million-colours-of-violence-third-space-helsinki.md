@@ -5,18 +5,18 @@ layout: layouts/content.njk
 tags: solo exhibition
 pubdate: November 24, 2016 12:00 AM
 unlisted: "false"
-hero: /static/img-d/Ali%20Akbar%20Mehta_256_Third%20Space_Opening_2016%20.jpg
+hero: https://ik.imagekit.io/mp/aam/tr:w-1000/Ali%20Akbar%20Mehta_256_Third%20Space_Opening_2016%20.jpg
 parent: 256 Million Colours of Violence
 ---
-![Installation view, Third Space Helsinki, 2016](/static/img-d/ali-akbar-mehta_256-million-colours-of-violence_installation-view-01_third-space-helsinkie_2016.jpg)
-![Installation view, Third Space Helsinki, 2016](/static/img-d/ali-akbar-mehta_256-million-colours-of-violence_installation-view-04_third-space-helsinkie_2016.jpg)
-![Installation view, Third Space Helsinki, 2016](/static/img-d/ali-akbar-mehta_256-million-colours-of-violence_installation-view-02_third-space-helsinkie_2016.jpg)
-![Installation detail, Third Space Helsinki, 2016](/static/img-d/ali-akbar-mehta_256-million-colours-of-violence_detail_third-space-helsinki_2016.jpg)
-![Installation view, Third Space Helsinki, 2016](/static/img-d/ali-akbar-mehta_256-million-colours-of-violence_installation-view-06_third-space-helsinkie_2016.jpg)
-![Installation view, Third Space Helsinki, 2016](/static/img-d/ali-akbar-mehta_256-million-colours-of-violence_installation-view-07_third-space-helsinkie_2016.jpg)
-![Installation view, Third Space Helsinki, 2016](/static/img-d/ali-akbar-mehta_256-million-colours-of-violence_installation-view-05_third-space-helsinkie_2016.jpg)
-![Installation view, Third Space Helsinki, 2016](/static/img-d/15135823_10157843135065054_7539580485712289886_n.jpg)
-![Installation view, Third Space Helsinki, 2016](/static/img-d/ali-akbar-mehta_256-million-colours-of-violence_exterior-view_third-space-helsinki_2016.jpeg)
+![Installation view, Third Space Helsinki, 2016](https://ik.imagekit.io/mp/aam/tr:w-1000/ali-akbar-mehta_256-million-colours-of-violence_installation-view-01_third-space-helsinkie_2016.jpg)
+![Installation view, Third Space Helsinki, 2016](https://ik.imagekit.io/mp/aam/tr:w-1000/ali-akbar-mehta_256-million-colours-of-violence_installation-view-04_third-space-helsinkie_2016.jpg)
+![Installation view, Third Space Helsinki, 2016](https://ik.imagekit.io/mp/aam/tr:w-1000/ali-akbar-mehta_256-million-colours-of-violence_installation-view-02_third-space-helsinkie_2016.jpg)
+![Installation detail, Third Space Helsinki, 2016](https://ik.imagekit.io/mp/aam/tr:w-1000/ali-akbar-mehta_256-million-colours-of-violence_detail_third-space-helsinki_2016.jpg)
+![Installation view, Third Space Helsinki, 2016](https://ik.imagekit.io/mp/aam/tr:w-1000/ali-akbar-mehta_256-million-colours-of-violence_installation-view-06_third-space-helsinkie_2016.jpg)
+![Installation view, Third Space Helsinki, 2016](https://ik.imagekit.io/mp/aam/tr:w-1000/ali-akbar-mehta_256-million-colours-of-violence_installation-view-07_third-space-helsinkie_2016.jpg)
+![Installation view, Third Space Helsinki, 2016](https://ik.imagekit.io/mp/aam/tr:w-1000/ali-akbar-mehta_256-million-colours-of-violence_installation-view-05_third-space-helsinkie_2016.jpg)
+![Installation view, Third Space Helsinki, 2016](https://ik.imagekit.io/mp/aam/tr:w-1000/15135823_10157843135065054_7539580485712289886_n.jpg)
+![Installation view, Third Space Helsinki, 2016](https://ik.imagekit.io/mp/aam/tr:w-1000/ali-akbar-mehta_256-million-colours-of-violence_exterior-view_third-space-helsinki_2016.jpeg)
 
 The first iteration of **256 Million Colours of Violence** is exhibited in
 **[Third Space](http://www.th1rdspac3.com/256millioncolours.html)**, Helsinki, 2016. Through this exhibition, a first public encounter

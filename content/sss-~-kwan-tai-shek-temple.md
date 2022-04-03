@@ -4,7 +4,7 @@ layout: layouts/content.njk
 tags: artwork
 pubdate: "2014"
 unlisted: "true"
-hero: /static/img-d/7.-ali-akbar-mehta-site-stage-structure-2014-©-aliakbarmehta.jpg
+hero: https://ik.imagekit.io/mp/aam/tr:w-1000/7.-ali-akbar-mehta-site-stage-structure-2014-©-aliakbarmehta.jpg
 summary: >-
   <iframe width="560" height="315"
   src="https://www.youtube.com/embed/KG7h-lzm-Gk" frameborder="0"

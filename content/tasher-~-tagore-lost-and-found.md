@@ -5,7 +5,7 @@ subtitle: Curated by Bina Sarkar Ellias, IndiaBulls Art Gallery and Auction
 layout: layouts/content.njk
 tags: group exhibition
 pubdate: "2013"
-hero: /static/img-d/tagore-lost-and-found.jpg
+hero: https://ik.imagekit.io/mp/aam/tr:w-1000/tagore-lost-and-found.jpg
 parent: Tasher Desh
 ---
 

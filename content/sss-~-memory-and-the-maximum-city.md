@@ -3,7 +3,7 @@ title: sss ~ Memory and the Maximum City
 layout: layouts/content.njk
 tags: artist talk
 pubdate: "2015"
-hero: /static/img-d/memory-and-the-maximum-city-2015.png
+hero: https://ik.imagekit.io/mp/aam/tr:w-1000/memory-and-the-maximum-city-2015.png
 parent: "SITE : STAGE : STRUCTURE"
 children:
   - To Whomsoever it May Concern

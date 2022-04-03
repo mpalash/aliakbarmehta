@@ -6,7 +6,7 @@ layout: layouts/content.njk
 tags: performance
 pubdate: April 15, 2016 12:00 AM
 unlisted: "false"
-hero: /static/img-d/kallio-performance.jpg
+hero: https://ik.imagekit.io/mp/aam/tr:w-1000/kallio-performance.jpg
 parent: "WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs"
 ---
 <iframe width="560" height="315"
@@ -17,7 +17,7 @@ A 3 minute excerpt of my radio performance, which was a one hour Performance Rea
 
 Originally titled *null.void; // a sermon of nothingness and a space odyssey of zero movement and tycho magnetic anomalies*, **Narrating War** is a Transmedia Performance-lecture recitation and Research Project. It comprises a procedural audio soundscape of glitch sounds using static and radio frequencies, and a performance recitation of a comprehensive list of every *war, battle, siege, sacking, revolt and revolution, bombing and insurgency* spanning 5014 years of human conflict and violence.
 
-![performance view, Narrating War, 2016, Kallio Public Library, photo by Jernej Čuček Gerbec](/static/img-d/kallio-performance.jpg)
+![performance view, Narrating War, 2016, Kallio Public Library, photo by Jernej Čuček Gerbec](https://ik.imagekit.io/mp/aam/tr:w-1000/kallio-performance.jpg)
 
 Narrating War is a part of a currently-in-developement project titled **WAR • ROOM• ECHO: Regarding the Pain of Other Cyborgs**.
 

@@ -3,7 +3,7 @@ title: LM ~ Luminous Matter Press Kit
 layout: layouts/content.njk
 tags: press
 pubdate: "2011"
-hero: /static/img-d/lm1-large.jpg
+hero: https://ik.imagekit.io/mp/aam/tr:w-1000/lm1-large.jpg
 parent: Luminous Matter
 children:
   - To Whomsoever it May Concern
@@ -23,6 +23,6 @@ children:
   - Goodbye Blue Sky
   - Inhale / Exhale
 ---
-![](/static/img-d/lm1-large.jpg)
+![](https://ik.imagekit.io/mp/aam/tr:w-1000/lm1-large.jpg)
 
 Download Press Kit [here](http://luminousmatter.in/)

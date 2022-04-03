@@ -6,15 +6,15 @@ tags:
   - group exhibition
 pubdate: August 18, 2021 12:00 AM
 unlisted: "false"
-hero: /static/img-d/installation-detail-cpa-maunulatalo-2021-06.jpg
+hero: https://ik.imagekit.io/mp/aam/tr:w-1000/installation-detail-cpa-maunulatalo-2021-06.jpg
 summary: >-
-  ![](/static/img-d/installation-detail-cpa-maunulatalo-2021-01.jpg)
+  ![](https://ik.imagekit.io/mp/aam/tr:w-1000/installation-detail-cpa-maunulatalo-2021-01.jpg)
 
-  ![](/static/img-d/installation-detail-cpa-maunulatalo-2021-06.jpg)
+  ![](https://ik.imagekit.io/mp/aam/tr:w-1000/installation-detail-cpa-maunulatalo-2021-06.jpg)
 
-  ![](/static/img-d/installation-detail-cpa-maunulatalo-2021-07.jpg)
+  ![](https://ik.imagekit.io/mp/aam/tr:w-1000/installation-detail-cpa-maunulatalo-2021-07.jpg)
 
-  ![](/static/img-d/installation-detail-cpa-maunulatalo-2021-08.jpg)
+  ![](https://ik.imagekit.io/mp/aam/tr:w-1000/installation-detail-cpa-maunulatalo-2021-08.jpg)
 
 
   <br/>

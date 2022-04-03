@@ -6,11 +6,11 @@ tags:
   - group exhibition
 pubdate: June 13, 2021 12:00 AM
 unlisted: "false"
-hero: /static/img-d/mantta-art-festival-xxv.png
+hero: https://ik.imagekit.io/mp/aam/tr:w-1000/mantta-art-festival-xxv.png
 summary: ""
 parent: "WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs"
 ---
-![](/static/img-d/ali-akbar-mehta-and-anna-ruth-mantta-2021.jpg)
+![](https://ik.imagekit.io/mp/aam/tr:w-1000/ali-akbar-mehta-and-anna-ruth-mantta-2021.jpg)
 
 The Mänttä Art Festival’s artist list and theme for 2020 have been published. This year’s exhibition title is **Erehtyminen / To Err Is Human**.
 

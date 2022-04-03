@@ -5,7 +5,7 @@ layout: layouts/content.njk
 tags: ongoing project
 pubdate: "2022"
 unlisted: "false"
-hero: /static/img-d/Ali%20Akbar%20Mehta_Purgatory%20edit_12.jpg
+hero: https://ik.imagekit.io/mp/aam/tr:w-1000/Ali%20Akbar%20Mehta_Purgatory%20edit_12.jpg
 shortdesc: "**Purgatory Edit** is an experimental cinematic experience based on
   the conceptualizations of the Yugoslavian ‘Black Wave’ Cinema movement,
   “standing for the subordination of form to the psychological contents of human
@@ -23,7 +23,7 @@ summary: >-
   the characteristics of the movement, to create concepts and ideas.
 
 
-  ![](/static/img-d/ali-akbar-mehta-purgatory-edit-12.jpg)
+  ![](https://ik.imagekit.io/mp/aam/tr:w-1000/ali-akbar-mehta-purgatory-edit-12.jpg)
 children:
   - purg ~ Purgatory Edit, excerpts
   - purg ~ Purgatory Edit, methodology

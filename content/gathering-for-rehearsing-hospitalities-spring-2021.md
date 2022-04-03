@@ -7,7 +7,7 @@ tags:
   - curatorial work
 pubdate: April 19, 2021 12:00 AM
 unlisted: "false"
-hero: /static/img-d/grh-spring-2021-curatorial-vidoe-cover.png
+hero: https://ik.imagekit.io/mp/aam/tr:w-1000/grh-spring-2021-curatorial-vidoe-cover.png
 summary: >-
   <iframe title="vimeo-player"
   src="https://player.vimeo.com/video/641689708?h=7c480900bf" width="640"

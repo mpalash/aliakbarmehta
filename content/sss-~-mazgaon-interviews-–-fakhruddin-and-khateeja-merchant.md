@@ -4,7 +4,7 @@ layout: layouts/content.njk
 tags: artwork
 pubdate: "2014"
 unlisted: "false"
-hero: /static/img-d/ali-akbar-mehta-site-stage-structure-2014_nana-nani-film-still-01.png
+hero: https://ik.imagekit.io/mp/aam/tr:w-1000/ali-akbar-mehta-site-stage-structure-2014_nana-nani-film-still-01.png
 parent: "SITE : STAGE : STRUCTURE"
 ---
 <iframe src="https://player.vimeo.com/video/293507323" width="640"

@@ -8,7 +8,7 @@ unlisted: "false"
 hero: /static/img/installation-images-is-not-sculpture-2018.jpg
 summary: "!['Is the representation of violence also violent?', sandcasted
   aluminium,
-  2017](blob:https://dev-aam.netlify.app/98adbf98-d051-7043-9f72-d8a46da7ddd0)"
+  2017](/static/img/installation-images-is-not-sculpture-2018-02.jpg)"
 parent: Is the representation of violence also violent?
 children: []
 ---
@@ -20,12 +20,12 @@ It is said that we have moved into a “post-truth” era, as scientific fact ha
 
 The exhibition is open in the Learning Centre Lobby on 14-25.2.2017.
 
-*Teacher:* 
+*Teacher:*
 
 *Andy Best*
 
 
-*Workshop Master:* 
+*Workshop Master:*
 
 *Roel Meijs*
 

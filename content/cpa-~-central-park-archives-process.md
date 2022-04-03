@@ -18,38 +18,38 @@ summary: >-
   <br/><br/>
 
 
-  ![](/static/img-d/centralparkarchives-field-trip-230420-susanna-ali_photominnatarkka-crop.jpg)
+  ![](https://ik.imagekit.io/mp/aam/tr:w-1000/centralparkarchives-field-trip-230420-susanna-ali_photominnatarkka-crop.jpg)
 
-  ![](/static/img-d/central-park-archives_kiira-sprucetrees-2020_photoaliakbarmehta.jpg)
+  ![](https://ik.imagekit.io/mp/aam/tr:w-1000/central-park-archives_kiira-sprucetrees-2020_photoaliakbarmehta.jpg)
 
-  ![](/static/img-d/central-park-archives_fieldtrip-june2020_photominnatarkka.jpg)
+  ![](https://ik.imagekit.io/mp/aam/tr:w-1000/central-park-archives_fieldtrip-june2020_photominnatarkka.jpg)
 
-  ![](/static/img-d/centralparkarchives-iida-minna-maunulanewspaper-archives_photominnatarkka.jpg)
+  ![](https://ik.imagekit.io/mp/aam/tr:w-1000/centralparkarchives-iida-minna-maunulanewspaper-archives_photominnatarkka.jpg)
 parent: Central Park Archives
 ---
 The artists envision a map interface for the archives, in which various collections are embedded. The map works on a mobile phone directly in the terrain, or even at home on a computer. As you approach items marked on the map, sounds and images associated with the place begin to tell stories related to the place. On the map you can experience the song of the first birds of spring or immerse yourself in the rustle of Maunulanpuro. By changing the background map, you can also see how the Central Park area has changed since the 1930s.
 
-![](/static/img-d/keskuspuistoarkistot-pilotti-kayttoliittyma.png)
-![](/static/img-d/keskuspuistoarkistot-kartta-ilmakuva-1988_1200px.png)
-![](/static/img-d/keskuspuistoarkistot-kartta-ilmakuva-1976_1200px.png)
+![](https://ik.imagekit.io/mp/aam/tr:w-1000/keskuspuistoarkistot-pilotti-kayttoliittyma.png)
+![](https://ik.imagekit.io/mp/aam/tr:w-1000/keskuspuistoarkistot-kartta-ilmakuva-1988_1200px.png)
+![](https://ik.imagekit.io/mp/aam/tr:w-1000/keskuspuistoarkistot-kartta-ilmakuva-1976_1200px.png)
 
 The first collections include sounds of nature and people, photographs and newspaper clippings. They document the joys and sightings of Central Park, as well as the eco-crises and building plans that threaten the park. The sounds that make up the story of Central Park tell, for example, what it’s like to encounter a wild deer, what happened when the Kiira storm surprised the farmer, or when people formed a chain against the plans of the master plan.
 
-![](/static/img-d/flying-squirrel-11-photo-by-antti-viren.jpg)
-![](/static/img-d/two-flying-squirrels-02-photo-by-antti-viren.jpg)
-![](/static/img-d/masa_syys-1992_vehreacc88-vanhus1.jpg)
-![](/static/img-d/central-general-plan-2050-demonstration-banner-2016_phototonyekman.jpg)
+![](https://ik.imagekit.io/mp/aam/tr:w-1000/flying-squirrel-11-photo-by-antti-viren.jpg)
+![](https://ik.imagekit.io/mp/aam/tr:w-1000/two-flying-squirrels-02-photo-by-antti-viren.jpg)
+![](https://ik.imagekit.io/mp/aam/tr:w-1000/masa_syys-1992_vehreacc88-vanhus1.jpg)
+![](https://ik.imagekit.io/mp/aam/tr:w-1000/central-general-plan-2050-demonstration-banner-2016_phototonyekman.jpg)
 
 The first year of the Central Park Archives project ended with a joint audio walk in September 2020. Participants were picked up from Maunula House to the cultivation plots of Maunulanpuisto, where the first collections of the project were tested with guided tours on site.
 
-![](/static/img-d/central-park-archives-sound-walk-bus_photojaimeculebro.jpg)
-![](/static/img-d/central-park-archives-sound-walk-forest-path_photojaimeculebro.jpg)
-![](/static/img-d/central-park-archives-sound-walk-parking_photojaimeculebro.jpg)
-![](/static/img-d/central-park-archives-sound-walk-susanna_photojaimeculebro.jpg)
-![](/static/img-d/central-park-archives-sound-walk-stream-bridge_photojaimeculebro.jpg)
-![](/static/img-d/central-park-archives-sound-walk-allotment_photojaimeculebro.jpg)
-![](/static/img-d/central-park-archives-sound-walk-iida_photojaimeculebro.jpg)
-![](/static/img-d/central-park-archives-sound-walk-sunflowers_photojaimeculebro.jpg)
+![](https://ik.imagekit.io/mp/aam/tr:w-1000/central-park-archives-sound-walk-bus_photojaimeculebro.jpg)
+![](https://ik.imagekit.io/mp/aam/tr:w-1000/central-park-archives-sound-walk-forest-path_photojaimeculebro.jpg)
+![](https://ik.imagekit.io/mp/aam/tr:w-1000/central-park-archives-sound-walk-parking_photojaimeculebro.jpg)
+![](https://ik.imagekit.io/mp/aam/tr:w-1000/central-park-archives-sound-walk-susanna_photojaimeculebro.jpg)
+![](https://ik.imagekit.io/mp/aam/tr:w-1000/central-park-archives-sound-walk-stream-bridge_photojaimeculebro.jpg)
+![](https://ik.imagekit.io/mp/aam/tr:w-1000/central-park-archives-sound-walk-allotment_photojaimeculebro.jpg)
+![](https://ik.imagekit.io/mp/aam/tr:w-1000/central-park-archives-sound-walk-iida_photojaimeculebro.jpg)
+![](https://ik.imagekit.io/mp/aam/tr:w-1000/central-park-archives-sound-walk-sunflowers_photojaimeculebro.jpg)
 
 The first year of the Central Park Archives project ended with a joint audio walk in September 2020. Participants were picked up from Maunula House to the cultivation plots of Maunulanpuisto, where the first collections of the project were tested with guided tours on site.
 

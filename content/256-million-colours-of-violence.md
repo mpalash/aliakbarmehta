@@ -4,7 +4,7 @@ layout: layouts/content.njk
 tags: ongoing project
 pubdate: November 24, 2016 12:00 AM
 unlisted: "false"
-hero: /static/img-d/ali-akbar-mehta-256-million-colours-of-violence.png
+hero: https://ik.imagekit.io/mp/aam/tr:w-1000/ali-akbar-mehta-256-million-colours-of-violence.png
 shortdesc: 256 Million Colours of Violence, a survey-based interactive archival
   research project, invites online and onsite audiences participation to
   actively co-create an archive of colours that represent ‘violence’. Know more

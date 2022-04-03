@@ -4,9 +4,9 @@ subtitle: Essay by Ryan Holmberg
 layout: layouts/content.njk
 tags: press
 pubdate: "2014"
-hero: /static/img-d/chinese-temple.jpg
+hero: https://ik.imagekit.io/mp/aam/tr:w-1000/chinese-temple.jpg
 summary: >-
-  ![Mazgaon Gardens, 2012](/static/img-d/mazgaon-garden.jpg)
+  ![Mazgaon Gardens, 2012](https://ik.imagekit.io/mp/aam/tr:w-1000/mazgaon-garden.jpg)
 
 
   The Joseph Batista Gardens is one of the pleasantest places in Mumbai. Sitting atop a hillock, the garden park literally lifts you out of the noise from which even the surrounding neighborhood of Mazagaon, sedate by Mumbai standards, cannot escape.

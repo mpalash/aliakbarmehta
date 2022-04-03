@@ -8,19 +8,19 @@ unlisted: "false"
 summary: >-
   
 
-  ![](/static/img-d/ali-akbar-mehta-i-india-art-festival-2012-i-of-men-and-supermen-01-lenticular-and-vinyl-on-archival-mount-88-x-114-cm-edition-2_lo-res-for-web.jpg)
+  ![](https://ik.imagekit.io/mp/aam/tr:w-1000/ali-akbar-mehta-i-india-art-festival-2012-i-of-men-and-supermen-01-lenticular-and-vinyl-on-archival-mount-88-x-114-cm-edition-2_lo-res-for-web.jpg)
 
-  ![](/static/img-d/Ali-Akbar-Mehta-I-India-Art-Festival-2012-I-Of-Men-and-Supermen-02,-Lenticular-and-vinyl-on-archival-mount,--88-x-114-cm,-edition-2_lo-res-for-web-1.jpg)
+  ![](https://ik.imagekit.io/mp/aam/tr:w-1000/Ali-Akbar-Mehta-I-India-Art-Festival-2012-I-Of-Men-and-Supermen-02,-Lenticular-and-vinyl-on-archival-mount,--88-x-114-cm,-edition-2_lo-res-for-web-1.jpg)
 
-  ![](/static/img-d/Ali-Akbar-Mehta-I-India-Art-Festival-2012-I-Of-Men-and-Supermen-03,-Lenticular-and-vinyl-on-archival-mount,--88-x-114-cm,-edition-2_lo-res-for-web.jpg)
+  ![](https://ik.imagekit.io/mp/aam/tr:w-1000/Ali-Akbar-Mehta-I-India-Art-Festival-2012-I-Of-Men-and-Supermen-03,-Lenticular-and-vinyl-on-archival-mount,--88-x-114-cm,-edition-2_lo-res-for-web.jpg)
 
-  ![](/static/img-d/Ali-Akbar-Mehta-I-India-Art-Festival-2012-I-Of-Men-and-Supermen-04,-Lenticular-and-vinyl-on-archival-mount,--57-x-92-cm,-edition-1_lo-res-for-web-1.jpg)
+  ![](https://ik.imagekit.io/mp/aam/tr:w-1000/Ali-Akbar-Mehta-I-India-Art-Festival-2012-I-Of-Men-and-Supermen-04,-Lenticular-and-vinyl-on-archival-mount,--57-x-92-cm,-edition-1_lo-res-for-web-1.jpg)
 
-  ![](/static/img-d/Ali-Akbar-Mehta-I-India-Art-Festival-2012-I-Of-Men-and-Supermen-05,-Lenticular-and-vinyl-on-archival-mount,--57-x-92-cm,-edition-1_lo-res-for-web-1.jpg)
+  ![](https://ik.imagekit.io/mp/aam/tr:w-1000/Ali-Akbar-Mehta-I-India-Art-Festival-2012-I-Of-Men-and-Supermen-05,-Lenticular-and-vinyl-on-archival-mount,--57-x-92-cm,-edition-1_lo-res-for-web-1.jpg)
 
-  ![](/static/img-d/Ali-Akbar-Mehta-I-India-Art-Festival-2012-I-Of-Men-and-Supermen-06,-Lenticular-and-vinyl-on-archival-mount,--57-x-92-cm,-edition-1_lo-res-for-web-1.jpg)
+  ![](https://ik.imagekit.io/mp/aam/tr:w-1000/Ali-Akbar-Mehta-I-India-Art-Festival-2012-I-Of-Men-and-Supermen-06,-Lenticular-and-vinyl-on-archival-mount,--57-x-92-cm,-edition-1_lo-res-for-web-1.jpg)
 
-  ![](/static/img-d/Ali-Akbar-Mehta-I-India-Art-Festival-2012-I-Of-Men-and-Supermen-07,-Lenticular-and-vinyl-on-archival-mount,--57-x-92-cm,-edition-1_lo-res-for-web-1.jpg)
+  ![](https://ik.imagekit.io/mp/aam/tr:w-1000/Ali-Akbar-Mehta-I-India-Art-Festival-2012-I-Of-Men-and-Supermen-07,-Lenticular-and-vinyl-on-archival-mount,--57-x-92-cm,-edition-1_lo-res-for-web-1.jpg)
 
 
   **Of Men and Supermen**

@@ -8,8 +8,8 @@ layout: layouts/base.njk
   {% if hero %}
   <div class="project-hero">
     <img
-      srcset="{{ hero | replace('/img-d/','/img-l/') }} 1800w, {{ hero | replace('/img-d/','/img-m/') }} 1200w, {{ hero | replace('/img-d/','/img-d/') }} 1000w, {{ hero | replace('/img-d/','/img-s/') }} 800w"
-      src="{{ hero | replace('/img-d/','/img-s/') }}"
+      srcset="{{ hero | replace('w-1000','w-1800') }} 1800w, {{ hero | replace('w-1000','w-1200') }} 1200w, {{ hero | replace('w-1000','/w-1000') }} 1000w, {{ hero | replace('w-1000','w-800') }} 800w"
+      src="{{ hero | replace('w-1000','w-1000') }}"
       alt="{{ title }}"
       loading="eager"
       onload="this.classList.add('imgLoaded')" />

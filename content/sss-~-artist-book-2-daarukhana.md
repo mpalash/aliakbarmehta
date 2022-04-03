@@ -4,11 +4,11 @@ layout: layouts/content.njk
 tags: publication
 pubdate: "2014"
 unlisted: "false"
-hero: /static/img-d/slide15.jpg
+hero: https://ik.imagekit.io/mp/aam/tr:w-1000/slide15.jpg
 parent: "SITE : STAGE : STRUCTURE"
 ---
-![Artist Book #2: Daarukhana, SITE : STAGE : STRUCTURE, 2014](/static/img-d/slide15.jpg)
-![](/static/img-d/darukhana-01.jpg)
-![](/static/img-d/darukhana-02.jpg)
-![](/static/img-d/darukhana-03.jpg)
-![](/static/img-d/darukhana-04.jpg)
+![Artist Book #2: Daarukhana, SITE : STAGE : STRUCTURE, 2014](https://ik.imagekit.io/mp/aam/tr:w-1000/slide15.jpg)
+![](https://ik.imagekit.io/mp/aam/tr:w-1000/darukhana-01.jpg)
+![](https://ik.imagekit.io/mp/aam/tr:w-1000/darukhana-02.jpg)
+![](https://ik.imagekit.io/mp/aam/tr:w-1000/darukhana-03.jpg)
+![](https://ik.imagekit.io/mp/aam/tr:w-1000/darukhana-04.jpg)

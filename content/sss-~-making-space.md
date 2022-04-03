@@ -4,8 +4,8 @@ subtitle: curated by Saloni Doshi, Sakshi Art Gallery, Mumbai
 layout: layouts/content.njk
 tags: group exhibition
 pubdate: "2019"
-hero: /static/img-d/ali-akbar-mehta-invite-making-space-2020.jpg
+hero: https://ik.imagekit.io/mp/aam/tr:w-1000/ali-akbar-mehta-invite-making-space-2020.jpg
 parent: "SITE : STAGE : STRUCTURE"
 ---
-![Installation view: SITE : STAGE : STRUCTURE, Making Space curated by Saloni Doshi, Sakshi Art Gallery, Mumbai. 2019](/static/img-d/ali-akbar-mehta-installation-view-making-space-2020_01.jpg)
-![Installation view: SITE : STAGE : STRUCTURE, Making Space curated by Saloni Doshi, Sakshi Art Gallery, Mumbai. 2019](/static/img-d/ali-akbar-mehta-installation-view-making-space-2020_02.jpg)
+![Installation view: SITE : STAGE : STRUCTURE, Making Space curated by Saloni Doshi, Sakshi Art Gallery, Mumbai. 2019](https://ik.imagekit.io/mp/aam/tr:w-1000/ali-akbar-mehta-installation-view-making-space-2020_01.jpg)
+![Installation view: SITE : STAGE : STRUCTURE, Making Space curated by Saloni Doshi, Sakshi Art Gallery, Mumbai. 2019](https://ik.imagekit.io/mp/aam/tr:w-1000/ali-akbar-mehta-installation-view-making-space-2020_02.jpg)

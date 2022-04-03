@@ -4,8 +4,8 @@ subtitle: curated by Heidi Hänninen
 layout: layouts/content.njk
 tags: performance
 pubdate: "2017"
-hero: /static/img-d/kapeli-performance.jpg
+hero: https://ik.imagekit.io/mp/aam/tr:w-1000/kapeli-performance.jpg
 parent: "WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs"
 ---
-![performance view, Narrating War, 2017, Kaapelitehdas, Helsinki, photo by Vidha Saumya](/static/img-d/kapeli-performance.jpg)
-![performance view, Narrating War, 2017, Kaapelitehdas, Helsinki, photo by Vidha Saumya](/static/img-d/narrating-war.jpg)
+![performance view, Narrating War, 2017, Kaapelitehdas, Helsinki, photo by Vidha Saumya](https://ik.imagekit.io/mp/aam/tr:w-1000/kapeli-performance.jpg)
+![performance view, Narrating War, 2017, Kaapelitehdas, Helsinki, photo by Vidha Saumya](https://ik.imagekit.io/mp/aam/tr:w-1000/narrating-war.jpg)

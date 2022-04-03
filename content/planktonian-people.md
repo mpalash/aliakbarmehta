@@ -5,7 +5,7 @@ layout: layouts/content.njk
 tags: ongoing project
 pubdate: August 1, 2013 12:00 AM
 unlisted: "false"
-hero: /static/img-d/ali-akbar-mehta-planktonian-people-ii-2013-ink-on-paper-16.5-h-x-23.25-w-inches.jpg
+hero: https://ik.imagekit.io/mp/aam/tr:w-1000/ali-akbar-mehta-planktonian-people-ii-2013-ink-on-paper-16.5-h-x-23.25-w-inches.jpg
 shortdesc: "*Planktonian People* is an ongoing series of ink, watercolour, and
   digital works on paper. the series portrays *human/non-human hybrids, Mutants,
   Androids and Cyborgs* as a cast of time-travellers, constantly in the past,
@@ -16,6 +16,7 @@ children:
   - Placebo Singers
   - plank ~ Unselfed Extended
   - Tasher Desh
+  - plank ~ Small is Beautiful – II
   - Superheroes ~ The League of Superheroes
   - The Superhero Series
   - Ballad ~ The Harlequin Series

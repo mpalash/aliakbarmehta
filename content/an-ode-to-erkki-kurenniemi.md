@@ -4,7 +4,7 @@ subtitle: Essay by Ali Akbar Mehta
 layout: layouts/content.njk
 tags: unpublished
 pubdate: "2018"
-hero: /static/img-d/erkkikurenniemi.jpg
+hero: https://ik.imagekit.io/mp/aam/tr:w-1000/erkkikurenniemi.jpg
 children: []
 ---
 > ## *“A personal tool is a combination of computer, terminal, television, telephone, viviphone, radio, taper recorder, operating table, book, magazine, newspaper, library, school, post office, bank, electric organ, answering machine, walkie-talkie, cinema, theatre, typewriter, calculator, calender, diary watch, camera, microscope, telescope, workplace, entertainment, social relations, photo album, museum, art exhibition.*

@@ -7,7 +7,7 @@ tags:
   - artist talk
 pubdate: "2020"
 unlisted: "false"
-hero: /static/img-d/rehearsing-hospitalities-companion-2-readings-with-annet-dekker-and-susanna-ånäs-and-ali-akbar-mehta.png
+hero: https://ik.imagekit.io/mp/aam/tr:w-1000/rehearsing-hospitalities-companion-2-readings-with-annet-dekker-and-susanna-ånäs-and-ali-akbar-mehta.png
 summary: >-
   <iframe width="560" height="315"
   src="https://www.youtube.com/embed/YUeC7AnDZDE?controls=0" title="YouTube
@@ -50,4 +50,4 @@ And of course all the support through a growing community of [\#maunula](https:/
 * In addition, Frame is distributing a limited number of hard copies for free from their office space in Helsinki. These can be collected on Thursday 24th September and Thursday 1st October from 10:00 - 15:00. Full information on how to access the building is available on their website.
 <br/><br/>
 
-![](/static/img-d/rehearsing-hospitalities-ii.jpg)
+![](https://ik.imagekit.io/mp/aam/tr:w-1000/rehearsing-hospitalities-ii.jpg)

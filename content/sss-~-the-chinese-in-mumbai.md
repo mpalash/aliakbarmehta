@@ -6,7 +6,7 @@ pubdate: "2014"
 unlisted: "true"
 summary: >-
   
-  ![Kwan Tai Shek temple, SITE : STAGE : STRUCTURE, 2014](/static/img-d/chinese-temple.jpg)
+  ![Kwan Tai Shek temple, SITE : STAGE : STRUCTURE, 2014](https://ik.imagekit.io/mp/aam/tr:w-1000/chinese-temple.jpg)
 
   In the early 19th century, hundreds of Chinese labourers joined the East India Company, working as welders, fitters, carpenters and cooks at its operations in Calcutta (now Kolkata) and Bombay (now Mumbai). The Company used to hire mainly Cantonese from Hong Kong, who were brought by ship to India, while others crossed the border into India from Burma.
 parent: "SITE : STAGE : STRUCTURE"

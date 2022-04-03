@@ -6,12 +6,12 @@ tags:
   - press
 pubdate: July 16, 2021 11:44 AM
 unlisted: "false"
-hero: /static/img-d/blum-time-machine-and-utopia-press-2021.jpeg
+hero: https://ik.imagekit.io/mp/aam/tr:w-1000/blum-time-machine-and-utopia-press-2021.jpeg
 parent: Ballad of the Lost Utopian Meadow
 ---
 Ympäristöahdistus on yli sata vuotta vanha ilmiö
 
-![](/static/img-d/blum-time-machine-and-utopia-press-2021.jpeg "Varia Sjöström (left) Hatz Lambo Vidha Saumya and Ali Akbar Mehta are involved in the performance Ballad of the Lost Utopian Meadow - a finnish food Archive, Their performance commented on food and food production. Photo: Jari Kärkkäinen / General")
+![](https://ik.imagekit.io/mp/aam/tr:w-1000/blum-time-machine-and-utopia-press-2021.jpeg "Varia Sjöström (left) Hatz Lambo Vidha Saumya and Ali Akbar Mehta are involved in the performance Ballad of the Lost Utopian Meadow - a finnish food Archive, Their performance commented on food and food production. Photo: Jari Kärkkäinen / General")
 
 read [here](https://yle.fi/uutiset/3-12019731)
 

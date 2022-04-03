@@ -16,6 +16,7 @@ children:
   - Placebo Singers
   - plank ~ Unselfed Extended
   - Tasher Desh
+  - plank ~ Small is Beautiful – II
   - Superheroes ~ The League of Superheroes
   - The Superhero Series
   - Ballad ~ The Harlequin Series

@@ -3,7 +3,7 @@ title: wre ~ Narrating War, Carinarnica, Nova Gorcia
 layout: layouts/content.njk
 tags: performance
 pubdate: "2018"
-hero: /static/img-d/ali-akbar-mehta_narrating-war-carinarnica-nova-goriza-2018.jpg
+hero: https://ik.imagekit.io/mp/aam/tr:w-1000/ali-akbar-mehta_narrating-war-carinarnica-nova-goriza-2018.jpg
 parent: "WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs"
 ---
 <iframe src="https://player.vimeo.com/video/326891263" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

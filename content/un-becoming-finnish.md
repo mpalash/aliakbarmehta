@@ -4,7 +4,7 @@ layout: layouts/content.njk
 tags: past project
 pubdate: June 2, 2016 12:00 AM
 unlisted: "false"
-hero: /static/img-d/becoming-uh-finnish_space-invaders-iv_matinkyla-espoo_2016.jpg
+hero: https://ik.imagekit.io/mp/aam/tr:w-1000/becoming-uh-finnish_space-invaders-iv_matinkyla-espoo_2016.jpg
 children:
   - "unbecoming ~ Space Invaders IV: Heterotopia"
 ---

@@ -7,7 +7,7 @@ tags:
   - unpublished
 pubdate: "2019"
 unlisted: "false"
-hero: /static/img-d/museum-of-impossible-forms.png
+hero: https://ik.imagekit.io/mp/aam/tr:w-1000/museum-of-impossible-forms.png
 summary: >-
   In November 2019, I was invited to talk about diversity within the art and
   cultural scene of Helsinki, to the curatorial staff at Helsinki Art Museum,

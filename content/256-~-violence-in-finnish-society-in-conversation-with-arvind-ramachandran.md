@@ -5,7 +5,7 @@ layout: layouts/content.njk
 tags: artist talk
 pubdate: April 28, 2020 12:00 AM
 unlisted: "false"
-hero: /static/img-d/ali-akbar-mehta_online-program-03_myymala2_2020.jpg
+hero: https://ik.imagekit.io/mp/aam/tr:w-1000/ali-akbar-mehta_online-program-03_myymala2_2020.jpg
 parent: 256 Million Colours of Violence
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G2tqATySUSU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

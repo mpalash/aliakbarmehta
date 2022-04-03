@@ -4,9 +4,9 @@ subtitle: organised as part of residency w/ M-Cult at﻿ Maunula House, Helsinki
 layout: layouts/content.njk
 tags: artist talk
 pubdate: "2020"
-hero: /static/img-d/central-park-archives-workshops-maunulatalo-helsinki_2020.jpg
+hero: https://ik.imagekit.io/mp/aam/tr:w-1000/central-park-archives-workshops-maunulatalo-helsinki_2020.jpg
 summary: >-
-  ![](/static/img-d/central-park-archives-workshops-maunulatalo-helsinki_2020.jpg)
+  ![](https://ik.imagekit.io/mp/aam/tr:w-1000/central-park-archives-workshops-maunulatalo-helsinki_2020.jpg)
 
 
   The *Central Park Archives* project organised two workshops, on **19.08.2020** and **01.09.2020** to introduce *open source*, and *open content* tools and practices for collaborative online publishing. Why and how to contribute to Wikipedia, Wikidata, OpenStreetMap, and other open projects, and how to use Creative Commons licenses to grant permission to share?
@@ -30,4 +30,4 @@ Maunula House, Metsäpuro hall, Metsäpurontie 4, Helsinki**
 *Map services on the Central Park\
 *Central Park Archives clinic: small group sessions
 
-![](/static/img-d/cpa_black-and-white-01.jpg)
+![](https://ik.imagekit.io/mp/aam/tr:w-1000/cpa_black-and-white-01.jpg)

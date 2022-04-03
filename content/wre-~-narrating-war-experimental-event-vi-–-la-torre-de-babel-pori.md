@@ -6,10 +6,10 @@ layout: layouts/content.njk
 tags: performance
 pubdate: November 28, 2018 12:00 AM
 unlisted: "false"
-hero: /static/img-d/1.-ali-akbar-mehta_narrating-war-war-room-echo-pori-2019.jpg
+hero: https://ik.imagekit.io/mp/aam/tr:w-1000/1.-ali-akbar-mehta_narrating-war-war-room-echo-pori-2019.jpg
 parent: "WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs"
 ---
-![performance view, Pori Film Festival, Pori, photo by Anna Jensen](/static/img-d/1.-ali-akbar-mehta_narrating-war-war-room-echo-pori-2019.jpg)
+![performance view, Pori Film Festival, Pori, photo by Anna Jensen](https://ik.imagekit.io/mp/aam/tr:w-1000/1.-ali-akbar-mehta_narrating-war-war-room-echo-pori-2019.jpg)
 
 See a live stream of the performance **[here](https://www.facebook.com/aliakbarmehta/videos/10161149738290054/)**
 

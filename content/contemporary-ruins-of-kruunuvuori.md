@@ -5,7 +5,7 @@ layout: layouts/content.njk
 tags: ongoing project
 pubdate: '2015'
 hero: >-
-  /static/img-d/symbiosis-image.jpg
+  https://ik.imagekit.io/mp/aam/tr:w-1000/symbiosis-image.jpg
 children:
   - Kru ~ Perfect Ghosts
   - Kru ~ Proposal for Contemporary Ruins of Kruunuvuori

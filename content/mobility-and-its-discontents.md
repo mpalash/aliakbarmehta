@@ -5,12 +5,12 @@ layout: content
 tags: teaching
 pubdate: March 1, 2021 12:00 AM
 unlisted: "false"
-hero: /static/img-d/ali-akbar-mehta-talk-at-hango-teatertraff-vartraff-2021.jpg
+hero: https://ik.imagekit.io/mp/aam/tr:w-1000/ali-akbar-mehta-talk-at-hango-teatertraff-vartraff-2021.jpg
 shortdesc: What is needed to ensure healthy and sustainable international
   mobility? What do international cooperation mean for the Finnish Swedish
   theater field and can we create structures that are right from the start?
 summary: >-
-  ![](/static/img-d/ali-akbar-mehta-talk-at-hango-teatertraff-vartraff-2021.jpg)
+  ![](https://ik.imagekit.io/mp/aam/tr:w-1000/ali-akbar-mehta-talk-at-hango-teatertraff-vartraff-2021.jpg)
 
 
   "The subject of conversation is certainly topical, yet it is hardly new, at least for many non-European citizens of the world, as well as the several historically marginalised, racialised, segregated, and oppressed communities. 

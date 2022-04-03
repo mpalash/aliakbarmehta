@@ -3,7 +3,7 @@ title: wre ~ Narrating War, Pispala, Tampere
 layout: layouts/content.njk
 tags: performance
 pubdate: "2016"
-hero: /static/img-d/pispala-performance.jpg
+hero: https://ik.imagekit.io/mp/aam/tr:w-1000/pispala-performance.jpg
 summary: |-
   <iframe width="560" height="315"
   src="https://www.youtube.com/embed/7M0vfJweVU0" frameborder="0"
@@ -25,11 +25,11 @@ parent: "WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs"
 ---
 
 
-![Pispala Library, Tampere](/static/img-d/pispala-library-03.jpg)
+![Pispala Library, Tampere](https://ik.imagekit.io/mp/aam/tr:w-1000/pispala-library-03.jpg)
 
 The project is ongoing and a copy of the book in its current state is donated to the [Pispala Library](http://www.hirvikatu10.net/wordpress.1/?page_id=8) on the occasion of the exhibition, ‘Where does poetry nest?’, on 6th September, 2016 in memory of the over 5000 year old Civil War that the world, it seems, has not seen enough of.
 
-![War List Codex, Pispala Library, Tampere](/static/img-d/pispala-library-01.jpg)
+![War List Codex, Pispala Library, Tampere](https://ik.imagekit.io/mp/aam/tr:w-1000/pispala-library-01.jpg)
 
 > **Missä runous pesii? | Where does poetry nest?**
 >

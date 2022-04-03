@@ -4,7 +4,7 @@ layout: layouts/content.njk
 tags: unpublished
 pubdate: "2014"
 unlisted: "false"
-hero: /static/img-d/ali-akbar-mehta_installation-of-war-list_cyborg-archive-war-room-echo_tifa-working-studios_2018.jpg
+hero: https://ik.imagekit.io/mp/aam/tr:w-1000/ali-akbar-mehta_installation-of-war-list_cyborg-archive-war-room-echo_tifa-working-studios_2018.jpg
 summary: >-
   The French poet Eugene Guillevic, whose ‘Charnel Houses’ (1947) is one of the
   first, and finest, poetic responses to the Shoah (Jewish, meaning Holocaust),

@@ -6,7 +6,7 @@ tags:
   - curatorial work
 pubdate: October 21, 2021 12:00 AM
 unlisted: "false"
-hero: /static/img-d/main.png
+hero: https://ik.imagekit.io/mp/aam/tr:w-1000/main.png
 shortdesc: The ‘How to Work Together?’ podcast series is a culmination of the
   first collaboration between [PLATFORM](http://www.platform.fi/) X [Museum of
   Impossible Forms](https://www.museumofimpossibleforms.org/) in 2020. These
@@ -15,7 +15,7 @@ shortdesc: The ‘How to Work Together?’ podcast series is a culmination of th
   discuss desires of working together, outline ecologies of collaboration, and
   para-institutional community-led praxis as a primary aim and processual goal.
 summary: >-
-  ![](/static/img-d/06.-podcast-artwork-how-to-work-together-curated-by-ali-akbar-mehta.png)
+  ![](https://ik.imagekit.io/mp/aam/tr:w-1000/06.-podcast-artwork-how-to-work-together-curated-by-ali-akbar-mehta.png)
 
 
   The ‘How to Work Together?’ podcast series is a culmination of the first collaboration between [PLATFORM](http://www.platform.fi/) X [Museum of Impossible Forms](https://www.museumofimpossibleforms.org/) in 2020. These podcasts and conversations, under the umbrella of collaboration, are infused with the possibilities and limits of location identity and practice. They discuss desires of working together, outline ecologies of collaboration, and para-institutional community-led praxis as a primary aim and processual goal.

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {% include "components/head.njk" %}
+
+  <body>
+    {% include "components/header.njk" %}
+    <main>
+      <div id="search-results">
+
+      </div>
+    </main>
+    {% include "components/footer.njk" %}
+  </body>
+
+  <script src="https://apis.google.com/js/api.js"></script>
+  <script>
+    function init() {
+      gapi.client.setApiKey("AIzaSyBlypWtl5bkTz_5eBGT-AeYl2zxGJ9nomY");
+      return gapi.client.load("https://content.googleapis.com/discovery/v1/apis/customsearch/v1/rest")
+      .then(function() {
+        console.log("GAPI client loaded for API");
+        search();
+      },
+      function(err) { console.error("Error loading GAPI client for API", err); });
+    }
+    function search() {
+      const urlParams = new URLSearchParams(window.location.search);
+      if(urlParams.has('q')){
+        query = urlParams.get('q');
+      } else {
+        query = '';
+      }
+
+      return gapi.client.search.cse.siterestrict.list({
+        "cx": "52692460b6ccf68d6",
+        q: query
+      })
+      .then(function(response) {
+        renderSearchResults(response, query)
+      },
+      function(err) { console.error("Execute error", err); });
+    }
+    function renderSearchResults(response, query) {
+      console.log(response)
+      var dom = '';
+      dom += '<h1>Searching for: ' + query + '</h1>'
+      if(response.result.items.length > 0) {
+        response.result.items.forEach((item, i) => {
+          dom += '<div><h2><a href="' + item.formattedUrl + '">' + item.title + '</a></h2>'
+          dom += '<p>' + item.snippet + '</p>'
+          dom += '</div>'
+        });
+      } else {
+        dom += '<p class="no-results">Search for something else, maybe?</p>'
+      }
+
+      if(document.querySelector('#search-results') != null){
+        document.querySelector('#search-results').innerHTML = dom;
+      }
+    }
+
+    // Loads the JavaScript client library and invokes `start` afterwards.
+    gapi.load('client', init);
+  </script>
+
+</html>

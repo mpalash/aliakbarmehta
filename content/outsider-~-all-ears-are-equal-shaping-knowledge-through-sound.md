@@ -4,7 +4,7 @@ subtitle: Interview by OUTSIDERS AT WORK
 layout: layouts/content.njk
 tags: publication
 pubdate: '2019'
-hero: /static/img-d/images-01.jpg
+hero: https://ik.imagekit.io/mp/aam/tr:w-1000/images-01.jpg
 parent: Outsiders at Work
 children: []
 ---
@@ -12,6 +12,6 @@ Tuike and Simo Alitalo are sound artists based in Turku, Finland. Their practice
 
 
 
-![](/static/img-d/tuike-and-simo-01.jpg)
+![](https://ik.imagekit.io/mp/aam/tr:w-1000/tuike-and-simo-01.jpg)
 
 Read the interview [here](https://outsidersatwork.wordpress.com/all-ears-are-equal/)

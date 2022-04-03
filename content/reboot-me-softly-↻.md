@@ -6,11 +6,11 @@ tags:
   - group exhibition
 pubdate: November 18, 2021 1:22 PM
 unlisted: "false"
-hero: /static/img-d/piksel21-rebootmesoftly-poster.jpeg
+hero: https://ik.imagekit.io/mp/aam/tr:w-1000/piksel21-rebootmesoftly-poster.jpeg
 parent: 256 Million Colours of Violence
 ---
-![](/static/img-d/piksel21-rebootmesoftly-poster.jpeg)
-![](/static/img-d/256-for-piksel-2021.jpg)
+![](https://ik.imagekit.io/mp/aam/tr:w-1000/piksel21-rebootmesoftly-poster.jpeg)
+![](https://ik.imagekit.io/mp/aam/tr:w-1000/256-for-piksel-2021.jpg)
 
 256 Million Colours of Violence was invited to be showcased online as part of **Reboot Me Softly ↻**, the 19th edition of the Piksel Festival for electronic Art and Free Technology.
 

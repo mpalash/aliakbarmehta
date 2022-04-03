@@ -107,4 +107,19 @@ function makeGallery(){
     useCSS: false,
     arrows: false
   });
+
+  document.addEventListener('click', function (event) {
+    if (event.target.matches('#btn-search-submit')) {
+      event.preventDefault();
+      var query = document.querySelector('#search-field').value;
+      window.location.href = '/search/?q=' + query;
+    }
+  });
+  document.querySelector('#search-field').addEventListener("keydown", event => {
+    if (event.isComposing || event.keyCode === 13) {
+      event.preventDefault();
+      var query = document.querySelector('#search-field').value;
+      window.location.href = '/search/?q=' + query;
+    }
+  });
 }
