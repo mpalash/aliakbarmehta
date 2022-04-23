@@ -51,7 +51,7 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 2002 – 2007
 :   *Co-founder, Lead Animator and Artist*, Mareech Animated Design, Mumbai, IN
 
-## Positions of Trust and Memberships 
+## Positions of Trust and Memberships
 
 2021 – ongoing
 :   *Member*, **[Catalysti](https://www.catalysti.fi/)**, Helsinki, FI
@@ -106,7 +106,7 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 ## Performance
 
 2021
-:   **Ballad of the Lost Utopian Meadow**, a series of 3 performances in collaboration with Vidha Saumya, *varialambo*, and Joss Allen, as part of **[Aikakoneita Ja Utopiotia: kotinpaluu, kaukokaipuu, Elinehtoja](https://aikakoneitajautopioita.fi/)** (Time Machine and Utopias: Wanderlust, Lifelines, Homecoming), curated by Hanna Johansson, Ainola Museum, Visavuori Museum, and Tarvaspää Museum, FI 
+:   **Ballad of the Lost Utopian Meadow**, a series of 3 performances in collaboration with Vidha Saumya, *varialambo*, and Joss Allen, as part of **[Aikakoneita Ja Utopiotia: kotinpaluu, kaukokaipuu, Elinehtoja](https://aikakoneitajautopioita.fi/)** (Time Machine and Utopias: Wanderlust, Lifelines, Homecoming), curated by Hanna Johansson, Ainola Museum, Visavuori Museum, and Tarvaspää Museum, FI
 
 2021
 :   **Narrating WAR / Habitat 1**, 4 performances in collaboration w/ *varialambo*, in ‘Reciprocities’, curated by Christine Langinauer, [Vantaa Art Museum ARTSI](https://www.artsimuseo.com/eng/reciprocities), Vantaa, FI
@@ -154,6 +154,9 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 :   **null.void**, for *Chimurenga: Pan-African Space Station*, curated by Ahmed Al-Nawas, Kallio Public Library, Helsinki, IN
 
 ## Select Group Exhibitions
+
+2022
+:   **Locus of Control**, curated by Abhinit Khanna, House of Creativity, Mumbai, IN
 
 2021
 :   **Data Vitality: Soft infrastructures and Economies of Knowledge**, Aalto University, Helsinki, FI
@@ -272,7 +275,7 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 ## Curatorial Experience
 
 *Upcoming*
-:   *Co-curator* (*via* Museum of Impossible Forms): **Helsinki Biennale 2023**, Helsinki, FI 
+:   *Co-curator* (*via* Museum of Impossible Forms): **Helsinki Biennale 2023**, Helsinki, FI
 
 *Upcoming*
 :   *Project curator*: **Archives as Contemporary Object X**, Documenta (15), Kassel, DE
@@ -284,7 +287,7 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 :   *Project curator*: **How to Work Together? Extended notes on collaboration**, part of a collaboration between Museum of Impossible Forms + Platform, in ‘20 Years of Platform Festival’, Vaasa, FI
 
 2021
-:   *project curator*: Impossible Reader 2020, **How to Work Together: Seeking models of solidarity and alliance**, (ed.) Aiava, Emily & Aiava, Raine. (pub.) Museum of Impossible Forms, Helsinki, FI. 
+:   *project curator*: Impossible Reader 2020, **How to Work Together: Seeking models of solidarity and alliance**, (ed.) Aiava, Emily & Aiava, Raine. (pub.) Museum of Impossible Forms, Helsinki, FI.
 
 2021
 :   *Organiser*: **Touching/Transforming**, Seminar, Cluster for Critical Artistic Research, Aalto University, FI
