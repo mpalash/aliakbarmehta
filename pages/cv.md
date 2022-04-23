@@ -278,10 +278,10 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 :   *Co-curator* (*via* Museum of Impossible Forms): **Helsinki Biennale 2023**, Helsinki, FI
 
 *Upcoming*
-:   *Project curator*: **Archives as Contemporary Object X**, Documenta (15), Kassel, DE
-
-*Upcoming*
 :   *Programme facilitator* (*via* MAS): **Outlining actionable steps towards antiracism and building DEI (diversity, equity, and inclusion)**, a multi-part interactive program for Ateneum Art Museum & Finnish National Gallery, Helsinki, FI
+
+2022
+:   *Project curator*: **Archives as Contemporary Object X**, Documenta (15), Kassel, DE
 
 2021
 :   *Project curator*: **How to Work Together? Extended notes on collaboration**, part of a collaboration between Museum of Impossible Forms + Platform, in ‘20 Years of Platform Festival’, Vaasa, FI
