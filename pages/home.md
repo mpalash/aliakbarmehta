@@ -15,4 +15,18 @@ My [work](https://aliakbarmehta.com/curriculum-vitae) as performances, installat
 
 I am a co-founder of **[Museum of Impossible Forms](https://museumofimpossibleforms.org/)**, Helsinki, an anti-racist queer feminist project, and was its Co-Artistic Director (2018-2020). I currently serve on the boards of **[TKOK ry](https://www.museumofimpossibleforms.org/tkok-ry)** (2021-), **[Frame Contemporary Art Finland](https://frame-finland.fi/en/about-frame/organisation/)** (2021-2024) and **[Kiila ry](http://kiila.eu/)** (2019-, chairperson 2021); a research member of the **[Cluster of Critical Artistic Research](https://www.ccare.aalto.fi/) (CCARE)**; and a founding member of **MAS**. I hold a BFA in Drawing & Painting, from **[Sir J.J. School of Art,](http://www.sirjjschoolofart.in/)** Mumbai, and an MA in Visual Culture, Curating, and Contemporary Art, from **Aalto University**, Helsinki.
 
-Orcid Researcher ID: <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-0098-4631" href="https://orcid.org/0000-0002-0098-4631" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-0098-4631</a></div>
+<br/>
+Orcid Researcher ID
+
+<a
+    class="underline"
+     href="https://orcid.org/0000-0002-0098-4631"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+      https://orcid.org/0000-0002-0098-4631
+    </a>
