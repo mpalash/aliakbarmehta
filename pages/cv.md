@@ -277,9 +277,6 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 *Upcoming*
 :   *Co-curator* (*via* Museum of Impossible Forms): **Helsinki Biennale 2023**, Helsinki, FI
 
-*Upcoming*
-:   *Programme facilitator* (*via* MAS): **Outlining actionable steps towards antiracism and building DEI (diversity, equity, and inclusion)**, a multi-part interactive program for Ateneum Art Museum & Finnish National Gallery, Helsinki, FI
-
 2022
 :   *Project curator*: **Archives as Contemporary Object X**, Documenta (15), Kassel, DE
 
@@ -314,6 +311,9 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 :   *Exhibition Curator*: **SOAK**, D/func.t, Helsinki, FI
 
 ## Artist Talks / Conferences
+
+2022
+:   *Panelist*: **How to work together – tools and practices for transgressional collective work**, Stop Hatred Now! Festival, UrbanApa, Helsinki (online)
 
 2021
 :   *Panelist*: **Decolonisation in the arts and cultural fields**, part of ‘In Conversation with the Finnish Institutes' moderated by Monica Gathuo, The Finnish Institute UK+Ireland, (online)
@@ -407,10 +407,19 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 ## Select Publications
 
 *Upcoming*
-:   *Book chapter*: **The Politics of Togetherness: Beyond the integration infrastructure of state and institutional apparatus**. In A. Alemanji, et. al. (Eds.), Rethinking and undoing integration. The Society for the Study of Ethnic Relations and International Migration (ETMU)
+:   *Book chapter*: **On the Edge of the Re(lation)al**. In Beyond Matter Within Space. ZKM, DE
 
 *Upcoming*
-:   *Journal article*: **The origins of performative coloniality and the caste context: Notes on evolving oppression systems and graded power hierarchies**. In A. Allen, C. Penketh, & A. Wexler (Eds.), Disability Justice: Decentering Colonial Knowledge, Centering Decolonial Epistemologies
+:   *Book chapter*: **The Politics of Togetherness: Beyond the integration infrastructure of state and institutional apparatus**. In A. Alemanji, et. al. (Eds.), Rethinking and undoing integration. The Society for the Study of Ethnic Relations and International Migration (ETMU)
+
+2022 
+:   *Review* **Who Watches Whom? Ruminations on power, gaze, and field through Pivi Takala’s Close Watch**. In V. Saumya & E. Rahmati (Eds.), NO NIIN, 12.
+
+2022    
+:   *Article* **Bearing Witness: Articulating an Archival Practice**. In Unstable capitalism, Tiede ja Edistys [Science & Progress], No.1-2(2022)
+
+2021    
+:   *Journal article*: **Touching/Transforming: Notes Towards Collective Critical Artistic Research Practices and Processes**, (with Bäckman, F., Close, R., Godin, M-A., Kallio-Tavin, M., Mehta, A. A., Qureshi, A., & Sadatizarrini, S.) Research in Arts and Education, 4/2021, December. Aalto University. 
 
 2021 
 :   *Book chapter:* **Generating (an)other economy**: Working together at Museum of Impossible Forms. In E. Aiava & R. Aiava (Eds.), *How to Work Together: Seeking models of solidarity and alliance* (pp. 149–176). Museum of Impossible Forms. ISBN: 978-952-94-4840-1
