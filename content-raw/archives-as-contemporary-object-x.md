@@ -6,7 +6,7 @@ tags:
   - curatorial work
 pubdate: July 2, 2022 12:00 AM
 unlisted: "false"
-hero: /static/img/1.png
+hero: /static/img/arcox_logo_website.png
 shortdesc: The Archive as Contemporary Object ‘X’ (ArCo-X) is a podcast series
   project that investigates through discourse, the nature of the archival today,
   seeking to unpack the several system issues affecting the world around us,
