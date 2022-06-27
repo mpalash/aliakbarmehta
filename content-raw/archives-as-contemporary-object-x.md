@@ -28,7 +28,7 @@ summary: >-
   open-source, free, online platforms.
 
 
-  The first six episodes will be broadcasted as a series of podcasts during the 100 days of Documenta(15), as well as on-site discussions/talks hosted in the Party Office space, in Kassel during June, along with simultaneous programming. Furthermore, these podcasts and talks will further be edited, transcribed and produced as a series of single-interview print publications.
+  The first six episodes will be broadcasted as part of online programming for **Party Office** during documenta(15)
 children:
   - ArCOX~ About Archives as Contemporary Object (X)
 ---
