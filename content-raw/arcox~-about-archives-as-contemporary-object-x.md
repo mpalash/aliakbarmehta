@@ -48,4 +48,5 @@ summary: >-
 
   6. Zuboff, Shoshana. The age of surveillance capitalism: the fight for a human future at the new frontier of power. Profile Books, 2019
 parent: Archives as Contemporary Object 'X'
+children: []
 ---
