@@ -5,7 +5,7 @@ tags:
   - text
 pubdate: June 27, 2022 4:29 PM
 unlisted: "false"
-hero: /static/img/1.png
+hero: /static/img/arcox_logo_website.png
 summary: >-
   ArCo-X
 
