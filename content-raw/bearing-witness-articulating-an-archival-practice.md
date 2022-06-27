@@ -8,15 +8,29 @@ tags:
 pubdate: June 22, 2022 12:00 AM
 unlisted: "false"
 hero: https://tiedejaedistys.journal.fi/public/journals/144/cover_issue_8126_fi_FI.jpg
-summary: >-
-  We are living in the age of ‘Planetary Entanglement’ where violence is a
-  fundamental condition at the core of the human experience, in which we are
-  bound to ask, *How to work through the methods and processes of
+shortdesc: We are living in the age of ‘Planetary Entanglement’ where violence
+  is a fundamental condition at the core of the human experience, in which we
+  are bound to ask, *How to work through the methods and processes of
   decolonisation, while being assaulted with new forms of colonial, or
   neo-colonial practices – whether social, political, or economic – on a regular
   basis? How to learn, to adapt to a historical timeline of struggle against
   hegemonic power, while unlearning the fundamental biases within the
   foundations of one’s own being?*
+summary: >-
+  The number and intensity of conflicts that our age is a witness to are both
+  perplexing and overwhelming. With ongoing instances of wars, conflicts,
+  insurgencies, genocide-level pogroms, riots, bombings, state & extra-state
+  actions and operations, the people of our age have diversified the terminology
+  pertaining to aggressive friction and violence. Furthermore, indirect violence
+  and softer modes of conflicts – whether as forms of patriarchal, ethnic,
+  racialised, colourist, ableist, or gendered enforcement of domination, or the
+  colonial and caste-based extensions of supremacy – continue to alienate us
+  from each other on a daily basis. We live in an age of rising ethnofascism and
+  disintegrating democracies, where conflicts, pandemics, and human crises have
+  become yet another tool for capitalist societies to recycle pain.
+
+
+  Simultaneously, there is increasing information overload: online interfaces for knowledge are steadily becoming opaque, and the data we produce serves the capitalist pursuits of Surveillance Empires, corporations and governments. By declaring ownership of their users’ data and engaging in be-havioural manipulations for data extractivism, Surveillance Empires and necropolitical governments reshape political world orders, based on techno-legal architectures of control, disenfranchisement, risk management, and legalised policing of violence. We are living in the age of ‘Planetary Entanglement’ where violence is a fundamental condition at the core of the human experience, in which we are bound to ask, How to work through the methods and processes of decolonisation, while being assaulted with new forms of colonial, or neo-colonial practices – whether social, political, or economic – on a regular basis? How to learn, to adapt to a historical timeline of struggle against hegemonic power, while unlearning the fundamental biases within the foundations of one’s own being?
 
 
   Read the full text [here](https://tiedejaedistys.journal.fi/article/view/120081/71453)
