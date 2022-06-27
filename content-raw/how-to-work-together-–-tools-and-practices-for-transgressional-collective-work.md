@@ -1,6 +1,6 @@
 ---
-title: How to work together – tools and practices for transgressional collective work
-subtitle: Panel discussion at Stop Hatred Now! Festival, UrbanApa, Helsinki (online)
+title: "How to work together: tools and practices for transgressional collective work"
+subtitle: Panel discussion at Stop Hatred Now Festival, UrbanApa, Helsinki (online)
 layout: content
 tags:
   - artist talk
@@ -25,4 +25,3 @@ summary: >-
 
   Watch the video [here](https://fb.watch/dVoi8i6tzF/)
 ---
-
