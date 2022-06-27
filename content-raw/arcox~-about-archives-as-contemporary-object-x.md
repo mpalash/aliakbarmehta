@@ -10,10 +10,7 @@ summary: >-
   ArCo-X
 
 
-  As a project, ArCo-X is based on the premise forwarded by Anne-Françoise Schmid, who claims that “today we are faced with objects that are, at once, acts of aggression and choreographed performances and technological simulations and training exercises. We have to find a new way to describe such objects; in a certain sense, they exist in a properly interdisciplinary or non-disciplinary place, a place described by the points at which they become unknown to each discipline.”
-
-
-  Take a genetically-modified fish, as the object of research: we can treat it as a fish plus a genetic manipulation, so that the principal discipline will be molecular biology, with other disciplines having to make an appearance subsequently, to resolve obstacles that are met with along the way (traceability, law, international commerce, consumer perception, and, in the end, the study of the risks involved, and ethics). But instead, I suggest we could treat this object as a kind of unknown 'X' whose properties are distributed in an unprecedented way between different disciplinary forms of knowledge. An object with multiple dimensions, each of which is a discipline.\[1] 
+  As a project, ArCo-X is based on the premise forwarded by Anne-Françoise Schmid, who claims that “today we are faced with objects that are, at once, acts of aggression and choreographed performances and technological simulations and training exercises. We have to find a new way to describe such objects; in a certain sense, they exist in a properly interdisciplinary or non-disciplinary place, a place described by the points at which they become unknown to each discipline. (schmid: 2021) 
 
 
   ![](/static/img/arcox_performative-interdisciplinarity-chart_2021.png)
@@ -23,9 +20,6 @@ summary: >-
 parent: Archives as Contemporary Object 'X'
 children: []
 ---
-
-
-
 A critical starting point for mapping this new ecology of data archives lies in recognising and addressing the key issues of our age, where we are living in the age of rising ethnofascism and disintegrating democracies, where conflicts, pandemics, human crises have become just another tool for capitalist societies to recycle pain. There is increasing information overload; online interfaces for knowledge are steadily becoming opaque; and the data we produce serves the capitalist pursuits of Surveillance Empires, corporations and necropolitical governments. By declaring ownership of their users’ data, and engaging in behavioural manipulations for data extractivism, Surveillance Empires have forced the creation of new categories to explain the production and accumulation of ‘value’ in capitalism: such as *Attention Economy* (Davenport & Beck: 2001; Celis Bueno: 2017); *Surveillance Capitalism* (Zuboff: 2019), and *Computational Capitalism* (Beller: 2018). This, in turn, reshapes political world orders based on disenfranchisement, creating necropolitical governments of management, techno-legal architectures of control, and legalised policing of ‘Direct, Structural, and Cultural Violence’ – the age of ‘Planetary Entanglement’ (Mbembe: 2021).
 
 Archives, fortified through multiple performativities, as ‘politics of knowledge’; ‘knowledge economies’; and ‘power-knowledge relations’; become a ‘productive force’ for biopolitical apparatus (Agamben: 2009). Such apparatus, as a Foucauldian machinery of governance, is not fixated on security or welfare but on the premise of dispensability (Mbembe: 2019). The project seeks to centralise the ‘dispensable bodies, objects, data, and networks’ as key subjects, to reveal dominant narratives and the structural management of violence through their interactions with systemic conditions like globalisation, financialisation, socio-political issues of gender, class, race, caste, class, as histories of oppression.
