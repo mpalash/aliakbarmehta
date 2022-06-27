@@ -5,7 +5,7 @@ layout: content
 tags:
   - artist talk
 pubdate: May 18, 2022 12:00 AM
-unlisted: "true"
+unlisted: "false"
 hero: https://images.squarespace-cdn.com/content/v1/5e9ddf92c33f6a077b99532d/1651508990425-GTN7OKKKAWPOFTD86P3I/SHN_IGmainos1_versio3.jpg?format=750w
 shortdesc: Structural change is not possible without collaboration and
   collective work, but how to work together? How can a collective host
