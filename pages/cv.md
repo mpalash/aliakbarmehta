@@ -375,7 +375,7 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 ## Select Teaching / Lectures
 
 2021
-:   2021    *Guest lecturer:* **A small introduction to the history of art from the Indian Subcontinent**, w/ Vidha Saumya, UNIARTS, Helsinki, FI
+:   *Guest lecturer:* **A small introduction to the history of art from the Indian Subcontinent**, w/ Vidha Saumya, UNIARTS, Helsinki, FI
 
 2021 
 :   Guest lecturer: **Archives as Witness, Archives as knowledge Systems**, Darpan 2021, Symbiosis School For Liberal Arts (SSLA) Pune (online)
@@ -415,10 +415,10 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 2022 
 :   *Review* **Who Watches Whom? Ruminations on power, gaze, and field through Pivi Takala’s Close Watch**. In V. Saumya & E. Rahmati (Eds.), NO NIIN, 12.
 
-2022    
-:   *Article* **Bearing Witness: Articulating an Archival Practice**. In Unstable capitalism, Tiede ja Edistys [Science & Progress], No.1-2(2022)
+2022\
+:   *Article* **Bearing Witness: Articulating an Archival Practice**. In Unstable capitalism, Tiede ja Edistys \[Science & Progress], No.1-2(2022)
 
-2021    
+2021\
 :   *Journal article*: **Touching/Transforming: Notes Towards Collective Critical Artistic Research Practices and Processes**, (with Bäckman, F., Close, R., Godin, M-A., Kallio-Tavin, M., Mehta, A. A., Qureshi, A., & Sadatizarrini, S.) Research in Arts and Education, 4/2021, December. Aalto University. 
 
 2021 
