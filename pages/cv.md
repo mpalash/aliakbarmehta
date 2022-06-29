@@ -494,6 +494,9 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 
 ## Residencies
 
+2022 
+:   **Commonplaces and Entanglements** research residency, Center for Arts, Design, and Social Research, Spoleto, IT
+
 2021 
 :   **Titanik Artist Residency**, Turku, FI
 
