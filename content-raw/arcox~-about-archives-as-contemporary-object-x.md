@@ -5,7 +5,7 @@ tags:
   - text
 pubdate: June 27, 2022 4:29 PM
 unlisted: "false"
-hero: /static/img/arcox_logo_website.png
+hero: /static/img/arcox_logo_website.jpg
 summary: >-
   ArCo-X
 
@@ -13,7 +13,7 @@ summary: >-
   As a project, ArCo-X is based on the premise forwarded by Anne-Françoise Schmid, who claims that “today we are faced with objects that are, at once, acts of aggression and choreographed performances and technological simulations and training exercises. We have to find a new way to describe such objects; in a certain sense, they exist in a properly interdisciplinary or non-disciplinary place, a place described by the points at which they become unknown to each discipline. (schmid: 2021) 
 
 
-  ![](/static/img/arcox_performative-interdisciplinarity-chart_2021.png)
+  ![](/static/img/arcox_performative-interdisciplinarity-chart_2021.jpg)
 
 
   The Archive is such an object, that as a field of study can no longer neatly fit within its own domain. Despite a division into various sub-disciplines, there still exist too many gaps through which a comprehensive and contemporary understanding of archives elude us.
