@@ -42,7 +42,7 @@ Ali Akbar Mehta and **Simpreet Singh** discuss how the project is addressing the
 
 ## *Big Data Ethics*
 
-![In conversation with Sameer Pitalwala, Limitations of Liability, Mumbai Assembly, 2017](/static/img/Ali%20Akbar%20Mehta_Limitations%20of%20Liability_Mumbai%20Assembly_Sameer%20Pitalwala_2016.jpg)
+![In conversation with Sameer Pitalwala, Limitations of Liability, Mumbai Assembly, 2017](/static/img/Ali Akbar Mehta_Limitations of Liability_Mumbai Assembly_Sameer Pitalwala_2016.jpg)
 
   **March 19, 2017 | 6:30 to 8:00 pm**
 

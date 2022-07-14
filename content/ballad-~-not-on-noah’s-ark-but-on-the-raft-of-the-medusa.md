@@ -26,7 +26,7 @@ Mehta is a member of what has been called the generation of ‘digital natives�
 
 Having been exposed to animation as a creative form in his parents’ animation studio, Mehta also embraces comic books, graphic novels, manga and anime as cultural resources.
 
-![Harlequin Series: To Glory in Self, like some kind of New Monster, 2010, Archival print on Hahnemuhle paper, 182 x 121 cm](/static/img/Ali%20Akbar%20Mehta_Harlequin%20Series;%20To%20Glory%20in%20Self,%20like%20some%20kind%20of%20New%20Monster,%202010,%20Archival%20print%20on%20Hahnemuhle%20paper,%20182%20x%20121%20cm.jpg)
+![Harlequin Series: To Glory in Self, like some kind of New Monster, 2010, Archival print on Hahnemuhle paper, 182 x 121 cm](/static/img/Ali Akbar Mehta_Harlequin Series; To Glory in Self, like some kind of New Monster, 2010, Archival print on Hahnemuhle paper, 182 x 121 cm.jpg)
 
 Ali Akbar Mehta_Harlequin Series; To Glory in Self, like some kind of New Monster, 2010, Archival print on Hahnemuhle paper, 182 x 121 cm
 
@@ -34,7 +34,7 @@ Naturally, then, Mehta is fascinated by the figure of the superhero: who is supr
 
 In Mehta’s imagery of the suffering yet defiant body, we may detect an act of homage to his grandfather, the legendary artist Tyeb Mehta. We find this especially in the trussed figure, suspended from ropes, more prisoner than marionette and hung above the abyss, in ‘The Identity of Violence Series: Suffering and Rapture’(2010). That homage also animates the figure that has been twisted, knotted, folded double in ‘Triptych’ (2007) and jammed into the cage formed by the frame of the canvas.
 
-![The Identity of Violence Series: Sacrifice and Redemption, 2010, Oil and acrylic on canvas, 182 x 121 cm](/static/img/Ali%20Akbar%20Mehta_The%20Identity%20of%20Violence%20Series;%20Sacrifice%20and%20Redemption,%202010,%20Oil%20and%20acrylic%20on%20canvas,%20182%20x%20121%20cm.jpg)
+![The Identity of Violence Series: Sacrifice and Redemption, 2010, Oil and acrylic on canvas, 182 x 121 cm](/static/img/Ali Akbar Mehta_The Identity of Violence Series; Sacrifice and Redemption, 2010, Oil and acrylic on canvas, 182 x 121 cm.jpg)
 
 Ali Akbar Mehta_The Identity of Violence Series; Sacrifice and Redemption, 2010, Oil and acrylic on canvas, 182 x 121 cm
 
@@ -50,7 +50,7 @@ Among his protagonists are the jester and the harlequin: the first permitted to 
 
 Humankind lurches from one crisis to the next in Mehta’s post-apocalyptic ecologies, with little chance of redemption. We find predators and victims, survivors and demons, all conjoined in a common destiny, all adrift: not on a Noachic Ark so much as on a Gericauldian Raft of the Medusa. In the painting that gives this exhibition its title, ‘The Ballad of The War That Never Was’ (2010), one of the key figures is modelled on the Deposition, the enduring moment when the crucified Christ is taken down from the cross, except that this figure has no hope of resurrection; another figure in this tableau is based on Delacroix’s ‘Liberty Leading the People’, except that the banner is fraying, torn to pieces by the wind.
 
-![Ballad of The War That Never Was, 2011, Oil and acrylic on canvas, 152 x 198 cm](/static/img/Ballad%20of%20The%20War%20That%20Never%20Was,%202011,%20Oil%20and%20acrylic%20on%20canvas,%20152%20x%20198%20cm.jpg)
+![Ballad of The War That Never Was, 2011, Oil and acrylic on canvas, 152 x 198 cm](/static/img/Ballad of The War That Never Was, 2011, Oil and acrylic on canvas, 152 x 198 cm.jpg)
 
 Ballad of The War That Never Was, 2011, Oil and acrylic on canvas, 152 x 198 cm
 
@@ -60,4 +60,4 @@ Ranjit Hoskote
 
 Mumbai, 2011
 
-![War, 2011, Graphite on Paper, 152 x 213 cm](/static/img/Ali%20Akbar%20Mehta_War,%202011,%20Graphite%20on%20Paper,%20152%20x%20213%20cm.jpg)
+![War, 2011, Graphite on Paper, 152 x 213 cm](/static/img/Ali Akbar Mehta_War, 2011, Graphite on Paper, 152 x 213 cm.jpg)

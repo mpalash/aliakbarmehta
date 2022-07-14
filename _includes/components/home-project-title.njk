@@ -1,17 +1,22 @@
 {% set displaysub = ['solo exhibition','group exhibition','talk','text','performance','unpublished','publication'] %}
+{% set heroImgString = "![" + content.data.title.split('~').slice(-1)[0] + "](" + content.data.hero + ")" %}
+
 <li class="project-year-genre" data-year="{{ content.data.pubdate }}" data-genre="{{ content.data.tags | replace(' ','-') }}" data-parent="{{ content.data.parent }}">
 {% if content.data.parent %}
   {% if content.data.parent != 'Poems' %}
     <a href="/content/{{ content.data.parent | trim | slugify }}#{{ content.data.title.split('~') | last | trim | slugify }}" >
       {% if content.data.hero %}
-        <img
+        <div class="list-hero">
+          {{ heroImgString | md | safe }}
+        </div>
+        {# <img
           class="list-hero"
           src="{{ content.data.hero | replace('/img/','/img-thumbs/') }}"
           alt="{{ content.data.title.split('~') | last | trim }}"
           loading="lazy"
-          onload="this.classList.add('imgLoaded')" />
+          onload="this.classList.add('imgLoaded')" /> #}
       {% endif %}
-      {{ content.data.title.split('~') | last | trim }}
+      {# {{ content.data.title.split('~') | last | trim }} #}
       {% if content.data.tags.toString() in displaysub %}
         {% if content.data.shortdesc and content.data.shortdesc != '' %}
           <br/><span class="list-subtitle">{{ content.data.shortdesc | md | safe }}</span>
@@ -24,14 +29,17 @@
 {% else %}
   <a href="/content/{{ content.data.title.split('~') | last | trim | slugify }}">
     {% if content.data.hero %}
-      <img
+      <div class="list-hero">
+        {{ heroImgString | md | safe }}
+      </div>
+      {# <img
         class="list-hero"
         src="{{ content.data.hero | replace('/img/','/img-thumbs/') }}"
         alt="{{ content.data.title.split('~') | last | trim }}"
         loading="lazy"
-        onload="this.classList.add('imgLoaded')" />
+        onload="this.classList.add('imgLoaded')" /> #}
     {% endif %}
-    {{ content.data.title.split('~') | last | trim }}
+    {# {{ content.data.title.split('~') | last | trim }} #}
     {% if content.data.tags.toString() in displaysub %}
       {% if content.data.shortdesc and content.data.shortdesc != '' %}
         <br/><span class="list-subtitle">{{ content.data.shortdesc | md | safe }}</span>

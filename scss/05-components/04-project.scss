@@ -127,6 +127,10 @@
     object-fit: cover;
     object-position: top;
   }
+  p, div {
+    display: contents;
+    max-width: none;
+  }
 }
 .project-toc {
   grid-column: 8/-1;

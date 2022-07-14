@@ -4,8 +4,7 @@ subtitle: by Shilpa Dubey, for Absolute India
 layout: layouts/content.njk
 tags: press
 pubdate: "2015"
-hero: /static/img/Ali Akbar
-  Mehta_site-stage-structure-2014_installation-view_09_©-aliakbarmehta.jpg
+hero: "/static/img/Ali Akbar Mehta_site-stage-structure-2014_installation-view_09_aliakbarmehta.jpg"
 summary: >-
   **What does ‘Memory & The Maximum City’ mean for you?**
 

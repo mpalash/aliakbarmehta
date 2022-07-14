@@ -92,9 +92,9 @@ function eleventyImg(content){
 
     i.outerHTML = `
     <picture>
-      <source type="image/webp" alt="${i.alt}" srcset="${meta.webp.map(p => p.srcset).join(', ')}">
-      <source type="image/jpeg" alt="${i.alt}" srcset="${meta.jpeg.map(p => p.srcset).join(', ')}">
-      <img alt="${i.alt}" srcset="${meta.jpeg.map(p => p.srcset).join(', ')}">
+      <source type="image/webp" alt="${i.alt}" loading="lazy" srcset="${meta.webp.map(p => p.srcset).join(', ')}" onload="this.classList.add('imgLoaded')">
+      <source type="image/jpeg" alt="${i.alt}" loading="lazy" srcset="${meta.jpeg.map(p => p.srcset).join(', ')}" onload="this.classList.add('imgLoaded')">
+      <img alt="${i.alt}" loading="lazy" srcset="${meta.jpeg.map(p => p.srcset).join(', ')}" onload="this.classList.add('imgLoaded')">
       <span>${i.alt}</span>
     </picture>`
   })
@@ -336,7 +336,7 @@ module.exports = eleventyConfig => {
     var valueMD = String(value).replace(/\/img\/.*.(?:jpe?g|gif|png)/g, function(match){
       return match.replace(/\s/g,'%20');
     });
-    var rendered = markdownLib.render(valueMD);
+    var rendered = markdownLib.render(valueMD); //renderInline breaks things
     return eleventyImg(rendered);
   });
 

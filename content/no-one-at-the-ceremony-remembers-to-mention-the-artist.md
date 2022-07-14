@@ -5,7 +5,7 @@ subtitle: Essay for Vidha Saumya’s exhibition 'No one at the ceremony remember
 layout: layouts/content.njk
 tags: publication
 pubdate: "2015"
-hero: /static/img/6.-vidha-saumya-no-one-at-the-ceremony-remembers-to-mention-the-artist-2016-©m-if-.jpg
+hero: /static/img/6.-vidha-saumya-no-one-at-the-ceremony-remembers-to-mention-the-artist-2016-m-if-.jpg
 ---
 
 In her current body of work, Vidha Saumya questions through history and theories of present times, the importance, placement and relevance of what have come to be established as icons of ‘nation’ and perceived culture. On view are 30 photographs, made using existing photographs and an instructional template process invented by her called ‘how to make a monument disappear’; and a companion series of 7 photographs called ‘becoming Mannerheim’. Each include the same basic elements – the Mannerheim statue missing from the plinth in the background suggesting a disjointed context, where individuals, ceremonies or other activities start seeming meaningless.

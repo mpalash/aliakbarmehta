@@ -1,4 +1,3 @@
 {
-  "permalink": "content/{{ title | slugify }}/",
-  "layout": "layouts/content.njk"
+  "permalink": "content/{{ title | slugify }}/"
 }

@@ -6,6 +6,4 @@ tags: curatorial work
 pubdate: "2016"
 unlisted: "false"
 ---
-![]()
-
 Exhibition at A-Space

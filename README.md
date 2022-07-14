@@ -92,3 +92,6 @@ https://www.googleapis.com/customsearch/v1?key=AIzaSyBlypWtl5bkTz_5eBGT-AeYl2zxG
 
 - Special characters in filename
 - File sizes
+- No remote images
+- No CMYK
+- No empty body

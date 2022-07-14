@@ -1,23 +1,15 @@
 ---
+permalink: content/{{ title | slugify }}/
 layout: layouts/base.njk
 ---
 {% set sections = collections.content %}
 {% set contents = children %}
+{% set heroImgString = "![" + title.split('~').slice(-1)[0] + "](" + hero + ")" %}
 
 <article class="project">
   {% if hero %}
   <div class="project-hero">
-    <img
-      src="{{ hero | replace('/img/','/img-hero/') }}"
-      alt="{{ title.split('~').slice(-1)[0] | trim }}"
-      loading="eager"
-      onload="this.classList.add('imgLoaded')" />
-    {# <img
-      srcset="{{ hero | replace('/img/','/img-hero/') }} 1600w, {{ hero | replace('/img/','/img-thumbs/' }} 800w"
-      src="{{ hero | replace('/img/','/img-hero/' }}"
-      alt="{{ title.split('~').slice(-1)[0] | trim }}"
-      loading="eager"
-      onload="this.classList.add('imgLoaded')" /> #}
+    {{ heroImgString | md | safe }}
   </div>
   {% endif %}
   {% if title %}

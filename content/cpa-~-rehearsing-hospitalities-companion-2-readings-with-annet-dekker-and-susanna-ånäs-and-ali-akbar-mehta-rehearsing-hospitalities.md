@@ -7,7 +7,7 @@ tags:
   - artist talk
 pubdate: "2020"
 unlisted: "false"
-hero: /static/img/rehearsing-hospitalities-companion-2-readings-with-annet-dekker-and-susanna-ånäs-and-ali-akbar-mehta.png
+hero: /static/img/rehearsing-hospitalities-companion-2-readings-with-annet-dekker-and-susanna-anas-and-ali-akbar-mehta.png
 summary: >-
   <iframe width="560" height="315"
   src="https://www.youtube.com/embed/YUeC7AnDZDE?controls=0" title="YouTube

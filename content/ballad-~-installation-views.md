@@ -4,7 +4,7 @@ title: Ballad ~ Ballad of the War that Never Was, and Other Basterdised Myths,
 layout: layouts/content.njk
 tags: solo exhibition
 pubdate: "2011"
-hero: /static/img/Ballad%20of%20the%20War%20that%20never%20Was–%20installation%20view%2003.jpg
+hero: /static/img/ballad-of-the-war-that-never-was-installation-view-03.jpg
 parent: Ballad of the War that Never Was, and Other Basterdised Myths
 ---
 ![Installation View, Ballad of the War that Never Was and Other Basterdised Myths, 2011, TAO Art Gallery](/static/img/ballad-of-the-war-that-never-was-installation-view-01.jpg)

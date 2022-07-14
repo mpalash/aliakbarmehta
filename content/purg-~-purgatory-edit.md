@@ -4,7 +4,7 @@ layout: layouts/content.njk
 tags: artwork
 pubdate: "2017"
 unlisted: "true"
-hero: /static/img/Ali%20Akbar%20Mehta_Purgatory%20edit_02.jpg
+hero: /static/img/Ali Akbar Mehta_Purgatory edit_02.jpg
 summary: >-
   **Purgatory Edit** (working title) is an experimental cinematic experience. 
 

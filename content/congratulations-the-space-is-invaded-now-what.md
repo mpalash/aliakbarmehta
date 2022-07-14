@@ -4,7 +4,7 @@ subtitle: part of Space Invaders VI, curated by Anna Jensen and Elisa Suvanto, H
 layout: layouts/content.njk
 tags: performance
 pubdate: "2018"
-hero: /static/img/Congratulations_Space%20Invaders%20VI.jpg
+hero: /static/img/Congratulations_Space Invaders VI.jpg
 ---
 “Congratulations, the Space is invaded: Now What?”, at SPACE INVADERS VI -
 'Living Together’, Helsinki, 2018

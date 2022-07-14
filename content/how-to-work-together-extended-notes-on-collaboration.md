@@ -1,5 +1,5 @@
 ---
-title: Mif ~ How to work together? Extended notes on collaboration
+title: How to work together? Extended notes on collaboration
 subtitle: podcast series as collaboration between PLATFORM and Museum of Impossibe Forms
 layout: content
 tags:
@@ -19,7 +19,6 @@ summary: >-
 
 
   The ‘How to Work Together?’ podcast series is a culmination of the first collaboration between [PLATFORM](http://www.platform.fi/) X [Museum of Impossible Forms](https://www.museumofimpossibleforms.org/) in 2020. These podcasts and conversations, under the umbrella of collaboration, are infused with the possibilities and limits of location identity and practice. They discuss desires of working together, outline ecologies of collaboration, and para-institutional community-led praxis as a primary aim and processual goal.
-parent: ""
 ---
 > "The word collaborate comes from Latin roots. Words beginning with the prefix col- means together, implying doing something together. The root word laborare, also from Latin, gives us many of the English words used to talk about careers and work. In fact, the word labour comes from this root word. Putting the two Latin parts of this word together, the word literally means “to work together”.
 >

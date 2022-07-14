@@ -4,14 +4,14 @@
   "description": "A CMS for Ali",
   "scripts": {
     "sass": "sass --style=compressed scss/styles.scss static/css/styles.css",
-    "scale": "node scale.js",
-    "fixpaths": "node fixFilePaths.js",
-    "build": "npm run scale && npm run sass && npx eleventy",
-    "build2": "npm run sass && npx eleventy",
     "watch:eleventy": "npx eleventy --serve",
     "watch:sass": "npm run sass -- --watch",
+    "build": "npm run sass && npx eleventy",
     "serve": "npm-run-all sass --parallel watch:*",
     "dev": "npm-run-all sass --parallel watch:*",
+    "scale": "node scale.js",
+    "fixpaths": "node fixFilePaths.js",
+    "oldbuild": "npm run scale && npm run sass && npx eleventy",
     "debug": "DEBUG=* npx eleventy"
   },
   "repository": {
