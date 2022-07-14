@@ -49,7 +49,7 @@ The study facilitates the second phase of the project, the performance installat
 
 Together with UX Designer and programmer Palash Mukhopadhyay, I will develop proprietary software to utilise ‘Emotiv Epoc X’ – a wireless head-mounted home MRI & EEG medical kit designed to ‘read’ a user’s semi-conscious mind-state, represented as abstract emotions such as frustration, anxiety, excitement, meditation – and translate them into numerical values. 
 
-With this software, we will use these values as parameters that allow VUO, a popular VJ software, to generate an algorithm based real-time stitching of a ‘string’ of videos from the video data banks. Through this built software and the Emotiv Epoc X hardware, participants’ brainwaves will be able to control a real-time juxtaposition of a pre-compiled and curated string of videos – its sequencing, intensities and specific types of video, as well as playback speed, fluctuations, and designed glitches. 
+With this software, we will use these values as parameters that allow VUO, a popular VJ software, to generate an algorithm-based real-time stitching of a ‘string’ of videos from the video data banks. Through this built software and the Emotiv Epoc X hardware, participants’ brainwaves will be able to control a real-time juxtaposition of a pre-compiled and curated string of videos – its sequencing, intensities and specific types of video, as well as playback speed, fluctuations, and designed glitches. 
 
 * Designing a bridge system that can read Emotiv generated values as parameters
 * Linking parameters to: 
