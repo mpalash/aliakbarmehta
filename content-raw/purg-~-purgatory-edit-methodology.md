@@ -1,7 +1,8 @@
 ---
 title: purg ~ Purgatory Edit, methodology
 layout: content
-tags: resource
+tags:
+  - resource
 pubdate: January 1, 2017 12:00 AM
 unlisted: "true"
 summary: "**Purgatory Edit** (working title) proposes to use the Emotive Epoc+,
@@ -15,10 +16,6 @@ summary: "**Purgatory Edit** (working title) proposes to use the Emotive Epoc+,
 parent: " Purgatory Edit"
 ---
 ![](/static/img/purgatory-edit-pipeline-map-colour.png)
-
-## Methodology
-
-
 
 1. ### Archive
 
@@ -53,7 +50,8 @@ With this software, we will use these values as parameters that allow VUO, a pop
 
 * Designing a bridge system that can read Emotiv generated values as parameters
 * Linking parameters to: 
-* * sequencing of video playback
+
+  * sequencing of video playback
   * frequency and rate of changing footage
   * video type selection (intensity map) as well as playback speed, fluctuations, and designed glitches. 
 * Developing code for generating ‘procedural glitch’ on processed media
