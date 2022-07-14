@@ -5,10 +5,10 @@ layout: layouts/content.njk
 tags: performance
 pubdate: May 20, 2019 12:00 AM
 unlisted: "false"
-hero: https://ik.imagekit.io/mp/aam/tr:w-1000/installation-view-direct-contact_day-01_serving-table_2019.jpg
+hero: /static/img/installation-view-direct-contact_day-01_serving-table_2019.jpg
 summary: >-
   ![Vidha Saumya, “Main radical roti hoon/ I am a radical roti”,
-  2018](https://ik.imagekit.io/mp/aam/tr:w-1000/vidha-saumya_image-for-direct-contact_radical-roti_2018.jpg
+  2018](/static/img/vidha-saumya_image-for-direct-contact_radical-roti_2018.jpg
   "Vidha Saumya, “Main radical roti hoon/ I am a radical roti”, 2018")
 
 
@@ -43,11 +43,11 @@ The work will be in the form of a participatory performance installation, where 
 
 *– cited in* *[Chapati Revolution](https://en.wikipedia.org/wiki/Chapati_Movement?fbclid=IwAR2fpUqM89DBjbo-iN7wyL1n_Mi073fXFmWpqXSKBvvOw-FqzL7rOXGSxyU)*
 
-![direct contact//feedback, installation view, SOLU Space, Helsinki, 2019](https://ik.imagekit.io/mp/aam/tr:w-1000/installation-view-direct-contact_day-01_serving-table_2019.jpg)
+![direct contact//feedback, installation view, SOLU Space, Helsinki, 2019](/static/img/installation-view-direct-contact_day-01_serving-table_2019.jpg)
 
-![Installation view, direct-contact//feedback, pickle/achaar, 2019](https://ik.imagekit.io/mp/aam/tr:w-1000/installation-view-direct-contact_pickle-achaar_2019.jpg)
-![Installation view, direct-contact//feedback, clarified butter/ghee, 2019](https://ik.imagekit.io/mp/aam/tr:w-1000/installation-view-direct-contact_clarified-butter-ghee_2019.jpg)
-![Installation view, direct-contact//feedback, granulated jaggery/gud, 2019](https://ik.imagekit.io/mp/aam/tr:w-1000/installation-view-direct-contact_granulated-jaggery-gud_2019.jpg)
+![Installation view, direct-contact//feedback, pickle/achaar, 2019](/static/img/installation-view-direct-contact_pickle-achaar_2019.jpg)
+![Installation view, direct-contact//feedback, clarified butter/ghee, 2019](/static/img/installation-view-direct-contact_clarified-butter-ghee_2019.jpg)
+![Installation view, direct-contact//feedback, granulated jaggery/gud, 2019](/static/img/installation-view-direct-contact_granulated-jaggery-gud_2019.jpg)
 
 The performance lasting 3 iterations were conducted during the course of the Festival, in:
 
@@ -55,4 +55,4 @@ The performance lasting 3 iterations were conducted during the course of the Fes
 * [Oranssi](https://breaking5thwall.pixelache.ac/festivals/breaking5thwall/solu), Kaasutehtaankatu 11/20, Suvilahti /// 22.05. /// 18:00 - 20:00 ///
 * [Solu](https://pixelache.ac/festivals/breaking5thwall/solu), Luotsikatu 13, 00160 Helsinki Finland, Katajanokka /// 24.05. /// 18:00 - 20:00 ///
 
-![](https://ik.imagekit.io/mp/aam/tr:w-1000/installation-view-direct-contact_day-01_serving-table_2019.jpg)
+![](/static/img/installation-view-direct-contact_day-01_serving-table_2019.jpg)

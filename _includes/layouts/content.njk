@@ -8,15 +8,20 @@ layout: layouts/base.njk
   {% if hero %}
   <div class="project-hero">
     <img
-      srcset="{{ hero | replace('w-1000','w-1800') }} 1800w, {{ hero | replace('w-1000','w-1200') }} 1200w, {{ hero | replace('w-1000','/w-1000') }} 1000w, {{ hero | replace('w-1000','w-800') }} 800w"
-      src="{{ hero | replace('w-1000','w-1000') }}"
-      alt="{{ title }}"
+      src="{{ hero | replace('/img/','/img-hero/') }}"
+      alt="{{ title.split('~').slice(-1)[0] | trim }}"
       loading="eager"
       onload="this.classList.add('imgLoaded')" />
+    {# <img
+      srcset="{{ hero | replace('/img/','/img-hero/') }} 1600w, {{ hero | replace('/img/','/img-thumbs/' }} 800w"
+      src="{{ hero | replace('/img/','/img-hero/' }}"
+      alt="{{ title.split('~').slice(-1)[0] | trim }}"
+      loading="eager"
+      onload="this.classList.add('imgLoaded')" /> #}
   </div>
   {% endif %}
   {% if title %}
-  <h1 class="project-title">{{ title }}</h1>
+  <h1 class="project-title">{{ title.split('~').slice(-1)[0] | trim }}</h1>
   {% endif %}
   {% if subtitle %}
   <h2 class="project-subtitle">{{ subtitle }}</h2>
@@ -42,7 +47,7 @@ layout: layouts/base.njk
     {% if summary %}
       <div class="summary">{{ summary | md | safe }}</div>
     {% endif %}
-    {{ layoutContent | safe }}
+    {{ layoutContent | md | safe }}
   </section>
 
   {% for content in contents %}
@@ -60,7 +65,7 @@ layout: layouts/base.njk
         {% if section.data.summary %}
           <div class="summary">{{ section.data.summary | md | safe }}</div>
         {% endif %}
-        <div class="full-content">{{ section.data.layoutContent | safe }}</div>
+        <div class="full-content">{{ section.data.layoutContent | md | safe }}</div>
         {% if section.data.summary and section.data.content %}
           <a href="#" class="toggle-section" data-title="{{ section.data.title.split('~').slice(-1)[0] | trim | slugify }}">
             <span class="more">More</span>

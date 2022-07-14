@@ -6,7 +6,7 @@ tags:
   - curatorial work
 pubdate: December 9, 2016 12:00 AM
 unlisted: "false"
-hero: https://ik.imagekit.io/mp/aam/tr:w-1000/m-if-poster.jpg
+hero: /static/img/m-if-poster.jpg
 summary: >-
   I’m a founding member of the **[Museum of Impossible
   Forms](https://museumofimpossibleforms.org/)** – an anti-racist, queer

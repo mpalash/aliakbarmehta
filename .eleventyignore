@@ -1,6 +1,16 @@
 README.md
 STRUCTURE.MD
-content-raw/*
+content/*
 content-staging/*
 content-filtered/*
 pages/csv.md
+
+
+content/ballad-~-the-great-mother-re-construct-ed.md
+content/central-park-archives.md
+content/cpa-~-central-park-archives-workshops.md
+
+content-raw/ballad-~-the-great-mother-re-construct-ed.md
+content-raw/central-park-archives.md
+content-raw/cpa-~-central-park-archives-workshops.md
+content-raw/cyber-~-cyber-archives.md

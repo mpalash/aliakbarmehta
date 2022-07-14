@@ -5,7 +5,7 @@ layout: content
 tags: curatorial work
 pubdate: May 15, 2020 12:00 AM
 unlisted: "false"
-hero: https://ik.imagekit.io/mp/aam/tr:w-1000/hiap-logo-stacked-narrow-4x-800x525.png
+hero: /static/img/hiap-logo-stacked-narrow-4x-800x525.png
 children:
   - Processing In-Between(ness)
 ---

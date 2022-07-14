@@ -3,10 +3,10 @@ title: LM ~ Dystopia and Urban Imagination
 layout: layouts/content.njk
 tags: resource
 pubdate: "2011"
-hero: https://ik.imagekit.io/mp/aam/tr:w-1000/invite-dystopia_poster.jpg
+hero: /static/img/invite-dystopia_poster.jpg
 summary: >-
   ![Dystopia and Urban Imagination, Poster,
-  2013](https://ik.imagekit.io/mp/aam/tr:w-1000/invite-dystopia_poster.jpg)
+  2013](/static/img/invite-dystopia_poster.jpg)
 
 
   Film Screenings

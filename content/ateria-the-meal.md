@@ -18,7 +18,7 @@ The exhibition was envisaged as a three day project at [Kiasma Museum of Contemp
 The Meal will be happening on the lawn and theatre space of Kiasma and is hosted by MA students of Aalto University’s ViCCA (Visual Culture and Contemporary Art) program in collaboration with [**Kiasma Museum** and **URB 2017**](http://www.urb.fi/urb17/ateria/)."
 
 ![](/static/img/Ateria-04.JPG)
-![](https://ik.imagekit.io/mp/aam/tr:w-1000/Ateria-01.jpg)
+![](/static/img/Ateria-01.jpg)
 ![](/static/img/Ateria-12.JPG)
 ![](/static/img/Ateria-27.JPG)
 ![](/static/img/Ateria-03.JPG)

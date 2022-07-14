@@ -4,7 +4,7 @@ subtitle: by Godrej Culture Lab, Vikhroli, Mumbai
 layout: layouts/content.njk
 tags: press
 pubdate: '2014'
-hero: https://ik.imagekit.io/mp/aam/tr:w-1000/7.-ali-akbar-mehta-site-stage-structure-2014-©-aliakbarmehta.jpg
+hero: /static/img/7.-ali-akbar-mehta-site-stage-structure-2014-©-aliakbarmehta.jpg
 summary: >-
   **\> What will be the focus of your talk; what will be the highlights?**
 

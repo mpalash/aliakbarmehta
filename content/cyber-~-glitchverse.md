@@ -5,9 +5,9 @@ layout: layouts/content.njk
 tags: performance
 pubdate: June 12, 2020 12:00 AM
 unlisted: "false"
-hero: https://ik.imagekit.io/mp/aam/tr:w-1000/ali-akbar-mehta_glitchverse.jpg
+hero: /static/img/ali-akbar-mehta_glitchverse.jpg
 summary: >-
-  ![Glitchverse, 2020](https://ik.imagekit.io/mp/aam/tr:w-1000/ali-akbar-mehta_glitchverse.jpg)
+  ![Glitchverse, 2020](/static/img/ali-akbar-mehta_glitchverse.jpg)
 
 
   >

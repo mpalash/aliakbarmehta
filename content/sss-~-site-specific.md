@@ -4,7 +4,7 @@ subtitle: Reema Gehi, Mumbai Mirror, 15.08.2014
 layout: layouts/content.njk
 tags: press
 pubdate: "2015"
-hero: https://ik.imagekit.io/mp/aam/tr:w-1000/5.-ali-akbar-mehta-site-stage-structure-2014_installation-view-©-aliakbarmehta.png
+hero: /static/img/5.-ali-akbar-mehta-site-stage-structure-2014_installation-view-©-aliakbarmehta.png
 parent: "SITE : STAGE : STRUCTURE"
 children:
   - To Whomsoever it May Concern
@@ -24,6 +24,6 @@ children:
   - Goodbye Blue Sky
   - Inhale / Exhale
 ---
-![](https://ik.imagekit.io/mp/aam/tr:w-1000/5.-ali-akbar-mehta-site-stage-structure-2014_installation-view-©-aliakbarmehta.png)
+![](/static/img/5.-ali-akbar-mehta-site-stage-structure-2014_installation-view-©-aliakbarmehta.png)
 
 Read [here](https://mumbaimirror.indiatimes.com/mumbai/other/Site-specific/articleshow/40296979.cms?)

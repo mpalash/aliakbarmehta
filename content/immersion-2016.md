@@ -6,11 +6,11 @@ tags:
   - group exhibition
 pubdate: November 21, 2016 12:00 AM
 unlisted: "false"
-hero: https://ik.imagekit.io/mp/aam/tr:w-1000/immersion-2016.jpg
+hero: /static/img/immersion-2016.jpg
 children:
   - Play the Space, Stupid!
 ---
-![](https://ik.imagekit.io/mp/aam/tr:w-1000/immersion-2016.jpg)
-![](https://ik.imagekit.io/mp/aam/tr:w-1000/site-view-immersion-2016.jpg)
+![](/static/img/immersion-2016.jpg)
+![](/static/img/site-view-immersion-2016.jpg)
 
 Sonic, spatial and conceptual experiments. 

@@ -5,9 +5,9 @@ tags:
   - performance
 pubdate: August 28, 2021 12:00 AM
 unlisted: "false"
-hero: https://ik.imagekit.io/mp/aam/tr:w-1000/ballad-of-the-lost-utopian-meadow-2021-cover.jpg
+hero: /static/img/ballad-of-the-lost-utopian-meadow-2021-cover.jpg
 summary: >-
-  ![](https://ik.imagekit.io/mp/aam/tr:w-1000/ballad-of-the-lost-utopian-meadow-2021-cover.jpg)
+  ![](/static/img/ballad-of-the-lost-utopian-meadow-2021-cover.jpg)
 
 
   As part of the exhibition, **Aikakoneita ja utopioita** | Time Machine and Utopias, 

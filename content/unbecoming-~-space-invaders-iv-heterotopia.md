@@ -5,8 +5,8 @@ layout: layouts/content.njk
 tags: group exhibition
 pubdate: May 16, 2016 12:00 AM
 unlisted: "false"
-hero: https://ik.imagekit.io/mp/aam/tr:w-1000/fb_img_1464251160384.jpg
+hero: /static/img/fb_img_1464251160384.jpg
 parent: (Un)Becoming Finnish
 children: []
 ---
-![Installation view: Becoming (Un)Finnish, 2016, Space Invaders IV: Heterotopia, Espoo](https://ik.imagekit.io/mp/aam/tr:w-1000/becoming-uh-finnish_space-invaders-iv_matinkyla-espoo_2016.jpg)
+![Installation view: Becoming (Un)Finnish, 2016, Space Invaders IV: Heterotopia, Espoo](/static/img/becoming-uh-finnish_space-invaders-iv_matinkyla-espoo_2016.jpg)

@@ -3,12 +3,12 @@ title: To Whomsoever it May Concern
 layout: layouts/content.njk
 tags: artwork
 pubdate: "2018"
-hero: https://ik.imagekit.io/mp/aam/tr:w-1000/ali-akbar-mehta_to-whomsoever-it-may-concern_tao-art-gallery_cc_2018.jpg
+hero: /static/img/ali-akbar-mehta_to-whomsoever-it-may-concern_tao-art-gallery_cc_2018.jpg
 children:
   - Maunuala ~ Partizaning Maunula
 ---
 
-![To Whomsoever it May Concern, 2018, mixed media on Sandstone, A set of 5 pieces, size variable](https://ik.imagekit.io/mp/aam/tr:w-1000/ali-akbar-mehta_to-whomsoever-it-may-concern_tao-art-gallery_cc_2018.jpg)
+![To Whomsoever it May Concern, 2018, mixed media on Sandstone, A set of 5 pieces, size variable](/static/img/ali-akbar-mehta_to-whomsoever-it-may-concern_tao-art-gallery_cc_2018.jpg)
 
 > 'To Whomsoever It May Concern' is a letter, an appeal, a supplication.
 >

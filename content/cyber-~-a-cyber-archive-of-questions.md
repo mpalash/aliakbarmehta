@@ -6,7 +6,7 @@ layout: layouts/content.njk
 tags: publication
 pubdate: "2020"
 unlisted: "false"
-hero: https://ik.imagekit.io/mp/aam/tr:w-1000/pith.bull_20201021_095219_0.jpg
+hero: /static/img/pith.bull_20201021_095219_0.jpg
 shortdesc: "***A Cyber Archive of Questions*** is an essay published in
   **'cohabitant/mutants', Restricted Fixations, issue one** – an independent
   zine curated and edited by Renuka Rajiv."
@@ -16,7 +16,7 @@ summary: >-
   zine curated and edited by Renuka Rajiv.
 
 
-  ![](https://ik.imagekit.io/mp/aam/tr:w-1000/pith.bull_20201021_095219_0.jpg)
+  ![](/static/img/pith.bull_20201021_095219_0.jpg)
 parent: Cyber Archive
 ---
 > Presented as a cyberpsychogeographical archive situated in and as a cluster of cyber relations, this text performs its own validation by actualising the possibilities of non-linear and cyclic time that are the relevant ‘features’ of a metadata-driven, hyperconnected archive that resides in cyberspace and uses a digital interface. Questions sustain a critical perspective of both praxes and research, and so if an archive has no end, this archive may be an ongoing process of archiving questions until the very end (of archives).

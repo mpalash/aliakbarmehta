@@ -4,7 +4,7 @@ layout: layouts/content.njk
 tags: publication
 pubdate: "2011"
 unlisted: "false"
-hero: https://ik.imagekit.io/mp/aam/tr:w-1000/sketch-for-unselfed-iii-2014-digital-drawing.jpg
+hero: /static/img/sketch-for-unselfed-iii-2014-digital-drawing.jpg
 children:
   - poems ~ There is a Light
   - poems ~ Harun I (Beginnings)

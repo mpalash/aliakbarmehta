@@ -4,14 +4,14 @@ subtitle: "Interview by Arlene Tucker, Pixelache Festival 2019: Breaking the Fif
 layout: layouts/content.njk
 tags: press
 pubdate: "2019"
-hero: https://ik.imagekit.io/mp/aam/tr:w-1000/20180104_174708.jpg
+hero: /static/img/20180104_174708.jpg
 parent: Planktonian People
 children:
   - Tasher ~ Tagore Lost and Found
 ---
 In April 2019, I was interviewed by Arlene Tucker, Pixelache member, towards my participation in Pixelache Festival 2019: [Breaking the Fifth Wall](https://www.pixelache.ac/festivals/breaking5thwall)
 
-![](https://ik.imagekit.io/mp/aam/tr:w-1000/20180104_174708.jpg)
+![](/static/img/20180104_174708.jpg)
 
 Read the complete interview [here](https://www.pixelache.ac/posts/conversation-with-ali-akbar-mehta).
 

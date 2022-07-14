@@ -6,7 +6,7 @@ tags:
   - artist talk
 pubdate: October 13, 2021 12:00 AM
 unlisted: "false"
-hero: https://ik.imagekit.io/mp/aam/tr:w-1000/decolonisation-in-the-arts-and-cultural-fields_2021.jpg
+hero: /static/img/decolonisation-in-the-arts-and-cultural-fields_2021.jpg
 shortdesc: Dr Carol Ann Dixon and Ali Akbar Mehta in conversation about
   decolonisation in the arts and cultural fields, joined by Neicia Marsh,
   Programme Director of Society at the Finnish Institute in the UK and Ireland;

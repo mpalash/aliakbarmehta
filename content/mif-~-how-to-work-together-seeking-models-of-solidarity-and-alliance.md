@@ -8,9 +8,9 @@ tags:
   - curatorial work
 pubdate: October 7, 2021 12:00 AM
 unlisted: "false"
-hero: https://ik.imagekit.io/mp/aam/tr:w-1000/screenshot-2021-11-02-at-9.54.47.png
+hero: /static/img/screenshot-2021-11-02-at-9.54.47.png
 summary: >-
-  ![](https://ik.imagekit.io/mp/aam/tr:w-1000/screenshot-2021-11-02-at-9.54.47.png)
+  ![](/static/img/screenshot-2021-11-02-at-9.54.47.png)
 
 
   The Impossible Reader is a biennial book series published by the Museum of Impossible Forms. The theme of the 2020 reader is **How to Work Together – Seeking models of solidarity and alliance**. It gathers a selection of essays, writings and poems on and around the topic of collective working practices. The publication also reflects and celebrates the past four years of operations of the Museum of Impossible Forms cultural centre in Kontula.

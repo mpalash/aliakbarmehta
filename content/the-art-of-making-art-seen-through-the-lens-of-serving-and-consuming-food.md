@@ -6,7 +6,7 @@ tags:
   - press
 pubdate: August 10, 2020 12:00 AM
 unlisted: "false"
-hero: https://ik.imagekit.io/mp/aam/tr:w-1000/blum-rosalyn.jpg
+hero: /static/img/blum-rosalyn.jpg
 shortdesc: What happens when the production or consumption of food lies in the
   centerpiece of an artwork or performance? Can an artistic focus on feeding
   lead to a more inclusive society?
@@ -19,6 +19,6 @@ children:
   - Lost ~ The Meadow
   - The art of making art seen through the lens of serving and consuming food
 ---
-![](https://ik.imagekit.io/mp/aam/tr:w-1000/blum-rosalyn.jpg)
+![](/static/img/blum-rosalyn.jpg)
 
 Read **[here](https://www.stirworld.com/think-opinions-the-art-of-making-art-seen-through-the-lens-of-serving-and-consuming-food)**

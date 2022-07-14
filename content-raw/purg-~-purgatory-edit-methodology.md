@@ -12,11 +12,11 @@ summary: "**Purgatory Edit** (working title) proposes to use the Emotive Epoc+,
   algorithm based real-time stitching of a ‘string’ of videos/images from the
   two databanks and uses this data as parameters to control the flow of video
   sequence."
-parent: " Purgatory Edit"
+parent: "Purgatory Edit"
 ---
 
 
-![](https://lh5.googleusercontent.com/IEHC4RFyGTrqOWloMxak5vXxUuQ18D8HLtJyxXcafuVV3ccI6C6aMgYuJkbaJSUmJTGafCYtXjXX438Fu3wpuTd__RuU-rC3HNgqqNfJEZbKirJnxNr8nINgOrdEqN4hBP1Jlb5t)
+![](/static/img/Emotiv and oculus rift.jpeg)
 
 **Purgatory Edit** explores methods in which cinematic experiences may be accessed using new and innovative input technologies. Where the use of 360° videos are helping audiences to take control of the ‘camera’, AR/VR and XR devices allow freedom from the confines of the physical ‘meatspace’, the project taps into the early 90’s gaming conventions of MUD and MOO devices that allow audience/participants to take control of the narrative, where choice (of the player) is an active ingredient in furthering the gameplay narrative.
 

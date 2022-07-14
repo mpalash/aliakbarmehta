@@ -5,9 +5,9 @@ layout: layouts/content.njk
 tags: group exhibition
 pubdate: "2020"
 unlisted: "false"
-hero: https://ik.imagekit.io/mp/aam/tr:w-1000/tapestry-of-time_to-art-gallery-2020.jpg
+hero: /static/img/tapestry-of-time_to-art-gallery-2020.jpg
 ---
-![Planktonian People II, 2013, ink on paper, 16.5(h) x 23.25(w) inches](https://ik.imagekit.io/mp/aam/tr:w-1000/ali-akbar-mehta-planktonian-people-i-2013-ink-on-paper-16.5-h-x-23.25-w-inches.jpg)
+![Planktonian People II, 2013, ink on paper, 16.5(h) x 23.25(w) inches](/static/img/ali-akbar-mehta-planktonian-people-i-2013-ink-on-paper-16.5-h-x-23.25-w-inches.jpg)
 
 [A Tapestry of Time, Curatorial Note, Tao Art Gallery](https://www.taoartgallery.com/past#/2020)
 

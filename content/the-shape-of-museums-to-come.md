@@ -7,7 +7,7 @@ layout: layouts/content.njk
 tags: publication
 pubdate: November 18, 2020 12:00 AM
 unlisted: "false"
-hero: https://ik.imagekit.io/mp/aam/tr:w-1000/museum-of-the-future_books_cover.jpg
+hero: /static/img/museum-of-the-future_books_cover.jpg
 shortdesc: '"The Museum of the Future was published in 1970. 43 contributions to
   the discussion about the future of the museum. 50 years later, a publication
   brings together 43 new contributions by international authors from museum
@@ -44,11 +44,11 @@ summary: >-
   <br/>
 
 
-  ![](https://ik.imagekit.io/mp/aam/tr:w-1000/museum-of-the-future_books_cover.jpg)
+  ![](/static/img/museum-of-the-future_books_cover.jpg)
 
-  ![](https://ik.imagekit.io/mp/aam/tr:w-1000/shape-of-museums-to-come-cover.jpg)
+  ![](/static/img/shape-of-museums-to-come-cover.jpg)
 
-  ![](https://ik.imagekit.io/mp/aam/tr:w-1000/shape-of-museums-to-come-page-01.jpg)
+  ![](/static/img/shape-of-museums-to-come-page-01.jpg)
 
 
   <br/><br/>

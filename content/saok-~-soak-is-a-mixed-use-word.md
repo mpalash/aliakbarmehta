@@ -5,7 +5,7 @@ layout: layouts/content.njk
 tags: text
 pubdate: "2016"
 unlisted: "true"
-hero: https://ik.imagekit.io/mp/aam/tr:w-1000/received_10153360436612014.jpeg
+hero: /static/img/received_10153360436612014.jpeg
 parent: SOAK
 ---
 An exhibition is always an act of placing artworks and understanding the

@@ -6,7 +6,7 @@ subtitle: >-
 layout: layouts/content.njk
 tags: artist talk
 pubdate: '2018'
-hero: https://ik.imagekit.io/mp/aam/tr:w-1000/histories-in-the-present.jpg
+hero: /static/img/histories-in-the-present.jpg
 children: []
 ---
 In 2018, I was invited by Visual Cultures, Curating, and Contemporary Art, Aalto University, Helsinki, as a Guest Lecturer, to talk about 'Cyber Archives', in the context of Archiving as a method to create 'Histories in the Present'.

@@ -6,7 +6,7 @@ tags:
   - ongoing project
 pubdate: March 15, 2020 12:00 AM
 unlisted: "false"
-hero: https://ik.imagekit.io/mp/aam/tr:w-1000/blum_ig.jpg
+hero: /static/img/blum_ig.jpg
 parent: Ballad of the Lost Utopian Meadow
 children:
   - "BLUM ~ Time Machine and Utopias: Longing, Living conditions, Homecoming"
@@ -26,4 +26,4 @@ The project was produced with the support of **[Contemporary Art Archipelago (CA
 
 
 
-![](https://ik.imagekit.io/mp/aam/tr:w-1000/ali-vidha_ballad-of-the-lost-utopian-meadow_qr-code_2020.jpg)
+![](/static/img/ali-vidha_ballad-of-the-lost-utopian-meadow_qr-code_2020.jpg)

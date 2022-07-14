@@ -6,7 +6,7 @@ tags:
   - ongoing project
 pubdate: July 15, 2020 12:00 AM
 unlisted: "false"
-hero: https://ik.imagekit.io/mp/aam/tr:w-1000/keskuspuistoarkistot-pilotti-kayttoliittyma.png
+hero: /static/img/keskuspuistoarkistot-pilotti-kayttoliittyma.png
 parent: Central Park Archives
 children:
   - CPA ~ Central Park Archives, Maunulatalo

@@ -18,7 +18,7 @@ summary: >-
   <br/>
 
   <br/><br/>
-parent: " Purgatory Edit"
+parent: "Purgatory Edit"
 ---
 
 

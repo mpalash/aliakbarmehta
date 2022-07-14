@@ -6,7 +6,7 @@ layout: layouts/content.njk
 tags: publication
 pubdate: "2018"
 unlisted: "false"
-hero: https://ik.imagekit.io/mp/aam/tr:w-1000/food-journal-book-cover.jpg
+hero: /static/img/food-journal-book-cover.jpg
 parent: ""
 children: []
 ---

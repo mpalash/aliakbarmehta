@@ -6,6 +6,6 @@ tags: press
 pubdate: '2018'
 parent: 256 Million Colours of Violence
 ---
-![](/static/img-d/sakal-times.jpg)
+![](/static/img/sakal-times.jpg)
 
 Read [here](http://www.sakaltimes.com/art-culture/not-your-regular-archive-11900)

@@ -6,7 +6,7 @@ layout: layouts/content.njk
 tags: performance
 pubdate: "2018"
 unlisted: "false"
-hero: https://ik.imagekit.io/mp/aam/tr:w-1000/ali-akbar-mehta_cyborg-archives_performance-view_2018.jpg
+hero: /static/img/ali-akbar-mehta_cyborg-archives_performance-view_2018.jpg
 parent: To Participate in the Archive
 children: []
 ---
@@ -14,12 +14,12 @@ children: []
 
 Members of the audience were invited to participate 'in the archive' by interacting with the simplified manifestation of a cyber] archive through a series of controlled statements and requests. 'The archive', in this case performed by Luv Mehtani, was bound by a scripted introductory and closing statements, and with instructions to invite questions/statements from the audience.
 
-![](https://ik.imagekit.io/mp/aam/tr:w-1000/ali-akbar-mehta_cyborg-archives_artist-s-instructions_2018.jpg)
-![Performance view: Cyborg Archive: garbageINgarbageOUT, 2018, ARTEL 2018, TIFA Working Studios](https://ik.imagekit.io/mp/aam/tr:w-1000/ali-akbar-mehta_cyborg-archives_performance-view_2018.jpg)
-![](https://ik.imagekit.io/mp/aam/tr:w-1000/ali-akbar-mehta_performance-view_cyborg-archive-garbageingarbageout_tifa-working-studios_2018.jpg)
-![](https://ik.imagekit.io/mp/aam/tr:w-1000/Ali%20Akbar%20Mehta_Performance%20detail%2002_Cyborg%20Archive-Error%20Archive_TIFA%20Working%20Studios_2018.jpg)
-![](https://ik.imagekit.io/mp/aam/tr:w-1000/Ali%20Akbar%20Mehta_Performance%20detail%2003_Cyborg%20Archive-Error%20Archive_TIFA%20Working%20Studios_2018.jpg)
-![](https://ik.imagekit.io/mp/aam/tr:w-1000/ali-akbar-mehta_installation-view-_cyborg-archive-error-archive_tifa-working-studios_2018.jpg.jpg)
+![](/static/img/ali-akbar-mehta_cyborg-archives_artist-s-instructions_2018.jpg)
+![Performance view: Cyborg Archive: garbageINgarbageOUT, 2018, ARTEL 2018, TIFA Working Studios](/static/img/ali-akbar-mehta_cyborg-archives_performance-view_2018.jpg)
+![](/static/img/ali-akbar-mehta_performance-view_cyborg-archive-garbageingarbageout_tifa-working-studios_2018.jpg)
+![](/static/img/Ali%20Akbar%20Mehta_Performance%20detail%2002_Cyborg%20Archive-Error%20Archive_TIFA%20Working%20Studios_2018.jpg)
+![](/static/img/Ali%20Akbar%20Mehta_Performance%20detail%2003_Cyborg%20Archive-Error%20Archive_TIFA%20Working%20Studios_2018.jpg)
+![](/static/img/ali-akbar-mehta_installation-view-_cyborg-archive-error-archive_tifa-working-studios_2018.jpg.jpg)
 
 
 GarbageinGarbageOut is performed by **Luv Mehtani**, and the performance was conducted at TIFA Working Studios in the exhibition 'Assembly of Access', curated by [Vidisha Fadescha](http://vidisha-fadescha.com/ASSEMBLY-OF-ACCESS), 2018.

@@ -8,13 +8,13 @@ tags:
   - publication
 pubdate: August 1, 2021 12:28 AM
 unlisted: "false"
-hero: https://ik.imagekit.io/mp/aam/tr:w-1000/kontula.jpeg
+hero: /static/img/kontula.jpeg
 shortdesc: Written as a contribution for the Impossible Reader 2020titled*,
   **How to work together?*** **Seeking models of solidarity and alliance**,
   published by the Museum of Impossible Forms in 2021
 summary: |-
-  ![](https://ik.imagekit.io/mp/aam/tr:w-1000/screenshot-2021-11-02-at-9.54.47.png)
-  ![](https://ik.imagekit.io/mp/aam/tr:w-1000/kontula.jpeg)
+  ![](/static/img/screenshot-2021-11-02-at-9.54.47.png)
+  ![](/static/img/kontula.jpeg)
 
   <br/>
 parent: Museum of Impossible Forms

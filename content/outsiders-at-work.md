@@ -6,7 +6,7 @@ tags:
   - curatorial work
 pubdate: "2019"
 unlisted: "false"
-hero: https://ik.imagekit.io/mp/aam/tr:w-1000/logo_outsiders-at-work.jpg
+hero: /static/img/logo_outsiders-at-work.jpg
 children:
   - "Outsider ~ Tuike and Simo Alitalo: All Ears are Equal"
   - "Outsiders ~ Abhinit Khanna : Make Memes not War"

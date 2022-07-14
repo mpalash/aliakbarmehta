@@ -3,7 +3,7 @@ title: Ballad of the War that Never Was, and Other Basterdised Myths
 layout: layouts/content.njk
 tags: past project
 pubdate: "2011"
-hero: https://ik.imagekit.io/mp/aam/tr:w-1000/ballad-of-the-war-that-never-was-2011-oil-and-acrylic-on-canvas-152-x-198-cm.jpg
+hero: /static/img/ballad-of-the-war-that-never-was-2011-oil-and-acrylic-on-canvas-152-x-198-cm.jpg
 children:
   - Ballad ~ Not on Noah’s Ark, but on the Raft of the Medusa
   - Ballad ~ Somewhere between Science and Subjectivity

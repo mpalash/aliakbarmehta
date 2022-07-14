@@ -3,15 +3,36 @@
 var sharp  = require('sharp'),
     path = require('path'),
     fs = require('graceful-fs'),
+    fm = require('front-matter'),
     compress_images = require('compress-images');
 
 var folderSrc = './static/img/',
-    folderOut = ['./static/img-l/', './static/img-m/', './static/img-d/', './static/img-s/'],
-    dim = [1800, 1200, 1000, 800],
-    files = [];
+    folderOut = ['./static/img-hero/', './static/img-thumbs/'],
+    contentSrc = './content/',
+    dim = [1800, 800],
+    contentFiles = [],
+    transformFiles = [];
+
 // var folderSrc = './static/images/',
 //     folderOut = ['./static/images-l/'],
 //     dim = [2000];
+
+// fs.readdir(contentSrc, function(err, contentFiles) {
+//   for (var i=0; i<contentFiles.length; i++) {
+//     var input = contentSrc + contentFiles[i];
+//     fs.readFile(input, 'utf8', function(err, data){
+//       if (err) {
+//         throw err
+//       } else {
+//         var content = fm(data)
+//         var hero = content.attributes.hero
+//         if(hero != undefined) {
+//           transformFiles.push(hero.toString());
+//         }
+//       }
+//     })
+//   }
+// })
 
 fs.readdir(folderSrc, function(err, files) {
   // ALL IMAGES
@@ -48,7 +69,7 @@ fs.readdir(folderSrc, function(err, files) {
     }
 
     // COMPRESS
-    compress_images(folderOut[j] + '/*', folderOut[j] + '~', { compress_force: false, statistic: true, autoupdate: true }, false,
+    compress_images(folderOut[j] + '/*', folderOut[j], { compress_force: false, statistic: true, autoupdate: true }, false,
                 { jpg: {engine: 'mozjpeg', command: ['-quality', '50'] } },
                 { png: { engine: "pngquant", command: ["--quality=20-50", "-o"] } },
                 { svg: { engine: false, command: false } },

@@ -5,7 +5,7 @@ layout: layouts/content.njk
 tags: group exhibition
 pubdate: September 1, 2017 12:00 AM
 unlisted: "false"
-hero: https://ik.imagekit.io/mp/aam/tr:w-1000/PartizaningMaunula_photo27_VesaPekkaGronfors_web.jpg
+hero: /static/img/PartizaningMaunula_photo27_VesaPekkaGronfors_web.jpg
 summary: ""
 parent: Maunula Speaks
 ---
@@ -13,8 +13,8 @@ Moscow-based ***Partizaning Collective*** is an urban activist movement focusing
 
 In collaboration with artists from Aalto University’s *Visual Culture and Contemporary Art* (ViCCA) program, Partizaning created a series of interventions to address the parallel dynamics of gentrification and segregation in the Maunula neighbourhood.
 
-![](https://ik.imagekit.io/mp/aam/tr:w-1000/partizaningmaunula-ali-vidha-soup_photovesapekkagronfors-web.jpg)
-![](https://ik.imagekit.io/mp/aam/tr:w-1000/PartizaningMaunula-Soup2_photoVesaPekkaGronfors-web.jpg)
-![](https://ik.imagekit.io/mp/aam/tr:w-1000/PartizaningMaunula_photo27_VesaPekkaGronfors_web.jpg)
+![](/static/img/partizaningmaunula-ali-vidha-soup_photovesapekkagronfors-web.jpg)
+![](/static/img/PartizaningMaunula-Soup2_photoVesaPekkaGronfors-web.jpg)
+![](/static/img/PartizaningMaunula_photo27_VesaPekkaGronfors_web.jpg)
 
 For an extended documentation regarding this exhibition, see [here](https://www.m-cult.org/node/698)

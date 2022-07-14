@@ -4,14 +4,14 @@ layout: content
 tags: publication
 pubdate: "2014"
 unlisted: "false"
-hero: https://ik.imagekit.io/mp/aam/tr:w-1000/war-list-codex-front-book-cover.jpg
+hero: /static/img/war-list-codex-front-book-cover.jpg
 shortdesc: ""
 summary: ""
 parent: "WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs"
 ---
-![](https://ik.imagekit.io/mp/aam/tr:w-1000/war-list-codex-front-book-cover.jpg)
-![](https://ik.imagekit.io/mp/aam/tr:w-1000/war-list-codex-book-inside.jpg)
-![](https://ik.imagekit.io/mp/aam/tr:w-1000/war-list-codex-back-book-cover.jpg)
+![](/static/img/war-list-codex-front-book-cover.jpg)
+![](/static/img/war-list-codex-book-inside.jpg)
+![](/static/img/war-list-codex-back-book-cover.jpg)
 
 “Violence & the culture it consumes/perpetuates is a fundamental condition lodged in the core of human experience. It is simultaneously private, public, self-intimating & collective.” To make visible this phenomena, I began research in 2014 to compile a timeline of ‘every war, battle, revolt, revolution, siege, sacking, rebellion, bombing & insurgency’, from 3000 BC to the present. This database is the foundation of this collaborative performance-installation & research project. The title refers to Susan Sontag’s seminal book, ‘Regarding the Pain of Others’, where she questions the validity of decontextualized representation (within war photography).
 

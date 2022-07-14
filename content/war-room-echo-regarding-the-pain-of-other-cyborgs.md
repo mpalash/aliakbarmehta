@@ -6,7 +6,7 @@ tags:
   - ongoing project
 pubdate: February 12, 2021 12:00 AM
 unlisted: "false"
-hero: https://ik.imagekit.io/mp/aam/tr:w-1000/ali-akbar-mehta_simulated-view-of-performance_wre-proposal.jpg
+hero: /static/img/ali-akbar-mehta_simulated-view-of-performance_wre-proposal.jpg
 shortdesc: "**WAR • ROOM • ECHO: Regarding the pain of other Cyborgs** is a
   *collaborative Transmedia Performance-Installation and Research Project*. It
   examines the philosophical terrain of war and the seemingly permanent state of
@@ -46,9 +46,9 @@ children:
 
 Examining the philosophical terrain of war, **WAR • ROOM • ECHO** is a composite project consisting of drawn images, sound, performance and installation elements that explore war and its impact. The project is more than a simple representation of war, where it instead describes war as a universal idea of antagonism – a set of languages and iconographies embedded in our everyday lives and broader social consciousness. Dealing beyond an actual, specific conflict, it confronts its audience with the unpalatable side of humanity, the scenes and situations that resist engagement.
 
-![3D rendered visualisation, Performance of Narrating WAR, ‘WAR • ROOM • ECHO – Regarding the Pain of Other Cyborgs'](https://ik.imagekit.io/mp/aam/tr:w-1000/ali-akbar-mehta_simulated-view-of-performance_wre-proposal.jpg)
-![3D rendered visualisation, The installation is conceived to be in a 'dark room' and viewed through torchlight, ‘WAR • ROOM • ECHO – Regarding the Pain of Other Cyborgs'](https://ik.imagekit.io/mp/aam/tr:w-1000/ali-akbar-mehta_simulated-view-of-installation_wre-proposal.jpg)
-![3D rendered visualisation, The installation partly comprises of a memorial wall mimicking vertical graves, ‘WAR • ROOM • ECHO – Regarding the Pain of Other Cyborgs'](https://ik.imagekit.io/mp/aam/tr:w-1000/ali-akbar-mehta_simulated-view-of-memorial-wall_wre-proposal.jpg)
+![3D rendered visualisation, Performance of Narrating WAR, ‘WAR • ROOM • ECHO – Regarding the Pain of Other Cyborgs'](/static/img/ali-akbar-mehta_simulated-view-of-performance_wre-proposal.jpg)
+![3D rendered visualisation, The installation is conceived to be in a 'dark room' and viewed through torchlight, ‘WAR • ROOM • ECHO – Regarding the Pain of Other Cyborgs'](/static/img/ali-akbar-mehta_simulated-view-of-installation_wre-proposal.jpg)
+![3D rendered visualisation, The installation partly comprises of a memorial wall mimicking vertical graves, ‘WAR • ROOM • ECHO – Regarding the Pain of Other Cyborgs'](/static/img/ali-akbar-mehta_simulated-view-of-memorial-wall_wre-proposal.jpg)
 
 This project consists of several modular components:
 

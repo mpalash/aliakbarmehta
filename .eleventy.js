@@ -11,10 +11,98 @@ const markdownItAnchor = require("markdown-it-anchor");
 const markdownItImplicitFigures = require('markdown-it-implicit-figures');
 const markdownItFigureCaption = require('markdown-it-figure-caption');
 const markdownItDeflist = require('markdown-it-deflist');
-const markdownItRegex = require('markdown-it-regex')
-const markdownItRegexp = require('markdown-it-regexp')
+const markdownItRegexp = require('markdown-it-regexp');
+const markdownItR = require('markdown-it-replace-it');
 
-module.exports = function(eleventyConfig) {
+const Image = require('@11ty/eleventy-img');
+const { parseHTML } = require('linkedom');
+
+async function imageShortcode(src, alt, sizes) {
+  const srcURL = '.' + src.replace(/\%20/g,' ')
+  let metadata = await Image(srcURL, {
+    widths: [800, 1000, 1200, 1600],
+    formats: ["webp", "jpeg"],
+    urlPath: "/images/",
+    outputDir: "./_site/images/"
+  });
+
+  let imageAttributes = {
+    alt,
+    sizes,
+    loading: "lazy",
+    decoding: "async",
+  };
+
+  // You bet we throw an error on missing alt in `imageAttributes` (alt="" works okay)
+  return Image.generateHTML(metadata, imageAttributes);
+}
+function myImageShortcode(src, alt, sizes) {
+  let options = {
+    widths: [800, 1000, 1200, 1600],
+    formats: ["webp","jpeg"],
+    urlPath: "/images/",
+    outputDir: "./_site/images/"
+  };
+
+  const srcURL = '.' + src.replace(/\%20/g,' ')
+
+  // generate images, while this is async we don’t wait
+  Image(srcURL, options);
+
+  let imageAttributes = {
+    alt,
+    sizes,
+    loading: "lazy",
+    decoding: "async",
+  };
+  // get metadata even the images are not fully generated
+  let metadata = Image.statsSync(srcURL, options);
+  return Image.generateHTML(metadata, imageAttributes);
+}
+
+function eleventyImg(content){
+  let { document } = parseHTML(content)
+
+  const options = {
+    widths: [800, 1000, 1200, 1600],
+    sizes: '800w, 1000w, 1200w, 1600w', // your responsive sizes here
+    formats: ['webp', 'jpeg'],
+    urlPath: '/images/',
+    outputDir: './_site/images/'
+  }
+
+  const images = [...document.querySelectorAll('img')]
+
+  images.forEach((i, index) => {
+    const src = '.' + i.getAttribute('src').replace(/\%20/g,' ')
+    const alt = i.getAttribute('alt')
+
+    const meta = Image.statsSync(src, options)
+    const last = meta.jpeg[meta.jpeg.length - 1]
+    if (last.width < 500) return
+
+    Image(src, options)
+    i.setAttribute('width', last.width)
+    i.setAttribute('height', last.height)
+    i.setAttribute('alt', alt)
+    if (index !== 0) {
+      i.setAttribute('loading', 'lazy')
+      i.setAttribute('decoding', 'async')
+    }
+
+    i.outerHTML = `
+    <picture>
+      <source type="image/webp" alt="${i.alt}" srcset="${meta.webp.map(p => p.srcset).join(', ')}">
+      <source type="image/jpeg" alt="${i.alt}" srcset="${meta.jpeg.map(p => p.srcset).join(', ')}">
+      <img alt="${i.alt}" srcset="${meta.jpeg.map(p => p.srcset).join(', ')}">
+      <span>${i.alt}</span>
+    </picture>`
+  })
+
+  return `${document.documentElement.outerHTML}`
+}
+
+module.exports = eleventyConfig => {
 
   // Eleventy Navigation https://www.11ty.dev/docs/plugins/navigation/
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
@@ -28,6 +116,10 @@ module.exports = function(eleventyConfig) {
   // Merge data instead of overriding
   // https://www.11ty.dev/docs/data-deep-merge/
   eleventyConfig.setDataDeepMerge(true);
+
+  // Nunjucks image shortcode
+  eleventyConfig.addNunjucksAsyncShortcode("image", imageShortcode);
+  eleventyConfig.addNunjucksShortcode("myImage", myImageShortcode);
 
   // Date formatting (year only) November 24, 2016 12:00 AM
   eleventyConfig.addFilter("yy", dateObj => {
@@ -68,38 +160,9 @@ module.exports = function(eleventyConfig) {
     return minified.code;
   });
 
-  // Markdownify
-  eleventyConfig.addFilter("md", value => {
-    var md = new markdownIt({
-      html: true,
-      breaks: true,
-      linkify: true
-    }).use(markdownItImplicitFigures, {
-      figcaption: true
-    });
-    // var valueMD = String(value).replace(/\/img\/.*.(?:jpe?g|gif|png)/g, function(match){
-    //   return match.replace(/\s/g,'%20').replace(/\/img\//g,'/img-d/')
-    // });
-    var rendered = md.render(String(value));
-    return rendered;
-  });
-
-  // Minify HTML output
-  eleventyConfig.addTransform("htmlmin", function(content, outputPath) {
-    if (outputPath.indexOf(".html") > -1) {
-      let minified = htmlmin.minify(content, {
-        useShortDoctype: true,
-        removeComments: true,
-        collapseWhitespace: true
-      });
-      return minified;
-    }
-    return content;
-  });
-
   // Universal slug filter strips unsafe chars from URLs
   eleventyConfig.addFilter("slugify", function(str) {
-    return slugify(str, {
+    return slugify(str.toString(), {
       lower: true,
       replacement: "-",
       remove: /[*+~.·,()'"`´%!?¿:@!"#$%&'()*+,.\/:;<=≠>?@\\^``{|}~]/g
@@ -223,19 +286,14 @@ module.exports = function(eleventyConfig) {
     .reverse()
   )
 
-  // Don't process folders with static assets e.g. images
-  eleventyConfig.addPassthroughCopy("favicon.ico");
-  eleventyConfig.addPassthroughCopy("robots.txt");
-  eleventyConfig.addPassthroughCopy("static/");
-  eleventyConfig.addPassthroughCopy("admin/");
-
   /* Markdown Plugins */
   let options = {
     html: true,
     breaks: true,
-    linkify: true
+    linkify: true,
+    typographer: true
   };
-  let opts = {
+  let anchoropts = {
     permalink: false
   };
   let figopts = {
@@ -244,25 +302,106 @@ module.exports = function(eleventyConfig) {
     tabindex: false,
     link: false
   };
-  let regexp = markdownItRegexp(/\/img\/.*.(?:jpe?g|gif|png)/,function(match, utils) {
-    let transformed = match.replace(/\s/g,'%20').replace(/\/img\//g,'/img-d/');
-    return transformed;
-  });
-  let regex = {
-    name: 'spacefix',
-    regex: /\/img\/.*.(?:jpe?g|gif|png)/,
-    replace: (match) => {
-      return match.replace(/\s/g,'%20').replace(/\/img\//g,'/img-d/')
-    }
-  };
+  // This works
+  // markdownItR.replacements.push({
+  //   name: 'pathfix',
+  //   re: /\/img\/.*.(?:jpe?g|gif|png)/g,
+  //   sub: function (s) {
+  //     // let t = s.replace(/img/g,'img-d');
+  //     let u = s.replace(/\s/g,'%20');
+  //     return u;
+  //   },
+  //   default: true
+  // });
+  // let regexp = markdownItRegexp(
+  //   /\/img\/.*.(?:jpe?g|gif|png)/,
+  //   function(match, utils) {
+  //     let transformed = match.replace(/\s/g,'%20');
+  //     return transformed;
+  //   }
+  // );
 
-  eleventyConfig.setLibrary("md", markdownIt(options)
-    // .use(markdownItRegex, regex)
-    .use(regexp)
-    .use(markdownItAnchor, opts)
-    .use(markdownItImplicitFigures, figopts)
-    .use(markdownItDeflist)
-  );
+  let markdownLib = markdownIt(options).use(markdownItAnchor, anchoropts).use(markdownItDeflist);
+
+  // Markdownify
+  eleventyConfig.addFilter("md", value => {
+    // var md = new markdownIt({
+    //   html: true,
+    //   breaks: true,
+    //   linkify: true
+    // })
+    // .use(markdownItImplicitFigures, {
+    //   figcaption: true
+    // });
+    var valueMD = String(value).replace(/\/img\/.*.(?:jpe?g|gif|png)/g, function(match){
+      return match.replace(/\s/g,'%20');
+    });
+    var rendered = markdownLib.render(valueMD);
+    return eleventyImg(rendered);
+  });
+
+  eleventyConfig.setLibrary("md", markdownLib);
+
+  // Minify HTML output
+  eleventyConfig.addTransform("htmlmin", function(content, outputPath) {
+    if (this.outputPath && this.outputPath.endsWith(".html")) {
+      let minified = htmlmin.minify(content, {
+        useShortDoctype: true,
+        removeComments: true,
+        collapseWhitespace: true
+      });
+      return minified;
+    }
+    return content;
+  });
+
+  // eleventyConfig.addTransform('transform', (content, outputPath) => {
+  //   if (this.outputPath && this.outputPath.endsWith(".html")) {
+  //     let { document } = parseHTML(content)
+  //
+  //     const options = {
+  //       widths: [800, 1000, 1200, 1800],
+  //       sizes: '800w, 1000w, 1200w, 1800w', // your responsive sizes here
+  //       formats: ['webp', 'jpeg'],
+  //       urlPath: '/img/',
+  //       outputDir: './_site/images/'
+  //     }
+  //
+  //     const images = [...document.querySelectorAll('main img')]
+  //
+  //     images.forEach((i, index) => {
+  //       const src = '.' + i.getAttribute('src')
+  //
+  //       const meta = Image.statsSync(src, options)
+  //       const last = meta.jpeg[meta.jpeg.length - 1]
+  //       if (last.width < 500) return
+  //
+  //       Image(src, options)
+  //       i.setAttribute('width', last.width)
+  //       i.setAttribute('height', last.height)
+  //       if (index !== 0) {
+  //         i.setAttribute('loading', 'lazy')
+  //         i.setAttribute('decoding', 'async')
+  //       }
+  //
+  //       i.outerHTML = `
+  //       <picture>
+  //         <source type="image/webp" sizes="${options.sizes}" srcset="${meta.webp.map(p => p.srcset).join(', ')}">
+  //         <source type="image/jpeg" sizes="${options.sizes}" srcset="${meta.jpeg.map(p => p.srcset).join(', ')}">
+  //         ${i.outerHTML}
+  //       </picture>`
+  //     })
+  //
+  //     return `<!DOCTYPE html>${document.documentElement.outerHTML}`
+  //   }
+  //   return content
+  // })
+
+  // Don't process folders with static assets e.g. images
+  eleventyConfig.addPassthroughCopy("favicon.ico");
+  eleventyConfig.addPassthroughCopy("robots.txt");
+  eleventyConfig.addPassthroughCopy("static/");
+  eleventyConfig.addPassthroughCopy("admin/");
 
   return {
     templateFormats: ["md", "njk", "html", "liquid"],

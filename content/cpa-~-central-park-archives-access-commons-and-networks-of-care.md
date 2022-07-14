@@ -5,7 +5,7 @@ layout: content
 tags: artist talk
 pubdate: May 27, 2021 9:34 AM
 unlisted: "false"
-hero: https://ik.imagekit.io/mp/aam/tr:w-1000/ali-akbar-mehta-rh-cpa-spring-03-2021.jpg
+hero: /static/img/ali-akbar-mehta-rh-cpa-spring-03-2021.jpg
 summary: >-
   <iframe width="560" height="315"
   src="https://www.youtube.com/embed/dCxyFHkOxlE" title="YouTube video player"

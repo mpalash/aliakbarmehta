@@ -3,7 +3,7 @@ title: Luminous Matter
 layout: layouts/content.njk
 tags: past project
 pubdate: "2011"
-hero: https://ik.imagekit.io/mp/aam/tr:w-1000/lm1-large.jpg
+hero: /static/img/lm1-large.jpg
 shortdesc: "[Luminous Matter](http://luminousmatter.in/) is a collaborative
   experimental short film, set in a parallel post-apocalyptic present, where
   mankind no longer exists. In a world covered with nuclear fog and left to

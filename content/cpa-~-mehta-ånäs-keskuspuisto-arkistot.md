@@ -5,7 +5,7 @@ layout: layouts/content.njk
 tags: press
 pubdate: August 20, 2020 12:00 AM
 unlisted: "false"
-hero: https://ik.imagekit.io/mp/aam/tr:w-1000/central-park-archives_fieldtrip-june2020_photominnatarkka.jpg
+hero: /static/img/central-park-archives_fieldtrip-june2020_photominnatarkka.jpg
 summary: >-
   The artists of the Central Park Archives project, Ali Akbar Mehta and Susanna
   Ånäs bring together the history, present, and future of Central Park together
@@ -17,7 +17,7 @@ summary: >-
   <br/><br/>
 
 
-  ![](https://ik.imagekit.io/mp/aam/tr:w-1000/susanna-iida-ali-jorma_2nd-field-trip_meadow_16.6.2020.jpg)
+  ![](/static/img/susanna-iida-ali-jorma_2nd-field-trip_meadow_16.6.2020.jpg)
 parent: Central Park Archives
 children:
   - CPA ~ Central Park Archives - workshops
@@ -56,4 +56,4 @@ The Wikidocumentaries project attempts to provide a platform where the globally 
 Together, we explore the ways provided by a familiar online environment to store and archive the memory we collect. Based on this, we outline new processes that would make the preservation of the materials more secure, better linked to the collections stored by others, and could be produced on the terms of both individuals and different communities.
 <br/><br/>
 
-![](https://ik.imagekit.io/mp/aam/tr:w-1000/summer_2nd-field-trip_allotment-garden_16.6.2020.jpg)
+![](/static/img/summer_2nd-field-trip_allotment-garden_16.6.2020.jpg)

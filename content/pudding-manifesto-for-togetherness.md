@@ -4,7 +4,7 @@ layout: layouts/content.njk
 tags: past project
 pubdate: January 11, 2016 12:00 AM
 unlisted: "false"
-hero: https://ik.imagekit.io/mp/aam/tr:w-1000/pudding-manifesto_installation-view-cropped_2016.jpg
+hero: /static/img/pudding-manifesto_installation-view-cropped_2016.jpg
 children:
   - Pud ~ Proposal for Pudding Manifesto
   - pud ~ The Manifesto for Togetherness

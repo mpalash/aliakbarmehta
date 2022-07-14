@@ -1,9 +1,9 @@
 ---
 layout: layouts/home.njk
-title: Home
+title: Ali Akbar Mehta
 permalink: /
 summary: >-
-  I am a transmedia artist, curator, and researcher. 
+  I am a transmedia artist, curator, and researcher.
 
 
   I create immersive cyber archives that map narratives of histories, identity-constructs through a multifocal lens of violence, conflict, and trauma. Such archival mappings – as drawings, paintings, new media works, net-based projects, poems, essays, and theoretical texts, as well as performances both of bodies and networks – are rooted in datafeminist, posthumanist critical theories of making visible hegemonic power relations and silenced historical materialism.

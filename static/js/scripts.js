@@ -31,36 +31,36 @@ $(function() {
   });
 
   // Lightbox
-  var screenWidth = $(document).width();
-  if(screenWidth < 800) {
-    var myLB = new jBox('Image', {
-      adjustDistance: 40,
-      blockScroll: true,
-      reposition: false,
-      overlay: true,
-      closeOnEsc: true,
-      closeOnClick: 'overlay',
-      closeButton: 'overlay',
-      src: 'src',
-      imageLabel: 'alt',
-      imageSize: '100% auto',
-      imageCounter: false
-    });
-  } else {
-    var myLB = new jBox('Image', {
-      adjustDistance: 80,
-      blockScroll: true,
-      reposition: false,
-      overlay: true,
-      closeOnEsc: true,
-      closeOnClick: 'overlay',
-      closeButton: 'overlay',
-      src: 'src',
-      imageLabel: 'alt',
-      imageSize: 'auto 90%',
-      imageCounter: false
-    });
-  }
+  // var screenWidth = $(document).width();
+  // if(screenWidth < 800) {
+  //   var myLB = new jBox('Image', {
+  //     adjustDistance: 40,
+  //     blockScroll: true,
+  //     reposition: false,
+  //     overlay: true,
+  //     closeOnEsc: true,
+  //     closeOnClick: 'overlay',
+  //     closeButton: 'overlay',
+  //     src: 'src',
+  //     imageLabel: 'alt',
+  //     imageSize: '100% auto',
+  //     imageCounter: false
+  //   });
+  // } else {
+  //   var myLB = new jBox('Image', {
+  //     adjustDistance: 80,
+  //     blockScroll: true,
+  //     reposition: false,
+  //     overlay: true,
+  //     closeOnEsc: true,
+  //     closeOnClick: 'overlay',
+  //     closeButton: 'overlay',
+  //     src: 'src',
+  //     imageLabel: 'alt',
+  //     imageSize: 'auto 90%',
+  //     imageCounter: false
+  //   });
+  // }
 });
 
 function toggleContent(){
@@ -73,11 +73,11 @@ function toggleContent(){
   });
 }
 function makeGallery(){
-  var pimg = $('p:has(img)');
+  var pimg = $('p:has(picture)');
   pimg.find('br').remove();
   pimg.each(function(j, obj){
     var p = $(this);
-    var i = p.find('img');
+    var i = p.find('picture');
     var len = i.length;
     if (len > 1) {
       p.addClass('img');

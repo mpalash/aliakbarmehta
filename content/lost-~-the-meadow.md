@@ -5,9 +5,9 @@ layout: layouts/content.njk
 tags: group exhibition
 pubdate: "2020"
 unlisted: "false"
-hero: https://ik.imagekit.io/mp/aam/tr:w-1000/meadow-image.jpg
+hero: /static/img/meadow-image.jpg
 summary: >-
-  ![](https://ik.imagekit.io/mp/aam/tr:w-1000/meadow-image.jpg)
+  ![](/static/img/meadow-image.jpg)
 
 
   ## Copper Smithy, Fiskars

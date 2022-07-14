@@ -47,7 +47,7 @@
       dom += '<h1>Searching for: ' + query + '</h1>'
       if(response.result.items.length > 0) {
         response.result.items.forEach((item, i) => {
-          dom += '<div><h2><a href="' + item.formattedUrl + '">' + item.title + '</a></h2>'
+          dom += '<div><h2><a href="' + item.link + '">' + item.title + '</a></h2>'
           dom += '<p>' + item.snippet + '</p>'
           dom += '</div>'
         });

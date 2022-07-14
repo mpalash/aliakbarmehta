@@ -6,11 +6,11 @@ tags:
   - group exhibition
 pubdate: November 18, 2021 2:12 PM
 unlisted: "false"
-hero: https://ik.imagekit.io/mp/aam/tr:w-1000/data-vitality-visual-identity.jpg
+hero: /static/img/data-vitality-visual-identity.jpg
 summary: >-
-  ![](https://ik.imagekit.io/mp/aam/tr:w-1000/data-vitality-visual-identity.jpg)
+  ![](/static/img/data-vitality-visual-identity.jpg)
 
-  ![](https://ik.imagekit.io/mp/aam/tr:w-1000/ali-akbar-mehta-256-million-colours-of-violence.png)
+  ![](/static/img/ali-akbar-mehta-256-million-colours-of-violence.png)
 
 
   **<br/>**

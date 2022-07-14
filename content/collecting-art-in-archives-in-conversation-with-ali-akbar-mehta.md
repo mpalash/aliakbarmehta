@@ -5,9 +5,9 @@ layout: layouts/content.njk
 tags: press
 pubdate: October 3, 2020 12:00 AM
 unlisted: "false"
-hero: https://ik.imagekit.io/mp/aam/tr:w-1000/ali-akbar-mehta-art-fervour-collecting-art-press-2020.jpg
+hero: /static/img/ali-akbar-mehta-art-fervour-collecting-art-press-2020.jpg
 ---
-![](https://ik.imagekit.io/mp/aam/tr:w-1000/ali-akbar-mehta-art-fervour-collecting-art-press-2020.jpg)
+![](/static/img/ali-akbar-mehta-art-fervour-collecting-art-press-2020.jpg)
 
 "Transmedia artist Ali Akbar Mehta’s journey has been one of continuous learning and unlearning. There are several roles he performs as artist, curator and researcher to focus on alternative, innovative and inclusive discourses.
 

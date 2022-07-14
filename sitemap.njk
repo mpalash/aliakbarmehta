@@ -8,21 +8,45 @@ eleventyExcludeFromCollections: true
     <loc>{{ metadata.url }}</loc>
     <lastmod>{{ "March 24, 2021 12:00 AM" | ISODate }}</lastmod>
     <changefreq>daily</changefreq>
+    <PageMap xmlns="http://www.google.com/schemas/sitemap-pagemap/1.0">
+     <DataObject type="document">
+       <Attribute name="collection">Page</Attribute>
+       <Attribute name="title">Ali Akbar Mehta</Attribute>
+     </DataObject>
+    </PageMap>
   </url>
   <url>
     <loc>{{ metadata.url }}/curriculum-vitae/</loc>
     <lastmod>{{ "March 24, 2021 12:00 AM" | ISODate }}</lastmod>
     <changefreq>daily</changefreq>
+    <PageMap xmlns="http://www.google.com/schemas/sitemap-pagemap/1.0">
+     <DataObject type="document">
+       <Attribute name="collection">Page</Attribute>
+       <Attribute name="title">Curriculum vitae</Attribute>
+     </DataObject>
+    </PageMap>
   </url>
   <url>
     <loc>{{ metadata.url }}/portfolio-2021/</loc>
     <lastmod>{{ "March 24, 2021 12:00 AM" | ISODate }}</lastmod>
     <changefreq>daily</changefreq>
+    <PageMap xmlns="http://www.google.com/schemas/sitemap-pagemap/1.0">
+     <DataObject type="document">
+       <Attribute name="collection">Page</Attribute>
+       <Attribute name="title">Portfolio</Attribute>
+     </DataObject>
+    </PageMap>
   </url>
   <url>
     <loc>{{ metadata.url }}/404/</loc>
     <lastmod>{{ "March 24, 2021 12:00 AM" | ISODate }}</lastmod>
     <changefreq>daily</changefreq>
+    <PageMap xmlns="http://www.google.com/schemas/sitemap-pagemap/1.0">
+     <DataObject type="document">
+       <Attribute name="collection">Page</Attribute>
+       <Attribute name="title">404 - Page not found</Attribute>
+     </DataObject>
+    </PageMap>
   </url>
 
   {% for content in collections.projects %}
@@ -30,6 +54,14 @@ eleventyExcludeFromCollections: true
     <loc>{{ metadata.url }}{{ content.url | url }}</loc>
     <lastmod>{{ content.data.pubdate | ISODate }}</lastmod>
     <changefreq>daily</changefreq>
+    <PageMap xmlns="http://www.google.com/schemas/sitemap-pagemap/1.0">
+     <DataObject type="document">
+       <Attribute name="collection">Projects</Attribute>
+       <Attribute name="title">{{ content.data.title }}</Attribute>
+       <Attribute name="summary">{{ content.data.summary }}</Attribute>
+       <Attribute name="pubdate">{{ content.data.pubdate }}</Attribute>
+     </DataObject>
+    </PageMap>
   </url>
   {% endfor %}
 
@@ -38,6 +70,14 @@ eleventyExcludeFromCollections: true
     <loc>{{ metadata.url }}{{ content.url | url }}</loc>
     <lastmod>{{ content.data.pubdate | ISODate }}</lastmod>
     <changefreq>daily</changefreq>
+    <PageMap xmlns="http://www.google.com/schemas/sitemap-pagemap/1.0">
+     <DataObject type="document">
+       <Attribute name="collection">Curatorial work</Attribute>
+       <Attribute name="title">{{ content.data.title }}</Attribute>
+       <Attribute name="summary">{{ content.data.summary }}</Attribute>
+       <Attribute name="pubdate">{{ content.data.pubdate }}</Attribute>
+     </DataObject>
+    </PageMap>
   </url>
   {% endfor %}
 
@@ -46,6 +86,14 @@ eleventyExcludeFromCollections: true
     <loc>{{ metadata.url }}{{ content.url | url }}</loc>
     <lastmod>{{ content.data.pubdate | ISODate }}</lastmod>
     <changefreq>daily</changefreq>
+    <PageMap xmlns="http://www.google.com/schemas/sitemap-pagemap/1.0">
+     <DataObject type="document">
+       <Attribute name="collection">Performances</Attribute>
+       <Attribute name="title">{{ content.data.title }}</Attribute>
+       <Attribute name="summary">{{ content.data.summary }}</Attribute>
+       <Attribute name="pubdate">{{ content.data.pubdate }}</Attribute>
+     </DataObject>
+    </PageMap>
   </url>
   {% endfor %}
 
@@ -54,6 +102,14 @@ eleventyExcludeFromCollections: true
     <loc>{{ metadata.url }}{{ content.url | url }}</loc>
     <lastmod>{{ content.data.pubdate | ISODate }}</lastmod>
     <changefreq>daily</changefreq>
+    <PageMap xmlns="http://www.google.com/schemas/sitemap-pagemap/1.0">
+     <DataObject type="document">
+       <Attribute name="collection">Texts</Attribute>
+       <Attribute name="title">{{ content.data.title }}</Attribute>
+       <Attribute name="summary">{{ content.data.summary }}</Attribute>
+       <Attribute name="pubdate">{{ content.data.pubdate }}</Attribute>
+     </DataObject>
+    </PageMap>
   </url>
   {% endfor %}
 
@@ -62,6 +118,14 @@ eleventyExcludeFromCollections: true
     <loc>{{ metadata.url }}{{ content.url | url }}</loc>
     <lastmod>{{ content.data.pubdate | ISODate }}</lastmod>
     <changefreq>daily</changefreq>
+    <PageMap xmlns="http://www.google.com/schemas/sitemap-pagemap/1.0">
+     <DataObject type="document">
+       <Attribute name="collection">Talks &amp; teaching</Attribute>
+       <Attribute name="title">{{ content.data.title }}</Attribute>
+       <Attribute name="summary">{{ content.data.summary }}</Attribute>
+       <Attribute name="pubdate">{{ content.data.pubdate }}</Attribute>
+     </DataObject>
+    </PageMap>
   </url>
   {% endfor %}
 
@@ -70,6 +134,14 @@ eleventyExcludeFromCollections: true
     <loc>{{ metadata.url }}{{ content.url | url }}</loc>
     <lastmod>{{ content.data.pubdate | ISODate }}</lastmod>
     <changefreq>daily</changefreq>
+    <PageMap xmlns="http://www.google.com/schemas/sitemap-pagemap/1.0">
+     <DataObject type="document">
+       <Attribute name="collection">Exhibitions</Attribute>
+       <Attribute name="title">{{ content.data.title }}</Attribute>
+       <Attribute name="summary">{{ content.data.summary }}</Attribute>
+       <Attribute name="pubdate">{{ content.data.pubdate }}</Attribute>
+     </DataObject>
+    </PageMap>
   </url>
   {% endfor %}
 
@@ -78,6 +150,14 @@ eleventyExcludeFromCollections: true
     <loc>{{ metadata.url }}{{ content.url | url }}</loc>
     <lastmod>{{ content.data.pubdate | ISODate }}</lastmod>
     <changefreq>daily</changefreq>
+    <PageMap xmlns="http://www.google.com/schemas/sitemap-pagemap/1.0">
+     <DataObject type="document">
+       <Attribute name="collection">About</Attribute>
+       <Attribute name="title">{{ content.data.title }}</Attribute>
+       <Attribute name="summary">{{ content.data.summary }}</Attribute>
+       <Attribute name="pubdate">{{ content.data.pubdate }}</Attribute>
+     </DataObject>
+    </PageMap>
   </url>
   {% endfor %}
 </urlset>

@@ -7,7 +7,7 @@ subtitle: "Nordic Decolonial Workshop (DENOR) 3rd exploratory workshop:
 layout: layouts/content.njk
 tags: artist talk
 pubdate: "2019"
-hero: https://ik.imagekit.io/mp/aam/tr:w-1000/denor_resistance-and-reimagining-alternatives_2019.jpg
+hero: /static/img/denor_resistance-and-reimagining-alternatives_2019.jpg
 summary: >
   In November 2019, I was invited to speak about [Museum of Impossible
   Forms](https://museumofimpossibleforms.org/).

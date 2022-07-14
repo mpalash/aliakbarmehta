@@ -89,3 +89,6 @@ Special characters: !"#$%&'()*+,./:;<=>?@[\]^``{|}~
 
 - Search
 https://www.googleapis.com/customsearch/v1?key=AIzaSyBlypWtl5bkTz_5eBGT-AeYl2zxGJ9nomY&cx=52692460b6ccf68d6&q=lectures
+
+- Special characters in filename
+- File sizes
