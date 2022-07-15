@@ -5,17 +5,21 @@ tags:
   - resource
 pubdate: January 1, 2017 12:00 AM
 unlisted: "true"
-summary: "**Purgatory Edit** (working title) proposes to use the Emotive Epoc+,
-  a head-mounted home MRI kit and a wireless EEG gear that allows a ‘reading’ of
+summary: >-
+  **Purgatory Edit** (working title) proposes to use the Emotive Epoc+, a
+  head-mounted home MRI kit and a wireless EEG gear that allows a ‘reading’ of
   the viewer’s semiconscious mind-states, abstract emotions such as frustration,
   anxiety, excitement, meditation, etc. and translates it into as numerical
   values. These values are fed into VDMX, a VJ software, to generate an
   algorithm based real-time stitching of a ‘string’ of videos/images from the
   two databanks and uses this data as parameters to control the flow of video
-  sequence."
+  sequence.
+
+
+  ![](/static/img/purgatory-edit-pipeline-map-colour.png)
 parent: " Purgatory Edit"
 ---
-![](/static/img/purgatory-edit-pipeline-map-colour.png)
+
 
 1. ### Archive
 
