@@ -90,7 +90,7 @@ Special characters: !"#$%&'()*+,./:;<=>?@[\]^``{|}~
 - Search
 https://www.googleapis.com/customsearch/v1?key=AIzaSyBlypWtl5bkTz_5eBGT-AeYl2zxGJ9nomY&cx=52692460b6ccf68d6&q=lectures
 
-- Special characters in filename
+- Avoid special characters in filenames for both .md and images
 - File sizes
 - No remote images
 - No CMYK

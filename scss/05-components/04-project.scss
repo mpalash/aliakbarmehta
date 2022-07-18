@@ -121,10 +121,11 @@
 }
 .project-hero {
   @extend .full-bleed;
+  margin-top: var(--s-m);
   img {
     width: 100%;
     max-height: 75vh;
-    object-fit: cover;
+    object-fit: contain;
     object-position: top;
   }
   p, div {

@@ -4,8 +4,7 @@ subtitle: Artist Statement, 2010
 layout: layouts/content.njk
 tags: text
 pubdate: "2010"
-hero: /static/img/Ali Akbar Mehta_The Identity of Violence Series; Sacrifice and
-  Redemption, 2010, Oil and acrylic on canvas, 182 x 121 cm.jpg
+hero: /static/img/Ali Akbar Mehta_The Identity of Violence Series - Sacrifice and Redemption - 2010 - Oil and acrylic on canvas - 182 x 121 cm.jpg
 children: []
 ---
 Our world is governed by responses that are majorly violent. Interactions between individuals, communities and nations are driven largely by the instinct to establish dominance and territory. Spawned by greed, frustration, desire, or even ideas of cultural, racial or religious superiority we are faced with violence in many forms. Behaviour meant to aid survival of the species now threatens not only humanity but also the planet that we inhabit.

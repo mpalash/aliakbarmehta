@@ -4,13 +4,10 @@ subtitle: Essay by Ranjit Hoskote, Mumbai, 2011
 layout: layouts/content.njk
 tags: text
 pubdate: "2011"
-hero: /static/img/Ali Akbar Mehta_Harlequin Series; Icarus finds his wings again,
-  2010, Archival print on Hahnemuhle paper, 182 x 121 cm.jpg
+hero: /static/img/Ali Akbar Mehta_Harlequin Series - Icarus finds his wings again - 2010 - Archival print on Hahnemuhle paper - 182 x 121 cm.jpg
 summary: >-
   ![Harlequin Series: Icarus finds his wings again, 2010, Archival print on
-  Hahnemuhle paper, 182 x 121 cm](/static/img/Ali Akbar Mehta_Harlequin Series;
-  Icarus finds his wings again, 2010, Archival print on Hahnemuhle paper, 182 x
-  121 cm.jpg)
+  Hahnemuhle paper, 182 x 121 cm](/static/img/Ali Akbar Mehta_Harlequin Series - Icarus finds his wings again - 2010 - Archival print on Hahnemuhle paper - 182 x 121 cm.jpg)
 
 
   Normality is the somewhat misleading name that many of us give to the present. It is often the only means of remaining sane while enduring the abrupt horrors and dehumanising provocations that surround us. The artist, however, is not obliged either to neutralise himself to these horrors and provocations; nor is he afraid of exploring the regimes of consciousness that lie beneath the sanctioned threshold of sanity.
@@ -26,7 +23,7 @@ Mehta is a member of what has been called the generation of ‘digital natives�
 
 Having been exposed to animation as a creative form in his parents’ animation studio, Mehta also embraces comic books, graphic novels, manga and anime as cultural resources.
 
-![Harlequin Series: To Glory in Self, like some kind of New Monster, 2010, Archival print on Hahnemuhle paper, 182 x 121 cm](/static/img/Ali Akbar Mehta_Harlequin Series; To Glory in Self, like some kind of New Monster, 2010, Archival print on Hahnemuhle paper, 182 x 121 cm.jpg)
+![Harlequin Series: To Glory in Self, like some kind of New Monster, 2010, Archival print on Hahnemuhle paper, 182 x 121 cm](/static/img/Ali Akbar Mehta_Harlequin Series - To Glory in Self like some kind of New Monster - 2010 - Archival print on Hahnemuhle paper - 182 x 121 cm.jpg)
 
 Ali Akbar Mehta_Harlequin Series; To Glory in Self, like some kind of New Monster, 2010, Archival print on Hahnemuhle paper, 182 x 121 cm
 
@@ -34,7 +31,7 @@ Naturally, then, Mehta is fascinated by the figure of the superhero: who is supr
 
 In Mehta’s imagery of the suffering yet defiant body, we may detect an act of homage to his grandfather, the legendary artist Tyeb Mehta. We find this especially in the trussed figure, suspended from ropes, more prisoner than marionette and hung above the abyss, in ‘The Identity of Violence Series: Suffering and Rapture’(2010). That homage also animates the figure that has been twisted, knotted, folded double in ‘Triptych’ (2007) and jammed into the cage formed by the frame of the canvas.
 
-![The Identity of Violence Series: Sacrifice and Redemption, 2010, Oil and acrylic on canvas, 182 x 121 cm](/static/img/Ali Akbar Mehta_The Identity of Violence Series; Sacrifice and Redemption, 2010, Oil and acrylic on canvas, 182 x 121 cm.jpg)
+![The Identity of Violence Series: Sacrifice and Redemption, 2010, Oil and acrylic on canvas, 182 x 121 cm](/static/img/Ali Akbar Mehta_The Identity of Violence Series - Sacrifice and Redemption - 2010 - Oil and acrylic on canvas - 182 x 121 cm.jpg)
 
 Ali Akbar Mehta_The Identity of Violence Series; Sacrifice and Redemption, 2010, Oil and acrylic on canvas, 182 x 121 cm
 
@@ -50,7 +47,7 @@ Among his protagonists are the jester and the harlequin: the first permitted to 
 
 Humankind lurches from one crisis to the next in Mehta’s post-apocalyptic ecologies, with little chance of redemption. We find predators and victims, survivors and demons, all conjoined in a common destiny, all adrift: not on a Noachic Ark so much as on a Gericauldian Raft of the Medusa. In the painting that gives this exhibition its title, ‘The Ballad of The War That Never Was’ (2010), one of the key figures is modelled on the Deposition, the enduring moment when the crucified Christ is taken down from the cross, except that this figure has no hope of resurrection; another figure in this tableau is based on Delacroix’s ‘Liberty Leading the People’, except that the banner is fraying, torn to pieces by the wind.
 
-![Ballad of The War That Never Was, 2011, Oil and acrylic on canvas, 152 x 198 cm](/static/img/Ballad of The War That Never Was, 2011, Oil and acrylic on canvas, 152 x 198 cm.jpg)
+![Ballad of The War That Never Was, 2011, Oil and acrylic on canvas, 152 x 198 cm](/static/img/ballad-of-the-war-that-never-was-2011-oil-and-acrylic-on-canvas-152-x-198-cm.jpg)
 
 Ballad of The War That Never Was, 2011, Oil and acrylic on canvas, 152 x 198 cm
 
@@ -60,4 +57,4 @@ Ranjit Hoskote
 
 Mumbai, 2011
 
-![War, 2011, Graphite on Paper, 152 x 213 cm](/static/img/Ali Akbar Mehta_War, 2011, Graphite on Paper, 152 x 213 cm.jpg)
+![War, 2011, Graphite on Paper, 152 x 213 cm](/static/img/Ali Akbar Mehta_War - 2011 - Graphite on Paper - 152 x 213 cm.jpg)
