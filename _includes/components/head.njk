@@ -1,21 +1,30 @@
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
   <title>{{ title or metadata.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
   <meta name="description" content="{{ summary }}">
+  <meta name="copyright"   content="Ali Akbar Mehta">
+  <meta name="language"    content="EN">
 
-  <meta property="og:type" content="website" />
-  <meta property="og:title" content="{{ title or renderData.title or metadata.title }}" />
-  <meta property="og:description" content="{{ summary }}" />
-  <meta property="og:image" content="{{ hero | replace('/img/','/img-hero/') }}" />
-  <meta property="og:image:type" content="image/jpeg" />
-  <meta property="og:image:width" content="1800" />
+  <meta property="og:type"             content="website" />
+  <meta property="og:site_name"        content="{{ metadata.title }}"/>
+  <meta property="og:url"              content="{{ metadata.url }}"/>
+  <meta property="og:title"            content="{{ title or renderData.title or metadata.title }}" />
+  <meta property="og:description"      content="{{ summary }}" />
+  {% if hero %}
+    <meta property="og:image"          content="{{ metadata.url }}{{ hero | og }}" />
+    <meta property="og:image:type"     content="image/jpeg" />
+    <meta property="og:image:width"    content="1600" />
+  {% endif %}
 
-  <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:site" content="@AliAkbarMehta" />
-  <meta name="twitter:title" content="{{ title or renderData.title or metadata.title }}" />
-  <meta name="twitter:description" content="{{ summary }}" />
-  <meta property="og:image" content="{{ hero | replace('w-1000','w-1800,f-jpg') }}" />
+  <meta name="twitter:card"            content="summary_large_image" />
+  <meta name="twitter:site"            content="@AliAkbarMehta" />
+  <meta name="twitter:title"           content="{{ title or renderData.title or metadata.title }}" />
+  <meta name="twitter:description"     content="{{ summary }}" />
+  {% if hero %}
+    <meta name="twitter:image:alt"     content="{{ title or renderData.title or metadata.title }}" />
+    <meta name="twitter:image"         content="{{ metadata.url }}{{ hero | og }}" />
+  {% endif %}
 
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
 
@@ -29,5 +38,6 @@
   <script src="/static/js/jBox.Image.min.js"></script> #}
   <script src="/static/js/slick.min.js"></script>
   <script src="/static/js/scripts.js"></script>
+
   <link rel="stylesheet" href="/static/css/styles.css">
 </head>

@@ -4,6 +4,7 @@ const CleanCSS = require("clean-css");
 const UglifyJS = require("uglify-es");
 const htmlmin = require("html-minifier");
 const slugify = require("slugify");
+const path = require("path");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 
 const markdownIt = require("markdown-it");
@@ -68,7 +69,12 @@ function eleventyImg(content){
     sizes: '800w, 1000w, 1200w, 1600w', // your responsive sizes here
     formats: ['webp', 'jpeg'],
     urlPath: '/images/',
-    outputDir: './_site/images/'
+    outputDir: './_site/images/',
+    filenameFormat: function (id, src, width, format, options) {
+      const extension = path.extname(src);
+      const name = path.basename(src, extension);
+      return `${name}-${width}w.${format}`;
+    }
   }
 
   const images = [...document.querySelectorAll('img')]
@@ -120,6 +126,25 @@ module.exports = eleventyConfig => {
   // Nunjucks image shortcode
   eleventyConfig.addNunjucksAsyncShortcode("image", imageShortcode);
   eleventyConfig.addNunjucksShortcode("myImage", myImageShortcode);
+
+  // OG Hero image
+  eleventyConfig.addFilter("og", src => {
+    const extension = path.extname(src);
+    const name = path.basename(src, extension);
+    const folder = '/images/';
+    const width = 1600;
+    const format = 'jpeg';
+    return `${folder}${name}-${width}w.${format}`;
+  });
+  // Thumb image
+  eleventyConfig.addFilter("thumb", src => {
+    const extension = path.extname(src);
+    const name = path.basename(src, extension);
+    const folder = '/images/';
+    const width = 800;
+    const format = 'jpeg';
+    return `${folder}${name}-${width}w.${format}`;
+  });
 
   // Date formatting (year only) November 24, 2016 12:00 AM
   eleventyConfig.addFilter("yy", dateObj => {

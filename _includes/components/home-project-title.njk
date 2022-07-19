@@ -6,17 +6,17 @@
   {% if content.data.parent != 'Poems' %}
     <a href="/content/{{ content.data.parent | trim | slugify }}#{{ content.data.title.split('~') | last | trim | slugify }}" >
       {% if content.data.hero %}
-        <div class="list-hero">
+        {# <div class="list-hero">
           {{ heroImgString | md | safe }}
-        </div>
-        {# <img
+        </div> #}
+        <img
           class="list-hero"
-          src="{{ content.data.hero | replace('/img/','/img-thumbs/') }}"
+          src="{{ content.data.hero | thumb }}"
           alt="{{ content.data.title.split('~') | last | trim }}"
           loading="lazy"
-          onload="this.classList.add('imgLoaded')" /> #}
+          onload="this.classList.add('imgLoaded')" />
       {% endif %}
-      {# {{ content.data.title.split('~') | last | trim }} #}
+      {{ content.data.title.split('~') | last | trim }}
       {% if content.data.tags.toString() in displaysub %}
         {% if content.data.shortdesc and content.data.shortdesc != '' %}
           <br/><span class="list-subtitle">{{ content.data.shortdesc | md | safe }}</span>
@@ -29,17 +29,17 @@
 {% else %}
   <a href="/content/{{ content.data.title.split('~') | last | trim | slugify }}">
     {% if content.data.hero %}
-      <div class="list-hero">
+      {# <div class="list-hero">
         {{ heroImgString | md | safe }}
-      </div>
-      {# <img
+      </div> #}
+      <img
         class="list-hero"
-        src="{{ content.data.hero | replace('/img/','/img-thumbs/') }}"
+        src="{{ content.data.hero | thumb }}"
         alt="{{ content.data.title.split('~') | last | trim }}"
         loading="lazy"
-        onload="this.classList.add('imgLoaded')" /> #}
+        onload="this.classList.add('imgLoaded')" />
     {% endif %}
-    {# {{ content.data.title.split('~') | last | trim }} #}
+    {{ content.data.title.split('~') | last | trim }}
     {% if content.data.tags.toString() in displaysub %}
       {% if content.data.shortdesc and content.data.shortdesc != '' %}
         <br/><span class="list-subtitle">{{ content.data.shortdesc | md | safe }}</span>

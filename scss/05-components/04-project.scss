@@ -132,6 +132,9 @@
     display: contents;
     max-width: none;
   }
+  span {
+    display: none;
+  }
 }
 .project-toc {
   grid-column: 8/-1;
