@@ -7,7 +7,7 @@ package = "netlify-plugin-cache"
 
   [plugins.inputs]
   paths = [
-    "_site/img/generated", # Eleventy Image Disk Cache
+    "_site/images/", # Eleventy Image Disk Cache
   ]
 
 # REDIRECT and HEADERS examples
