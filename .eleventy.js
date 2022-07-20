@@ -72,7 +72,7 @@ function eleventyImg(content){
     outputDir: './_site/images/',
     filenameFormat: function (id, src, width, format, options) {
       const extension = path.extname(src);
-      const name = path.basename(src, extension);
+      const name = path.basename(src, extension).replace(/\s/g,'-');
       return `${name}-${width}w.${format}`;
     }
   }
@@ -130,7 +130,7 @@ module.exports = eleventyConfig => {
   // OG Hero image
   eleventyConfig.addFilter("og", src => {
     const extension = path.extname(src);
-    const name = path.basename(src, extension);
+    const name = path.basename(src, extension).replace(/\s/g,'-');
     const folder = '/images/';
     const width = 1600;
     const format = 'jpeg';
@@ -139,7 +139,7 @@ module.exports = eleventyConfig => {
   // Thumb image
   eleventyConfig.addFilter("thumb", src => {
     const extension = path.extname(src);
-    const name = path.basename(src, extension);
+    const name = path.basename(src, extension).replace(/\s/g,'-');
     const folder = '/images/';
     const width = 800;
     const format = 'jpeg';
@@ -314,7 +314,7 @@ module.exports = eleventyConfig => {
   /* Markdown Plugins */
   let options = {
     html: true,
-    breaks: true,
+    breaks: false,
     linkify: true,
     typographer: true
   };
@@ -348,6 +348,54 @@ module.exports = eleventyConfig => {
 
   let markdownLib = markdownIt(options).use(markdownItAnchor, anchoropts).use(markdownItDeflist);
 
+  markdownLib.renderer.rules.image = function (tokens, idx, options, env, self) {
+    const token = tokens[idx]
+    let imgSrc = '.' + token.attrGet('src').replace(/\%20/g,' ')
+    const imgAlt = token.content
+    const imgTitle = token.attrGet('title')
+
+    const htmlOpts = {
+      title: imgTitle,
+      alt: imgAlt,
+      loading: 'lazy',
+      decoding: 'async'
+    }
+
+    const imgOpts = {
+      widths: [800, 1000, 1200, 1600],
+      sizes: '800w, 1000w, 1200w, 1600w', // your responsive sizes here
+      formats: ['webp', 'jpeg'],
+      urlPath: '/images/',
+      outputDir: './_site/images/',
+      filenameFormat: function (id, src, width, format, options) {
+        const extension = path.extname(src);
+        const name = path.basename(src, extension).replace(/\s/g,'-');
+        return `${name}-${width}w.${format}`;
+      }
+    }
+
+    const meta = Image.statsSync(imgSrc, imgOpts)
+
+    Image(imgSrc, imgOpts)
+
+    // const generated = Image.generateHTML(meta, {
+    //   sizes: imgOpts.sizes,
+    //   ...htmlOpts
+    // })
+
+    let generated = `
+     <picture>
+      <source type="image/webp" alt="${imgAlt}" loading="lazy" srcset="${meta.webp.map(p => p.srcset).join(', ')}" onload="this.classList.add('imgLoaded')">
+      <source type="image/jpeg" alt="${imgAlt}" loading="lazy" srcset="${meta.jpeg.map(p => p.srcset).join(', ')}" onload="this.classList.add('imgLoaded')">
+      <img alt="${imgAlt}" loading="lazy" srcset="${meta.jpeg.map(p => p.srcset).join(', ')}" onload="this.classList.add('imgLoaded')">
+      <span>${imgAlt}</span>
+    </picture>`
+
+    return generated
+  }
+
+
+
   // Markdownify
   eleventyConfig.addFilter("md", value => {
     // var md = new markdownIt({
@@ -362,9 +410,9 @@ module.exports = eleventyConfig => {
       return match.replace(/\s/g,'%20');
     });
     var rendered = markdownLib.render(valueMD); //renderInline breaks things
-    return eleventyImg(rendered);
+    // return eleventyImg(rendered);
+    return rendered;
   });
-
   eleventyConfig.setLibrary("md", markdownLib);
 
   // Minify HTML output

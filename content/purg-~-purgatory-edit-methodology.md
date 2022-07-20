@@ -13,7 +13,7 @@ summary: "**Purgatory Edit** (working title) proposes to use the Emotive Epoc+,
   algorithm based real-time stitching of a ‘string’ of videos/images from the
   two databanks and uses this data as parameters to control the flow of video
   sequence."
-parent: " Purgatory Edit"
+parent: "Purgatory Edit"
 ---
 ![](/static/img/purgatory-edit-pipeline-map-colour.png)
 

@@ -14,3 +14,5 @@ https://www.googleapis.com/customsearch/v1?key=AIzaSyBlypWtl5bkTz_5eBGT-AeYl2zxG
 
 - Special characters: !"#$%&'()*+,./:;<=>?@[\]^``{|}~
 - Multiple paragraph breaks
+
+- failed to execute postmessage on domwindow
