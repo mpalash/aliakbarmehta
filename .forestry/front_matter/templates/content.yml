@@ -1,0 +1,55 @@
+---
+label: Content
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: layout
+  label: layout
+  hidden: true
+- type: text
+  name: tags
+  label: tags
+- type: text
+  name: pubdate
+  label: pubdate
+- type: text
+  name: unlisted
+  label: unlisted
+- type: file
+  name: hero
+  label: hero
+- type: textarea
+  name: shortdesc
+  label: shortdesc
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+- type: textarea
+  name: summary
+  label: summary
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+- type: list
+  name: children
+  label: children
+  config:
+    use_select: true
+    source:
+      type: pages
+      section: content
+- name: parent
+  type: list
+  config:
+    use_select: true
+    min: 
+    max: 
+    source:
+      type: pages
+      section: content
+  label: parent
