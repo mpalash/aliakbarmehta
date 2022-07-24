@@ -14,3 +14,7 @@ fields:
 - type: textarea
   name: summary
   label: summary
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
