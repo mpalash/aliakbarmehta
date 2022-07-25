@@ -21,20 +21,6 @@ fields:
 - type: file
   name: hero
   label: hero
-- type: textarea
-  name: shortdesc
-  label: shortdesc
-  config:
-    wysiwyg: true
-    schema:
-      format: markdown
-- type: textarea
-  name: summary
-  label: summary
-  config:
-    wysiwyg: true
-    schema:
-      format: markdown
 - type: list
   name: children
   label: children
@@ -53,3 +39,17 @@ fields:
       type: pages
       section: content
   label: parent
+- type: textarea
+  name: shortdesc
+  label: shortdesc
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+- type: textarea
+  name: summary
+  label: summary
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
