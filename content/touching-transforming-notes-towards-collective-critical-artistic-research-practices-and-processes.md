@@ -1,8 +1,8 @@
 ---
 title: "Touching/Transforming: Notes Towards Collective Critical Artistic
   Research Practices and Processes"
-subtitle: (with Bäckman, F., Close, R., Godin, M-A., Kallio-Tavin, M., Mehta, A.
-  A., Qureshi, A., & Sadatizarrini, S.) Research in Arts and Education, 4. Aalto
+subtitle: with Bäckman, F., Close, R., Godin, M-A., Kallio-Tavin, M., Mehta, A.
+  A., Qureshi, A., & Sadatizarrini, S., Research in Arts and Education, 4. Aalto
   University. ISSN 2670-2142
 layout: content
 tags:
