@@ -4,7 +4,8 @@ subtitle: "in 'Marginaaleista museoihin'. (From Margins to Museums), (eds.)
   Rastas, Anna & Koivunen, Leila, (trans.) Nurmenniemi, Jenni, Tampere:
   Vastapaino, FI"
 layout: layouts/content.njk
-tags: publication
+tags:
+  - publication
 pubdate: "2021"
 unlisted: "false"
 hero: /static/img/ali-akbar-mehta-marginaaleista-museoihin-vastapaino-2021.jpg
