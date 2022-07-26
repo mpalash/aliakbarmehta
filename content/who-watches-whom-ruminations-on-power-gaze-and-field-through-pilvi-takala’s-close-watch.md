@@ -9,7 +9,7 @@ pubdate: June 22, 2022 12:00 AM
 unlisted: "false"
 hero: /static/img/16_finnish_pavilion_ph_ugo_carmeni_2022.webp
 shortdesc: This review of Pilvi Takala's Close Watch, exhibited at the Finnish
-  pavilion of the Venice niennale, seeks to question whether issues pertaining
+  pavilion of the Venice Biennale, seeks to question whether issues pertaining
   to embodiment and social intervention – and by extension, research conducted
   and artistic practice developed through it – can ever be free of the power
   relations implicit in the political, identity-driven understanding of
