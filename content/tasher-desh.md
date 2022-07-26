@@ -1,12 +1,15 @@
 ---
 title: Tasher Desh
 layout: layouts/content.njk
-tags: artwork
+tags:
+  - past project
 pubdate: "2013"
+unlisted: "false"
 hero: /static/img/ali-akbar-mehta_tasher-desh_painted-with-text.jpg
 parent: Planktonian People
 children:
   - Tasher ~ Tagore Lost and Found
+  - Locus of Control
 ---
 ![Tasher Desh (Kingdom of Cards), 2012, Lenticular and Vinyl print on archival board, 88x114 cm / 57x92 cm](/static/img/ali-akbar-mehta_tasher-desh_painted-with-text.jpg)
 ![](/static/img/ali-akbar-mehta_tasher-desh_original-with-text.jpg)
