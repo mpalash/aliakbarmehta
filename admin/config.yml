@@ -31,7 +31,7 @@ collections: # A list of collections the CMS should be able to edit
         widget: "markdown"
       - label: "Body"
         name: "body"
-        required: false
+        required: true
         widget: "markdown"
   - name: "content" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Content" # Used in the UI, ie.: "New Post"
@@ -85,7 +85,7 @@ collections: # A list of collections the CMS should be able to edit
         widget: "markdown"
       - label: "Body"
         name: "body"
-        required: false
+        required: true
         widget: "markdown"
       - label: "Parent"
         name: "parent"

@@ -383,13 +383,13 @@ module.exports = eleventyConfig => {
     //   ...htmlOpts
     // })
 
-    let generated = `
-     <picture>
-      <source type="image/webp" alt="${imgAlt}" loading="lazy" srcset="${meta.webp.map(p => p.srcset).join(', ')}" onload="this.classList.add('imgLoaded')">
-      <source type="image/jpeg" alt="${imgAlt}" loading="lazy" srcset="${meta.jpeg.map(p => p.srcset).join(', ')}" onload="this.classList.add('imgLoaded')">
-      <img alt="${imgAlt}" loading="lazy" srcset="${meta.jpeg.map(p => p.srcset).join(', ')}" onload="this.classList.add('imgLoaded')">
-      <span>${imgAlt}</span>
-    </picture>`
+    let generated =
+`<picture>
+<source type="image/webp" alt="${imgAlt}" loading="lazy" srcset="${meta.webp.map(p => p.srcset).join(', ')}" onload="this.classList.add('imgLoaded')">
+<source type="image/jpeg" alt="${imgAlt}" loading="lazy" srcset="${meta.jpeg.map(p => p.srcset).join(', ')}" onload="this.classList.add('imgLoaded')">
+<img alt="${imgAlt}" loading="lazy" srcset="${meta.jpeg.map(p => p.srcset).join(', ')}" onload="this.classList.add('imgLoaded')">
+<span>${imgAlt}</span>
+</picture>`
 
     return generated
   }

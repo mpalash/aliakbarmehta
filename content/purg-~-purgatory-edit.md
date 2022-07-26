@@ -6,7 +6,7 @@ pubdate: "2017"
 unlisted: "true"
 hero: /static/img/Ali Akbar Mehta_Purgatory edit_02.jpg
 summary: >-
-  **Purgatory Edit** (working title) is an experimental cinematic experience. 
+  **Purgatory Edit** (working title) is an experimental cinematic experience.
 
 
   Below is a short excerpt of the recording and stills, made during its initial prototyping and demo at Aalto University.
