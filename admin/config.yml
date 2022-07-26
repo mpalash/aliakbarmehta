@@ -92,11 +92,11 @@ collections: # A list of collections the CMS should be able to edit
         required: false
         widget: "relation"
         collection: "content"
-        searchFields: ["title"]
-        valueField: "title"
-        displayFields: ["title"]
+        search_fields: ["title"]
+        value_field: "title"
+        display_fields: ["title"]
       - label: "Children"
         name: "children"
         required: false
         widget: "list"
-        field: {label: "Content", name: "children", widget: "relation", collection: "content", searchFields: ["title"], valueField: "title", displayFields: ["title"]}
+        field: {label: "Content", name: "children", widget: "relation", collection: "content", search_fields: ["title"], value_field: "title", display_fields: ["title"]}
