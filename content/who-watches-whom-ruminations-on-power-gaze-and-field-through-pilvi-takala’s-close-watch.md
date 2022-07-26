@@ -8,16 +8,12 @@ tags:
 pubdate: June 22, 2022 12:00 AM
 unlisted: "false"
 hero: /static/img/16_finnish_pavilion_ph_ugo_carmeni_2022.webp
-shortdesc: "*Close Watch* exhibited at the National Finnish Pavilion at Venice
-  Biennale, 2022, is a multimedia installation that, at its core, utilises the
-  artist themself as an embodied intervention within a focused area of artistic
-  research and apparent critique. In the context of this work presented as an
-  exhibition at the national pavilion and its implications of somehow
-  representing Finnish Art, this text seeks to question whether issues
-  pertaining to embodiment and social intervention – and by extension, research
-  conducted and artistic practice developed through it – can ever be free of the
-  power relations implicit in the political, identity-driven understanding of
-  society today."
+shortdesc: This review of Pilvi Takala's Close Watch, exhibited at the Finnish
+  pavilion of the Venice niennale, seeks to question whether issues pertaining
+  to embodiment and social intervention – and by extension, research conducted
+  and artistic practice developed through it – can ever be free of the power
+  relations implicit in the political, identity-driven understanding of
+  society today.
 summary: "*Close Watch* exhibited at the National Finnish Pavilion at Venice
   Biennale, 2022, is a multimedia installation that, at its core, utilises the
   artist themself as an embodied intervention within a focused area of artistic
