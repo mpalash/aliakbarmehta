@@ -43,13 +43,13 @@ fields:
   name: shortdesc
   label: shortdesc
   config:
-    wysiwyg: true
+    wysiwyg: false
     schema:
       format: markdown
 - type: textarea
   name: summary
   label: summary
   config:
-    wysiwyg: true
+    wysiwyg: false
     schema:
       format: markdown
