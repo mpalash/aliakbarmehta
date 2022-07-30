@@ -26,24 +26,26 @@ Orcid Researcher ID: <div itemscope itemtype="https://schema.org/Person"><a item
 
 <br/>
 
+<br/>
+
 ### Partners and Collaborators
 
-[Museum of Impossible Forms](https://www.museumofimpossibleforms.org/)
-
-[Kiila ry](http://kiila.eu/)
-
-[mcult](https://www.m-cult.org/)
-
-[](https://outsidersatwork.wordpress.com/)[Party Office](http://vidisha-fadescha.com/PARTY-OFFICE)
-
-[](https://vidhasaumya.wordpress.com/)
-
-[Vidha Saumya](https://vidhasaumya.wordpress.com/)
-
-[Palash Mukhopadhyay](https://mpalash.com/)
-
-[varialambo](https://varialambo.com/)
-
-[Abhinit Khanna](https://aliakbarmehta.com/#)
-
-[Jernej Čuček Gerbec and Saša Nemec](https://gingerheads.net/hello)
+> [Museum of Impossible Forms](https://www.museumofimpossibleforms.org/)
+>
+> [Kiila ry](http://kiila.eu/)
+>
+> [mcult](https://www.m-cult.org/)
+>
+> [](https://outsidersatwork.wordpress.com/)[Party Office](http://vidisha-fadescha.com/PARTY-OFFICE)
+>
+> [](https://vidhasaumya.wordpress.com/)<br/>
+>
+> [Vidha Saumya](https://vidhasaumya.wordpress.com/)
+>
+> [Palash Mukhopadhyay](https://mpalash.com/)
+>
+> [varialambo](https://varialambo.com/)
+>
+> [Abhinit Khanna](https://aliakbarmehta.com/#)
+>
+> [Jernej Čuček Gerbec and Saša Nemec](https://gingerheads.net/hello)
