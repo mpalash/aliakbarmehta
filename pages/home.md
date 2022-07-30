@@ -5,8 +5,12 @@ permalink: /
 summary: >-
   ![](/static/img/ali-akbar-mehta_portrait_2021.jpg)
 
+  ![](/static/img/PartizaningMaunula_photo48_VesaPekkaGronfors.jpg)
 
-  [Ali Akbar Mehta](http://www.aliakbarmehta.com) (b.1983, Mumbai) is a Transmedia artist, curator, researcher, and writer, driven by the desires of knowing and participating in the creation of an equal world. His research-based practice is to make immersive archival projects that map knowledges through a multifocal lens of violence, conflict, and trauma aiming to found processes that would leave deep impacts on contemporary culture, technology and knowledge.
+  ![](/static/img/narrating-war_photoshoot_01.jpg)
+
+
+  [Ali Akbar Mehta](http://www.aliakbarmehta.com) (b.1983, Mumbai) is a Transmedia artist, curator, researcher, and writer. Driven by the desires of knowing and participating in the creation of an equal world, his research-based practice is to make immersive archival projects that map knowledges through a multifocal lens of violence, conflict, and trauma while aiming to found processes that would leave deep impacts on the contemporary crossovers of culture, technology and knowledge.
 ---
 Currently, he is invited to[ Party Office b2b Fadescha](https://partyoffice.xyz/) at documenta fifteen, to develop ‘[Archives as Contemporary Object X](https://aliakbarmehta.com/content/archives-as-contemporary-object-x)’, a discursive program investigating new methodologies of archiving as an artistic practice. His project [Purgatory Edit](https://aliakbarmehta.com/content/purgatory-edit) is a user-generated new media project developing an archive on the representations of violence; and his ongoing doctoral research titled, *Practicing Online Performativity: Constructing Politically Conscious Archives as Participatory Art in the Age of Data, Power, and Violence* investigates (infra)structural and performative relations between online archives and its users.  He regularly writes and lectures on museum-building as a critical artistic praxis, and on archiving as a site for Infrastructural Praxis through the lens of decoloniality, queer-feminist praxis, critical diversity and socio-politics of border thinking.
 
@@ -24,28 +28,28 @@ Orcid Researcher ID: <div itemscope itemtype="https://schema.org/Person"><a item
 
 <br/>
 
-### Partners and Collaborators
+**Partners and Collaborators**
 
-> [Vidha Saumya](https://vidhasaumya.wordpress.com/)
+> ###### [Vidha Saumya](https://vidhasaumya.wordpress.com/)
 >
-> [Palash Mukhopadhyay](https://mpalash.com/)
+> ###### [Palash Mukhopadhyay](https://mpalash.com/)
 >
-> [varialambo](https://varialambo.com/)
+> ###### [varialambo](https://varialambo.com/)
 >
-> [Abhinit Khanna](https://aliakbarmehta.com/#)
+> ###### [Abhinit Khanna](https://aliakbarmehta.com/#)
 >
-> [Jernej Čuček Gerbec and Saša Nemec](https://gingerheads.net/hello)
+> ###### [Jernej Čuček Gerbec and Saša Nemec](https://gingerheads.net/hello)
 >
-> <br/>
+> ###### <br/>
 >
-> [Museum of Impossible Forms](https://www.museumofimpossibleforms.org/)
+> ###### [Museum of Impossible Forms](https://www.museumofimpossibleforms.org/)
 >
-> [Kiila ry](http://kiila.eu/)
+> ###### [Kiila ry](http://kiila.eu/)
 >
-> [](https://mpalash.com/)[mcult](https://www.m-cult.org/)
+> ###### [](https://mpalash.com/)[mcult](https://www.m-cult.org/)
 >
-> [](https://outsidersatwork.wordpress.com/)[Party Office](http://vidisha-fadescha.com/PARTY-OFFICE)
+> ###### [](https://outsidersatwork.wordpress.com/)[Party Office](http://vidisha-fadescha.com/PARTY-OFFICE)
 >
-> [](https://vidhasaumya.wordpress.com/)<br/>
+> ###### [](https://vidhasaumya.wordpress.com/)<br/>
 >
 > [](https://vidhasaumya.wordpress.com/)
