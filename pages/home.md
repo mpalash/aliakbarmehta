@@ -23,3 +23,27 @@ He is a co-founder of the [Museum of Impossible Forms](https://museumofimpossibl
 <br/>
 
 Orcid Researcher ID: <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-0098-4631" href="https://orcid.org/0000-0002-0098-4631" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-0098-4631</a></div>
+
+<br/>
+
+### Partners and Collaborators
+
+[Museum of Impossible Forms](https://www.museumofimpossibleforms.org/)
+
+[Kiila ry](http://kiila.eu/)
+
+[mcult](https://www.m-cult.org/)
+
+[](https://outsidersatwork.wordpress.com/)[Party Office](http://vidisha-fadescha.com/PARTY-OFFICE)
+
+[](https://vidhasaumya.wordpress.com/)
+
+[Vidha Saumya](https://vidhasaumya.wordpress.com/)
+
+[Palash Mukhopadhyay](https://mpalash.com/)
+
+[varialambo](https://varialambo.com/)
+
+[Abhinit Khanna](https://aliakbarmehta.com/#)
+
+[Jernej Čuček Gerbec and Saša Nemec](https://gingerheads.net/hello)
