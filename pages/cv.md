@@ -399,9 +399,6 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 ## Select Publications
 
 *Upcoming*
-:   *Book chapter*: **The Politics of Togetherness: Beyond the integration infrastructure of state and institutional apparatus**. In A. Alemanji, et. al. (Eds.), Rethinking and undoing integration. The Society for the Study of Ethnic Relations and International Migration (ETMU)
-
-*Upcoming*
 :   *Journal article*: **The Urgency of Asking Questions**, Tahiti Journal
 
 *Upcoming*
