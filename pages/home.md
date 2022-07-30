@@ -27,26 +27,26 @@ Orcid Researcher ID: <div itemscope itemtype="https://schema.org/Person"><a item
 
 **Partners and Collaborators**
 
-> ###### [Vidha Saumya](https://vidhasaumya.wordpress.com/)
+> [Vidha Saumya](https://vidhasaumya.wordpress.com/)
 >
-> ###### [Palash Mukhopadhyay](https://mpalash.com/)
+> [Palash Mukhopadhyay](https://mpalash.com/)
 >
-> ###### [varialambo](https://varialambo.com/)
+> [varialambo](https://varialambo.com/)
 >
-> ###### [Abhinit Khanna](https://aliakbarmehta.com/#)
+> [Abhinit Khanna](https://aliakbarmehta.com/#)
 >
-> ###### [Jernej Čuček Gerbec and Saša Nemec](https://gingerheads.net/hello)
+> [Jernej Čuček Gerbec and Saša Nemec](https://gingerheads.net/hello)
 >
-> ###### <br/>
+> <br/>
 >
-> ###### [Museum of Impossible Forms](https://www.museumofimpossibleforms.org/)
+> [Museum of Impossible Forms](https://www.museumofimpossibleforms.org/)
 >
-> ###### [Kiila ry](http://kiila.eu/)
+> [Kiila ry](http://kiila.eu/)
 >
-> ###### [](https://mpalash.com/)[mcult](https://www.m-cult.org/)
+> [](https://mpalash.com/)[mcult](https://www.m-cult.org/)
 >
-> ###### [](https://outsidersatwork.wordpress.com/)[Party Office](http://vidisha-fadescha.com/PARTY-OFFICE)
+> [](https://outsidersatwork.wordpress.com/)[Party Office](http://vidisha-fadescha.com/PARTY-OFFICE)
 >
-> ###### [](https://vidhasaumya.wordpress.com/)<br/>
+> [](https://vidhasaumya.wordpress.com/)<br/>
 >
 > [](https://vidhasaumya.wordpress.com/)
