@@ -5,9 +5,6 @@ permalink: /
 summary: >-
   ![](/static/img/ali-akbar-mehta_portrait_2021.jpg)
 
-  ![](/static/img/narrating-war_photoshoot_01.jpg)
-
-  ![](/static/img/whatsapp-image-2022-07-30-at-5.55.32-pm.jpeg)
 
 
   [Ali Akbar Mehta](http://www.aliakbarmehta.com) (b.1983, Mumbai) is a Transmedia artist, curator, researcher, and writer. Driven by the desires of knowing and participating in the creation of an equal world, his research-based practice is to make immersive archival projects that map knowledges through a multifocal lens of violence, conflict, and trauma while aiming to found processes that would leave deep impacts on the contemporary crossovers of culture, technology and knowledge.
