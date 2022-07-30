@@ -8,13 +8,13 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 ## Education
 
 2019 – ongoing
-:   *Doctoral Researcher*, Contemporary Art, [Aalto University](https://www.aalto.fi/), School of Art, Design & Architecture, Helsinki, FI
+:   **Doctoral Researcher**, Contemporary Art, [Aalto University](https://www.aalto.fi/), School of Art, Design & Architecture, Helsinki, FI
 
 2015 – 2018
-:   *MA* (Visual Cultures, Curating and Contemporary Art), Aalto University, Helsinki, FI
+:   **MA** (Visual Cultures, Curating and Contemporary Art), Aalto University, Helsinki, FI
 
 2001 – 2005
-:   *BFA* (Painting), [Sir J.J. School of Art](http://www.sirjjschoolofart.in/), Mumbai, IN
+:   **BFA** (Honours), [Sir J.J. School of Art](http://www.sirjjschoolofart.in/), Mumbai, IN
 
 ## Awards
 
@@ -493,7 +493,7 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 ## Residencies and Research Fellowships
 
 2022
-:   *Research fellow*: **Commonplaces and Entanglements VII**, Center for Arts, Design, and Social Research, Spoleto, IT
+:   *Research fellow*: **Commonplaces and Entanglements VII**, [Center for Arts, Design, and Social Research](http://centerartsdesign.org/), Spoleto, IT
 
 2021
 :   **Titanik Artist Residency**, Turku, FI
