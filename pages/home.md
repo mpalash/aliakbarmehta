@@ -26,16 +26,6 @@ Orcid Researcher ID: <div itemscope itemtype="https://schema.org/Person"><a item
 
 ### Partners and Collaborators
 
-> [Museum of Impossible Forms](https://www.museumofimpossibleforms.org/)
->
-> [Kiila ry](http://kiila.eu/)
->
-> [mcult](https://www.m-cult.org/)
->
-> [](https://outsidersatwork.wordpress.com/)[Party Office](http://vidisha-fadescha.com/PARTY-OFFICE)
->
-> [](https://vidhasaumya.wordpress.com/)<br/>
->
 > [Vidha Saumya](https://vidhasaumya.wordpress.com/)
 >
 > [Palash Mukhopadhyay](https://mpalash.com/)
@@ -45,3 +35,17 @@ Orcid Researcher ID: <div itemscope itemtype="https://schema.org/Person"><a item
 > [Abhinit Khanna](https://aliakbarmehta.com/#)
 >
 > [Jernej Čuček Gerbec and Saša Nemec](https://gingerheads.net/hello)
+>
+> <br/>
+>
+> [Museum of Impossible Forms](https://www.museumofimpossibleforms.org/)
+>
+> [Kiila ry](http://kiila.eu/)
+>
+> [](https://mpalash.com/)[mcult](https://www.m-cult.org/)
+>
+> [](https://outsidersatwork.wordpress.com/)[Party Office](http://vidisha-fadescha.com/PARTY-OFFICE)
+>
+> [](https://vidhasaumya.wordpress.com/)<br/>
+>
+> [](https://vidhasaumya.wordpress.com/)
