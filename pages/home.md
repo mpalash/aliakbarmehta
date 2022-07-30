@@ -5,8 +5,6 @@ permalink: /
 summary: >-
   ![](/static/img/ali-akbar-mehta_portrait_2021.jpg)
 
-  ![](/static/img/PartizaningMaunula_photo48_VesaPekkaGronfors.jpg)
-
   ![](/static/img/narrating-war_photoshoot_01.jpg)
 
 
