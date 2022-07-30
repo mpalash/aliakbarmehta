@@ -18,31 +18,24 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 
 ## Select Work Experience
 
-2020 – ongoing
-:   *Project curator*, **PARTY OFFICE**, New Delhi, IN
-
-2020
-:   *Supporting Curator*, [Helsinki International Artist Program](https://www.hiap.fi/) (HIAP), Helsinki, FI
-
 2019
 :   *Artistic Producer*, [m-cult Media Culture Centre](https://www.m-cult.org/), Helsinki, FI
 
 2018 – 2020
 :   *Artistic Director*, [Museum of Impossible Forms](https://museumofimpossibleforms.org/), Helsinki, FI
 
-2018
-:   *Guest Lecturer*, Aalto University, Helsinki, FI
-
-2011 – 2014
-:   *Guest Lecturer*, [Whistling Woods International Institute of Film, Communication & Media Arts](https://www.whistlingwoods.net/), Mumbai, IN
-
-2014
-:   *Head of Post-production*, Composite Films, IN
-
-2002 – 2007
+2002 – 2008
 :   *Co-founder, Lead Animator and Artist*, Mareech Animated Design, Mumbai, IN
 
-## Positions of Trust and Memberships 
+## Awards
+
+2020 
+:   **State Art Prize** awarded to Museum of Impossible Forms, by the Ministry of Art and Culture, FI
+
+2019 
+:   [Tutkijaliitto-palkinto](https://tutkijaliitto.fi/2019/12/09/tutkijaliiton-palkinnot-museum-of-impossible-forms-kulttuurikeskukselle-ja-ari-korhoselle/), awarded to Museum of Impossible Forms, by the Finnish Association of Researchers, FI
+
+## Positions of Trust and Memberships
 
 2021 – ongoing
 :   *Member*, **[Catalysti](https://www.catalysti.fi/)**, Helsinki, FI
@@ -56,20 +49,17 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 2021
 :   *Board Chair*, **[Kiila ry](http://kiila.eu/)**, Helsinki, FI
 
-2020 – ongoing
-:   *Co-Founder*, **MAS: Antiracism & DEI Consultancy**, Helsinki, FI
-
 2019 – ongoing
 :   Research Member, **[Cluster of Critical Artistic Research (CCARE)](https://www.ccare.aalto.fi/)**, Aalto University, Helsinki, FI
 
 2019 – ongoing
-:   Member, **[PARTY OFFICE](http://vidisha-fadescha.com/PARTY-OFFICE)**, New Delhi, IN
+:   Member, **[Party Office](http://vidisha-fadescha.com/PARTY-OFFICE)**, New Delhi, IN
 
-2019 – present
+2019 – 2021
 :   *Board Member*, **[Kiila ry](http://kiila.eu/)**, Helsinki, FI
 
 2016 – ongoing
-:   *Founding member*, **Museum of Impossible Forms**, Helsinki, FI
+:   *Founding member*, **[Museum of Impossible Forms](https://www.museumofimpossibleforms.org/)**, Helsinki, FI
 
 2016 – 2017
 :   *Member*, **[Third Space](http://www.th1rdspac3.com/)**, Helsinki, FI
@@ -145,6 +135,12 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 :   **null.void**, for *Chimurenga: Pan-African Space Station*, curated by Ahmed Al-Nawas, Kallio Public Library, Helsinki, IN
 
 ## Select Group Exhibitions
+
+*Upcoming*
+:   **X**, curated by Farbod Fakharzadeh, Pori, FI
+
+2022
+:   **Locus of Control**, curated by Abhinit Khanna and Anoushkaa Bhatnagar, for House of Creativity, Mumbai, IN
 
 2021
 :   **Data Vitality: Soft infrastructures and Economies of Knowledge**, Aalto University, Helsinki, FI
@@ -263,14 +259,14 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 ## Curatorial Experience
 
 *Upcoming*
-:   *Co-curator* (*via* Museum of Impossible Forms): **Helsinki Biennale 2023**, Helsinki, FI 
+:   *Co-curator* (*via* Museum of Impossible Forms): **New Directions May Emerge,** Helsinki Biennale 2023, Helsinki, FI 
 
-*Upcoming*
-:   *Project curator*: **Archives as Contemporary Object X**, Documenta (15), Kassel, DE
+2022
+:   *Project curator*: **Archives as Contemporary Object X**, podcast series w/ Party Office b2b Fadescha, documenta fifteen, Kassel, DE
 
-*Upcoming*
-:   *Programme facilitator* (*via* MAS): **Outlining actionable steps towards antiracism and building DEI (diversity, equity, and inclusion)**, a multi-part interactive program for Ateneum Art Museum & Finnish National Gallery, Helsinki, FI
-
+2021-2022
+:   *Curatorial advisor*: **Party Office**, New Delhi, IN
+ 
 2021
 :   *Project curator*: **How to Work Together? Extended notes on collaboration**, part of a collaboration between Museum of Impossible Forms + Platform, in ‘20 Years of Platform Festival’, Vaasa, FI
 
@@ -284,13 +280,13 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 :   *Working group*: **What Should Art Institutions Do Now?**, Culture Lab Europe – Spaces for Solidarity, (online)
 
 2021 
-:   *Peer Support:* **Anti-Caste Archive**, Party Office, New Delhi, IN
+:   *Peer aupport:* **Anti-Caste Archive**, Party Office, New Delhi, IN
 
 2020 
-:   *Supporting Curator*: **In-Between**, HIAP Summer Residency 2020, Helsinki International Artist Programme (HIAP), Helsinki, FI
+:   *Supporting curator*: **In-Between**, HIAP Summer Residency 2020, Helsinki International Artist Programme (HIAP), Helsinki, FI
 
 2019 
-:   *Programme Facilitator*: **Network Effects**, M-cult, Oodi Library, Helsinki, FI
+:   *Programme facilitator*: **Network Effects**, M-cult, Oodi Library, Helsinki, FI
 
 2019 
 :   *Event coordinator and Interviewer*: **Vidisha Fadescha: Party, a tool for Care – curated by Ali Akbar Mehta**, part of Today Is Our Tomorrow Festival, organised by PUBLICS, Helsinki, FI
@@ -302,6 +298,12 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 :   *Exhibition Curator*: **SOAK**, D/func.t, Helsinki, FI
 
 ## Artist Talks / Conferences
+
+2022
+:   *Artist talk*: **Burn All the Books that call you the unknown: Radical Archives**, Party Office b2b Fadescha, documenta fifteen, Kassel, DE
+
+2022
+:   *Panelist*: **How to work together – tools and practices for transgressional collective work**, Stop Hatred Now! Festival, UrbanApa, Helsinki (online)
 
 2021
 :   *Panelist*: **Decolonisation in the arts and cultural fields**, part of ‘In Conversation with the Finnish Institutes' moderated by Monica Gathuo, The Finnish Institute UK+Ireland, (online)
@@ -363,10 +365,10 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 ## Select Teaching / Lectures
 
 2021
-:   2021    *Guest lecturer:* **A small introduction to the history of art from the Indian Subcontinent**, w/ Vidha Saumya, UNIARTS, Helsinki, FI
+:   *Guest lecturer:* **A small introduction to the history of art from the Indian Subcontinent**, w/ Vidha Saumya, UNIARTS, Helsinki, FI
 
 2021 
-:   Guest lecturer: **Archives as Witness, Archives as knowledge Systems**, Darpan 2021, Symbiosis School For Liberal Arts (SSLA) Pune (online)
+:   *Guest lecturer:* **Archives as Witness, Archives as knowledge Systems**, Darpan 2021, Symbiosis School For Liberal Arts (SSLA) Pune (online)
 
 2020 
 :   *Guest Lecturer and Mentor:* **[Kuvan Kevät 2020](https://www.exhibitionlaboratory.fi/exhibition/kuvan-kevaet-2020)**, Exhibition Laboratory, University of Arts Helsinki, FI
@@ -398,15 +400,30 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 :   *Book chapter*: **The Politics of Togetherness: Beyond the integration infrastructure of state and institutional apparatus**. In A. Alemanji, et. al. (Eds.), Rethinking and undoing integration. The Society for the Study of Ethnic Relations and International Migration (ETMU)
 
 *Upcoming*
-:   *Journal article*: **The origins of performative coloniality and the caste context: Notes on evolving oppression systems and graded power hierarchies**. In A. Allen, C. Penketh, & A. Wexler (Eds.), Disability Justice: Decentering Colonial Knowledge, Centering Decolonial Epistemologies
+:   *Journal article*: **The Urgency of Asking Questions**, Tahiti Journal
 
-2021 
+*Upcoming*
+:   *Book chapter*: **On the Edge of the Re(lation)al**. In Beyond Matter Within Space. ZKM, DE
+
+*Upcoming*
+:   *Journal article*: **The Politics of Togetherness: Beyond the integration infrastructure of state and institutional apparatus**. In A. Alemanji, et. al. (Eds.), Rethinking and undoing integration. Volume 15, Nordic Journal of Migration Research.
+
+2022
+:   *Review*: **Who Watches Whom? Ruminations on power, gaze, and field through Pivi Takala’s Close Watch**. In V. Saumya & E. Rahmati (Eds.), NO NIIN, 12.
+
+2022
+:   *Article*: **Bearing Witness: Articulating an Archival Practice**. In Unstable capitalism, Tiede ja Edistys [Science & Progress], No.1-2(2022)
+
+2021
+:   *Journal article*: **Touching/Transforming: Notes Towards Collective Critical Artistic Research Practices and Processes**. (with Bäckman, F., Close, R., Godin, M-A., Kallio-Tavin, M., Mehta, A. A., Qureshi, A., & Sadatizarrini, S.) Research in Arts and Education, 4/2021, December. Aalto University. ISSN 2670-2142
+
+2021
 :   *Book chapter:* **Generating (an)other economy**: Working together at Museum of Impossible Forms. In E. Aiava & R. Aiava (Eds.), *How to Work Together: Seeking models of solidarity and alliance* (pp. 149–176). Museum of Impossible Forms. ISBN: 978-952-94-4840-1
 
-2021 
+2021
 :   *Book chapter:* **Ääniä Marginaalista: Museum of Impossible Forms Kontulassa** [[Voicing the Margins: Museum of Impossible Forms](https://aliakbarmehta.com/content/museum-of-impossible-forms-voicing-the-margins)]. In A. Rastas & L. Koivunen (Eds.), *Marginaaleista Museoihin* \[From Margins to Museums] (pp. 259-265). Vastapaino. ISBN 978-951-768-889-5
 
-2021 
+2021
 :   *Review*: **A longing for something written in memory: Library as Archive as Excavation Site**. In V. Saumya & E. Rahmati (Eds.), NO NIIN, 1.
 
 2021 
@@ -473,7 +490,10 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 
 ## Residencies
 
-2021 
+2022
+:   **Commonplaces and Entanglements** research residency, Center for Arts, Design, and Social Research, Spoleto, IT
+
+2021
 :   **Titanik Artist Residency**, Turku, FI
 
 2020 
@@ -488,10 +508,10 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 ## Grants
 
 2022
-:   [Taiteen edistämiskeskus](https://www.taike.fi/etusivu), working grant (1 year)
+:   **[Taiteen edistämiskeskus](https://www.taike.fi/etusivu)**, working grant (1 year)
 
 2021
-:   [Taiteen edistämiskeskus](https://www.taike.fi/etusivu), working grant (1 year)
+:   **[Taiteen edistämiskeskus](https://www.taike.fi/etusivu)**, working grant (1 year)
 
 2021 
 :   **Helsinki City Grant,** working group Museum of Impossible Forms 
@@ -514,10 +534,3 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 2016 
 :   **Kone Säätiö**, operational grant, working group – Museum of Impossible Forms, (2 years)
 
-## Awards
-
-2020 
-:   **State Art Prize** awarded to Museum of Impossible Forms, by the Ministry of Art and Culture, FI
-
-2019 
-:   [Tutkijaliitto-palkinto](https://tutkijaliitto.fi/2019/12/09/tutkijaliiton-palkinnot-museum-of-impossible-forms-kulttuurikeskukselle-ja-ari-korhoselle/), awarded to Museum of Impossible Forms, by the Finnish Association of Researchers, FI
