@@ -2,18 +2,16 @@
 layout: layouts/home.njk
 title: Ali Akbar Mehta
 permalink: /
-summary: >-
-  [Ali Akbar Mehta](http://www.aliakbarmehta.com) (b.1983, Mumbai) is a
+summary: "[Ali Akbar Mehta](http://www.aliakbarmehta.com) (b.1983, Mumbai) is a
   Transmedia artist, curator, researcher, and writer, driven by the desires of
   knowing and participating in the creation of an equal world. His
   research-based practice is to make immersive archival projects that map
   knowledges through a multifocal lens of violence, conflict, and trauma aiming
   to found processes that would leave deep impacts on contemporary culture,
-  technology and knowledge.
-
-
-  Currently, he is invited to[ Party Office b2b Fadescha](https://partyoffice.xyz/) at documenta fifteen, to develop ‘[Archives as Contemporary Object X](https://aliakbarmehta.com/content/archives-as-contemporary-object-x)’, a discursive program investigating new methodologies of archiving as an artistic practice. His project [Purgatory Edit](https://aliakbarmehta.com/content/purgatory-edit) is a user-generated new media project developing an archive on the representations of violence; and his ongoing doctoral research titled, *Practicing Online Performativity: Constructing Politically Conscious Archives as Participatory Art in the Age of Data, Power, and Violence* investigates (infra)structural and performative relations between online archives and its users.  He regularly writes and lectures on museum-building as a critical artistic praxis, and on archiving as a site for Infrastructural Praxis through the lens of decoloniality, queer-feminist praxis, critical diversity and socio-politics of border thinking.
+  technology and knowledge."
 ---
+Currently, he is invited to[ Party Office b2b Fadescha](https://partyoffice.xyz/) at documenta fifteen, to develop ‘[Archives as Contemporary Object X](https://aliakbarmehta.com/content/archives-as-contemporary-object-x)’, a discursive program investigating new methodologies of archiving as an artistic practice. His project [Purgatory Edit](https://aliakbarmehta.com/content/purgatory-edit) is a user-generated new media project developing an archive on the representations of violence; and his ongoing doctoral research titled, *Practicing Online Performativity: Constructing Politically Conscious Archives as Participatory Art in the Age of Data, Power, and Violence* investigates (infra)structural and performative relations between online archives and its users.  He regularly writes and lectures on museum-building as a critical artistic praxis, and on archiving as a site for Infrastructural Praxis through the lens of decoloniality, queer-feminist praxis, critical diversity and socio-politics of border thinking.
+
 Such projects investigate and offer countermeasures to forms of violence and conflict generated as everyday collateral. By experimenting with new archival rules that depart from institutional and coloniality-driven legacy archiving, he generates new knowledge systems of how narratives of history, memory, and identity may be mapped to make visible hegemonic power relations and silenced historical materialism. Such archival mappings – drawings, paintings, new media works, net-based projects, poems, essays, theoretical texts, and performances both of bodies and networks – seek to create knowledge systems that outline a vibrant new political public sphere.
 
 His [work](https://aliakbarmehta.com/curriculum-vitae) has been presented in India and Europe, most notably at documenta fifteen, Taide Museo ARTSI, Gallen-Kallela Museum, Ainola Museum, Visavuori Museum, Kiasma Contemporary Art Museum, Venice Biennale Research Pavillion, Mänttä Art Festival, ONOMA Summer Exhibition (Fiskars), Myymälä2, Third Space, TAO Art Gallery, Art Heritage, Galerie Mirchandani+Steinruecke, among others. Several of his projects, such as [256 Million Colours of Violence](http://www.256millioncoloursofviolence.com/), [Outsiders at Work](https://outsidersatwork.wordpress.com/), [Ballad of the Lost Utopian Meadow](https://www.thelostutopianmeadow.com/), and [Central Park Archives](https://www.m-cult.org/index.php/productions/central-park-archives), exist as ongoing online projects.
