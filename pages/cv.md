@@ -16,6 +16,14 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 2001 – 2005
 :   *BFA* (Painting), [Sir J.J. School of Art](http://www.sirjjschoolofart.in/), Mumbai, IN
 
+## Awards
+
+2020 
+:   **State Art Prize** awarded to Museum of Impossible Forms, by the Ministry of Art and Culture, FI
+
+2019 
+:   [Tutkijaliitto-palkinto](https://tutkijaliitto.fi/2019/12/09/tutkijaliiton-palkinnot-museum-of-impossible-forms-kulttuurikeskukselle-ja-ari-korhoselle/), awarded to Museum of Impossible Forms, by the Finnish Association of Researchers, FI
+
 ## Select Work Experience
 
 2019
@@ -27,13 +35,6 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 2002 – 2008
 :   *Co-founder, Lead Animator and Artist*, Mareech Animated Design, Mumbai, IN
 
-## Awards
-
-2020 
-:   **State Art Prize** awarded to Museum of Impossible Forms, by the Ministry of Art and Culture, FI
-
-2019 
-:   [Tutkijaliitto-palkinto](https://tutkijaliitto.fi/2019/12/09/tutkijaliiton-palkinnot-museum-of-impossible-forms-kulttuurikeskukselle-ja-ari-korhoselle/), awarded to Museum of Impossible Forms, by the Finnish Association of Researchers, FI
 
 ## Positions of Trust and Memberships
 
@@ -63,6 +64,7 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 
 2016 – 2017
 :   *Member*, **[Third Space](http://www.th1rdspac3.com/)**, Helsinki, FI
+
 
 ## Solo Exhibitions
 
@@ -256,7 +258,7 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 2007 
 :   **Celebrating India**, Treo Foundation, Delhi-Calcutta-Bangalore-Mumbai-New York
 
-## Curatorial Experience
+## Curatorial Work
 
 *Upcoming*
 :   *Co-curator* (*via* Museum of Impossible Forms): **New Directions May Emerge,** Helsinki Biennale 2023, Helsinki, FI 
@@ -280,7 +282,7 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 :   *Working group*: **What Should Art Institutions Do Now?**, Culture Lab Europe – Spaces for Solidarity, (online)
 
 2021 
-:   *Peer aupport:* **Anti-Caste Archive**, Party Office, New Delhi, IN
+:   *Peer support:* **Anti-Caste Archive**, Party Office, New Delhi, IN
 
 2020 
 :   *Supporting curator*: **In-Between**, HIAP Summer Residency 2020, Helsinki International Artist Programme (HIAP), Helsinki, FI
@@ -292,10 +294,10 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 :   *Event coordinator and Interviewer*: **Vidisha Fadescha: Party, a tool for Care – curated by Ali Akbar Mehta**, part of Today Is Our Tomorrow Festival, organised by PUBLICS, Helsinki, FI
 
 2016 
-:   *Exhibition Curator*:  **MATERIAL///IMMATERIAL**, A: SPACE, Espoo, FI
+:   *Curator*:  **MATERIAL///IMMATERIAL**, A: SPACE, Espoo, FI
 
 2016 
-:   *Exhibition Curator*: **SOAK**, D/func.t, Helsinki, FI
+:   *Co-curator*: **SOAK**, D/func.t, Helsinki, FI
 
 ## Artist Talks / Conferences
 
@@ -465,7 +467,7 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 2018 
 :   *Editorial text:* **[FOOD and Other Practices at the Arthouse](https://aliakbarmehta.com/content/food-and-other-practices-at-the-arthouse)**. In A. A. Mehta & V. Saumya (Eds.), Visual Culture and Contemporary Art Journal #4. Aalto University
 
-2017:\
+2017
 :   *Article:* **[Locating: The Museum of Impossible Forms](https://koneensaatio.fi/en/museum-of-impossible-forms/)**. In *Kone Foundation Boldness Blog*.
 
 2017
@@ -478,7 +480,7 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 :   *Exhibition essay:* **[No one at the ceremony remembers to mention the artist](https://aliakbarmehta.com/content/no-one-at-the-ceremony-remembers-to-mention-the-artist)**. for Vidha Saumya’s exhibition, *No one at the ceremony remembers to mention the artist*. Third Space.
 
 2014 
-:   *Artist books:* **Site: Stage: Structure**. StudioVAAK.
+:   *Artist book:* **Site: Stage: Structure**. StudioVAAK.
 
 2011 
 :   *Poem:* **[A body split in two](https://aliakbarmehta.com/content/a-body-split-in-two)**, In B. Sarkar (Ed.), *International Gallerie: Journal of Contemporary art*, issue 30. Mumbai.
@@ -488,10 +490,10 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 2015 
 :   **TRINITY: Godrej Legacy Park Silos**, Godrej One, Mumbai, IN
 
-## Residencies
+## Residencies and Research Fellowships
 
 2022
-:   **Commonplaces and Entanglements** research residency, Center for Arts, Design, and Social Research, Spoleto, IT
+:   *Research fellow*: **Commonplaces and Entanglements VII**, Center for Arts, Design, and Social Research, Spoleto, IT
 
 2021
 :   **Titanik Artist Residency**, Turku, FI
