@@ -2,13 +2,11 @@
 layout: layouts/home.njk
 title: Ali Akbar Mehta
 permalink: /
-summary: "[Ali Akbar Mehta](http://www.aliakbarmehta.com) (b.1983, Mumbai) is a
-  Transmedia artist, curator, researcher, and writer, driven by the desires of
-  knowing and participating in the creation of an equal world. His
-  research-based practice is to make immersive archival projects that map
-  knowledges through a multifocal lens of violence, conflict, and trauma aiming
-  to found processes that would leave deep impacts on contemporary culture,
-  technology and knowledge."
+summary: >-
+  ![](/static/img/ali-akbar-mehta_portrait_2021.jpg)
+
+
+  [Ali Akbar Mehta](http://www.aliakbarmehta.com) (b.1983, Mumbai) is a Transmedia artist, curator, researcher, and writer, driven by the desires of knowing and participating in the creation of an equal world. His research-based practice is to make immersive archival projects that map knowledges through a multifocal lens of violence, conflict, and trauma aiming to found processes that would leave deep impacts on contemporary culture, technology and knowledge.
 ---
 Currently, he is invited to[ Party Office b2b Fadescha](https://partyoffice.xyz/) at documenta fifteen, to develop ‘[Archives as Contemporary Object X](https://aliakbarmehta.com/content/archives-as-contemporary-object-x)’, a discursive program investigating new methodologies of archiving as an artistic practice. His project [Purgatory Edit](https://aliakbarmehta.com/content/purgatory-edit) is a user-generated new media project developing an archive on the representations of violence; and his ongoing doctoral research titled, *Practicing Online Performativity: Constructing Politically Conscious Archives as Participatory Art in the Age of Data, Power, and Violence* investigates (infra)structural and performative relations between online archives and its users.  He regularly writes and lectures on museum-building as a critical artistic praxis, and on archiving as a site for Infrastructural Praxis through the lens of decoloniality, queer-feminist praxis, critical diversity and socio-politics of border thinking.
 
