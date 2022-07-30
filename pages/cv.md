@@ -394,7 +394,7 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 :   *Workshop:* **A Common Sense Manifesto of Cooking Practices for Artists**, Aalto University, Espoo, FI
 
 2011-14
-:   *Guest Lecturer:* Whistling Woods International Institute of Film, Communication & Media Arts, Mumbai, IN
+:   *Guest Lecturer:* **Whistling Woods International Institute of Film, Communication & Media Arts**, Mumbai, IN
 
 ## Select Publications
 
