@@ -27,5 +27,8 @@ summary: >+
 
 children:
   - ArCOX~ About Archives as Contemporary Object (X)
+  - "Episode 01: History as the Tool of the State, Memory as the Art of the
+    Stateless"
+  - "Episode 02: Memory work and Inauthentic Archives"
 ---
 The first six episodes will be broadcasted biweekly as part of online programming for **Party Office** on **[lumbung.radio](https://ruruhaus.de/en/lumbungradio/)**, during documentafifteen.
