@@ -8,9 +8,14 @@ pubdate: August 16, 2022 10:41 AM
 unlisted: "true"
 hero: /static/img/logo.jpg
 summary: |-
-  
+  ### Broadcasted on 16.08.2022, at 09:00 EET.
+
+  ### Archived on [lumbung.radio](https://ruruhaus.de/en/lumbungradio/)
 
   ![](/static/img/farbod-1.png)
+
+  ### Archived on [lumbung.radio](https://ruruhaus.de/en/lumbungradio/)
+parent: Archives as Contemporary Object 'X'
 ---
 Farbod Fakharzadeh is an artist, curator and storyteller based in Helsinki, Finland. His work deals with concepts of the archive, memory-work and history-politics and revolves around notions of collective construction and alternative ways of working and dreaming together. He currently serves as the co-artistic director for Catalysti, a support organization that advocates for transcultural artists living and working in Finland and works as a curriculum advisor for Node centre for curatorial studies in Berlin, Germany.
 
