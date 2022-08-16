@@ -6,7 +6,7 @@ layout: content
 tags:
   - video
 pubdate: August 15, 2022 9:58 AM
-unlisted: "true"
+unlisted: "false"
 hero: /static/img/logo.jpg
 summary: >-
   ### Broadcasted on 15.08.2022, at 22:00 EET. 
