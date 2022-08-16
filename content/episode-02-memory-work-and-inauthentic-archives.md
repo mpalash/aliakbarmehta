@@ -8,10 +8,10 @@ pubdate: August 16, 2022 10:41 AM
 unlisted: "true"
 hero: /static/img/logo.jpg
 summary: >-
-  ### Broadcasted on 16.08.2022, at 09:00 EET.
+  **Broadcasted on 16.08.2022, at 09:00 EET.**
 
 
-  ### Archived on [lumbung.radio](https://ruruhaus.de/en/lumbungradio/)
+  **Archived on [lumbung.radio](https://ruruhaus.de/en/lumbungradio/)**
 
 
   ![](/static/img/farbod-1.png)
