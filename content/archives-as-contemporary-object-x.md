@@ -3,7 +3,7 @@ title: Archives as Contemporary Object 'X'
 subtitle: Podcast series
 layout: content
 tags:
-  - curatorial project
+  - curatorial work
 pubdate: July 2, 2022 12:00 AM
 unlisted: "false"
 hero: /static/img/arco-x_intro_banner.jpg
