@@ -30,5 +30,6 @@ children:
   - "Episode 01: History as the Tool of the State, Memory as the Art of the
     Stateless"
   - "Episode 02: Memory work and Inauthentic Archives"
+  - "Episode 3: Decolonial Media Aesthetics, Part 01"
 ---
 The first six episodes will be broadcasted biweekly as part of online programming for **Party Office** on **[lumbung.radio](https://ruruhaus.de/en/lumbungradio/)**, during documentafifteen.
