@@ -6,7 +6,7 @@ tags:
   - video
 pubdate: August 22, 2022 12:00 AM
 unlisted: "true"
-hero: /static/img/arco-x-dalida-maria-benfield-ep-3-and-4.jpg
+hero: /static/img/logo.jpg
 summary: >-
   **Broadcasted on 22.08.2022, at 22:00 EET.**
 
