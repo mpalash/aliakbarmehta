@@ -10,7 +10,7 @@ unlisted: "false"
 hero: /static/img/the-abdication-of-the-geniuses_header.jpg
 shortdesc: ""
 summary: >-
-  ### Abdication of the Geniuses 
+  ### Abdication of the Geniuses
 
 
   Otober 29-30, 2022
