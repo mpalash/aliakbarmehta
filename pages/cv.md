@@ -35,16 +35,15 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 2002 – 2008
 :   *Co-founder, Lead Animator and Artist*, Mareech Animated Design, Mumbai, IN
 
-
 ## Positions of Trust and Memberships
 
 2021 – ongoing
 :   *Member*, **[Catalysti](https://www.catalysti.fi/)**, Helsinki, FI
 
-2021 – 2024
+2021 – 2022
 :   *Board Member*, **[Frame Contemporary Art Finland](https://frame-finland.fi/en/about-frame/organisation/)**, Helsinki, FI
 
-2021 – 2022
+2021 – ongoing
 :   *Board Member*, **[TKOK ry](https://www.museumofimpossibleforms.org/tkok-ry)**, the supervising body of Museum of Impossible Forms, Helsinki, FI
 
 2021
@@ -64,7 +63,6 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 
 2016 – 2017
 :   *Member*, **[Third Space](http://www.th1rdspac3.com/)**, Helsinki, FI
-
 
 ## Solo Exhibitions
 
@@ -87,6 +85,9 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 :   **The Ballad of The War that Never Was, and other Bastardized Myths**, TAO Art Gallery, Mumbai, IN
 
 ## Performance
+
+2022
+:   **Narrating WAR**, Maunulatalo, Helsinki, FI 
 
 2021
 :   **Ballad of the Lost Utopian Meadow**, a series of 3 performances in collaboration with Vidha Saumya, *varialambo*, and Joss Allen, as part of **[Aikakoneita Ja Utopiotia: kotinpaluu, kaukokaipuu, Elinehtoja](https://aikakoneitajautopioita.fi/)** (Time Machine and Utopias: Wanderlust, Lifelines, Homecoming), curated by Hanna Johansson, Ainola Museum, Visavuori Museum, and Tarvaspää Museum, FI 
@@ -138,8 +139,11 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 
 ## Select Group Exhibitions
 
-*Upcoming*
-:   **X**, curated by Farbod Fakharzadeh, Pori, FI
+2022
+:   **Abdication of the Geniuses** **Festival**, Oksasenkatu 11 + Maunulatalo, Helsinki, FI 
+
+2022
+:   **Into the Void**, curated by Farbod Fakharzadeh, Pori, FI
 
 2022
 :   **Locus of Control**, curated by Abhinit Khanna and Anoushkaa Bhatnagar, for House of Creativity, Mumbai, IN
@@ -268,7 +272,7 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 
 2021-2022
 :   *Curatorial advisor*: **Party Office**, New Delhi, IN
- 
+
 2021
 :   *Project curator*: **How to Work Together? Extended notes on collaboration**, part of a collaboration between Museum of Impossible Forms + Platform, in ‘20 Years of Platform Festival’, Vaasa, FI
 
@@ -300,6 +304,12 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 :   *Co-curator*: **SOAK**, D/func.t, Helsinki, FI
 
 ## Artist Talks / Conferences
+
+2023
+:   *Artist Talk*: **The Urgency of Asking Questions**, Transmediale, Berlin, DE
+
+2022
+:   *Guest Speaker*: **The Politics of Curating**, Platform for Feminist Leadership, UrbanApa (online)
 
 2022
 :   *Artist talk*: **Burn All the Books that call you the unknown: Radical Archives**, Party Office b2b Fadescha, documenta fifteen, Kassel, DE
@@ -366,6 +376,9 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 
 ## Select Teaching / Lectures
 
+2022
+:   *Guest lecturer*: **Who Watches Whom?**, Art History programme, UNIARTS, Helsinki, FI 
+
 2021
 :   *Guest lecturer:* **A small introduction to the history of art from the Indian Subcontinent**, w/ Vidha Saumya, UNIARTS, Helsinki, FI
 
@@ -405,13 +418,19 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 :   *Book chapter*: **On the Edge of the Re(lation)al**. In Beyond Matter Within Space. ZKM, DE
 
 *Upcoming*
+:   *Journal article*: **The Making of Artistic Research**, Miira Kallio-Tavin et al., Research Catalogue
+
+*Upcoming*
 :   *Journal article*: **The Politics of Togetherness: Beyond the integration infrastructure of state and institutional apparatus**. In A. Alemanji, et. al. (Eds.), Rethinking and undoing integration. Volume 15, Nordic Journal of Migration Research.
+
+2022
+:   *Interview*: **On Recognising the moment of Hope: Speaking in Echoes with Hiwa K.**, In V. Saumya & E. Rahmati (Eds.), NO NIIN, 15.
 
 2022
 :   *Review*: **Who Watches Whom? Ruminations on power, gaze, and field through Pivi Takala’s Close Watch**. In V. Saumya & E. Rahmati (Eds.), NO NIIN, 12.
 
 2022
-:   *Article*: **Bearing Witness: Articulating an Archival Practice**. In Unstable capitalism, Tiede ja Edistys [Science & Progress], No.1-2(2022)
+:   *Article*: **Bearing Witness: Articulating an Archival Practice**. In Unstable capitalism, Tiede ja Edistys \[Science & Progress], No.1-2(2022)
 
 2021
 :   *Journal article*: **Touching/Transforming: Notes Towards Collective Critical Artistic Research Practices and Processes**. (with Bäckman, F., Close, R., Godin, M-A., Kallio-Tavin, M., Mehta, A. A., Qureshi, A., & Sadatizarrini, S.) Research in Arts and Education, 4/2021, December. Aalto University. ISSN 2670-2142
@@ -532,4 +551,3 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 
 2016 
 :   **Kone Säätiö**, operational grant, working group – Museum of Impossible Forms, (2 years)
-
