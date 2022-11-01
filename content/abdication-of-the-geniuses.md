@@ -1,6 +1,6 @@
 ---
 title: Abdication of the Geniuses
-subtitle: Oksasenkatu 11 Gallery and Maunulatalo
+subtitle: Festival 2022, curaed by Julius Valve, Oksasenkatu 11 Gallery and Maunulatalo
 layout: content
 tags:
   - performance
