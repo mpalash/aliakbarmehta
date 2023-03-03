@@ -1,7 +1,7 @@
 ---
 title: Mänttä's Fine Arts Weeks can give itself to the use of artificial
-  intelligence - "Man has a similar relationship to artificial intelligence as
-  to God"
+  intelligence - Man has a similar relationship to artificial intelligence as
+  to God
 subtitle: by Jussi Mankkinen, for Yle News
 layout: content
 tags:
