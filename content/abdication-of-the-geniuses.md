@@ -27,6 +27,7 @@ summary: >-
   ![](/static/img/nero_insta_story_2.jpg)
 
   ![](/static/img/nero_insta_story_3.jpg)
+parent: "WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs"
 ---
 Nykytaide kriittisenä välineenä todellisuuden tutkimiseen Narrating WAR kutsuu katsojaa pohtimaan tiedostetun ja tiedostomattoman suhdetta ihmiskunnan jaetussa historiassa. Performatiivisessa lausunnassa luetellaan kattava lista sotia, taisteluita, ryöstöjä, piirityksiä, kapinoita, vallankumouksia ja pommituksia 3000 vuotta ennen ajanlaskun alkua ja päättyen nykypäivään. Ihmisolennot näyttäytyvät jatkuvana väkivaltan ja konfliktin historiana.
 
