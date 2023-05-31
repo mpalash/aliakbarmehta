@@ -22,6 +22,7 @@ children:
   - wre ~ To Err is Human
   - wre ~ Reciprocities
   - wre ~ Narrating War
+  - Abdication of the Geniuses
   - wre ~ Narrating WAR / HABITAT 1
   - "wre ~ Narrating WAR, New Performance Turku, Festival 2020: Mobilities"
   - wre ~ Narrating WAR, Mymmälä2, Helsinki
@@ -35,9 +36,9 @@ children:
   - wre ~ Narrating War, Pispala, Tampere
   - wre ~ Narrating War, Kallio Public Library, Helsinki
   - wre ~ null.void
-  - "Mänttä's Fine Arts Weeks can give itself to the use of artificial
+  - Mänttä's Fine Arts Weeks can give itself to the use of artificial
     intelligence - Man has a similar relationship to artificial intelligence as
-    to God"
+    to God
   - Makkaraa pitelevä koira herättää Pariisin-ikävän Mäntässä
   - WRE ~ Ali Akbar Mehta & varialambo - Narrating WAR / Habitat 1
   - "wre ~ Narrating War / Pripovedovanje vojne: Ali Akbar Mehta "
