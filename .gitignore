@@ -10,3 +10,6 @@ package-lock.json
 
 static/img-hero/
 static/img-thumbs/
+
+# Local Netlify folder
+.netlify
