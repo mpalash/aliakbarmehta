@@ -7,6 +7,7 @@ tags:
 pubdate: June 2, 2023 12:00 AM
 unlisted: "false"
 hero: /static/img/war-list-codex_hero-image.png
+shortdesc: Online Database, part of WAR ROOM ECHO
 summary: The War List CODEX, is an online open-access database published in
   2023. It is a consolidation of the research conducted by the artist since 2014
   – a searchable database of over 7500 'wars, battles, sacks, sieges, revolts,
