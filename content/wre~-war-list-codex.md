@@ -1,5 +1,5 @@
 ---
-title: WRE~ War List CODEX
+title: WRE~ War List CODEX 2023
 subtitle: Online Database, part of WAR ROOM ECHO
 layout: content
 tags:
