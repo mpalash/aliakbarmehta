@@ -32,7 +32,7 @@ children:
   - "Episode 02: Memory work and Inauthentic Archives"
   - "Episode 03: Decolonial Media Aesthetics, Part 01"
   - "Episode 04: Decolonial Media Aesthetics, Part 02"
-  – "Episode 05"
-  – "Episode 06"
+  - "Episode 05: Hudda Khaireh"
+  - "Episode 06: Hudda Khaireh"
 ---
 The first six episodes were broadcasted biweekly, from August to September 2022,  as part of online programming for **Party Office** on **[lumbung.radio](https://ruruhaus.de/en/lumbungradio/)**, during documentafifteen.
