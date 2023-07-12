@@ -16,14 +16,6 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 2001 – 2005
 :   **BFA** (Honours), [Sir J.J. School of Art](http://www.sirjjschoolofart.in/), Mumbai, IN
 
-## Awards
-
-2020 
-:   **State Art Prize** awarded to Museum of Impossible Forms, by the Ministry of Art and Culture, FI
-
-2019 
-:   [Tutkijaliitto-palkinto](https://tutkijaliitto.fi/2019/12/09/tutkijaliiton-palkinnot-museum-of-impossible-forms-kulttuurikeskukselle-ja-ari-korhoselle/), awarded to Museum of Impossible Forms, by the Finnish Association of Researchers, FI
-
 ## Select Work Experience
 
 2019
@@ -35,34 +27,48 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 2002 – 2008
 :   *Co-founder, Lead Animator and Artist*, Mareech Animated Design, Mumbai, IN
 
-## Positions of Trust and Memberships
+## Awards
 
-2021 – ongoing
-:   *Member*, **[Catalysti](https://www.catalysti.fi/)**, Helsinki, FI
+2020 
+:   **State Art Prize** awarded to Museum of Impossible Forms, by the Ministry of Art and Culture, FI
 
-2021 – 2022
-:   *Board Member*, **[Frame Contemporary Art Finland](https://frame-finland.fi/en/about-frame/organisation/)**, Helsinki, FI
+2019 
+:   [Tutkijaliitto-palkinto](https://tutkijaliitto.fi/2019/12/09/tutkijaliiton-palkinnot-museum-of-impossible-forms-kulttuurikeskukselle-ja-ari-korhoselle/), awarded to Museum of Impossible Forms, by the Finnish Association of Researchers, FI
 
-2021 – ongoing
-:   *Board Member*, **[TKOK ry](https://www.museumofimpossibleforms.org/tkok-ry)**, the supervising body of Museum of Impossible Forms, Helsinki, FI
+## Grants
+
+2023
+:   **[Kone Säätiö](https://koneensaatio.fi/)**, working & production grant (3 years)
+
+2022
+:   **[Taiteen edistämiskeskus](https://www.taike.fi/etusivu)**, working grant (1 year)
 
 2021
-:   *Board Chair*, **[Kiila ry](http://kiila.eu/)**, Helsinki, FI
+:   **[Taiteen edistämiskeskus](https://www.taike.fi/etusivu)**, working grant (1 year)
 
-2019 – ongoing
-:   Research Member, **[Cluster of Critical Artistic Research (CCARE)](https://www.ccare.aalto.fi/)**, Aalto University, Helsinki, FI
+2021
+:   **Helsinki City Grant,** working group Museum of Impossible Forms 
 
-2019 – ongoing
-:   Member, **[Party Office](http://vidisha-fadescha.com/PARTY-OFFICE)**, New Delhi, IN
+2020
+:   **Kone Säätiö**, COVID grant for organisations, working group Museum of Impossible Forms 
 
-2019 – 2021
-:   *Board Member*, **[Kiila ry](http://kiila.eu/)**, Helsinki, FI
+2020
+:   **Taiteen edistämiskeskus**, project grant, working group – Museum of Impossible Forms
 
-2016 – ongoing
-:   *Founding member*, **[Museum of Impossible Forms](https://www.museumofimpossibleforms.org/)**, Helsinki, FI
+2018
+:   **Kone Säätiö**, operational grant, working group – Museum of Impossible Forms, (2 years)
 
-2016 – 2017
-:   *Member*, **[Third Space](http://www.th1rdspac3.com/)**, Helsinki, FI
+2018
+:   **Suomen Kulttuurirahasto**, project grant, working group – Museum of Impossible Forms
+
+2017
+:   **Aalto University**, project grant, 256 Million Colours of Violence
+
+2016
+:   **Kone Säätiö**, operational grant, working group – Museum of Impossible Forms, (2 years)
+
+
+<br/>
 
 ## Solo Exhibitions
 
@@ -309,6 +315,9 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 ## Artist Talks / Conferences
 
 2023
+:   *Artist Talk*: **Archiving in the Age of Data, Power and Violence**, Casa do Povo, São Paolo, BR
+
+2023
 :   *Artist Talk*: **The Urgency of Asking Questions**, Transmediale, Berlin, DE
 
 2022
@@ -379,6 +388,9 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 
 ## Select Teaching / Lectures
 
+2023
+:   *Guest lecturer*: **Cyber Realities, Hybridity,  and the Users (of Archives)**, Visual Cultures, Curating and Contemporary Art (ViCCA), Aalto University, Helsinki
+
 2022
 :   *Guest lecturer*: **Who Watches Whom?**, Art History programme, UNIARTS, Helsinki, FI 
 
@@ -404,7 +416,7 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 :   *Guest Speaker:* **Cyber Archives**, Die Schule der Archaeutopie in conversation with Ali Akbar Mehta, Universität für angewandte Kunst Wien, Vienna
 
 2018 
-:   *Guest Lecturer:* **Archiving: Histories of the Present**, guest lecture, Visual Cultures, Curating and Contemporary Art (ViCCA), Aalto University, Helsinki
+:   *Guest Lecturer:* **Archiving: Histories of the Present**, Visual Cultures, Curating and Contemporary Art (ViCCA), Aalto University, Helsinki
 
 2018
 :   *Workshop:* **A Common Sense Manifesto of Cooking Practices for Artists**, Aalto University, Espoo, FI
@@ -414,16 +426,13 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 
 ## Select Publications
 
-*Upcoming*
-:   *Journal article*: **The Urgency of Asking Questions**, Tahiti Journal
-
-*Upcoming*
+2023
 :   *Book chapter*: **On the Edge of the Re(lation)al**. In Beyond Matter Within Space. ZKM, DE
 
-*Upcoming*
+2023
 :   *Journal article*: **The Making of Artistic Research**, Miira Kallio-Tavin et al., Research Catalogue
 
-*Upcoming*
+2023
 :   *Journal article*: **The Politics of Togetherness: Beyond the integration infrastructure of state and institutional apparatus**. In A. Alemanji, et. al. (Eds.), Rethinking and undoing integration. Volume 15, Nordic Journal of Migration Research.
 
 2022
@@ -498,18 +507,21 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 2015
 :   *Exhibition essay:* **[No one at the ceremony remembers to mention the artist](https://aliakbarmehta.com/content/no-one-at-the-ceremony-remembers-to-mention-the-artist)**. for Vidha Saumya’s exhibition, *No one at the ceremony remembers to mention the artist*. Third Space.
 
-2014 
+2014
 :   *Artist book:* **Site: Stage: Structure**. StudioVAAK.
 
-2011 
+2011
 :   *Poem:* **[A body split in two](https://aliakbarmehta.com/content/a-body-split-in-two)**, In B. Sarkar (Ed.), *International Gallerie: Journal of Contemporary art*, issue 30. Mumbai.
 
 ## Public projects / Commissions
 
-2015 
+2015
 :   **TRINITY: Godrej Legacy Park Silos**, Godrej One, Mumbai, IN
 
 ## Residencies and Research Fellowships
+
+2023
+:   *Research fellow*: **[Technologies of Critical Conscientization] (https://www.e-flux.com/announcements/507829/technologies-of-critical-conscientization/)**, [Center for Arts, Design, and Social Research](http://centerartsdesign.org/) together with Casa do Povo, São Paolo, BR
 
 2022
 :   *Research fellow*: **Commonplaces and Entanglements VII**, [Center for Arts, Design, and Social Research](http://centerartsdesign.org/), Spoleto, IT
@@ -526,31 +538,35 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 2012 
 :   **SPACE 118**, Mumbai, IN
 
-## Grants
 
-2022
-:   **[Taiteen edistämiskeskus](https://www.taike.fi/etusivu)**, working grant (1 year)
+
+<br/>
+
+## Positions of Trust and Memberships
+
+2021 – ongoing
+:   *Member*, **[Catalysti](https://www.catalysti.fi/)**, Helsinki, FI
+
+2021 – 2022
+:   *Board Member*, **[Frame Contemporary Art Finland](https://frame-finland.fi/en/about-frame/organisation/)**, Helsinki, FI
+
+2021 – 2023
+:   *Board Member*, **[TKOK ry](https://www.museumofimpossibleforms.org/tkok-ry)**, the supervising body of Museum of Impossible Forms, Helsinki, FI
 
 2021
-:   **[Taiteen edistämiskeskus](https://www.taike.fi/etusivu)**, working grant (1 year)
+:   *Board Chair*, **[Kiila ry](http://kiila.eu/)**, Helsinki, FI
 
-2021 
-:   **Helsinki City Grant,** working group Museum of Impossible Forms 
+2019 – ongoing
+:   Research Member, **[Cluster of Critical Artistic Research (CCARE)](https://www.ccare.aalto.fi/)**, Aalto University, Helsinki, FI
 
-2020 
-:   **Kone Säätiö**, COVID grant for organisations, working group Museum of Impossible Forms 
+2019 – ongoing
+:   Member, **[Party Office](http://vidisha-fadescha.com/PARTY-OFFICE)**, New Delhi, IN
 
-2020 
-:   **Taiteen edistämiskeskus**, project grant, working group  – Museum of Impossible Forms
+2019 – 2021
+:   *Board Member*, **[Kiila ry](http://kiila.eu/)**, Helsinki, FI
 
-2018 
-:   **Kone Säätiö**, operational grant, working group – Museum of Impossible Forms, (2 years)
+2016 – ongoing
+:   *Founding member*, **[Museum of Impossible Forms](https://www.museumofimpossibleforms.org/)**, Helsinki, FI
 
-2018 
-:   **Suomen Kulttuurirahasto**, project grant, working group – Museum of Impossible Forms
-
-2017 
-:   **Aalto University**, project grant, 256 Million Colours of Violence
-
-2016 
-:   **Kone Säätiö**, operational grant, working group – Museum of Impossible Forms, (2 years)
+2016 – 2017
+:   *Member*, **[Third Space](http://www.th1rdspac3.com/)**, Helsinki, FI
