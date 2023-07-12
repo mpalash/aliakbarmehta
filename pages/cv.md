@@ -139,11 +139,14 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 
 ## Select Group Exhibitions
 
-2022
-:   **Abdication of the Geniuses** **Festival**, Oksasenkatu 11 + Maunulatalo, Helsinki, FI 
+2023
+:   **Cruel Radiance**, curated by Harri Palviranta and Marko Karo, Backlight Festival 2023, Gallery Saskia, Photographic Center Nykyakia, Gallery Koppelo, Tampere art Museum, Tampere, FI
 
 2022
-:   **Into the Void**, curated by Farbod Fakharzadeh, Pori, FI
+:   **Abdication of the Geniuses Festival**, Oksasenkatu 11 + Maunulatalo, Helsinki, FI 
+
+2022
+:   **Into the Void**, curated by Farbod Fakharzadeh, for Ars Pori, Pori, FI
 
 2022
 :   **Locus of Control**, curated by Abhinit Khanna and Anoushkaa Bhatnagar, for House of Creativity, Mumbai, IN
@@ -264,8 +267,8 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 
 ## Curatorial Work
 
-*Upcoming*
-:   *Co-curator* (*via* Museum of Impossible Forms): **New Directions May Emerge,** Helsinki Biennale 2023, Helsinki, FI 
+2023
+:   *Co-curator* (*via* Museum of Impossible Forms): **New Directions May Emerge,** Helsinki Biennale 2023, curated by Joasia Kysia, Helsinki, FI 
 
 2022
 :   *Project curator*: **Archives as Contemporary Object X**, podcast series w/ Party Office b2b Fadescha, documenta fifteen, Kassel, DE
