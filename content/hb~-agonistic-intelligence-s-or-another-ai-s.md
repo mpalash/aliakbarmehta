@@ -19,6 +19,7 @@ summary: "**Agonistic Intelligence/s (or another AI/s)** is a gathering of
   Biennale 2023, from August 14-19, 2023, at HAM Salli, Helsinki Art Museum,
   with open-to-public evening lectures and discussion programs."
 parent: "HB~ New Directions May Emerge "
+children: []
 ---
 A play on the words AI (Artificial intelligence), Agonistic Intelligence/s as a title borrows the word ‘Agonistic’ from Chantal Mouffe’s conception of Agonistic Democracy that outlines a necessarily conflictual nature of pluralism – one that stems from the impossibility of reconciling all points of view – as being not only an inevitable aspect of public action and collective identities but one that cites confrontation as a positive and integral method for challenging consensus-driven politics. Dissensus, as a longing for instability, counters the ossification and cementing of values, opening the possibilities for continually evolving decolonial, queer-feminist and norm-critical readings of the archive, where narratives may be formulated to describe realities otherwise made invisible. Encapsulated in the formulation of the title of being another kind of an AI – one premised on exclusion – a key question is raised: *Whose intelligence is deemed artificial*?
 
