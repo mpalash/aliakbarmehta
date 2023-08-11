@@ -6,7 +6,7 @@ tags:
   - teaching
 pubdate: August 14, 2023 12:00 AM
 unlisted: "false"
-hero: /static/img/agonistic-intelligences_hb2023_hero-image.png
+hero: /static/img/agonistic-intelligences-s_summer-school-2023_hero-image.png
 shortdesc: "**Agonistic Intelligence/s (or another AI/s)** is a gathering of
   invited provocateurs, guest speakers, and participants to form a research-led
   working group that engages with a shortlisted selection of the HAM art
