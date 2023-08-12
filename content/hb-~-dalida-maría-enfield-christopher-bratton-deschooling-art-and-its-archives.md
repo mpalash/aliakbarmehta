@@ -1,6 +1,6 @@
 ---
-title: HB ~ Dalida María Benfield & Christopher Bratton: : DESCHOOLING ART AND ITS ARCHIVES
-subtitle: Public Lecture 01 for Agonistic Intelligence/s, Summer School curated by Ali Akbar Mehta for Helsinki Biennial 2023: New Directions May Emerge
+title: "HB ~ Dalida María Benfield & Christopher Bratton: : DESCHOOLING ART AND ITS ARCHIVES"
+subtitle: "Public Lecture 01 for Agonistic Intelligence/s, Summer School curated by Ali Akbar Mehta for Helsinki Biennial 2023: New Directions May Emerge"
 layout: content
 tags:
   - curatorial project
