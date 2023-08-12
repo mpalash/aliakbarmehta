@@ -3,7 +3,7 @@ title: "HB~ New Directions May Emerge"
 subtitle: co-curator of Helsinki Biennial 2023
 layout: content
 tags:
-  - curatorial project
+  - curatorial work
 pubdate: June 12, 2023 12:00 AM
 unlisted: "false"
 hero: /static/img/hb23_newdirections.jpg
