@@ -17,6 +17,7 @@ parent: "WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs"
 children:
   - "wre ~ Foreword: Artist's Note"
   - wre ~ War List CODEX
+  - WRE~ War List CODEX 2023
   - wre ~ Why is an archive of wars required?
   - WRE ~ The war that is coming is not the last one, part I
   - wre ~ To Err is Human
