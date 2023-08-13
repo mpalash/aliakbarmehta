@@ -11,14 +11,12 @@ shortdesc: "**Agonistic Intelligence/s (or another AI/s)** is a gathering of
   invited provocateurs, guest speakers, and participants to form a research-led
   working group that engages with a shortlisted selection of the HAM art
   collection as a key focal node and as an *archival site of inquiry*."
-summary: "**Agonistic Intelligence/s (or another AI/s)** is a gathering of
-  invited provocateurs, guest speakers, and participants to form a research-led
-  working group that engages with a shortlisted selection of the HAM art
-  collection as a key focal node and as an *archival site of inquiry*. The
-  working group will convene for an intensive 6-day period during the Helsinki
-  Biennale 2023, from August 14-19, 2023, at HAM Salli, Helsinki Art Museum,
-  with open-to-public evening lectures and discussion programs."
-parent: "HB~ New Directions May Emerge "
+summary: >-
+  ![](/static/img/agonistic-intelligences-s_summer-school-2023_hero-image.png)
+
+
+  **Agonistic Intelligence/s (or another AI/s)** is a gathering of invited provocateurs, guest speakers, and participants to form a research-led working group that engages with a shortlisted selection of the HAM art collection as a key focal node and as an *archival site of inquiry*. The working group will convene for an intensive 6-day period during the Helsinki Biennale 2023, from August 14-19, 2023, at HAM Salli, Helsinki Art Museum, with open-to-public evening lectures and discussion programs.
+parent: HB~ New Directions May Emerge
 children: []
 ---
 A play on the words AI (Artificial intelligence), Agonistic Intelligence/s as a title borrows the word ‘Agonistic’ from Chantal Mouffe’s conception of Agonistic Democracy that outlines a necessarily conflictual nature of pluralism – one that stems from the impossibility of reconciling all points of view – as being not only an inevitable aspect of public action and collective identities but one that cites confrontation as a positive and integral method for challenging consensus-driven politics. Dissensus, as a longing for instability, counters the ossification and cementing of values, opening the possibilities for continually evolving decolonial, queer-feminist and norm-critical readings of the archive, where narratives may be formulated to describe realities otherwise made invisible. Encapsulated in the formulation of the title of being another kind of an AI – one premised on exclusion – a key question is raised: *Whose intelligence is deemed artificial*?
@@ -30,23 +28,6 @@ Such encounters open up spaces for dialogue in the summer school, enabling the w
 And so, Agonistic Intelligence/s invites its participants to perform a critical diagnosis, to generate insights into how to read the collection differently and reconfigure new relationships with the collection located within the museum, across the city, online, and elsewhere. They are also invited to form a long-term working relationship to access within each other a wealth of diverse, embodied, situated knowledges/ non-knowlegdes, that often resides outside the purview and domains of traditional museum working conditions and interests.
 
 <br/>
-
-![](/static/img/agonistic-intelligences_hb2023_hero-image.png)
-
-Venue for working groups: HAM Salli, Helsinki Art Museum
-
-Dates: August 14-19, 2023
-
-Time: Monday to Friday: 11:30 to 17:30 
-
-\
-<br/>
-
-Venue for Public Lectures: Central Library Oodi, Helsinki
-
-Dates: August 15-17, 2023 (Tuesday, Wednesday, Thursday) 
-
-Time: 17:30 to 19:00
 
 <br/>
 
