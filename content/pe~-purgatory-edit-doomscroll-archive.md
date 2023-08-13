@@ -1,5 +1,5 @@
 ---
-title: PE ~ Purgatory EDIT Archive
+title: PE ~ Purgatory EDIT Doomscroll Archive
 layout: content
 tags:
   - artwork

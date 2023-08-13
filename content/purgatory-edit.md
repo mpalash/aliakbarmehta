@@ -31,7 +31,7 @@ summary: >-
   ![Still, Clockwork Orange, 1971](/static/img/still-clockwork-orange.jpeg)
 
 children:
-  - PE ~ Purgatory EDIT Archive
+  - PE ~ Purgatory EDIT Doomscroll Archive
   - PE ~ Purgatory Edit, excerpts
   - PE ~ Purgatory Edit, methodology
 ---
