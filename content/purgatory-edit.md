@@ -31,7 +31,8 @@ summary: >-
   ![Still, Clockwork Orange, 1971](/static/img/still-clockwork-orange.jpeg)
 
 children:
-  - purg ~ Purgatory Edit, excerpts
-  - purg ~ Purgatory Edit, methodology
+  - PE ~ Purgatory EDIT Archive
+  - PE ~ Purgatory Edit, excerpts
+  - PE ~ Purgatory Edit, methodology
 ---
 As a speculative installation, Purgatory EDIT mimics the Ludovico Technique (although without pumping participants with nausea-, paralysis- and fear-inducing drugs) that parallels the dystopian narrative of A Clockwork Orange, to scrutinise the boundaries between aversion and enforcement, proclivity and phobia. It explores the value of worldviews concocted through prosaic binaries such as ‘Good and Evil’, or ‘War and Peace’ and whether these meta-concepts make sense in the hyper-nuanced complexities of our world today.

@@ -1,5 +1,5 @@
 ---
-title: purg ~ Purgatory Edit, excerpts
+title: PE ~ Purgatory Edit, excerpts
 layout: layouts/content.njk
 tags: artwork
 pubdate: "2017"

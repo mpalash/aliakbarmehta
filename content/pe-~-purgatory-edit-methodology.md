@@ -1,5 +1,5 @@
 ---
-title: purg ~ Purgatory Edit, methodology
+title: PE ~ Purgatory Edit, methodology
 layout: content
 tags:
   - resource
