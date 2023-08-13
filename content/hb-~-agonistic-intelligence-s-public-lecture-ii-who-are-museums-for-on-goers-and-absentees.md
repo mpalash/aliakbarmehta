@@ -21,6 +21,7 @@ summary: >-
 
 
   Please join us to welcome **சிந்துஜன் வரதராஜா ​(Sinthujan Varatharajah​)**
+parent: HB ~ New Directions May Emerge
 ---
 ## சிந்துஜன் வரதராஜா (Sinthujan Varatharajah): Who Are Museums For? On Goers and Absentees
 

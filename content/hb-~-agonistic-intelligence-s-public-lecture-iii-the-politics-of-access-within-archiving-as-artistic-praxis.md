@@ -21,6 +21,7 @@ summary: >-
 
 
   Please join us to welcome **Annet Dekker**
+parent: HB ~ New Directions May Emerge
 ---
 ## Annet Dekker: The Politics of Access within Archiving as Artistic Praxis
 

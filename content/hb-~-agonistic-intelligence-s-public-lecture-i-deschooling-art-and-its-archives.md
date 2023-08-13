@@ -1,6 +1,5 @@
 ---
-title: HB ~ Agonistic Intelligence/s Public Lecture I - DESCHOOLING ART AND ITS
-  ARCHIVES
+title: HB ~ Agonistic Intelligence/s Public Lecture I - Deschooling Art and its Archives
 subtitle: "for 'Agonistic Intelligence/s' summer school curated by Ali Akbar
   Mehta for Helsinki Biennial 2023: New Directions May Emerge"
 layout: content
@@ -8,7 +7,7 @@ tags:
   - curatorial work
   - teaching
 pubdate: August 15, 2023 12:00 AM
-unlisted: "true"
+unlisted: "false"
 hero: /static/img/agonistic-intelligences-s_summer-school-2023_guest-lecture_1.png
 summary: >-
   ![](/static/img/agonistic-intelligences-s_summer-school-2023_guest-lecture_1.png)
@@ -21,7 +20,7 @@ summary: >-
 
 
   Please join us to welcome **Dalida María Benfield** and **Christopher Bratton**
-parent: HB~ New Directions May Emerge
+parent: HB ~ New Directions May Emerge
 ---
 <br/>
 
