@@ -1,25 +1,27 @@
 ---
-title: "HB ~ Dalida María Benfield & Christopher Bratton: : DESCHOOLING ART AND ITS ARCHIVES"
-subtitle: "Public Lecture 01 for Agonistic Intelligence/s, Summer School curated by Ali Akbar Mehta for Helsinki Biennial 2023: New Directions May Emerge"
+title: HB ~ Agonistic Intelligence/s Public Lecture I - DESCHOOLING ART AND ITS
+  ARCHIVES
+subtitle: "for 'Agonistic Intelligence/s' summer school curated by Ali Akbar
+  Mehta for Helsinki Biennial 2023: New Directions May Emerge"
 layout: content
 tags:
   - curatorial work
+  - teaching
 pubdate: August 15, 2023 12:00 AM
-unlisted: "false"
+unlisted: "true"
 hero: /static/img/agonistic-intelligences-s_summer-school-2023_guest-lecture_1.png
 summary: >-
-  Agonistic Intelligence/s (or another AI/s) is a gathering of invited
-  provocateurs, guest speakers, and participants that convenes as a Summer
-  School for the Helsinki Biennial 2023. This research-led working group engages
-  with a shortlisted selection of the HAM art collection as a key focal node and
-  as an ‘archival site of inquiry’. 
+  ![](/static/img/agonistic-intelligences-s_summer-school-2023_guest-lecture_1.png)
+
+
+  Agonistic Intelligence/s (or another AI/s) is a gathering of invited provocateurs, guest speakers, and participants that convenes as a Summer School for the Helsinki Biennial 2023. This research-led working group engages with a shortlisted selection of the HAM art collection as a key focal node and as an ‘archival site of inquiry’. 
 
 
   To help us unpack the multiple overlapping thematics of the Biennial NEW DIRECTIONS MAY EMERGE and the Summer School, guest speakers are invited to engage with the working group and conduct open-to-public lectures. 
 
 
   Please join us to welcome **Dalida María Benfield** and **Christopher Bratton**
-parent: "HB~ New Directions May Emerge"
+parent: HB~ New Directions May Emerge
 ---
 <br/>
 
