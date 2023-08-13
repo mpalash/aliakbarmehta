@@ -1,6 +1,6 @@
 ---
 title: HB ~ Agonistic Intelligence/s (or another AI/s)
-subtitle: Summer School curated by Ali Akbar Mehta for the Helsinki Biennial 2023: New Directions May Emerge
+subtitle: "Summer School curated by Ali Akbar Mehta for the Helsinki Biennial 2023: New Directions May Emerge"
 layout: content
 tags:
   - curatorial work
