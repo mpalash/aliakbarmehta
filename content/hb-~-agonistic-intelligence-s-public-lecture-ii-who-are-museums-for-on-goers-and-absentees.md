@@ -21,26 +21,39 @@ summary: >-
 
 
   Please join us to welcome **சிந்துஜன் வரதராஜா ​(Sinthujan Varatharajah​)**
+
+
+  **<br/>**
+
+
+  ## சிந்துஜன் வரதராஜா (Sinthujan Varatharajah): Who Are Museums For? On Goers and Absentees
+
+
+  **Wednesday 16.8.2023** 
+
+
+  **HAM hall, HAM Helsinki Art Museum. Eteläinen rautatiekatu 8.**
+
+
+  Doors open: 17:45
+
+
+  Lecture and Q&A: 18:00 to 19:30
+
+
+  **Link to online lecture [here](https://www.webcasting.fi/hel/Cfn4S7iI/)**
 parent: HB ~ New Directions May Emerge
 ---
-## சிந்துஜன் வரதராஜா (Sinthujan Varatharajah): Who Are Museums For? On Goers and Absentees
 
-**Wednesday 16.8.2023** 
-
-**HAM hall, HAM Helsinki Art Museum. Eteläinen rautatiekatu 8.**
-
-Doors open: 17:45
-
-Lecture and Q&A: 18:00 to 19:30
 
 <br/>
 
 > museums across europe are invested in 'diversifying' the demographics of their visitors by employing a variety of crowd-chasing strategies. can the museum be mainstreamed though, so much that it's open and attractive to all? and should it be?
 
-- - -
+**\***
 
 **சிந்துஜன் வரதராஜா (Sinthujan Varatharajah)** is an independent researcher and essayist based in Berlin. The focus of their work is statelessness, mobility and geographies of power with a special focus on infrastructure, logistics and architecture. In 2020 Varatharajah participated in the 11th Berlin Biennale for Contemporary Art with the exhibition “how to move an arche”. They are the co-curator of the Berlin-based multimedia event series “dissolving territories: cultural geographies of a new eelam” and a former Open City Fellow of the Open Society Foundations. வரதராஜா first book, “an alle orte, die hinter uns liegen”, will be published this fall by Hanser Verlag in Germany, Switzerland and Austria.
 
-- - -
+\*
 
 **Agonistic Intelligence/s (or another AI/s)** is curated by Ali Akbar Mehta for the Museum of Impossible Forms (MIF) in partnership with Helsinki Art Museum (HAM) for **Helsinki Biennial 2023: New Directions May Emerge**.
