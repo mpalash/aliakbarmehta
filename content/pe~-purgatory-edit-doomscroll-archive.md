@@ -19,6 +19,7 @@ summary: >-
 
 
   The onsite installation and accompanying online open-access database together form an ongoing archive that critiques existing media representations and the glorification of violence and examines the power of hegemonic representation within visual and cinematic vocabularies. It questions what it means to be (post)human in a new digital regime marked by the erosion of living matter, conversion of life into big data, rising ethnofascism and disintegrating democracies.
+parent: Purgatory Edit
 ---
 As a participatory installation, the Doomscroll Archive is based on Antoin Artaud’s *Theatre of Cruelty* – “a means by which artists assault the senses of the audience”. It serves as a foundation to be able to examine the boundaries between aversion and enforcement, proclivity and phobia; to investigate the worth of worldviews derived from banal dichotomies such as ‘Good and Evil’ or ‘War and Peace’, in order to determine whether these meta-concepts make sense in the hyper-nuanced complexities of our world today.
 
