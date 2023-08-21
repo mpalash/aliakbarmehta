@@ -21,18 +21,29 @@ summary: >-
 
 
   Please join us to welcome **Annet Dekker**
+
+
+  **<br/>**
+
+
+  ## Annet Dekker: The Politics of Access within Archiving as Artistic Praxis
+
+
+  **Thursday 17.8.2023** 
+
+
+  **HAM hall, HAM Helsinki Art Museum. Eteläinen rautatiekatu 8.**
+
+
+  Doors open: 17:45
+
+
+  Lecture and Q&A: 18:00 to 19:30
+
+
+  Link to online lecture **[here](https://www.webcasting.fi/hel/2H9MjMQZ/)**
 parent: HB ~ New Directions May Emerge
 ---
-## Annet Dekker: The Politics of Access within Archiving as Artistic Praxis
-
-**Thursday 17.8.2023** 
-
-**HAM hall, HAM Helsinki Art Museum. Eteläinen rautatiekatu 8.**
-
-Doors open: 17:45
-
-Lecture and Q&A: 18:00 to 19:30
-
 <br/>
 
 > How does an archive live up to its own values and aims in regard to collecting and collection management, especially in relation to access? The digitization of archives and the massive use of the Internet have potentially increased access to the archive and its contents, as well as facilitated the usage of information in the archive.
@@ -41,10 +52,10 @@ Lecture and Q&A: 18:00 to 19:30
 >
 > Rather than focusing on the challenges within archival institutions, and in an attempt to appreciate the tension, in her presentation Annet Decker will focus on archival alternatives that may lead to surprising or new insights when considering what it means to provide access.
 
-- - -
+**\***
 
 **Annet Dekker** is an independent researcher and curator. She is Assistant Professor Archival Science at the University of Amsterdam and Visiting Lecturer at London South Bank University. Previously she was Researcher Digital Preservation at Tate, London, tutor at Piet Zwart Institute, Rotterdam, and Fellow at The New Institute, Rotterdam. She initiated aaaan.net with Annette Wolfsberger in 2009; they coordinate artists-in-residences and set up strategic and sustainable collaborations with national and international arts organisations. Previously she worked as Web curator for SKOR (Foundation for Art and Public Domain, 2010–12), was programme manager at Virtueel Platform (2008–10), and head of exhibitions, education and artists-in-residence at the Netherlands Media Art Institute (1999–2008). Together with Annette Wolfsberger, she produced Funware, an international touring exhibition in 2010 and 2011 about fun in software (curated by Olga Goriunova). In 2014, she completed her PhD under the supervision of Matthew Fuller on the conservation of net art at Goldsmiths University of London, Enabling the Future, or How to Survive FOREVER. A study of networks, processes and ambiguity in net art and the need for an expanded practice of conservation.
 
-- - -
+\*
 
 **Agonistic Intelligence/s (or another AI/s)** is curated by Ali Akbar Mehta for the Museum of Impossible Forms (MIF) in partnership with Helsinki Art Museum (HAM) for **Helsinki Biennial 2023: New Directions May Emerge**.
