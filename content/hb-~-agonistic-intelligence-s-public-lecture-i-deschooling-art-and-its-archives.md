@@ -8,7 +8,7 @@ tags:
   - curatorial work
   - teaching
 pubdate: August 15, 2023 12:00 AM
-unlisted: "false"
+unlisted: "true"
 hero: /static/img/agonistic-intelligences-s_summer-school-2023_guest-lecture_1.png
 summary: >-
   ![](/static/img/agonistic-intelligences-s_summer-school-2023_guest-lecture_1.png)
