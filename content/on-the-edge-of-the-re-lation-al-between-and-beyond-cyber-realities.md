@@ -1,5 +1,5 @@
 ---
-title: "On the Edge of the Re(lation)al: Between and Beyond Cyber Realities "
+title: "On the Edge of the Re(lation)al: Between and Beyond Cyber Realities"
 subtitle: "In Lívia Nolasco-Rózsás & Marianne Schädler (eds.), Beyond Matter,
   Within Space: Curatorial and Art Mediation Techniques on the Verge of Virtual
   Reality, by ZKM Karlsruhe and Hatje Cantz"
