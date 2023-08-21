@@ -20,6 +20,12 @@ summary: >-
 
 
   The **War List CODEX** – in its multiple iterations, as an archive, performance, publication, and now as an online searchable database – is a core component of WAR ROOM ECHO: Regarding the Pain of Other Cyborgs, envisioned as a hybrid museum, shapeshifting between an archaeological site, a war memorial, and a tomb. The title of the project refers to Susan Sontag’s seminal book – ‘Regarding the Pain of Others’, where she questions the validity of decontextualized representation of pain and suffering in ‘war photography’.
+
+
+  <br/>
+
+
+  Link to database **[here](https://warlistcodex.aliakbarmehta.com/)**
 parent: "WAR • ROOM • ECHO: Regarding the Pain of Other Cyborgs"
 ---
 In this online and open-access database, each tablet represents a conflict entry, where dots on it mark the number of belligerents or sides that were active in the conflict. For example, conflicts may have two sides, A against B, but also up to 5 sides have been documented in certain conflicts. 
