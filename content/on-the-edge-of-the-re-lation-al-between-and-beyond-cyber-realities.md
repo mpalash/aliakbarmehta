@@ -17,4 +17,8 @@ summary: >-
 ---
 <br/>
 
+Link to ebook **[here](https://withinspace.beyondmatter.eu/)**
+
+\*
+
 Der Pressedownload darf nur im Zusammenhang mit einer Buchbesprechung verwendet werden. Für die Illustration einer Buchbesprechung können nur bis zu drei Bilder genutzt werden. Für andere Textformate und Nutzungszwecke (wissenschaftliche Vorträge, Werbung oder ähnliches) bitten wir Sie, vorab mit uns in Kontakt zu treten, um mögliche Fragen zu Honorarkosten, Nutzungsund Urheberrechten zu klären. Die bereitgestellten Bilddaten dürfen nicht manipuliert, beschnitten oder zweckentfremdet verwendet werden. Die Pressebilder dürfen nur mit dem vollständigen Bildtitel, dem Namen des Künstlers und/oder Urhebers sowie mit dem Hinweis auf den Hatje Cantz Verlag veröffentlicht werden. Bitte beachten Sie außerdem im Einzelfall die Reproduktionsbedingungen der VG Bild-Kunst Bonn bzw. der internationalen Verwertungsgesellschaften für Bildende Kunst.
