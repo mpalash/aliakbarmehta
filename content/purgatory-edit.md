@@ -1,5 +1,5 @@
 ---
-title: "Purgatory Edit"
+title: Purgatory Edit
 subtitle: A user-generated montage based cinematic experience by Ali Akbar Mehta
 layout: layouts/content.njk
 tags: ongoing project
@@ -29,9 +29,8 @@ summary: >-
 
 
   ![Still, Clockwork Orange, 1971](/static/img/still-clockwork-orange.jpeg)
-
 children:
-  - PE ~ Purgatory EDIT Doomscroll Archive
+  - "PE ~ Purgatory EDIT: Doomscroll Archive"
   - PE ~ Purgatory Edit, excerpts
   - PE ~ Purgatory Edit, methodology
 ---
