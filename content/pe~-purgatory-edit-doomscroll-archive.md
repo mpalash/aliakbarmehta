@@ -15,7 +15,7 @@ summary: >-
   forms. 
 
 
-  <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/840610772?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Purgatory EDIT: Archive, Data Wall, 2023"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+  <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/840610772?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Purgatory EDIT: Archive, Data Wall, 2023"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 
   The onsite installation and accompanying online open-access database together form an ongoing archive that critiques existing media representations and the glorification of violence and examines the power of hegemonic representation within visual and cinematic vocabularies. It questions what it means to be (post)human in a new digital regime marked by the erosion of living matter, conversion of life into big data, rising ethnofascism and disintegrating democracies.
