@@ -2,7 +2,8 @@
 title: Purgatory EDIT
 subtitle: A user-generated montage based cinematic experience by Ali Akbar Mehta
 layout: layouts/content.njk
-tags: ongoing project
+tags:
+  - ongoing project
 pubdate: "2022"
 unlisted: "false"
 hero: /static/img/Ali Akbar Mehta_Purgatory edit_12.jpg
