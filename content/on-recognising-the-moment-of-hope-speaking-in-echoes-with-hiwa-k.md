@@ -1,6 +1,6 @@
 ---
 title: "On Recognising the Moment of Hope: Speaking in Echoes with Hiwa K."
-subtitle: In V. Saumya & E. Rahmati (Eds.), NO NIIN, 15.
+subtitle: "In V. Saumya & E. Rahmati (Eds.), NO NIIN, 15.""
 layout: content
 tags:
   - text
