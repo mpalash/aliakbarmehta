@@ -5,7 +5,7 @@ subtitle: In A. Alemanji, et. al. (Eds.), Rethinking and undoing integration.
   Volume 15, Nordic Journal of Migration Research
 layout: content
 tags:
-  - text
+  - publication
 pubdate: November 1, 2023 12:00 AM
 unlisted: "false"
 hero: /static/img/screenshot-2023-08-11-at-19.46.10.png
