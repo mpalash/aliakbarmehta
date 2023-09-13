@@ -1,9 +1,9 @@
 ---
 title: "On Recognising the Moment of Hope: Speaking in Echoes with Hiwa K."
-subtitle: "In V. Saumya & E. Rahmati (Eds.), NO NIIN, 15."
+subtitle: In V. Saumya & E. Rahmati (Eds.), NO NIIN, 15.
 layout: content
 tags:
-  - text
+  - publication
 pubdate: November 15, 2022 12:00 AM
 unlisted: false
 hero: /static/img/on-recognising-the-moment-of-hope_hiwa-k-interview_no-niin-2022.webp
