@@ -1,11 +1,11 @@
 ---
 title: "On Recognising the Moment of Hope: Speaking in Echoes with Hiwa K."
-subtitle: "In V. Saumya & E. Rahmati (Eds.), NO NIIN, 15.""
+subtitle: "In V. Saumya & E. Rahmati (Eds.), NO NIIN, 15."
 layout: content
 tags:
   - text
 pubdate: November 15, 2022 12:00 AM
-unlisted: "false"
+unlisted: false
 hero: /static/img/on-recognising-the-moment-of-hope_hiwa-k-interview_no-niin-2022.webp
 shortdesc: Ali Akbar Mehta interviews Hiwa K. on navigating the capitalistic
   system of art, ‘urgency’ of climate change and notions of homeland.
