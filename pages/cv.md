@@ -67,7 +67,6 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 2016
 :   **Kone Säätiö**, operational grant, working group – Museum of Impossible Forms, (2 years)
 
-
 <br/>
 
 ## Solo Exhibitions
@@ -274,6 +273,9 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 ## Curatorial Work
 
 2023
+:   Project curator: Agonistic Intelligence/s (or another AI/s), Summer school in collaboration with Museum of Impossible Forms (MIF) and Helsinki Art Museum (HAM) for Helsinki Biennale 2023: New Directions May Emerge, Helsinki, FI 
+
+2023
 :   *Co-curator* (*via* Museum of Impossible Forms): **New Directions May Emerge,** Helsinki Biennale 2023, curated by Joasia Kysia, Helsinki, FI 
 
 2022
@@ -313,6 +315,9 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 :   *Co-curator*: **SOAK**, D/func.t, Helsinki, FI
 
 ## Artist Talks / Conferences
+
+2023
+:   *Panel Moderator:* **Collective and community-based art practices and their political potential**, Together Again Festival, Finnish Institutes (Benelux, UK + Ireland, Madrid, New York), the Finnish-Norwegian Cultural Institute, and Institut Finlandais, Oodi Helsinki, FI
 
 2023
 :   *Artist Talk*: **Archiving in the Age of Data, Power and Violence**, Casa do Povo, São Paolo, BR
@@ -426,14 +431,14 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 
 ## Select Publications
 
-2023
-:   *Book chapter*: **On the Edge of the Re(lation)al**. In Beyond Matter Within Space. ZKM, DE
-
-2023
+*Upcoming*
 :   *Journal article*: **The Making of Artistic Research**, Miira Kallio-Tavin et al., Research Catalogue
 
 2023
 :   *Journal article*: **The Politics of Togetherness: Beyond the integration infrastructure of state and institutional apparatus**. In A. Alemanji, et. al. (Eds.), Rethinking and undoing integration. Volume 15, Nordic Journal of Migration Research.
+
+2023
+:   *Book chapter*: **On the Edge of the Re(lation)al**. In Beyond Matter Within Space. ZKM, DE
 
 2022
 :   *Interview*: **On Recognising the moment of Hope: Speaking in Echoes with Hiwa K.**, In V. Saumya & E. Rahmati (Eds.), NO NIIN, 15.
@@ -521,7 +526,7 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 ## Residencies and Research Fellowships
 
 2023
-:   *Research fellow*: **[Technologies of Critical Conscientization] (https://www.e-flux.com/announcements/507829/technologies-of-critical-conscientization/)**, [Center for Arts, Design, and Social Research](http://centerartsdesign.org/) together with Casa do Povo, São Paolo, BR
+:   *Research fellow*: **[Technologies of Critical Conscientization](https://www.e-flux.com/announcements/507829/technologies-of-critical-conscientization/)**, [Center for Arts, Design, and Social Research](http://centerartsdesign.org/) together with Casa do Povo, São Paolo, BR
 
 2022
 :   *Research fellow*: **Commonplaces and Entanglements VII**, [Center for Arts, Design, and Social Research](http://centerartsdesign.org/), Spoleto, IT
@@ -529,16 +534,14 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 2021
 :   **Titanik Artist Residency**, Turku, FI
 
-2020 
+2020
 :   **Maunula Commons**, m-cult, Helsinki, FI
 
-2018 
+2018
 :   **To Participate in the Archive**, ARTEL 2018, TIFA Working Studios, Pune, IN
 
-2012 
+2012
 :   **SPACE 118**, Mumbai, IN
-
-
 
 <br/>
 
