@@ -6,7 +6,7 @@ subtitle: In Z. Karimi, et. al. (Eds.), Rethinking Integration. Volume 9,
 layout: content
 tags:
   - publication
-pubdate: November 1, 2023 12:00 AM
+pubdate: November 30, 2023 12:00 AM
 unlisted: "false"
 hero: /static/img/rethinking-integration_hero-image.png
 summary: >-
