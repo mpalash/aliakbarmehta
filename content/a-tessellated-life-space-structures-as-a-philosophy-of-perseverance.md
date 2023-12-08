@@ -19,3 +19,5 @@ shortdesc: Rasheed Araeen is best known for his formal, geometric sculptures,
   discourses of Western modernism.
 ---
 *Rasheed Araeen is best known for his formal, geometric sculptures, often created from simple, sometimes industrial materials that renounce traditional sculptural hierarchies and compositional concerns. He has been an ardent advocate of postcolonial and decolonial positions as put forward in the magazine Black Phoenix (co-founded by Araeen in 1978–1979) and later in Third Text (founded by Araeen in 1987). As curator of the landmark exhibition “The Other Story” (Hayward Gallery, London 1989), Araeen has continually challenged knowledge(s) fortified through histories of coloniality and hegemonic discourses of Western modernism.*
+
+Purchase the publication [here](https://www.emmashop.fi/en/30works-from-the-saastamoinen-foundation/p/2785/)
