@@ -37,14 +37,17 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 
 ## Grants
 
+2024
+:   **[Kone Säätiö](https://koneensaatio.fi/en/grants-and-residencies/taidelaitos-haihatuksen-25-juhlavuoden-belonging-ryhmanayttelyn-jarjestamiskulut-kuratointityo-ja-taiteiljapalkkiot-2/)**, exhibition grant, working group – Haihatuksen Henki ry
+
 2023
-:   **[Kone Säätiö](https://koneensaatio.fi/)**, working & production grant (3 years)
+:   **[Kone Säätiö](https://koneensaatio.fi/en/grants-and-residencies/borderlanders-counter-narrating-histories-of-violence-2/)**, working & production grant (3 years)
 
 2022
-:   **[Taiteen edistämiskeskus](https://www.taike.fi/etusivu)**, working grant (1 year)
+:   **[Taiteen edistämiskeskus](https://www.taike.fi/en/awarded-support/state-artist-grants-awarded-298-artists)**, working grant (1 year)
 
 2021
-:   **[Taiteen edistämiskeskus](https://www.taike.fi/etusivu)**, working grant (1 year)
+:   **[Taiteen edistämiskeskus](https://www.taike.fi/en/awarded-support/state-artist-grants-awarded-311-artists)**, working grant (1 year)
 
 2021
 :   **Helsinki City Grant,** working group Museum of Impossible Forms 
@@ -90,6 +93,9 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 :   **The Ballad of The War that Never Was, and other Bastardized Myths**, TAO Art Gallery, Mumbai, IN
 
 ## Performance
+
+2023
+:   **Conflictorium**, ETMU Days 2023, Jyväskylä University, Jyväskylä, FI
 
 2022
 :   **Narrating WAR**, Maunulatalo, Helsinki, FI 
@@ -272,8 +278,17 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 
 ## Curatorial Work
 
+2024
+:   Co-curator: Can I Join?, Haihatus Art Center, Joutsa, Finland
+
 2023
-:   Project curator: Agonistic Intelligence/s (or another AI/s), Summer school in collaboration with Museum of Impossible Forms (MIF) and Helsinki Art Museum (HAM) for Helsinki Biennale 2023: New Directions May Emerge, Helsinki, FI 
+:   *Project curator*: **Agonistic Intelligence/s (or another AI/s)**, Summer school in collaboration with Museum of Impossible Forms (MIF) and Helsinki Art Museum (HAM) for Helsinki Biennale 2023: New Directions May Emerge, Helsinki, FI 
+
+> Public Lecture I: **Dalida Benfield and Christopher Bratton** - Deschooling Art and Its Archives
+>
+> Public Lecture II: **Sinthujan Varatharajah** - Who are Museums for? On Goeers and Absentees
+>
+> Public Lecture III: **Annet Dekker** - Politics of Access within Archives as Artistic Praxis
 
 2023
 :   *Co-curator* (*via* Museum of Impossible Forms): **New Directions May Emerge,** Helsinki Biennale 2023, curated by Joasia Kysia, Helsinki, FI 
@@ -317,6 +332,9 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 ## Artist Talks / Conferences
 
 2023
+:   *Keynote lecture*: **Curating Across Cultures**, ARTIVAL RE:CONNECT, Globe Art Point, FI
+
+2023
 :   *Panel Moderator:* **Collective and community-based art practices and their political potential**, Together Again Festival, Finnish Institutes (Benelux, UK + Ireland, Madrid, New York), the Finnish-Norwegian Cultural Institute, and Institut Finlandais, Oodi Helsinki, FI
 
 2023
@@ -329,7 +347,7 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 :   *Guest Speaker*: **The Politics of Curating**, Platform for Feminist Leadership, UrbanApa (online)
 
 2022
-:   *Artist talk*: **Burn All the Books that call you the unknown: Radical Archives**, Party Office b2b Fadescha, documenta fifteen, Kassel, DE
+:   *Artist talk*: **Burn all the books that call you the unknown: Radical Archives**, Party Office b2b Fadescha, documenta fifteen, Kassel, DE
 
 2022
 :   *Panelist*: **How to work together – tools and practices for transgressional collective work**, Stop Hatred Now! Festival, UrbanApa, Helsinki (online)
@@ -435,10 +453,19 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 :   *Journal article*: **The Making of Artistic Research**, Miira Kallio-Tavin et al., Research Catalogue
 
 2023
-:   *Journal article*: **The Politics of Togetherness: Beyond the integration infrastructure of state and institutional apparatus**. In A. Alemanji, et. al. (Eds.), Rethinking and undoing integration. Volume 15, Nordic Journal of Migration Research.
+:   Journal article: **The Politics of Togetherness: Beyond the integration infrastructure of State and institutional apparatus**. In Z. Karimi, et. al. (Eds.), Rethinking Integration: Challenging Oppressive Practises and Pointing to Ways Forward. Volume 09, Migration Institute of Finland, ISBN 978-952-7399-37-8
 
 2023
-:   *Book chapter*: **On the Edge of the Re(lation)al**. In Beyond Matter Within Space. ZKM, DE
+:   Catalog text: **The Boycean double-bind: Exquisite Tension as a pedagogy of free play**. In 30 Works from the Saastamoinen Foundation Art Collection, P Karttunen et al. (Eds.), Saastamoinen Foundation. ISBN 978-952-69029-1-3
+
+2023
+:   Catalog text: **A rhythmic play of possibilities in time: Obliquo Policromo as a holder of existential potentialities**. In 30 Works from the Saastamoinen Foundation Art Collection, P Karttunen et al. (Eds.), Saastamoinen Foundation. ISBN 978-952-69029-1-3
+
+2023
+:   Catalog text: **A tessellated life: Space Structures as a philosophy of perseverance**. In 30 Works from the Saastamoinen Foundation Art Collection, P Karttunen et al. (Eds.), Saastamoinen Foundation. ISBN 978-952-69029-1-3
+
+2023
+:   Book chapter: **On the Edge of the Re(lation)al**. In Lívia Nolasco-Rózsás & Marianne Schädler (Eds.), Beyond Matter, Within Space: Curatorial and Art Mediati
 
 2022
 :   *Interview*: **On Recognising the moment of Hope: Speaking in Echoes with Hiwa K.**, In V. Saumya & E. Rahmati (Eds.), NO NIIN, 15.
@@ -524,6 +551,12 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 :   **TRINITY: Godrej Legacy Park Silos**, Godrej One, Mumbai, IN
 
 ## Residencies and Research Fellowships
+
+2024
+:   **European Media Art Platform** (EMAP), Werklietz, Halle, DE
+
+2023-24
+:   *Research Fellow*: **After School**, CAD+SR, Tire and Nairobi
 
 2023
 :   *Research fellow*: **[Technologies of Critical Conscientization](https://www.e-flux.com/announcements/507829/technologies-of-critical-conscientization/)**, [Center for Arts, Design, and Social Research](http://centerartsdesign.org/) together with Casa do Povo, São Paolo, BR
