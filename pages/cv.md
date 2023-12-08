@@ -576,8 +576,6 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 2012
 :   **SPACE 118**, Mumbai, IN
 
-<br/>
-
 ## Positions of Trust and Memberships
 
 2021 – ongoing
