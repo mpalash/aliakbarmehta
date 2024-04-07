@@ -1,5 +1,5 @@
 ---
-title: "Ec(h)o Effects: Conversations with War and Environment"
+title: "Ec(h)o Effects: Conversations on War and Environment"
 subtitle: with Colin Greer, moderated by Ines Montalvao, Artists with Evidence
 layout: content
 tags:
