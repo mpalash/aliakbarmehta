@@ -27,4 +27,12 @@ Ali Akbar Mehta & Colin Greer Embark on an exploration of the intricate relation
 
 \*
 
-Conversation#2 to 6: *information to follow*
+Conversation #2: **Transformative Potential in War and Environmental Crisis**
+
+Conversation #3: **Artistic Narratives of Environmental Consequences in Warfare**
+
+Conversation #4: **Art+Science as a Catalyst for Change**
+
+Conversation #5: **Circular Economies, Coping Strategies, and Artistic Responses to Conflict**
+
+Conversation #6: **Solutions for Resilience in a War-torn Environment**
