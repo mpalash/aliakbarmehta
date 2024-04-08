@@ -1,7 +1,7 @@
 ---
 title: "After School: Theira Commune"
 subtitle: Research fellow with Center for Arts, Dsign and Social Research
-  (CAD+SR) Tire edition
+  (CAD+SR), at Tire, TR
 layout: content
 tags:
   - residency
