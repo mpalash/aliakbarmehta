@@ -34,5 +34,6 @@ children:
   - "PE ~ Purgatory EDIT: Doomscroll Archive"
   - PE ~ Purgatory Edit, excerpts
   - PE ~ Purgatory Edit, methodology
+  - European Media Art Platform (EMAP) Residency
 ---
 As a speculative installation, Purgatory EDIT mimics the Ludovico Technique (although without pumping participants with nausea-, paralysis- and fear-inducing drugs) that parallels the dystopian narrative of A Clockwork Orange, to scrutinise the boundaries between aversion and enforcement, proclivity and phobia. It explores the value of worldviews concocted through prosaic binaries such as ‘Good and Evil’, or ‘War and Peace’ and whether these meta-concepts make sense in the hyper-nuanced complexities of our world today.
