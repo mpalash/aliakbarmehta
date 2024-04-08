@@ -11,6 +11,4 @@ summary: ""
 ---
 Narratives are constructions built from a series of events or experiences and have long been used as tools in infrastructures of power and control—and their subversion. Connected to representations of the world, they sustain and produce worlds as they circuit words, myths, expressions, and images. As representations of the world, narratives are increasingly automated and in some cases, even exhibit agency of their own. Bringing together seemingly disparate events into meaningful wholes, digital tools manifest or are manifested by political conditions, modifying our experiences, histories and identities.
 
-![](blob:https://aliakbarmehta.netlify.app/f5a0cb82-56c4-48c6-8cce-6431bf5f2020)
-
 In **read–write–modify**, Alexandra (Sasha) Anikina, Ali Akbar Mehta, Sria Chatterjee, and Rindon Johnson with Jussi Parikka explore strategies that outline how we might read, write, and modify the languages we consume and use. Exploring the promise and problem of scale, they examine how ecological, socio-political and symbolic interrelations are configured and ask what tools and practices can collectively be developed.

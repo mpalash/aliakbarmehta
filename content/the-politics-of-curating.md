@@ -6,7 +6,7 @@ tags:
   - artist talk
 pubdate: September 10, 2022 12:00 AM
 unlisted: "false"
-hero: https://media4.giphy.com/media/xUA7bjwn4QH5i0XbWw/giphy.gif
+hero: /static/img/the-politics-of-curating.webp
 ---
 Is it possible to make decisions in a feminist way, what to do with power? 
 
