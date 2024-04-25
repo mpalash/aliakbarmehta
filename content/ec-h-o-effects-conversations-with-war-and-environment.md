@@ -7,6 +7,7 @@ tags:
   - teaching
 pubdate: March 28, 2024 12:00 AM
 unlisted: "false"
+hero: /static/img/screenshot-2024-04-25-at-14.29.59.png
 summary: >-
   **Ec(h)o Effects: Conversations on War and Environment**, a monthly discursive
   program designed across 2024 diving into the intricate entanglements between
