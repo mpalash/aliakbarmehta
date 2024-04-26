@@ -6,7 +6,7 @@ tags:
   - text
 pubdate: March 22, 2024 12:00 AM
 unlisted: "false"
-hero: https://no-niin.com/images/_rwHMxgXO3-2000.webp
+hero: /static/img/noniin_ryoji-ikeda-hero-image.webp
 shortdesc: Can an artwork manifest itself through the audience’s or
   participants’ willing entanglement within the intricate network of an artist’s
   densely populated research space? Exploring process-based, or database-centred
