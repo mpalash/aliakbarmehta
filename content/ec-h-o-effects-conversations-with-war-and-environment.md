@@ -8,12 +8,18 @@ tags:
 pubdate: March 28, 2024 12:00 AM
 unlisted: "false"
 hero: /static/img/screenshot-2024-04-25-at-14.29.59.png
+shortdesc: "**Ec(h)o Effects: Conversations on War and Environment** is a
+  monthly discursive program designed across 2024 (9 months) diving into the
+  intricate entanglements between war and the environment. This program is
+  developed by **Artists with Evidence**, in collaboration with **Ali Akbar
+  Mehta** and **Colin Greer**, and moderated by Ines Montavlo, program director
+  of AwE."
 summary: >-
   **Ec(h)o Effects: Conversations on War and Environment**, a monthly discursive
-  program designed across 2024 diving into the intricate entanglements between
-  war and the environment.  This program is developed by Artists with Evidence,
-  in collaboration with Ali Akbar Mehta and Colin Greer, and moderated by Ines
-  Montavlo, program director of AwE.
+  program designed across 2024 (9 months) diving into the intricate
+  entanglements between war and the environment. This program is developed by
+  Artists with Evidence, in collaboration with **Ali Akbar Mehta** and **Colin
+  Greer**, and moderated by Ines Montavlo, program director of AwE.
 
 
   Ali, Colin and Ines will also be present throughout the entire Ec(h)o Effect: Conversations on War & Environment series, along with several guest speakers who join the upcoming conversations. **Ec(h)o Effects** is supported by the **Globus Opstart** grant (2024) from The Nordic Culture Fund.
