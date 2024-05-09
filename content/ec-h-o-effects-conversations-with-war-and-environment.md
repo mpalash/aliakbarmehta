@@ -30,6 +30,14 @@ Ali Akbar Mehta & Colin Greer Embark on an exploration of the intricate relation
 
 Conversation #2: **Transformative Potential in War and Environmental Crisis**
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1lNv86FSogM?si=lhV6k8mGvC-qCpUO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+25 April 2024 at 12:00 EDT / 17:00 CET (online) 
+
+“Resilience Narratives: Facing Societal Challenges” is the second online conversation in our series Ec(h)o Effect: Conversations on War & Environment, curated and moderated by Ines Montalvao, Program Director at Artists with Evidence with featured speakers Ali Akbar Mehta & Colin Greer. In this session they are joined by esteemed guests **Alnoor Ladha** and **Lynn Murphy**. 
+
+In this session, we delve into the pressing question of democratic decolonization under threat from the over-militarization of responses to war and the movement of peoples facing war and climate crises. Alnoor Ladha's work at the intersection of political organizing, systems thinking, structural change, and narrative journalism offers invaluable insights. Lynn Murphy, co-founder of Transition Resource Circle (TRC) along with Ladha, brings her expertise and enriches our exploration of coping strategies amidst environmental devastation and warfare, and a critical perspective on the role of philanthropy in addressing societal challenges.
+
 Conversation #3: **Artistic Narratives of Environmental Consequences in Warfare**
 
 Conversation #4: **Art+Science as a Catalyst for Change**
