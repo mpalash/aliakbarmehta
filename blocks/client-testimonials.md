@@ -2,5 +2,5 @@
 en:
   title: Customer speaks
 sv:
-  title: Kundomdöme
+  title: Kundomdöme 2
 ---
