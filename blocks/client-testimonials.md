@@ -1,6 +1,8 @@
 ---
 en:
   title: Customer speaks
+  testimonials: []
 sv:
-  title: Kundomdöme 2
+  title: Kundomdöme
+  testimonials: []
 ---
