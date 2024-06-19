@@ -46,6 +46,14 @@ In this session, we delve into the pressing question of democratic decolonizatio
 
 Conversation #3: **Artistic Narratives of Environmental Consequences in Warfare**
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ekVqUDtH_lI?si=vnWL01NIo-LWlrbB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+'Fermentation: Cultivating Change in Times of Crises' is the third online conversation in our series Ec(h)o Effect: Conversations on War & Environment. Our special guest Aga Pokrywka is joined by one of our featured speakers, Colin Greer, in a conversation again curated and moderated by Ines Montalvao from AwE. 
+
+This session is a time to explore the role of fermentation in resilience building during conflicts and environmental crises and the political implications of food preservation techniques. We uncover how this ancient practice not only sustains communities during times of scarcity but also fosters resilience in the face of adversity and sheds light on the intricate web of power dynamics that shape access to and control over essential resources. 
+
+Aga Pokrywka works with video, graphic design and collaborative practices in order to build eclectic narratives. Her work focuses on capturing diverse viewpoints and re-telling stories through interactive and non-linear strategies. Aga is the host of Ferment Radio, a podcast series on bacterial and social fermentation. Her expertise in natural sciences, technology, and decentralized organizing adds depth to our discussion, offering insights into how fermentation practices intersect with indigenous knowledge and traditions, enriching our understanding of resilience in the face of crisis.
+
 Conversation #4: **Art+Science as a Catalyst for Change**
 
 Conversation #5: **Circular Economies, Coping Strategies, and Artistic Responses to Conflict**
