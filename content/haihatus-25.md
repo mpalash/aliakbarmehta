@@ -1,5 +1,6 @@
 ---
 title: HAIHATUS 25
+subtitle: exhibition curated as part of Haihatus 25th Anniversary, Haihatus, Joutsa
 layout: content
 tags:
   - curatorial work
@@ -14,7 +15,7 @@ hero: /static/img/whatsapp-image-2024-06-19-at-17.33.33.jpeg
 
 ### HAIHATUS25
 
-HAIHATUS25 is part of the Haihatus 25th Anniversary celebrations. 
+HAIHATUS25 is part of ***Haihatus 25th Anniversary***. 
 
 Preview: Saturday 15th of June, 11:00 onwards  
 
