@@ -1,9 +1,9 @@
 ---
-title: Processual (re)presentations of ‘knowing’ without beginning(s) nor end(ings)
-subtitle: In V. Saumya & E. Rahmati (Eds.), NO NIIN, 23
+title: "Processual (re)presentations of ‘knowing’ without beginning(s) nor end(ings)"
+subtitle: "In V. Saumya & E. Rahmati (Eds.), NO NIIN, 23"
 layout: content
 tags:
-  - text
+  - publication
 pubdate: March 15, 2024 12:00 AM
 unlisted: "false"
 hero: /static/img/ryoji-ikeda-data-verse-2-2019.-exhibition-at-amos-rex-27.9.2023–25.2.2024.-photo-tuomas-uusheimo-amos-rex-7-.jpg

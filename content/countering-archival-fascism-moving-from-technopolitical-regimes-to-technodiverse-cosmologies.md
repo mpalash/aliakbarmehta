@@ -1,6 +1,6 @@
 ---
 title: "Countering Archival Fascism: Moving from technopolitical regimes
-  to  technodiverse cosmologies "
+  to  technodiverse cosmologies"
 subtitle: "at deCYPher lab: on the ethics and aesthetics of linking AI/ML &
   SynBio, Bioart Society"
 layout: content
