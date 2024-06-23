@@ -38,6 +38,9 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 ## Grants
 
 2024
+:   **[](https://koneensaatio.fi/en/grants-and-residencies/taidelaitos-haihatuksen-25-juhlavuoden-belonging-ryhmanayttelyn-jarjestamiskulut-kuratointityo-ja-taiteiljapalkkiot-2/)Taiteen edistämiskeskus Globus Op Start**, production grant, working group – Artists with Evidence
+
+2024
 :   **[Kone Säätiö](https://koneensaatio.fi/en/grants-and-residencies/taidelaitos-haihatuksen-25-juhlavuoden-belonging-ryhmanayttelyn-jarjestamiskulut-kuratointityo-ja-taiteiljapalkkiot-2/)**, exhibition grant, working group – Haihatuksen Henki ry
 
 2023
@@ -73,6 +76,15 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 <br/>
 
 ## Solo Exhibitions
+
+*Upcoming*
+:    **Purgatory EDIT: The Liberation Archives of Orphaned Cyborgs**, Project 88, Mumbai, IN
+
+*Upcoming*
+:    **Purgatory EDIT**, Transmediale Studio, Berlin, DE 
+
+*Upcoming*
+:    **Purgatory EDIT**, Speculum Artium, Ljubljana, SL
 
 2020
 :   **Is there a room with just a colour?**, Myymälä2, Helsinki, FI
@@ -149,6 +161,9 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 :   **null.void**, for *Chimurenga: Pan-African Space Station*, curated by Ahmed Al-Nawas, Kallio Public Library, Helsinki, IN
 
 ## Select Group Exhibitions
+
+*Upcoming*
+:    **EMAP exhibition**, Transmediale Studio, (with Silent Green & Transmediale), Berlin, DE 
 
 2023
 :   **Cruel Radiance**, curated by Harri Palviranta and Marko Karo, Backlight Festival 2023, Gallery Saskia, Photographic Center Nykyakia, Gallery Koppelo, Tampere art Museum, Tampere, FI
@@ -279,7 +294,7 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 ## Curatorial Work
 
 2024
-:   Co-curator: Can I Join?, Haihatus Art Center, Joutsa, Finland
+:   *Co-curator*: **HAIHATUS25**, Haihatus Art Center, Joutsa, Finland
 
 2023
 :   *Project curator*: **Agonistic Intelligence/s (or another AI/s)**, Summer school in collaboration with Museum of Impossible Forms (MIF) and Helsinki Art Museum (HAM) for Helsinki Biennale 2023: New Directions May Emerge, Helsinki, FI 
@@ -330,6 +345,27 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 :   *Co-curator*: **SOAK**, D/func.t, Helsinki, FI
 
 ## Artist Talks / Conferences
+
+2024
+:    *Artist Talk*: **Countering Archival Fascism: Moving from technopolitical regimes to technodiverse cosmologies**, deCYPher lab, BioArt Society, Helsinki, FI
+
+2024
+:    *Panelist*: **Where to start when everything is urgent – intersectionalities, priorities and empathy**, Stop Hatred Now! Festival, UrbanApa, Helsinki (online)
+
+2024
+:   *Discussion Series*: **Ec(h)o Effect: Conversations on War and Environment**, with Colin Greer & Ines Montavlao (mod.), Artists with Evidence (online)
+
+> Conversation #1: From Urgency to Possibility
+>
+> Conversation #2: Resilience Narratives: Solutions for a War-torn Environment
+>
+> Conversation #3: Transformative Potential in War and Environmental Crisis
+>
+> Conversation #4: Artistic Narratives of Environmental Consequences in Warfare
+>
+> Conversation #5: Art+Science as a Catalyst for Change
+>
+> Conversation #6: Circular Economies, Coping Strategies, and Artistic Responses to Conflict
 
 2023
 :   *Keynote lecture*: **Curating Across Cultures**, ARTIVAL RE:CONNECT, Globe Art Point, FI
@@ -449,23 +485,23 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 
 ## Select Publications
 
-*Upcoming*
-:   *Journal article*: **The Making of Artistic Research**, Miira Kallio-Tavin et al., Research Catalogue
+2024
+:   *Review*: **Processual (re)presentations of ‘knowing’ without beginning(s) nor end(ings)**. In V. Saumya & E. Rahmati (Eds.), NO NIIN, 23.
 
 2023
-:   Journal article: **The Politics of Togetherness: Beyond the integration infrastructure of State and institutional apparatus**. In Z. Karimi, et. al. (Eds.), Rethinking Integration: Challenging Oppressive Practises and Pointing to Ways Forward. Volume 09, Migration Institute of Finland, ISBN 978-952-7399-37-8
+:   *Journal article*: **The Politics of Togetherness: Beyond the integration infrastructure of State and institutional apparatus**. In Z. Karimi, et. al. (Eds.), Rethinking Integration: Challenging Oppressive Practises and Pointing to Ways Forward. Volume 09, Migration Institute of Finland, ISBN 978-952-7399-37-8
 
 2023
-:   Catalog text: **The Boycean double-bind: Exquisite Tension as a pedagogy of free play**. In 30 Works from the Saastamoinen Foundation Art Collection, P Karttunen et al. (Eds.), Saastamoinen Foundation. ISBN 978-952-69029-1-3
+:   *Catalog text*: **The Boycean double-bind: Exquisite Tension as a pedagogy of free play**. In 30 Works from the Saastamoinen Foundation Art Collection, P Karttunen et al. (Eds.), Saastamoinen Foundation. ISBN 978-952-69029-1-3
 
 2023
-:   Catalog text: **A rhythmic play of possibilities in time: Obliquo Policromo as a holder of existential potentialities**. In 30 Works from the Saastamoinen Foundation Art Collection, P Karttunen et al. (Eds.), Saastamoinen Foundation. ISBN 978-952-69029-1-3
+:   *Catalog tex*t: **A rhythmic play of possibilities in time: Obliquo Policromo as a holder of existential potentialities**. In 30 Works from the Saastamoinen Foundation Art Collection, P Karttunen et al. (Eds.), Saastamoinen Foundation. ISBN 978-952-69029-1-3
 
 2023
-:   Catalog text: **A tessellated life: Space Structures as a philosophy of perseverance**. In 30 Works from the Saastamoinen Foundation Art Collection, P Karttunen et al. (Eds.), Saastamoinen Foundation. ISBN 978-952-69029-1-3
+:   *Catalog text*: **A tessellated life: Space Structures as a philosophy of perseverance**. In 30 Works from the Saastamoinen Foundation Art Collection, P Karttunen et al. (Eds.), Saastamoinen Foundation. ISBN 978-952-69029-1-3
 
 2023
-:   Book chapter: **On the Edge of the Re(lation)al**. In Lívia Nolasco-Rózsás & Marianne Schädler (Eds.), Beyond Matter, Within Space: Curatorial and Art Mediati
+:   *Book chapter*: **On the Edge of the Re(lation)al**. In Lívia Nolasco-Rózsás & Marianne Schädler (Eds.), Beyond Matter, Within Space: Curatorial and Art Mediati
 
 2022
 :   *Interview*: **On Recognising the moment of Hope: Speaking in Echoes with Hiwa K.**, In V. Saumya & E. Rahmati (Eds.), NO NIIN, 15.
@@ -552,11 +588,14 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 
 ## Residencies and Research Fellowships
 
+Upcoming
+:   *Research Fellow*: **After School** part II, CAD+SR, Nairobi, KE 
+
 2024
 :   **European Media Art Platform** (EMAP), Werklietz, Halle, DE
 
 2023-24
-:   *Research Fellow*: **After School**, CAD+SR, Tire and Nairobi
+:   *Research Fellow*: **After School** part I, CAD+SR, Tire, TU
 
 2023
 :   *Research fellow*: **[Technologies of Critical Conscientization](https://www.e-flux.com/announcements/507829/technologies-of-critical-conscientization/)**, [Center for Arts, Design, and Social Research](http://centerartsdesign.org/) together with Casa do Povo, São Paolo, BR
