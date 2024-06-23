@@ -4,6 +4,7 @@ subtitle: In V. Saumya & E. Rahmati (Eds.), NO NIIN, 23.
 layout: content
 tags:
   - text
+  - publication
 pubdate: March 22, 2024 12:00 AM
 unlisted: "false"
 hero: /static/img/noniin_ryoji-ikeda-hero-image.webp
