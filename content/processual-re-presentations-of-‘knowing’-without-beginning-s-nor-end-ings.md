@@ -3,7 +3,6 @@ title: Processual (re)presentations of ‘knowing’ without beginning(s) nor en
 subtitle: In V. Saumya & E. Rahmati (Eds.), NO NIIN, 23.
 layout: content
 tags:
-  - text
   - publication
 pubdate: March 22, 2024 12:00 AM
 unlisted: "false"
