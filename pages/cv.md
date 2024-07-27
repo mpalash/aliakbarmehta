@@ -2,21 +2,17 @@
 layout: layouts/cv.njk
 title: Curriculum vitae
 permalink: /curriculum-vitae/
-summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
-  is a Transmedia artist, curator, and researcher."
+summary: >-
+  **[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai) is a
+  Transmedia artist, curator, and researcher.
+
+
+  <br/>
 ---
-## Education
+## Education and Select Work Experience
 
 2019 – ongoing
 :   **Doctoral Researcher**, Contemporary Art, [Aalto University](https://www.aalto.fi/), School of Art, Design & Architecture, Helsinki, FI
-
-2015 – 2018
-:   **MA** (Visual Cultures, Curating and Contemporary Art), Aalto University, Helsinki, FI
-
-2001 – 2005
-:   **BFA** (Honours), [Sir J.J. School of Art](http://www.sirjjschoolofart.in/), Mumbai, IN
-
-## Select Work Experience
 
 2019
 :   *Artistic Producer*, [m-cult Media Culture Centre](https://www.m-cult.org/), Helsinki, FI
@@ -24,21 +20,22 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 2018 – 2020
 :   *Artistic Director*, [Museum of Impossible Forms](https://museumofimpossibleforms.org/), Helsinki, FI
 
+2015 – 2018
+:   **MA** (Visual Cultures, Curating and Contemporary Art), Aalto University, Helsinki, FI
+
 2002 – 2008
 :   *Co-founder, Lead Animator and Artist*, Mareech Animated Design, Mumbai, IN
 
-## Awards
+2001 – 2005
+:   **BFA** (Honours), [Sir J.J. School of Art](http://www.sirjjschoolofart.in/), Mumbai, IN
 
-2020 
-:   **State Art Prize** awarded to Museum of Impossible Forms, by the Ministry of Art and Culture, FI
+1998
+:   **GNIIT**, National Institute of Information Technology (NIIT), Mumbai, IN
 
-2019 
-:   [Tutkijaliitto-palkinto](https://tutkijaliitto.fi/2019/12/09/tutkijaliiton-palkinnot-museum-of-impossible-forms-kulttuurikeskukselle-ja-ari-korhoselle/), awarded to Museum of Impossible Forms, by the Finnish Association of Researchers, FI
-
-## Grants
+## Grants and Awards
 
 2024
-:   **[](https://koneensaatio.fi/en/grants-and-residencies/taidelaitos-haihatuksen-25-juhlavuoden-belonging-ryhmanayttelyn-jarjestamiskulut-kuratointityo-ja-taiteiljapalkkiot-2/)Taiteen edistämiskeskus Globus Op Start**, production grant, working group – Artists with Evidence
+:   [](https://koneensaatio.fi/en/grants-and-residencies/taidelaitos-haihatuksen-25-juhlavuoden-belonging-ryhmanayttelyn-jarjestamiskulut-kuratointityo-ja-taiteiljapalkkiot-2/)**Taiteen edistämiskeskus Globus Op Start**, production grant, working group – Artists with Evidence
 
 2024
 :   **[Kone Säätiö](https://koneensaatio.fi/en/grants-and-residencies/taidelaitos-haihatuksen-25-juhlavuoden-belonging-ryhmanayttelyn-jarjestamiskulut-kuratointityo-ja-taiteiljapalkkiot-2/)**, exhibition grant, working group – Haihatuksen Henki ry
@@ -59,7 +56,13 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 :   **Kone Säätiö**, COVID grant for organisations, working group Museum of Impossible Forms 
 
 2020
+:   **State Art Prize** awarded to Museum of Impossible Forms, by the Ministry of Art and Culture, FI
+
+2020
 :   **Taiteen edistämiskeskus**, project grant, working group – Museum of Impossible Forms
+
+2019
+:   [Tutkijaliitto-palkinto](https://tutkijaliitto.fi/2019/12/09/tutkijaliiton-palkinnot-museum-of-impossible-forms-kulttuurikeskukselle-ja-ari-korhoselle/), awarded to Museum of Impossible Forms, by the Finnish Association of Researchers, FI
 
 2018
 :   **Kone Säätiö**, operational grant, working group – Museum of Impossible Forms, (2 years)
@@ -75,16 +78,48 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 
 <br/>
 
+## Residencies and Research Fellowships
+
+2025
+:   *A-i-R*: **science_technology_society season 3,** Delfina Foundation, London, UK
+
+2024
+:   *Research Fellow*: **After School** part II, CAD+SR, Nairobi, KE 
+
+2024
+:   *A-i-R:* **European Media Art Platform** (EMAP), Werklietz, Halle, DE
+
+2023-24
+:   *Research Fellow*: **After School** part I, CAD+SR, Tire, TU
+
+2023
+:   *Research fellow*: **[Technologies of Critical Conscientization](https://www.e-flux.com/announcements/507829/technologies-of-critical-conscientization/)**, [Center for Arts, Design, and Social Research](http://centerartsdesign.org/) together with Casa do Povo, São Paolo, BR
+
+2022
+:   *Research fellow*: **Commonplaces and Entanglements VII**, [Center for Arts, Design, and Social Research](http://centerartsdesign.org/), Spoleto, IT
+
+2021
+:   *A-i-R:* **Titanik Artist Residency**, Turku, FI
+
+2020
+:   *A-i-R:* **Maunula Commons**, m-cult, Helsinki, FI
+
+2018
+:   *A-i-R:* **To Participate in the Archive**, ARTEL 2018, TIFA Working Studios, Pune, IN
+
+2012
+:   *A-i-R:* **SPACE 118**, Mumbai, IN
+
 ## Solo Exhibitions
 
-*Upcoming*
+2025
 :    **Purgatory EDIT: The Liberation Archives of Orphaned Cyborgs**, Project 88, Mumbai, IN
 
-*Upcoming*
-:    **Purgatory EDIT**, Transmediale Studio, Berlin, DE 
+2024
+:    **Purgatory EDIT: The war that is coming is not the last one – part II**, Transmediale Studio, Berlin, DE 
 
-*Upcoming*
-:    **Purgatory EDIT**, Speculum Artium, Ljubljana, SL
+2024
+:    **Purgatory EDIT: The Doomscroll Archive**, Speculum Artium, Ljubljana, SL
 
 2020
 :   **Is there a room with just a colour?**, Myymälä2, Helsinki, FI
@@ -586,34 +621,7 @@ summary: "**[Ali Akbar Mehta](http://www.aliakbarmehta.com)** (b.1983, Mumbai)
 2015
 :   **TRINITY: Godrej Legacy Park Silos**, Godrej One, Mumbai, IN
 
-## Residencies and Research Fellowships
-
-Upcoming
-:   *Research Fellow*: **After School** part II, CAD+SR, Nairobi, KE 
-
-2024
-:   **European Media Art Platform** (EMAP), Werklietz, Halle, DE
-
-2023-24
-:   *Research Fellow*: **After School** part I, CAD+SR, Tire, TU
-
-2023
-:   *Research fellow*: **[Technologies of Critical Conscientization](https://www.e-flux.com/announcements/507829/technologies-of-critical-conscientization/)**, [Center for Arts, Design, and Social Research](http://centerartsdesign.org/) together with Casa do Povo, São Paolo, BR
-
-2022
-:   *Research fellow*: **Commonplaces and Entanglements VII**, [Center for Arts, Design, and Social Research](http://centerartsdesign.org/), Spoleto, IT
-
-2021
-:   **Titanik Artist Residency**, Turku, FI
-
-2020
-:   **Maunula Commons**, m-cult, Helsinki, FI
-
-2018
-:   **To Participate in the Archive**, ARTEL 2018, TIFA Working Studios, Pune, IN
-
-2012
-:   **SPACE 118**, Mumbai, IN
+## <br/>
 
 ## Positions of Trust and Memberships
 
