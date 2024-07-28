@@ -197,7 +197,7 @@ summary: >-
 
 ## Select Group Exhibitions
 
-*Upcoming*
+2025
 :    **EMAP exhibition**, Transmediale Studio, (with Silent Green & Transmediale), Berlin, DE 
 
 2023
@@ -346,6 +346,18 @@ summary: >-
 2022
 :   *Project curator*: **Archives as Contemporary Object X**, podcast series w/ Party Office b2b Fadescha, documenta fifteen, Kassel, DE
 
+> Ep 01: **History as Tools of the State, Memory as Art of the Stateless**, w/ Farbod Fakharzadeh
+>
+> Ep 02: **Memory Work and Inauthentic Archives**, w/ Farbod Fakharzadeh 
+>
+> Ep 03: **Decolonial Media Aesthetics - part 1**, w/ Maria Dalida Benfield 
+>
+> Ep 04: **Decolonial Media Aesthetics - part 2**, w/ Maria Dalida Benfield 
+>
+> Ep 05: **A Museum for A People**, w/ Hudda Kahireh
+>
+> Ep 06: **Problematics of Ethnic Museums in the Postcolony**, w/ Hudda Kahireh 
+
 2021-2022
 :   *Curatorial advisor*: **Party Office**, New Delhi, IN
 
@@ -354,6 +366,14 @@ summary: >-
 
 2021
 :   *project curator*: Impossible Reader 2020, **How to Work Together: Seeking models of solidarity and alliance**, (ed.) Aiava, Emily & Aiava, Raine. (pub.) Museum of Impossible Forms, Helsinki, FI. 
+
+> Episode 01 **Shubhangi Singh**
+>
+> Episode 02 **Zahrah Ehsan**
+>
+> Episode 03 **Surabhi Nadig**
+>
+> Episode 04 **Vishnu Vardhani Rajan**
 
 2021
 :   *Organiser*: **Touching/Transforming**, Seminar, Cluster for Critical Artistic Research, Aalto University, FI
@@ -615,6 +635,8 @@ summary: >-
 
 2011
 :   *Poem:* **[A body split in two](https://aliakbarmehta.com/content/a-body-split-in-two)**, In B. Sarkar (Ed.), *International Gallerie: Journal of Contemporary art*, issue 30. Mumbai.
+
+## <br/>
 
 ## Public projects / Commissions
 
