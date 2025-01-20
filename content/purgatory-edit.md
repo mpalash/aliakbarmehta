@@ -22,6 +22,7 @@ summary: >-
 
   ![Still, Intro sequence for purgatory EDIT, 2025](/static/img/pe_image-01.png)
 children:
+  - "purgatory EDIT: Liberation Archives for the Cyborgs of Now"
   - "PE ~ Purgatory EDIT: Doomscroll Archive"
   - PE ~ Purgatory Edit, excerpts
   - PE ~ Purgatory Edit, methodology
