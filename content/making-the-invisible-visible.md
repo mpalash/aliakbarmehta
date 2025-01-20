@@ -9,4 +9,6 @@ unlisted: "false"
 hero: /static/img/purgatory-edit_preview-evening_unnatural-encounters-2025_01_image-by-brend-brundert.jpg
 parent: Purgatory EDIT
 ---
+![](/static/img/purgatory-edit_preview-evening_unnatural-encounters-2025_01_image-by-brend-brundert.jpg)
+
 Read [here](https://www.rbb24.de/kultur/beitrag/2025/01/berlin-ausstellung-silent-green-unnatural-encounters.html)
