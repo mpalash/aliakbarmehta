@@ -27,6 +27,9 @@ children:
   - PE ~ Purgatory Edit, excerpts
   - PE ~ Purgatory Edit, methodology
   - European Media Art Platform (EMAP) Residency
+  - " Making the Invisible Visible "
+  - " A crunching dream "
+  - New and last chances
 ---
 The **Cyber Performance** invites the audience as participants to investigate the archive using their own emotional, neural, and cognitive agency via a portable EEG ‘brainware’, a Brain-Computer Interface (BCI), and through software developed by the purgatory EDIT team. The participant’s brainwaves are translated to ‘emotion-based metrics’ that control real-time sequencing, juxtaposition, and playback of individual clips in the Archive – generating unique conceptual montages that reveal individual participant’s relationship to cinematic vocabularies of violence.
 
