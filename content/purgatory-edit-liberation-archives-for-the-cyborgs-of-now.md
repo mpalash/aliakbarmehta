@@ -5,6 +5,7 @@ subtitle: at transmediale studio, in collaboration with silent green X EMAP X
 layout: content
 tags:
   - solo exhibition
+  - ongoing project
 pubdate: January 9, 2025 12:00 AM
 unlisted: "false"
 hero: /static/img/purgatory-edit_preview-evening_unnatural-encounters-2025_14_image-by-palash-mukhopadhyay.jpeg
