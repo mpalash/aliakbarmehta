@@ -105,7 +105,7 @@ Video screenings of previous performance recordings will be on view during non-p
 
 **<br/><br/>**
 
-**Performance calendar**
+**Performance Calendar**
 
 Tuesday-Friday: 
 
