@@ -64,21 +64,30 @@ summary: >-
 
   > > **Ali Akbar Mehta** | Artist, Researcher & Archivist
 
+
   > > **Jernej Čuček Gerbec** | VDMX Programming & Software Developer
+
 
   > > **Palash Mukhopadhyay** | Web/UI/UX Design 
 
+
   > > **Adnan Mirza** | UNITY and Virtual Cinema Design
+
 
   > > **Pruthu Parab** | Background Score and Additional sound design
 
+
   > > **Anoushkaa Bhatnagar** | Arts Manager and Producer
+
 
   > > **Sanyam Varun** | Archive Manager & Research Assistant
 
+
   > > **Aditya Rokade** | Post-production and Video Processing
 
+
   > > **Koshy Brahmatmaj** | Costume Design
+
 
   > > **Yuki Elias** |Narrator
 
