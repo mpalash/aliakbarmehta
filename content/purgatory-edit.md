@@ -23,7 +23,7 @@ summary: >-
   ![Still, Intro sequence for purgatory EDIT, 2025](/static/img/purgatory-edit_intro-sequence_still-03_image-courtesy-of-the-artist.png)
 children:
   - "purgatory EDIT: Liberation Archives for the Cyborgs of Now"
-  - "PE ~ Purgatory EDIT: Doomscroll Archive"
+  - "PE ~ purgatory EDIT: Doomscroll Archive"
   - PE ~ Purgatory Edit, excerpts
   - PE ~ Purgatory Edit, methodology
   - European Media Art Platform (EMAP) Residency
