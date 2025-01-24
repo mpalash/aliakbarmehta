@@ -18,16 +18,14 @@ shortdesc: "***purgatory* EDIT: Liberation Archives for the Cyborgs of Now**
   far](https://transmediale.de/en/pressRelease/festival-2025) taking place from
   January 30 to February 2, 2025."
 summary: >-
-  ## *purgatory* EDIT
-
-
-  ### Liberation Archives for the Cyborgs of Now
-
-
-  <br/>
-
-
-  **Purgatory EDIT: Liberation Archives for the Cyborgs of Now** premiers at Transmediale Studio from January 9 to February 2, 2025. The installation part of  **[UnNatural Encounters](https://emare.eu/news-events/emap-group-show-unnatural-encounters-silent-green)** on view from January 9 to 19, 2025 at silent green, and transmediale festival 2025, **[near near but — far](https://transmediale.de/en/pressRelease/festival-2025)** taking place from January 30 to February 2, 2025.
+  **Purgatory EDIT: Liberation Archives for the Cyborgs of Now** premiers at
+  Transmediale Studio from January 9 to February 2, 2025. The installation part
+  of  **[UnNatural
+  Encounters](https://emare.eu/news-events/emap-group-show-unnatural-encounters-silent-green)**
+  on view from January 9 to 19, 2025 at silent green, and transmediale festival
+  2025, **[near near but —
+  far](https://transmediale.de/en/pressRelease/festival-2025)** taking place
+  from January 30 to February 2, 2025.
 
 
   ![](/static/img/purgatory-edit_at-unnatural-encounters-2025_01_image-by-vidha-saumya.jpg)
@@ -57,8 +55,6 @@ summary: >-
   ![](/static/img/purgatory-edit_preview-evening_unnatural-encounters-2025_07_image-by-brend-brundert.jpg)
 
 
-
-
   <br/>
 
 
@@ -66,43 +62,25 @@ summary: >-
 
   >
 
-  > > Ali Akbar Mehta: Artist, Researcher & Archivist
+  > > **Ali Akbar Mehta** | Artist, Researcher & Archivist
 
-  > >
+  > > **Jernej Čuček Gerbec** | VDMX Programming & Software Developer
 
-  > > Jernej Čuček Gerbec: VDMX Programming & Software Developer
+  > > **Palash Mukhopadhyay** | Web/UI/UX Design 
 
-  > >
+  > > **Adnan Mirza** | UNITY and Virtual Cinema Design
 
-  > > Palash Mukhopadhya: Web/UI/UX Design 
+  > > **Pruthu Parab** | Background Score and Additional sound design
 
-  > >
+  > > **Anoushkaa Bhatnagar** | Arts Manager and Producer
 
-  > > Adnan Mirza: UNITY and Virtual Cinema Design
+  > > **Sanyam Varun** | Archive Manager & Research Assistant
 
-  > >
+  > > **Aditya Rokade** | Post-production and Video Processing
 
-  > > Pruthu Parab: Background Score and Additional sound design
+  > > **Koshy Brahmatmaj** | Costume Design
 
-  > >
-
-  > > Anoushkaa Bhatnagar: Arts Manager and Producer
-
-  > >
-
-  > > Sanyam Varun; Archive Manager & Research Assistant
-
-  > >
-
-  > > Aditya Rokade; Post-production and Video Processing
-
-  > >
-
-  > > Koshy Brahmatmaj: Costume Design
-
-  > >
-
-  > > Yuki Elias: Narrator
+  > > **Yuki Elias** |Narrator
 
 
   <br/>
