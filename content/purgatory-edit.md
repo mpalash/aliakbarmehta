@@ -27,6 +27,8 @@ children:
   - PE ~ Purgatory Edit, excerpts
   - PE ~ Purgatory Edit, methodology
   - European Media Art Platform (EMAP) Residency
+  - "purgatory EDIT: A Multimedia Installation That Questions The Vocabularies
+    Of Violence"
   - " Making the Invisible Visible "
   - " A crunching dream "
   - New and last chances
