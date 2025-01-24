@@ -6,7 +6,7 @@ tags:
   - ongoing project
 pubdate: "2022"
 unlisted: "false"
-hero: /static/img/Ali Akbar Mehta_Purgatory edit_12.jpg
+hero: /static/img/purgatory-edit_intro-sequence_still-03_image-courtesy-of-the-artist.png
 shortdesc: "**Purgatory Edit** is a *user-generated montage-based cinematic
   experience*. At the core of this project is an artist-assembled media archive
   titled the ‘Doomscroll Archive,’ a visual semiotic research and analysis
@@ -20,7 +20,7 @@ summary: >-
   Performance.
 
 
-  ![Still, Intro sequence for purgatory EDIT, 2025](/static/img/pe_image-01.png)
+  ![Still, Intro sequence for purgatory EDIT, 2025](/static/img/purgatory-edit_intro-sequence_still-03_image-courtesy-of-the-artist.png)
 children:
   - "purgatory EDIT: Liberation Archives for the Cyborgs of Now"
   - "PE ~ Purgatory EDIT: Doomscroll Archive"
