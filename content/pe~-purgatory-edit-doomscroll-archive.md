@@ -1,6 +1,6 @@
 ---
-title: "PE ~ Purgatory EDIT: Doomscroll Archive"
-subtitle: part of Purgatory EDIT
+title: "PE ~ purgatory EDIT: Doomscroll Archive"
+subtitle: part of purgatory EDIT
 layout: content
 tags:
   - artwork
@@ -15,11 +15,11 @@ summary: >-
   forms. 
 
 
-  <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/840610772?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Purgatory EDIT: Archive, Data Wall, 2023"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+  <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/840610772?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Purgatory EDIT: Archive, Data Wall, 2023"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 
   The onsite installation and accompanying online open-access database together form an ongoing archive that critiques existing media representations and the glorification of violence and examines the power of hegemonic representation within visual and cinematic vocabularies. It questions what it means to be (post)human in a new digital regime marked by the erosion of living matter, conversion of life into big data, rising ethnofascism and disintegrating democracies.
-parent: Purgatory Edit
+parent: Purgatory EDIT
 ---
 As a participatory installation, the Doomscroll Archive is based on Antoin Artaud’s *Theatre of Cruelty* – “a means by which artists assault the senses of the audience”. It serves as a foundation to be able to examine the boundaries between aversion and enforcement, proclivity and phobia; to investigate the worth of worldviews derived from banal dichotomies such as ‘Good and Evil’ or ‘War and Peace’, in order to determine whether these meta-concepts make sense in the hyper-nuanced complexities of our world today.
 
@@ -28,17 +28,3 @@ As a participatory installation, the Doomscroll Archive is based on Antoin Artau
 More than at any other moment in human history, we are now confronted by contemporary borders that manifest as incarceration camps, penal colonies, detention facilities and refugee centres. Countries are gradually becoming prisons to confine and contain undesirable bodies. Well-being and welfare for citizens and ecology are being replaced by security and risk management. Conflicts simply becoming tools for neoliberal capitalism to recycle pain. Such violence leads to long-term trauma, helplessness and precarity, causing significant negative influences on our social fabric. Yet, in a hyper-digitised world, forms of violence remain invisible or unrecognised. Recognising and narrating such experiences become difficult unless we find ways to understand how violence is defined and applied across micro (interpersonal), meso (institutional), and macro (trans-societal) scales.
 
 For these processes to be known, they must be explored, visualised, satirised and challenged. In times where violence, conflict, and trauma are normalised as everyday happenings, the Doomscroll Archive performs the task of critical storytelling of historical narratives. By bringing together local and geographically distant perspectives on constructing historical narratives that shape our political landscape, it encourages its audience to revise and reconsider what stories we tell and how we share them. It casts the audience, not as a passive spectator, but as a critical witness – not to the macro tides of history, but to the fate of those invisibilised and marginalised within these histories of power relations, where one’s humanism can be located in their siding with the downtrodden.
-
-<br/>
-
-### **Team**
-
-> **Ali Akbar Mehta** | Artist and Archive researcher
->
-> **Anoushkaa Bhatnaga**r | Project management and production
->
-> **Palash Mukhopadhyay** | Online Database and Interface Design
->
-> **Sanyam Varun** | Archive manager & Research assistant
->
-> **Aditya Rokade** | Media processing and colour grading
