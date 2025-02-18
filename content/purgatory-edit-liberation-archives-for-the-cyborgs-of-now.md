@@ -8,7 +8,7 @@ tags:
   - ongoing project
 pubdate: January 9, 2025 12:00 AM
 unlisted: "false"
-hero: /static/img/purgatory-edit_preview-evening_unnatural-encounters-2025_14_image-by-palash-mukhopadhyay.jpeg
+hero: /static/img/10.-ali-akbar-mehta_purgatory-edit_transmediale-2025_installation-view-10_-image-by-laura-fiorio_2025.jpg
 shortdesc: "***purgatory* EDIT: Liberation Archives for the Cyborgs of Now**
   premiers at Transmediale Studio from January 9 to February 2, 2025. The
   installation part of both the exhibition [UnNatural
