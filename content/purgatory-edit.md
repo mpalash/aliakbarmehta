@@ -41,4 +41,40 @@ The **Doomscroll Archive** is sourced from archival war footage, movie and docum
 
 Using this archive as the foundational data bank of pre-curated individual ‘scenes’, the **Cyber Performance** of *purgatory* EDIT invites its audience as participants to access cinematic experiences. They investigate the archive using their own emotional, neural, and cognitive agency via a portable EEG ‘brainware’, a Brain-Computer Interface (BCI), and through software developed by the purgatory EDIT team. This software translates the participant’s brainwave activity to ‘emotion-based metrics’ that control real-time sequencing, juxtaposition, and playback of individual clips in the Archive – generating unique conceptual montages to reveal individual participant’s distinctive relationship to cinematic vocabularies of violence.
 
-***purgatory* EDIT** is prophetic of a world hurtling towards a cataclysmic end while simultaneously potent with utopian promise. Through it, participants undergo an immersive voyage through historical events and speculative futures, where they challenge underlying power relations and violence embedded in media representation, and how they are reproduced over time – structurally shaping the stories we tell.
+***purgatory* EDIT** is prophetic of a world hurtling towards a cataclysmic end while simultaneously potent with utopian promise. Through it, participants undergo an immersive voyage through historical events and speculative futures, where they challenge underlying power relations and violence embedded in media representation, and how they are reproduced over time – structurally shaping the stories we tell. 
+
+
+
+\*
+
+#### ***purgatory* EDIT** is collaboratively developed by:
+
+> Ali Akbar Mehta | Artist, Researcher & Archivist
+>
+> Jernej Čuček Gerbec | VDMX Programming & Software Developer
+>
+> Palash Mukhopadhyay | Web/UI/UX Design and Coding
+>
+> Adnan Mirza | UNITY and 3D Design
+>
+> Pruthu Parab | Background Score and Additional Sound Design
+>
+> Anoushkaa Bhatnagar | Project Producer
+>
+> Sanyam Varun | Archive Management
+>
+> Aditya Rokade | Post-production and Video Processing
+>
+> Koshy Brahmatmaj | Costume Design
+>
+> Yuki Elias | Narrator
+
+<br/>
+
+#### **Additional production support by**
+
+Vishnu Patel | Costume Production
+
+Stitch Audio | Sound Recording
+
+<br/>
