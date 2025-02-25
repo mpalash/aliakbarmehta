@@ -6,7 +6,7 @@ tags:
   - ongoing project
 pubdate: "2022"
 unlisted: "false"
-hero: /static/img/purgatory-edit_intro-sequence_still-03_image-courtesy-of-the-artist.png
+hero: https://www.purgatoryedit.com/img/loader-256.webp
 shortdesc: "**Purgatory Edit** is a *user-generated montage-based cinematic
   experience*. At the core of this project is an artist-assembled media archive
   titled the ‘Doomscroll Archive,’ a visual semiotic research and analysis
