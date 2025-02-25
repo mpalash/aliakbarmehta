@@ -44,9 +44,7 @@ Using this archive as the foundational data bank of pre-curated individual ‘sc
 
 ***purgatory* EDIT** is prophetic of a world hurtling towards a cataclysmic end while simultaneously potent with utopian promise. Through it, participants undergo an immersive voyage through historical events and speculative futures, where they challenge underlying power relations and violence embedded in media representation, and how they are reproduced over time – structurally shaping the stories we tell. 
 
-
-
-\*
+<br/>
 
 #### ***purgatory* EDIT** is collaboratively developed by:
 
@@ -74,8 +72,8 @@ Using this archive as the foundational data bank of pre-curated individual ‘sc
 
 #### **Additional production support by**
 
-Vishnu Patel | Costume Production
-
-Stitch Audio | Sound Recording
+> Vishnu Patel | Costume Production
+>
+> Stitch Audio | Sound Recording
 
 <br/>
