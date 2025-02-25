@@ -36,6 +36,7 @@ children:
   - " Making the Invisible Visible "
   - " A crunching dream "
   - New and last chances
+  - purgatory EDIT support and funding
 ---
 The **Doomscroll Archive** is sourced from archival war footage, movie and documentary clips, advertisements, newsreels, landscape panoramas, home videos, and personal archives of public contributors. This open-source, searchable, and publicly accessible archive comprises 30,000+ clips that collectively testify to the hegemonic representations and the glorification of violence existing within visual and cinematic vocabularies. Through this archive, historic and immediate pasts shape speculative futures, creating data worlds that mirror and shadow our physical world, transcending borders, as we witness struggles over openness and enclosure, sovereignty and nationalism, citizenship and identity, security and freedom.
 
