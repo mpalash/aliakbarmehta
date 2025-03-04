@@ -5,7 +5,7 @@ tags:
   - resource
 pubdate: February 2, 2025 12:00 AM
 unlisted: "true"
-hero: https://www.purgatoryedit.com/img/loader-256.webp
+hero: ""
 parent: Purgatory EDIT
 ---
 ## **Credits**
