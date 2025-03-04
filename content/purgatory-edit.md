@@ -6,7 +6,7 @@ tags:
   - ongoing project
 pubdate: "2022"
 unlisted: "false"
-hero: https://www.purgatoryedit.com/img/loader-256.webp
+hero: /static/img/10.-ali-akbar-mehta_purgatory-edit_transmediale-2025_installation-view-10_-image-by-laura-fiorio_2025.jpg
 shortdesc: "**Purgatory Edit** is a *user-generated montage-based cinematic
   experience*. At the core of this project is an artist-assembled media archive
   titled the ‘Doomscroll Archive,’ a visual semiotic research and analysis
