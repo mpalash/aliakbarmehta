@@ -18,19 +18,14 @@ shortdesc: "***purgatory* EDIT: Liberation Archives for the Cyborgs of Now**
   far](https://transmediale.de/en/pressRelease/festival-2025) taking place from
   January 30 to February 2, 2025."
 summary: >-
-  **Purgatory EDIT: Liberation Archives for the Cyborgs of Now** premiers at
-  Transmediale Studio from January 9 to February 2, 2025. The was installation
-  part of **[UnNatural
-  Encounters](https://emare.eu/news-events/emap-group-show-unnatural-encounters-silent-green)**
-  on view from January 9 to 19, 2025 at silent green, and *transmediale festival
-  2025*, **[near near but —
-  far](https://transmediale.de/en/pressRelease/festival-2025)** taking place
-  from January 30 to February 2, 2025.
+  <iframe
+  src="https://player.vimeo.com/video/1064069580?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+  width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen;
+  picture-in-picture; clipboard-write; encrypted-media" title="purgatory EDIT
+  (short intro), 2025"></iframe>
 
 
-  <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1064069580?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="purgatory EDIT (short intro), 2025"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
-
+  **Purgatory EDIT: Liberation Archives for the Cyborgs of Now** premiers at Transmediale Studio from January 9 to February 2, 2025. The was installation part of **[UnNatural Encounters](https://emare.eu/news-events/emap-group-show-unnatural-encounters-silent-green)** on view from January 9 to 19, 2025 at silent green, and *transmediale festival 2025*, **[near near but — far](https://transmediale.de/en/pressRelease/festival-2025)** taking place from January 30 to February 2, 2025.
 
 
 
