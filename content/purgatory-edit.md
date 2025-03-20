@@ -30,6 +30,7 @@ children:
   - PE ~ Purgatory Edit, excerpts
   - PE ~ Purgatory Edit, methodology
   - European Media Art Platform (EMAP) Residency
+  - Artist interview with Ali Akbar Mehta (purgatory EDIT), transmediale 2025
   - " Trolls in the election campaign: Who protects us from fake news?"
   - "purgatory EDIT: A Multimedia Installation That Questions The Vocabularies
     Of Violence"
