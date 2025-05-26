@@ -23,7 +23,10 @@ summary: >-
   The project comprises an artist-assembled media archive titled the **Doomscroll Archive**, a visual semiotic research and analysis process culminating as a **Violence Intensity Map**, and an immersive technomediated **Cyber Performance**.
 
 
-  ![Still, Intro sequence for purgatory EDIT, 2025](/static/img/purgatory-edit_intro-sequence_still-03_image-courtesy-of-the-artist.png)
+  <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1087800583?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Ali Akbar Mehta, purgatory EDIT | Creating Knowldege Systems, 2025"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+
+  <br/>
 children:
   - "purgatory EDIT: Liberation Archives for the Cyborgs of Now"
   - "PE ~ purgatory EDIT: Doomscroll Archive"
@@ -41,6 +44,8 @@ children:
   - New and last chances
   - purgatory EDIT support and funding
 ---
+![Still, Intro sequence for purgatory EDIT, 2025](/static/img/purgatory-edit_intro-sequence_still-03_image-courtesy-of-the-artist.png)
+
 The **Doomscroll Archive**, the project’s artist-assembled media archive of 3000+ clips, is sourced from movies, documentaries, advertisements, newsreels, landscape panoramas, home videos, and personal archives of public contributors. This open-source, searchable, and publicly accessible archive collectively testifies to the existence of visual and cinematic vocabularies that represent, reproduce and often glorify violence, not simply as Direct (tangible and identifiable), but also Structural (institutional and systemic) and Cultural (normalised and invisible) forms of violence. 
 
 Through this archive, historic and immediate pasts shape speculative futures, creating data worlds that mirror and shadow our physical world, transcending borders, as we witness struggles over openness and enclosure, sovereignty and nationalism, citizenship and identity, security and freedom. 
