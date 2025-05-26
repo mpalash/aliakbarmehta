@@ -17,6 +17,7 @@ summary: >-
 
 
   *This iteration of **purgatory*** **EDIT** *is supported by the [Finnish Institute in the UK +  Ireland.](https://www.fininst.uk/)*
+parent: Purgatory EDIT
 ---
 A night of performances, workshops and music, responding to the influential works of Ed Atkins, exploring the relationship between technology and its influence on how we perceive ourselves, intimacy and loss.
 
