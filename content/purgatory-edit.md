@@ -28,11 +28,12 @@ summary: >-
 
   <br/>
 children:
+  - "LATB X HERVISIONS: Digital Intimacies"
   - "purgatory EDIT: Liberation Archives for the Cyborgs of Now"
-  - "PE ~ purgatory EDIT: Doomscroll Archive"
-  - PE ~ Purgatory Edit, excerpts
   - European Media Art Platform (EMAP) Residency
   - Cruel Radiance
+  - "PE ~ purgatory EDIT: Doomscroll Archive"
+  - PE ~ Purgatory Edit, excerpts
   - "Ali Akbar Mehta:  “The residency at Delfina Foundation has been an intimate
     way to engage with the London art scene”"
   - Artist interview with Ali Akbar Mehta (purgatory EDIT), transmediale 2025
