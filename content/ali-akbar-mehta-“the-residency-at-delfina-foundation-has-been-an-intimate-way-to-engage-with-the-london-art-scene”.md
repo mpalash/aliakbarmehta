@@ -5,6 +5,7 @@ subtitle: interview by the Finnish Institute in the UK and Ireland
 layout: content
 tags:
   - press
+  - artist talk
 pubdate: May 14, 2025 12:00 AM
 unlisted: "false"
 hero: /static/img/photo-credit-©-anne-tetzlaff_dsc5532.jpg
