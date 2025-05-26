@@ -31,7 +31,6 @@ children:
   - "purgatory EDIT: Liberation Archives for the Cyborgs of Now"
   - "PE ~ purgatory EDIT: Doomscroll Archive"
   - PE ~ Purgatory Edit, excerpts
-  - PE ~ Purgatory Edit, methodology
   - European Media Art Platform (EMAP) Residency
   - "Ali Akbar Mehta:  “The residency at Delfina Foundation has been an intimate
     way to engage with the London art scene”"
@@ -42,6 +41,7 @@ children:
   - " Making the Invisible Visible "
   - " A crunching dream "
   - New and last chances
+  - PE ~ Purgatory Edit, methodology
   - purgatory EDIT support and funding
 ---
 ![Still, Intro sequence for purgatory EDIT, 2025](/static/img/purgatory-edit_intro-sequence_still-03_image-courtesy-of-the-artist.png)
@@ -58,30 +58,30 @@ Using this archive as the foundational data bank of pre-curated individual ‘sc
 
 <br/>
 
-#### ***purgatory* EDIT** is collaboratively developed by: 
+#### ***purgatory* EDIT** is collaboratively developed by:
 
-**Ali Akbar Mehta** | Artist, Researcher & Archivist
-
-**Jernej Čuček Gerbec** | VDMX Programming & Software Developer
-
-**Palash Mukhopadhyay** | Web/UI/UX Design and Coding
-
-**Adnan Mirza** | UNITY and 3D Design
-
-**Pruthu Parab** | Background Score and Additional Sound Design
-
-**Anoushkaa Bhatnagar** | Project Producer
-
-**Sanyam Varun** | Archive Management
-
-**Aditya Rokade** | Post-production and Video Processing
-
-**Koshy Brahmatmaj** | Costume DesignYuki Elias | Narrator
+> **Ali Akbar Mehta** | Artist, Researcher & Archivist
+>
+> **Jernej Čuček Gerbec** | VDMX Programming & Software Developer
+>
+> **Palash Mukhopadhyay** | Web/UI/UX Design and Coding
+>
+> **Adnan Mirza** | UNITY and 3D Design
+>
+> **Pruthu Parab** | Background Score and Additional Sound Design
+>
+> **Anoushkaa Bhatnagar** | Project Producer
+>
+> **Sanyam Varun** | Archive Management
+>
+> **Aditya Rokade** | Post-production and Video Processing
+>
+> **Koshy Brahmatmaj** | Costume DesignYuki Elias | Narrator
 
 #### **Additional production support by**
 
-**Vishnu Patel** | Costume Production
-
-**Stitch Audio** | Sound Recording
+> **Vishnu Patel** | Costume Production
+>
+> **Stitch Audio** | Sound Recording
 
 <br/>
