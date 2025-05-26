@@ -32,6 +32,7 @@ children:
   - "PE ~ purgatory EDIT: Doomscroll Archive"
   - PE ~ Purgatory Edit, excerpts
   - European Media Art Platform (EMAP) Residency
+  - Cruel Radiance
   - "Ali Akbar Mehta:  “The residency at Delfina Foundation has been an intimate
     way to engage with the London art scene”"
   - Artist interview with Ali Akbar Mehta (purgatory EDIT), transmediale 2025
