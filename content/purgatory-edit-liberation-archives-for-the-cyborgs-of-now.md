@@ -85,6 +85,6 @@ parent: Purgatory EDIT
 
 <br/>
 
-***purgatory* EDIT: Liberation Archives for the Cyborgs of Now** is presented by **transmediale 2025** in collaboration with **European Media Art Platform** (EMAP) and **silent green Film Feld Forschung**. **Purgatory EDIT** has received development support from the EMAP residency program 2024 at **Werkleitz** co-funded by the **European Union**. The project is made possible by partial funding from **Taiteen Edistämiskeskus** and **Kone Säätio**, and travel funding from support from the **Finnland-Institut, Berlin** and **Goethe Institut/Max Mueller Bhavan, Mumbai**.
+***purgatory* EDIT: Liberation Archives for the Cyborgs of Now** is presented by **transmediale 2025** in collaboration with **European Media Art Platform** (EMAP) and **silent green Film Feld Forschung**. **Purgatory EDIT** has received development support from the EMAP residency program 2024 at **Werkleitz**, co-funded by the **European Union**. The project is made possible by partial funding from **Taiteen Edistämiskeskus** and **Kone Säätio**, and travel funding from support from the **Finnland-Institut, Berlin** and **Goethe Institut/Max Mueller Bhavan, Mumbai**.
 
-for more information about the project visit the project website **[here](https://www.purgatoryedit.com/)**
+More information on the project website **[here](https://www.purgatoryedit.com/)**
