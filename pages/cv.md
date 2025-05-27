@@ -7,6 +7,15 @@ summary: >-
   Transmedia artist, curator, and researcher.
 
 
+  [https://www.aliakbarmehta.com ](https://www.aliakbarmehta.com)
+
+
+  [https://orcid.org/0000-0002-0098-4631 ](https://orcid.org/0000-0002-0098-4631)
+
+
+  [studio@aliakbarmehta.com](https://orcid.org/0000-0002-0098-4631)
+
+
   <br/>
 ---
 ## Education and Select Work Experience
@@ -32,56 +41,71 @@ summary: >-
 1998
 :   **GNIIT**, National Institute of Information Technology (NIIT), Mumbai, IN
 
-## Grants and Awards
+## Research Funding and Grants
+
+2025
+:   *Travel grant*, **Finnish Insitute in the UK and Ireland - London**, purgatory EDIT
+
+2025
+:   *Production grant*, **Slovenian Ministry of Culture**, purgatory EDIT
+
+2025
+:   *Travel grant*, **Goethe Institut/Max Mueller Bhavan - Mumbai**, purgatory EDIT
+
+2025
+:   *Travel grant*, **Finnish Institut - Berlin**, purgatory EDIT
 
 2024
-:   [](https://koneensaatio.fi/en/grants-and-residencies/taidelaitos-haihatuksen-25-juhlavuoden-belonging-ryhmanayttelyn-jarjestamiskulut-kuratointityo-ja-taiteiljapalkkiot-2/)**Taiteen edistämiskeskus Globus Op Start**, production grant, working group – Artists with Evidence
+:   *production grant*, **[Taiteen edistämiskeskus Globus Op Start](https://koneensaatio.fi/en/grants-and-residencies/taidelaitos-haihatuksen-25-juhlavuoden-belonging-ryhmanayttelyn-jarjestamiskulut-kuratointityo-ja-taiteiljapalkkiot-2/)**, working group – Artists with Evidence
 
 2024
-:   **[Kone Säätiö](https://koneensaatio.fi/en/grants-and-residencies/taidelaitos-haihatuksen-25-juhlavuoden-belonging-ryhmanayttelyn-jarjestamiskulut-kuratointityo-ja-taiteiljapalkkiot-2/)**, exhibition grant, working group – Haihatuksen Henki ry
+:   *exhibition grant*, **[Kone Säätiö](https://koneensaatio.fi/en/grants-and-residencies/taidelaitos-haihatuksen-25-juhlavuoden-belonging-ryhmanayttelyn-jarjestamiskulut-kuratointityo-ja-taiteiljapalkkiot-2/)**, working group – Haihatuksen Henki ry
 
 2023
-:   **[Kone Säätiö](https://koneensaatio.fi/en/grants-and-residencies/borderlanders-counter-narrating-histories-of-violence-2/)**, working & production grant (3 years)
+:   *working & production grant*, **[Kone Säätiö](https://koneensaatio.fi/en/grants-and-residencies/borderlanders-counter-narrating-histories-of-violence-2/)**, Borderlander(s) (3 years)
 
 2022
-:   **[Taiteen edistämiskeskus](https://www.taike.fi/en/awarded-support/state-artist-grants-awarded-298-artists)**, working grant (1 year)
+:   *working grant*, **[Taiteen edistämiskeskus](https://www.taike.fi/en/awarded-support/state-artist-grants-awarded-298-artists)**, purgatory EDIT (1 year)
 
 2021
-:   **[Taiteen edistämiskeskus](https://www.taike.fi/en/awarded-support/state-artist-grants-awarded-311-artists)**, working grant (1 year)
+:    *operational grant*, *working grant*, **[Taiteen edistämiskeskus](https://www.taike.fi/en/awarded-support/state-artist-grants-awarded-311-artists)**, WAR ROOM ECHO (1 year)
 
 2021
-:   **Helsinki City Grant,** working group Museum of Impossible Forms 
+:   *operational grant*, **Helsinki City Grant,** working group Museum of Impossible Forms 
 
 2020
-:   **Kone Säätiö**, COVID grant for organisations, working group Museum of Impossible Forms 
+:   *operational grant*, **Kone Säätiö**, COVID grant for organisations, working group Museum of Impossible Forms 
 
 2020
-:   **State Art Prize** awarded to Museum of Impossible Forms, by the Ministry of Art and Culture, FI
-
-2020
-:   **Taiteen edistämiskeskus**, project grant, working group – Museum of Impossible Forms
-
-2019
-:   [Tutkijaliitto-palkinto](https://tutkijaliitto.fi/2019/12/09/tutkijaliiton-palkinnot-museum-of-impossible-forms-kulttuurikeskukselle-ja-ari-korhoselle/), awarded to Museum of Impossible Forms, by the Finnish Association of Researchers, FI
+:   *project grant*, **Taiteen edistämiskeskus**, working group – Museum of Impossible Forms
 
 2018
-:   **Kone Säätiö**, operational grant, working group – Museum of Impossible Forms, (2 years)
+:   *operational grant*, **Kone Säätiö**, working group – Museum of Impossible Forms, (2 years)
 
 2018
-:   **Suomen Kulttuurirahasto**, project grant, working group – Museum of Impossible Forms
+:   *project grant*, **Suomen Kulttuurirahasto**, working group – Museum of Impossible Forms
 
 2017
-:   **Aalto University**, project grant, 256 Million Colours of Violence
+:   *project grant*, **Aalto University**, 256 Million Colours of Violence
 
 2016
-:   **Kone Säätiö**, operational grant, working group – Museum of Impossible Forms, (2 years)
+:   *operational grant*, **Kone Säätiö**, working group – Museum of Impossible Forms, (2 years)
 
-<br/>
+## Awards
+
+2020
+:   **State Art Prize** (awarded for Museum of Impossible Forms), the Ministry of Art and Culture, FI
+
+2019
+:   **[Tutkijaliitto-palkinto](https://tutkijaliitto.fi/2019/12/09/tutkijaliiton-palkinnot-museum-of-impossible-forms-kulttuurikeskukselle-ja-ari-korhoselle/)**, (awarded for Museum of Impossible Forms), the Finnish Association of Researchers, FI
+
+2005
+:   **Palsikar Award for Portraiture**, Sir J.J. School of Art, Mumbai, IN
 
 ## Residencies and Research Fellowships
 
 2025
-:   *A-i-R*: **science_technology_society season 3,** Delfina Foundation, London, UK
+:   Artist-in-Residence: **science_technology_society season 3,** Delfina Foundation, London, UK
 
 2024
 :   *Research Fellow*: **After School** part II, CAD+SR, Nairobi, KE 
@@ -112,14 +136,11 @@ summary: >-
 
 ## Solo Exhibitions
 
-2025
-:    **Purgatory EDIT: The Liberation Archives of Orphaned Cyborgs**, Project 88, Mumbai, IN
+*Upcoming*
+:    **Purgatory EDIT: The Oracle of Wordly Mirages**, Project 88, Mumbai, IN
 
 2024
-:    **Purgatory EDIT: The war that is coming is not the last one – part II**, Transmediale Studio, Berlin, DE 
-
-2024
-:    **Purgatory EDIT: The Doomscroll Archive**, Speculum Artium, Ljubljana, SL
+:    **Purgatory EDIT: Liberation Archives for the Cyborgs of Now**, transmediale studio X silent green, Berlin, DE 
 
 2020
 :   **Is there a room with just a colour?**, Myymälä2, Helsinki, FI
@@ -197,8 +218,29 @@ summary: >-
 
 ## Select Group Exhibitions
 
+*Upcoming*
+:   **Group Exhibition (*name TBC*)**, Stevenson, Cape Town, SA
+
 2025
-:    **EMAP exhibition**, Transmediale Studio, (with Silent Green & Transmediale), Berlin, DE 
+:   **Digital Intimacies**, Late at Tate Britain X HERVISIONS, Tate Britain, London, UK
+
+2025
+:   **The Art of Confluence**, House of Creativity, Mumbai, IN
+
+2025
+:   **(near) near – but far**, transmediale festival, 2025, Berlin, DE
+
+2025
+:   **UnNatural Encounters**, European Media Art Platform X silent green, Berlin, DE
+
+2024
+:   **Contestations.ai**, Symposium on AI, Human Rights and Warfare, Aalto University, FI
+
+2024
+:   **How We Are (Un)Becoming**, The 7th International Death Online Research Symposium, ‘Digital Death – Transforming History, Rituals, And Afterlife’, Helsinki University, FI
+
+2024
+:   **Meander**, Tao Art Gallery, Mumbai, IN
 
 2023
 :   **Cruel Radiance**, curated by Harri Palviranta and Marko Karo, Backlight Festival 2023, Gallery Saskia, Photographic Center Nykyakia, Gallery Koppelo, Tampere art Museum, Tampere, FI
@@ -328,6 +370,9 @@ summary: >-
 
 ## Curatorial Work
 
+2024-26
+:   *Curatorial advisor*: **Southnord ArtFest**, Helsinki-Stockholm, FI/SE
+
 2024
 :   *Co-curator*: **HAIHATUS25**, Haihatus Art Center, Joutsa, Finland
 
@@ -399,7 +444,25 @@ summary: >-
 2016 
 :   *Co-curator*: **SOAK**, D/func.t, Helsinki, FI
 
-## Artist Talks / Conferences
+## Conferences, Artist talks and Panel Discussions
+
+2025
+:    *Panelist*: **Images of War: Technological Violence, Aesthetics & Archive**, Aspects of Presence Symposium, Akademie der Künste, Berlin, DE
+
+2025
+:    *Keynote Lecture*: **Shifting perspectives – a historical perspective to struggles and resilience**, Stop Hatred Now 2025, Helsinki, FI
+
+2025
+:    *Artist Talk*: **Living in ‘Archival Time’, or at the end of narrative(s)**, Transmediale 2025 x HKW, Berlin, DE
+
+2024
+:    *Artist Talk*: **Pedagogies of the Unarchived**, CAD+SR, Nairobi, KE
+
+2024
+:    *Artist Talk*: **Artists in a changing ecosystem**, University of the Arts, Helsinki, FI
+
+2024
+:    *Artist Talk*: **Archiving in the Age of Data, Power and Violence**, Arts & Sciences: Telluride 2024, USA
 
 2024
 :    *Artist Talk*: **Countering Archival Fascism: Moving from technopolitical regimes to technodiverse cosmologies**, deCYPher lab, BioArt Society, Helsinki, FI
@@ -410,17 +473,17 @@ summary: >-
 2024
 :   *Discussion Series*: **Ec(h)o Effect: Conversations on War and Environment**, with Colin Greer & Ines Montavlao (mod.), Artists with Evidence (online)
 
-> Conversation #1: From Urgency to Possibility
+> Conversation #1: **From Urgency to Possibility**
 >
-> Conversation #2: Resilience Narratives: Solutions for a War-torn Environment
+> Conversation #2: **Resilience Narratives: Solutions for a War-torn Environment**
 >
-> Conversation #3: Transformative Potential in War and Environmental Crisis
+> Conversation #3: **Transformative Potential in War and Environmental Crisis**
 >
-> Conversation #4: Artistic Narratives of Environmental Consequences in Warfare
+> Conversation #4: **Artistic Narratives of Environmental Consequences in Warfare**
 >
-> Conversation #5: Art+Science as a Catalyst for Change
+> Conversation #5: **Art+Science as a Catalyst for Change**
 >
-> Conversation #6: Circular Economies, Coping Strategies, and Artistic Responses to Conflict
+> Conversation #6: **Circular Economies, Coping Strategies, and Artistic Responses to Conflict**
 
 2023
 :   *Keynote lecture*: **Curating Across Cultures**, ARTIVAL RE:CONNECT, Globe Art Point, FI
@@ -501,6 +564,9 @@ summary: >-
 :   *Artist Talk:* **FOLKARCHIVE**, in conversation with Sumesh Sharma; moderated by Latika Gupta, Dr Bhau Daji Lad City Museum, Mumbai
 
 ## Select Teaching / Lectures
+
+2025
+:   *Guest lecturer*: **(Un) Learning Histories of, in, through Artistic Research**, UNIARTS, Helsinki, FI 
 
 2023
 :   *Guest lecturer*: **Cyber Realities, Hybridity,  and the Users (of Archives)**, Visual Cultures, Curating and Contemporary Art (ViCCA), Aalto University, Helsinki
@@ -636,16 +702,15 @@ summary: >-
 2011
 :   *Poem:* **[A body split in two](https://aliakbarmehta.com/content/a-body-split-in-two)**, In B. Sarkar (Ed.), *International Gallerie: Journal of Contemporary art*, issue 30. Mumbai.
 
-## <br/>
-
 ## Public projects / Commissions
 
 2015
 :   **TRINITY: Godrej Legacy Park Silos**, Godrej One, Mumbai, IN
 
-## <br/>
-
 ## Positions of Trust and Memberships
+
+2025 – ongoing
+:   *Board Member and Vice-chair*, **[m-cult Media Culture Centre](https://www.m-cult.org/)**, Helsinki, FI
 
 2021 – ongoing
 :   *Member*, **[Catalysti](https://www.catalysti.fi/)**, Helsinki, FI
@@ -659,7 +724,7 @@ summary: >-
 2021
 :   *Board Chair*, **[Kiila ry](http://kiila.eu/)**, Helsinki, FI
 
-2019 – ongoing
+2019 – 2021
 :   Research Member, **[Cluster of Critical Artistic Research (CCARE)](https://www.ccare.aalto.fi/)**, Aalto University, Helsinki, FI
 
 2019 – ongoing
