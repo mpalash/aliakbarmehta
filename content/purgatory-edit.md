@@ -30,6 +30,7 @@ summary: >-
 children:
   - "LATB X HERVISIONS: Digital Intimacies"
   - "purgatory EDIT: Liberation Archives for the Cyborgs of Now"
+  - Living in archival time, or at the end of narrative(s)
   - European Media Art Platform (EMAP) Residency
   - Cruel Radiance
   - "PE ~ purgatory EDIT: Doomscroll Archive"
