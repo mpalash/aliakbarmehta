@@ -57,6 +57,16 @@ ul, ol {
     margin: 0;
   }
 }
+dl {
+  margin-bottom: var(--s-xxl);
+  display: grid;
+  grid-template-columns: 1fr 6fr;
+  grid-column-gap: var(--s-m);
+  grid-row-gap: var(--s-s);
+}
+dd {
+  margin: 0;
+}
 main {
   transform: translate3d(0,0,0);
   img.imgLoaded {
