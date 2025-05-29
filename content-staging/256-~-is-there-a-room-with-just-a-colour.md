@@ -1,11 +1,15 @@
 ---
 title: 256 ~ Is there a room with just a colour?
 subtitle: Myymälä2, Helsinki
-layout: content
-tags: solo exhibition
-pubdate: "2020"
-hero: /static/img/poster.jpg
+layout: layouts/content.njk
+tags:
+  - solo exhibition
+pubdate: April 16, 2020 12:00 AM
+unlisted: "false"
+hero: /static/img/ali-akbar-mehta-is-there-a-room-with-just-a-colour-poster-2020.jpg
 summary: >-
+  ![](/static/img/ali-akbar-mehta-is-there-a-room-with-just-a-colour-poster-2020.jpg)
+
   ![Installation view: Is there a room with just a colour?, 2020, Myymälä2, Helsinki](/static/img/ali-akbar-mehta_installation-view-is-there-a-room-with-just-a-colour-myymala2-helsinki-2020.jpg)
 
 

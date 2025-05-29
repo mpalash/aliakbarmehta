@@ -12,10 +12,6 @@ header {
   background: var(--color-white);
   border-bottom: 1px solid var(--color-warm-light);
 
-  @media (prefers-color-scheme: dark) {
-    border-bottom-color: var(--color-grey-light); // Use a slightly lighter border for dark mode
-  }
-
   a {
     color: var(--color-ink);
   }
@@ -40,20 +36,27 @@ header {
   }
 
   .nav-links {
+    display: flex;
+    gap: var(--s-xs);
+    align-items: center;
     margin: 0 0 0 auto;
     padding: 0;
     list-style: none;
     text-align: right;
     li {
-      display: inline-block;
+      height: var(--s-l);
     }
   }
-
-  .search {
-    @extend %fa-icon;
-    @extend .far;
-    &:before { content: fa-content($fa-var-search); }
+  .nav-search {
+    display: flex;
+    align-items: center;
   }
+
+  // .search {
+  //   @extend %fa-icon;
+  //   @extend .far;
+  //   &:before { content: fa-content($fa-var-search); }
+  // }
   #btn-search-submit {
     width: 0;
     padding: 0;
@@ -75,19 +78,30 @@ header {
     line-height: var(--s-l);
     border: 0;
     outline: 0 !important;
-    box-shadow: 0 !important;
-    background: url(/static/ui-img/icon-search.svg) no-repeat 0 0;
+    box-shadow: none !important;
+    color: var(--color-ink);
+    background: url(/static/ui-img/icon-search.svg) no-repeat 2px 50%;
     max-width: var(--s-l);
     transition: max-width 0.2s ease-out;
     &:focus,
     &:active,
     &:not(:placeholder-shown) {
-      max-width: calc(1.25 * var(--s-xxxl));
+      max-width: calc(1.75 * var(--s-xxxl));
       + #btn-search-submit {
         width: auto;
         padding: 0 var(--s-s);
       }
     }
+  }
+  #theme-switcher {
+    background: none;
+  	border: none;
+  	padding: 0;
+  	cursor: pointer;
+    outline: none;
+    width: var(--s-l);
+    height: var(--s-l);
+    background: url(/static/ui-img/icon-moon.svg) no-repeat 50% 50% / 16px auto;
   }
 
 
@@ -102,8 +116,8 @@ header {
   }
   @media only screen and (max-width: 480px) {
     display: grid;
-    grid-template-columns: 1.5fr 1fr;
-    gap: var(--s-b);
+    grid-template-columns: max-content 1fr;
+    gap: var(--s-s);
     align-items: center;
     padding: 0 var(--s-xs);
     .site-title,
@@ -115,5 +129,13 @@ header {
     .nav-links {
       grid-column: 2/-1;
     }
+  }
+}
+.dark-theme header {
+  #search-field {
+    background: url(/static/ui-img/icon-search-light.svg) no-repeat 2px 50%;
+  }
+  #theme-switcher {
+    background: url(/static/ui-img/icon-sun.svg) no-repeat 50% 50% / 16px auto;
   }
 }

@@ -10,15 +10,19 @@ footer {
   font-size: var(--font-size-small);
   border-top: 1px solid var(--color-warm-light);
 
-  @media (prefers-color-scheme: dark) {
-    border-top-color: var(--color-grey-light); // Use a slightly lighter border for dark mode
-  }
-
   p {
     margin: 0;
-    color: var(--color-warm);
+    color: var(--color-warm-dark);
   }
   a {
-    color: var(--color-warm);
+    color: var(--color-warm-dark);
+  }
+  @media only screen and (max-width: 800px) {
+    margin-left: -24px;
+    margin-right: -24px;
+  }
+  @media only screen and (max-width: 480px) {
+    margin-left: -16px;
+    margin-right: -16px;
   }
 }

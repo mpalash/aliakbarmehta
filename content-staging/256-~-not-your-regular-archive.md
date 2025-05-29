@@ -1,9 +1,11 @@
 ---
 title: 256 ~ Not your Regular Archive
-subtitle: 'Sakal Times, 2018'
-layout: content
+subtitle: Sakal Times, 2018
+layout: layouts/content.njk
 tags: press
-pubdate: '2018'
+pubdate: January 16, 2018 12:00 AM
+unlisted: "false"
+hero: /static/img/sakal-times.jpg
 parent: 256 Million Colours of Violence
 ---
 ![](/static/img/sakal-times.jpg)
