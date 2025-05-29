@@ -12,6 +12,10 @@ header {
   background: var(--color-white);
   border-bottom: 1px solid var(--color-warm-light);
 
+  @media (prefers-color-scheme: dark) {
+    border-bottom-color: var(--color-grey-light); // Use a slightly lighter border for dark mode
+  }
+
   a {
     color: var(--color-ink);
   }

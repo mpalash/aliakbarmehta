@@ -67,3 +67,17 @@
   &-press { background-color: var(--color-press); }
   &-resource { background-color: var(--color-resource); }
 }
+
+@media (prefers-color-scheme: dark) {
+  .tag-project,
+  .tag-performance,
+  .tag-talk,
+  .tag-exhibition,
+  .tag-residency,
+  .tag-text,
+  .tag-publication,
+  .tag-press,
+  .tag-resource {
+    color: var(--color-grey-darkest) !important; // Ensure contrast with lighter dark-theme backgrounds
+  }
+}
