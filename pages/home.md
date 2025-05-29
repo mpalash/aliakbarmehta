@@ -3,7 +3,7 @@ layout: layouts/home.njk
 title: Ali Akbar Mehta
 permalink: /
 summary: >-
-  ![](/static/img/ali-akbar-mehta_portrait_2021.jpg)
+  ![](/static/img/ali-akbar-mehta_portrait-b-w_2025.jpg)
 
 
   [Ali Akbar Mehta](http://www.aliakbarmehta.com) is a Transmedia artist, curator, researcher, and writer, creating immersive and interactive archives on the crossovers of culture, technology and knowledge. He experiments with new archival logics that depart from institutional and coloniality-driven legacy archiving, investigating narratives from conflict zones and power structures, and offering countermeasures to everyday experiences of violence, conflict, and trauma. 
