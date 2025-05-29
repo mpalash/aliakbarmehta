@@ -112,33 +112,32 @@ html.dark-theme {
     --color-blue-default: #90CAF9; // Lighter blue for links
 
     // GREYS
-    // For dark theme, "black" becomes light (text), "white" becomes dark (background)
-    --color-black:        #F5F5F5; // Light grey for text (instead of pure white)
-    --color-grey-darkest: #E0E0E0; // Light grey
-    --color-grey-dark:    #BDBDBD; // Medium-light grey
-    --color-grey:         #424242; // Dark grey (can be secondary background or cards)
-    --color-grey-light:   #303030; // Darker grey (can be subtle borders or dividers)
-    --color-white:        #121212; // Very dark grey/black for background
+    --color-black:        #F5F5F5;
+    --color-grey-darkest: #E0E0E0;
+    --color-grey-dark:    #BDBDBD;
+    --color-grey:         #424242;
+    --color-grey-light:   #303030;
+    --color-white:        #181818;
 
-    --color-warm-light:   #2a2825; // Darker warm color (background element)
-    --color-warm:         #BFBEB6; // Lighter warm color (text/accent on dark warm bg)
-    --color-warm-dark:    #D7D4CF; // Lighter warm color
-    --color-warm-darker:  #EAE7E2; // Lighter warm color
+    --color-warm-light:   #4c4945;
+    --color-warm:         #5A5652;
+    --color-warm-dark:    #A09F92;
+    --color-warm-darker:  #F2F0EC;
 
-    --color-ink:          #E0E0E0; // Light grey/white for general text
-    --color-link:         #BB86FC; // Bright, accessible violet for links
-    --color-hover:        #D1C4E9; // Lighter violet for hover
+    --color-ink:          #E0E0E0;
+    --color-link:         #FFD180;
+    --color-hover:        #FFD180;
 
     // Category colors - make them brighter/lighter for dark background
-    --color-project:      #4DD0E1; // Lighter cyan
-    --color-performance:  #F48FB1; // Lighter pink
-    --color-talk:         #FFAB91; // Lighter orange-red (was #FF45E5, making it more distinct)
-    --color-exhibition:   #FFD180; // Lighter orange
-    --color-residency:    #80D8FF; // Lighter blue
-    --color-text:         #DCE775; // Lighter lime green (for "text" category, not general text)
-    --color-publication:  #80CBC4; // Lighter teal (was #00FF99)
-    --color-press:        #CE93D8; // Lighter purple (was #AE69FF)
-    --color-resource:     #EF9A9A; // Lighter red (was #E871A0 - pink, making it more distinct)
+    --color-project:      #4DD0E1;
+    --color-performance:  #F48FB1;
+    --color-talk:         #FFAB91;
+    --color-exhibition:   #FFD180;
+    --color-residency:    #80D8FF;
+    --color-text:         #DCE775;
+    --color-publication:  #80CBC4;
+    --color-press:        #CE93D8;
+    --color-resource:     #EF9A9A;
 }
 
 @keyframes fadeIn {

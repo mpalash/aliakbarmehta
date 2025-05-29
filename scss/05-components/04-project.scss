@@ -25,7 +25,7 @@
     line-height: 1;
     letter-spacing: -0.01em;
     @media screen and (max-width: 800px) {
-      font-size: 56px;
+      font-size: 48px;
     }
   }
   h2 {
@@ -34,7 +34,8 @@
     line-height: 1.5;
     margin: var(--s-m) 0 0 0;
     @media screen and (max-width: 800px) {
-      font-size: var(--s-m);
+      font-size: var(--s-d);
+      font-weight: 250;
     }
   }
   h4 {
@@ -154,7 +155,7 @@
     margin-bottom: var(--s-xxs);
   }
   a {
-    color: var(--color-warm);
+    color: var(--color-warm-dark);
     font-size: var(--font-size-small);
     text-decoration: none;
     transition: var(--transition-all);
@@ -179,9 +180,6 @@
     background: var(--color-white);
     border-bottom: 1px solid var(--color-warm-light);
     padding: var(--s-xxs) var(--s-m);
-    @media (prefers-color-scheme: dark) {
-      border-bottom-color: var(--color-grey-light);
-    }
   }
 }
 .project-tag {
@@ -200,9 +198,6 @@
     right: var(--s-m);
     width: 1px;
     background-color: var(--color-warm-light);
-    @media (prefers-color-scheme: dark) {
-      background-color: var(--color-grey-light);
-    }
   }
 
   span {
