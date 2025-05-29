@@ -1,7 +1,7 @@
 .home {
   display: grid;
   // grid-template-columns: var(--max-column-width) 1fr;
-  grid-template-columns: 1fr max-content;
+  grid-template-columns: 1fr auto;
   grid-gap: var(--s-xl);
   height: calc(100vh - var(--s-xxl));
   overflow: hidden;
@@ -167,6 +167,7 @@
 }
 
 .home-about {
+  min-width: 30vw;
   max-width: 56em;
   overflow-x: hidden;
   overflow-y: scroll;
