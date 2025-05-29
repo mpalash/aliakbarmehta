@@ -8,7 +8,7 @@ tags:
   - artist talk
 pubdate: May 14, 2025 12:00 AM
 unlisted: "false"
-hero: /static/img/photo-credit-©-anne-tetzlaff_dsc5532.jpg
+hero: /static/img/photo-credit-anne-tetzlaff_dsc5532.jpg
 parent: Purgatory EDIT
 ---
 Earlier this year, Helsinki-based artist, curator, researcher, and writer **Ali Akbar Mehta** was selected from over 600 applicants for Delfina Foundation’s *Science, Technology, Society* themed residency programme, supported by the Institute. His current practice explores how social media and smart technologies are vulnerable to surveillance and data extraction.
