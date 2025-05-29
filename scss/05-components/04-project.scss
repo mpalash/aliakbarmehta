@@ -179,6 +179,9 @@
     background: var(--color-white);
     border-bottom: 1px solid var(--color-warm-light);
     padding: var(--s-xxs) var(--s-m);
+    @media (prefers-color-scheme: dark) {
+      border-bottom-color: var(--color-grey-light);
+    }
   }
 }
 .project-tag {
@@ -197,6 +200,9 @@
     right: var(--s-m);
     width: 1px;
     background-color: var(--color-warm-light);
+    @media (prefers-color-scheme: dark) {
+      background-color: var(--color-grey-light);
+    }
   }
 
   span {
