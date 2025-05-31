@@ -36,8 +36,6 @@ parent: Purgatory EDIT
 ---
 ![](/static/img/1.-ali-akbar-mehta_purgatory-edit_transmediale-2025_installation-view-01_-image-by-laura-fiorio_2025.jpg) ![](/static/img/4.-ali-akbar-mehta_purgatory-edit_transmediale-2025_installation-view-04_-image-by-laura-fiorio_2025.jpg) ![](/static/img/5.-ali-akbar-mehta_purgatory-edit_transmediale-2025_installation-view-05_-image-by-laura-fiorio_2025.jpg) ![](/static/img/6.-ali-akbar-mehta_purgatory-edit_transmediale-2025_installation-view-06_-image-by-laura-fiorio_2025.jpg) ![](/static/img/7.-ali-akbar-mehta_purgatory-edit_transmediale-2025_installation-view-07_-image-by-laura-fiorio_2025.jpg) ![](/static/img/8.-ali-akbar-mehta_purgatory-edit_transmediale-2025_installation-view-08_-image-by-laura-fiorio_2025.jpg) ![](/static/img/9.-ali-akbar-mehta_purgatory-edit_transmediale-2025_installation-view-09_-image-by-laura-fiorio_2025.jpg) ![](/static/img/10.-ali-akbar-mehta_purgatory-edit_transmediale-2025_installation-view-10_-image-by-laura-fiorio_2025.jpg) ![](/static/img/11.-ali-akbar-mehta_purgatory-edit_transmediale-2025_installation-view-11_-image-by-laura-fiorio_2025.jpg) ![](/static/img/12.-ali-akbar-mehta_purgatory-edit_transmediale-2025_installation-view-12_-image-by-laura-fiorio_2025.jpg) ![](/static/img/13.-ali-akbar-mehta_purgatory-edit_transmediale-2025_installation-view-13_-image-by-laura-fiorio_2025.jpg) ![](/static/img/14.-ali-akbar-mehta_purgatory-edit_transmediale-2025_installation-view-14_-image-by-laura-fiorio_2025.jpg) ![](/static/img/15.-ali-akbar-mehta_purgatory-edit_transmediale-2025_installation-view-15_-image-by-laura-fiorio_2025.jpg) ![](/static/img/16.-ali-akbar-mehta_purgatory-edit_transmediale-2025_installation-view-16_-image-by-laura-fiorio_2025.jpg)
 
-
-
 ***purgatory* EDIT** is collaboratively developed by:
 
 > **Ali Akbar Mehta** | Artist, Researcher & Archivist
@@ -60,8 +58,6 @@ parent: Purgatory EDIT
 >
 > **Yuki Elias** | Narrator
 
-<br/>
-
 **transmediale team**
 
 > Anky Heidenreich
@@ -83,8 +79,6 @@ parent: Purgatory EDIT
 > Julie Warwel
 >
 > Lumi Lausas
-
-<br/>
 
 ***purgatory* EDIT: Liberation Archives for the Cyborgs of Now** is presented by **transmediale 2025** in collaboration with **European Media Art Platform** (EMAP) and **silent green Film Feld Forschung**. **Purgatory EDIT** has received development support from the EMAP residency program 2024 at **Werkleitz**, co-funded by the **European Union**. The project is made possible by partial funding from **Taiteen Edistämiskeskus** and **Kone Säätio**, and travel funding from support from the **Finnland-Institut, Berlin** and **Goethe Institut/Max Mueller Bhavan, Mumbai**.
 
