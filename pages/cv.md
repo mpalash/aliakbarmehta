@@ -7,14 +7,11 @@ summary: >-
   Transmedia artist, curator, and researcher.
 
 
-  [https://www.aliakbarmehta.com ](https://www.aliakbarmehta.com)
+  [https://www.aliakbarmehta.com ](https://www.aliakbarmehta.com)   
 
-
-  [https://orcid.org/0000-0002-0098-4631 ](https://orcid.org/0000-0002-0098-4631)
-
+  [https://orcid.org/0000-0002-0098-4631 ](https://orcid.org/0000-0002-0098-4631)   
 
   [studio@aliakbarmehta.com](https://orcid.org/0000-0002-0098-4631)
-
 
   <br/>
 ---
