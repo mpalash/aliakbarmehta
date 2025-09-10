@@ -213,14 +213,12 @@ summary: >-
 2016
 :   **null.void**, for *Chimurenga: Pan-African Space Station*, curated by Ahmed Al-Nawas, Kallio Public Library, Helsinki, IN
 
-
-
-## Select Group Exhibitions 
+## Select Group Exhibitions
 
 *Upcoming*
 :   **Who Goes Hunting Does Not Cough**, (cur.) Kisito Assangni**,** Pixelache Festival 2026, Helsinki, FI
 
-*Next*
+*Upcoming*
 :   **Group Exhibition (*name TBC*)**, (cur.) Emilia Laine, TaideMuseo ARTSI, Vaanta, FI
 
 *Upcoming*
