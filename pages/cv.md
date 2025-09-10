@@ -158,7 +158,7 @@ summary: >-
 :   **Of Men and Supermen**, India Art Festival, presented by TAO Art Gallery, Mumbai, IN
 
 2011
-:   **The Ballad of The War that Never Was, and other Bastardized Myths**, TAO Art Gallery, Mumbai, IN
+:   **The Ballad of The War that Never Was, and other Bastardised Myths**, TAO Art Gallery, Mumbai, IN
 
 ## Performance
 
@@ -216,22 +216,30 @@ summary: >-
 2016
 :   **null.void**, for *Chimurenga: Pan-African Space Station*, curated by Ahmed Al-Nawas, Kallio Public Library, Helsinki, IN
 
-## Select Group Exhibitions
+
+
+## Select Group Exhibitions 
 
 *Upcoming*
-:   **Group Exhibition (*name TBC*)**, Stevenson, Cape Town, SA
+:   **Who Goes Hunting Does Not Cough**, (cur.) Kisito Assangni**,** Pixelache Festival 2026, Helsinki, FI
+
+*Next*
+:   **Group Exhibition (*name TBC*)**, (cur.) Emilia Laine, TaideMuseo ARTSI, Vaanta, FI
+
+*Upcoming*
+:   **Group Exhibition (*name TBC*)**, (cur.) Sisipho Ngodwana, Stevenson, Cape Town, SA
 
 2025
-:   **Digital Intimacies**, Late at Tate Britain X HERVISIONS, Tate Britain, London, UK
+:   **Digital Intimacies**, Late at Tate Britain X HERVISIONS, Tate Britain, London, UK 
 
 2025
-:   **The Art of Confluence**, House of Creativity, Mumbai, IN
+:   **The Art of Confluence**, House of Creativity, Mumbai, IN 
 
 2025
 :   **(near) near – but far**, transmediale festival, 2025, Berlin, DE
 
 2025
-:   **UnNatural Encounters**, European Media Art Platform X silent green, Berlin, DE
+:   **UnNatural Encounters**, European Media Art Platform X silent green, Berlin, DE 
 
 2024
 :   **Contestations.ai**, Symposium on AI, Human Rights and Warfare, Aalto University, FI
@@ -240,7 +248,7 @@ summary: >-
 :   **How We Are (Un)Becoming**, The 7th International Death Online Research Symposium, ‘Digital Death – Transforming History, Rituals, And Afterlife’, Helsinki University, FI
 
 2024
-:   **Meander**, Tao Art Gallery, Mumbai, IN
+:   **Meander**, Tao Art Gallery, Mumbai, IN 
 
 2023
 :   **Cruel Radiance**, curated by Harri Palviranta and Marko Karo, Backlight Festival 2023, Gallery Saskia, Photographic Center Nykyakia, Gallery Koppelo, Tampere art Museum, Tampere, FI
@@ -291,7 +299,7 @@ summary: >-
 :   **Partizaning Maunula**, Maunulatalo, Maunula, Helsinki, FI
 
 2017 
-:   **OUT 2**, Research Pavilion: The Utopia of Access, Venice Biennale, Venice, IT
+:   **OUT 2**, Research Pavilion: The Utopia of Access, Venice Biennale, Venice, IT 
 
 2017 
 :   **Ateria/The Meal**, URB 2017 + Kiasma Contemporary Art Museum, Helsinki, FI
