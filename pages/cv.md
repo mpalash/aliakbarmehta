@@ -131,10 +131,23 @@ summary: >-
 2012
 :   *A-i-R:* **SPACE 118**, Mumbai, IN
 
-## Solo Exhibitions
+## Upcoming Exhibitions
 
-*Upcoming*
+solo exhibition
 :    **Purgatory EDIT: The Oracle of Wordly Mirages**, Project 88, Mumbai, IN
+
+*Upcoming* exhibition
+:   **Who Goes Hunting Does Not Cough**, (cur.) Kisito Assangni**,** Pixelache Festival 2026, Helsinki, FI
+
+*Upcoming* exhibition
+:   **Group Exhibition (*name TBC*)**, (cur.) Emilia Laine, TaideMuseo ARTSI, Vaanta, FI
+
+*Upcoming* exhibition
+:   **Group Exhibition (*name TBC*)**, (cur.) Sisipho Ngodwana, Stevenson, Cape Town, SA
+
+
+
+## Solo Exhibitions
 
 2024
 :    **Purgatory EDIT: Liberation Archives for the Cyborgs of Now**, transmediale studio X silent green, Berlin, DE 
@@ -214,15 +227,6 @@ summary: >-
 :   **null.void**, for *Chimurenga: Pan-African Space Station*, curated by Ahmed Al-Nawas, Kallio Public Library, Helsinki, IN
 
 ## Select Group Exhibitions
-
-*Upcoming*
-:   **Who Goes Hunting Does Not Cough**, (cur.) Kisito Assangni**,** Pixelache Festival 2026, Helsinki, FI
-
-*Upcoming*
-:   **Group Exhibition (*name TBC*)**, (cur.) Emilia Laine, TaideMuseo ARTSI, Vaanta, FI
-
-*Upcoming*
-:   **Group Exhibition (*name TBC*)**, (cur.) Sisipho Ngodwana, Stevenson, Cape Town, SA
 
 2025
 :   **Digital Intimacies**, Late at Tate Britain X HERVISIONS, Tate Britain, London, UK 
