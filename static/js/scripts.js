@@ -24,11 +24,13 @@ $(function() {
 
   $('.page-content section img').attr('loading','lazy');
 
-  scrollSpy('#project-toc', {
-    sectionSelector: 'section',
-    targetSelector: '.toc-link',
-    offset: 200
-  });
+  if(('#project-toc').length){    
+    scrollSpy('#project-toc', {
+      sectionSelector: 'section',
+      targetSelector: '.toc-link',
+      offset: 200
+    });
+  }
 
   // Lightbox
   // var screenWidth = $(document).width();

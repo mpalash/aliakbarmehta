@@ -1,0 +1,14 @@
+---
+layout: layouts/base.njk
+---
+<article class="page portfolio">
+  <section class="project-content">
+    <div class="section-content">
+      {{ layoutContent | safe }}
+    </div>
+  </section>
+</article>
+<script src="/static/js/responsive-iframe.js"></script>
+<script>
+  makeIframesResponsive('section-content', 16/9.5);
+</script>

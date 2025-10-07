@@ -2,7 +2,7 @@ function fixVids() {
   /*
    * Grab all iframes on the page or return
    */
-  var iframes = $( 'iframe:not(#netlify-identity-widget)' );
+  var iframes = $( 'iframe:not(#netlify-identity-widget):not([src*="docs.google.com"])' );
 
   /*
    * Loop through the iframes array
