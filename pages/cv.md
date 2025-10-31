@@ -134,10 +134,10 @@ summary: >-
 ## Upcoming Exhibitions
 
 *solo*
-:    **Purgatory EDIT: The Oracle of Wordly Mirages**, Project 88, Mumbai, IN
+:    **Purgatory EDIT: Liberation Archives for the Cyborgs of Now**, Project 88, Mumbai, IN
 
 *group*
-:    **Who Goes Hunting Does Not Cough**, (cur.) Kisito Assangni**,** Pixelache Festival 2026, Helsinki, FI
+:    **Who Goes Hunting Does Not Cough**, (cur.) Kisito Assangni, Pixelache Festival 2026, Helsinki, FI
 
 *group*
 :    **Group Exhibition (*name TBC*)**, (cur.) Emilia Laine, TaideMuseo ARTSI, Vaanta, FI
@@ -574,7 +574,7 @@ Wrote curatorial text and developed critical strategies to create meeting points
 :    *Artist Talk*: **Countering Archival Fascism: Moving from technopolitical regimes to technodiverse cosmologies**, deCYPher lab, BioArt Society, Helsinki, FI
 
 2024
-:    *Panelist*: **Where to start when everything is urgent – intersectionalities, priorities and empathy**, Stop Hatred Now! Festival, UrbanApa, Helsinki (online)
+:    *Panellist*: **Where to start when everything is urgent – intersectionalities, priorities and empathy**, Stop Hatred Now! Festival, UrbanApa, Helsinki (online)
 
 2024
 :   *Discussion Series*: **Ec(h)o Effect: Conversations on War and Environment**, with Colin Greer & Ines Montavlao (mod.), Artists with Evidence (online)
