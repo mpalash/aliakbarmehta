@@ -8,22 +8,29 @@ pubdate: December 9, 2016 12:00 AM
 unlisted: "false"
 hero: /static/img/m-if-poster.jpg
 summary: >-
-  I’m a founding member of the **[Museum of Impossible
-  Forms](https://museumofimpossibleforms.org/)** – an anti-racist, queer
-  feminist cultural centre – located in Kontula, Helsinki. In 2018, I was
-  appointed its co-Artistic Director along with Marianne Savallampi, for a
-  period of two years, from 2019-2020.
+  the **[Museum of Impossible Forms](https://museumofimpossibleforms.org/)** –
+  an anti-racist, queer feminist cultural centre – located in Kontula,
+  Helsinki. 
 
 
-  Together, we have been a team "responsible for managing M{if}’s multilingual library and its ongoing archive, as well as the overall programming – including curating workshops and events, making coffee, maintaining the space and its day-to-day functioning, liaising with invited artists and performers, offering technical and documentation support, as well as managing finances and accounts”.
+  I’m its founding member and former Co-Artistic Director (Aug 2018 - Dec 2020). During this time, my curatorial framework, **The Atlas of Lost Beliefs: For Insurgents, Citizens, & Untitled Bodies,** focused on collaborative, transdisciplinary, and intersectional community-building. 
 
 
-  In short, the co-Artistic Directorship is a position of work that cuts through multiple strata of infrastructural praxis, and as such, is a consolidated set of roles that normally (within an institutional setting) would be distributed through a hierarchical framework. Through multi-layered, recurrent work, we have aimed to create a space and ethos that facilitates the conditions for making significant interventions through cinema, performance, music, spoken word, visual arts, and activism based practices, discourses, and pedagogies.
+  As the co-Artistic Director, I managed the library/archive, event logistics, daily operations, and finances. I conceptualised, coordinated production, and led teams of project leaders and curators to execute 160+ events, under a designed project portfolios: Society of Cinema, Ubuntu Film Club, Performance LAB, Improv Sessions, MIF Discourse Series, Radical Cross-stitch Workshops, MIF Monthly Dinners, Reading Circle, Entry to Iraniain Music, Summer Schools, Kontula Futures (now Drifts Festival), Rehearsing Hospitalities (as collaborative partner of Frame Contemporary Art Finland), and multiple Special and Hosted events. Under these projects, we worked with over 500 artists, collectives, and institutional partners in various capacities, in 160+ free public events, attracting over 5600 visitors in 2019 and 2020. 
+
+
+  I regularly wrote and lectured on M{*if*} and its decolonial, queer-feminist, and norm-critical ethos in multiple academic journals and publications, such as ‘Marginaaleista museoihin’, ‘Rasismi, valta ja vastarinta’, ‘The Museum of the Future: 43 New Contributions to the Discussion about the Future of the Museum’, ‘Six years in the Third Space’, ‘Rehearsing Hospitalities Companion 1’, and ‘Rehearsing Hospitalities Companion 2’; and at Conferences and talks, such as ‘Notes for Radical Diversity’ at Helsinki Art Museum (HAM), ‘Resistance and Reimagining Alternatives’ at the Center for Research on Ethnic Relations and Nationalism, (CEREN), University of Helsinki, ‘Creative Practices for Transformational Futures’ and Aalto University, and ‘Re-Musing the Museum: Part II’ at the Kiasma Contemporary art Museum.
+
+
+  Through these efforts,  the Museum of Impossible Forms has been the recipient of the ‘State Art Prize’ awarded by the Ministry of Art and Culture (2020) and the ‘Tutkijaliitto-palkinto’ by the Finnish Association of Researchers (2019).
+
+
+  In short, the co-Artistic Directorship is a position of work that cuts through multiple strata of infrastructural praxis, and as such, is a consolidated set of roles that normally (within an institutional setting) would be distributed through a hierarchical framework. Through multi-layered, recurrent work, we have aimed to create a space and ethos that facilitates the conditions for making significant interventions through cinema, performance, music, spoken word, visual arts, and activism-based practices, discourses, and pedagogies.
 children:
-  - "Mif ~ How to work together? Extended notes on collaboration"
+  - Mif ~ How to work together? Extended notes on collaboration
   - "Mif ~ Generating (An)Other Economy: Working Together at the Museum of
     Impossible Forms"
-  - "Mif ~ How to Work Together? Seeking Models of Solidarity and Alliance"
+  - Mif ~ How to Work Together? Seeking Models of Solidarity and Alliance
   - "Museum of Impossible Forms: Voicing the Margins"
   - "Mif ~ Cultural production and racism: How to challenge racist structures"
   - The Shape of Museums to Come
