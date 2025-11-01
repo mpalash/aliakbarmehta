@@ -377,21 +377,18 @@ summary: >-
 
 2024-26
 :   *Curatorial advisor*: **Southnord ArtFest**, Helsinki-Stockholm, FI/SE
-
 Invited to be part of an advisory team for Stockholm-based Southnord artist-run platforms and curatorial initiative to consult on methods for developing its 2 nd iteration of the Artfest in Helsinki. Provided cultural and curatorial support via a 2-day intensive workshop to outline Finnish and Finland-based artists, practitioners, and organisations for contribution and collaboration. 
 
 Currently, the Artfest is scheduled to open from October 2026 to March 2027 at Amos Rex, with the Museum of Impossible Forms, publics, and more, as collaborative partners.
 
 2024
 :   *Co-curator*: **HAIHATUS25**, Haihatus Art Center, Joutsa, Finland
-
 Curated exhibition of 25 artists, including works by Shueng Yiu (video essay and 3D printed wax sculptures), Bruno Moreschi and Bernardo Fontes (photographs developed through collaboration with HITS, critiquing LLMs and Image recognition technologies), Jos Allen (autoethnographic sound piece tracing histories of Rye), Adnan Mirza (VR experience exploring themes of migration and belonging). Engaging works in multiple media, including painting, sculpture, VR, photography, printmaking, data systems, and film. 
 
 Provoked and facilitated critical, timely conversations centred on the intersections of identity, self-image, equality, systemic, structural racial injustice, and discrimination based on ethnicity, class, religion, sexual orientation, and gender.
 
 2023
 :   *Project curator*: **Agonistic Intelligence/s (or another AI/s)**, Summer school in collaboration with Museum of Impossible Forms (MIF) and Helsinki Art Museum (HAM) for Helsinki Biennale 2023: New Directions May Emerge, Helsinki, FI 
-
 Conceived, produced, and led the summer school by assembling a working group of provocateurs, artists, and cultural workers that explored the Biennale themes of ‘contamination, regeneration, and agency’ through the lens of the HAM art collection. 
 
 Designed an intensive 6-day curriculum to bridge the gap between Helsinki Art Museum (HAM) workers and the leadership of several grassroots-level organisations; to remember and formulate technologies that centre the building of anticolonial, antipatriarchal, anticaste, and antifascist practices and futures. Mobilised provocateurs and cultural workers to formulate anticolonial methodologies through participatory workshops, developed operational and public-oriented strategies through written and performed manifestos; led the team to foster new approaches to archival practice, decolonial thinking, and AI's societal impacts through participatory art-making; invited and coordinated with guest curators and theorists to conduct public-facing lectures and workshops, and engaged 1,200 publics. 
@@ -403,10 +400,8 @@ Designed an intensive 6-day curriculum to bridge the gap between Helsinki Art Mu
 > Public Lecture III: Politics of Access within Archives as Artistic Praxis, **Annet Dekker**
 
 2023
-:   *Co-curator* (*via* Museum of Impossible Forms): **New Directions May Emerge,** Helsinki Biennale 2023, curated by Joasia Kysia, Helsinki, FI. 
-
+:   *Co-curator* (*via* Museum of Impossible Forms): **New Directions May Emerge,** Helsinki Biennale 2023, curated by Joasia Kysia, Helsinki, FI.
 Invited to collectively co-curate The Helsinki Biennial 2023 by lead curator Joasia Kysia.
-
 Expanded the Biennale’s curatorial themes of ‘contamination, regeneration, and agency’ to explore issues of environmental damage, political conflict, and the impact of technology – via film, performance, and tech installations, drawing 112,000 visitors and igniting debates on decolonial AI impacts.
 
 As the former director of the Museum of Impossible Forms, I played a crucial role in advocating for the inclusion of accomplished yet marginalised Finland-based artists on the Biennale roster. Worked with artists, HAM’s Biennali team, and technicians to install works of 29 artists and collectives across the venues of Vallisaari Island, the Helsinki Art Museum, city cultural venues Caisa and Stoa, and online.
@@ -415,7 +410,6 @@ Approximately 400 Finnish and international critics and visual art professionals
 
 2022
 :   *Project curator*: **Archives as Contemporary Object X**, podcast series w/ Party Office b2b Fadescha, documenta fifteen, Kassel, DE
-
 Conceived and produced a 6-part podcast series, running as a regular broadcast through the duration of documenta fifteen. 
 
 Moderated the critical discussions with invited speakers – critical thinkers, media theorists, data law and policymakers, social activists, political theorists, art and cultural workers, as well as the moderator/hosts – to examine how data censorship, power/knowledge matrix, and ‘direct, structural, and cultural’ forms of violence affect the way we interface with data and shape our online archives. 
@@ -436,14 +430,12 @@ The podcast series was lauded as a critical discussion series to investigate the
 
 2022
 :   *Curatorial advisor*: **Queer Time: Kinships and Architectures**, Party Office b2b Fadescha, documenta fifteen, Kassel, DE
-
 Invited as an advisor to explore queer affective bonds and their relationship to space and architecture. Supported in exhibition design and installation of the WH22 space to subvert the aestheto-histories of the space to create a trans-BIPOC only dungeon and party space, titled ‘HyperVigilant’, that centred the joy of Trans*, BIPoC, and people with disabilities.
 
 Worked across multiple teams (de-escalation and awareness) as support to emphasise the project’s stated priotisation of rest, pleasure, and collectivity as forms of queer resilience and world-making; promoted via onsite actions to further its values regarding ‘Queer Temporality and Kinship’, ‘Spatial Politics and Architecture’, ‘Resilience and Radical Pleasure’, ‘Marginalized Voices and Collectivity’, ‘Historical and Cultural Context’.
 
 2021
 :   *Project curator*: **How to Work Together? Extended notes on collaboration**, part of a collaboration between Museum of Impossible Forms + Platform, in ‘20 Years of Platform Festival’, Vaasa, FI
-
 Produced and hosted the ‘How to Work Together?’ podcast series – a culmination of the first collaboration between PLATFORM X Museum of Impossible Forms. 
 
 Through the podcasts, I discussed with invited artists the possibilities and limits of location identity and practice, explored desires of working together, outlined ecologies of collaboration, and established para-institutional community-led praxis as a primary aim and processual goal.
@@ -458,14 +450,12 @@ Through the podcasts, I discussed with invited artists the possibilities and lim
 
 2021
 :   *project curator*: Impossible Reader 2020, **How to Work Together: Seeking models of solidarity and alliance**, (ed.) Aiava, Emily & Aiava, Raine. (pub.) Museum of Impossible Forms, Helsinki, FI. 
-
 Conceived and produced the second edition of the biennial book series published by the Museum of Impossible Forms. Invited 20 writers, theorists, art and cultural workers, and sister organisations of MIF to compile a selection of essays, writings, poems, and artworks on and around the curatorial framework of building collective working practices within the Finnish and International art scenes. 
 
 Commissioned editors Raine Aiva and Emily Aiva. Recruited project coordinator Zahrah Ehsan. Supervised the publication’s design and was responsible for the final look, print and fabrication. 
 
 2021
 :   *Curatorial partner*: **Gathering for Rehearsing Hospitalities Spring 2021,** Frame Contemporary Art Finland, Helsinki, FI
-
 Supported with the development of an online and onsite programme by Frame Contemporary Art Finland and co-curators m-cult and Museum of Impossible Forms that took place from April to May 2021. 
 
 Developed and curated online conversations, commissioned artworks, and installations exploring themes of access and diverse ways of knowing to connect contemporary art practitioners and foster dialogue on more equitable societies. Contributed to experiments with formats for gathering and hosted opportunities to engage in person or remotely via online dialogues on disability and access.
@@ -475,50 +465,43 @@ Commissioned and produced a film by the Burnout Mermaids with MIF co-artistic di
 Wrote texts and contributed to the event publication: *Rehearsing Hospitalities Companion 2*.
 
 2021
-:   *Seminar organiser*: **Touching/Transforming**, Seminar, Cluster for Critical Artistic Research, Aalto University, 
-
+:   *Seminar organiser*: **Touching/Transforming**, Seminar, Cluster for Critical Artistic Research, Aalto University, FI
 Worked as a researcher with the Cluster of Critical Artistic Research working group at Aalto University to examine artistic research methodologies within academia, develop para-institutional pedagogies, and write joint papers within the working group. 
 
 The seminar, hosted at HIAP, centred the significant socio-political history in Finland and explored themes of land, care, and critical artistic research, with a keynote lecture by Skolt Sámi theatre director Pauliina Feodoroff on land, colonialism, and art.  
 
 2020
 :   *Associate curator*: **In-Between**, Helsinki International Artist Program, Helsinki, FI
-
 Invited by HIAP to serve as jury for selecting artists for the 2020 summer residency, with emphasis on providing support to precarious Helsinki-based artists.
 
 Provided curatorial support, feedback to works and ongoing projects, built working relationships, and developed an open studio as a multi-day staggered event to accommodate COVID restrictions on gathering at the time.
 
 2019 
 :   *Programme facilitator*: **Network Effects**, M-cult, Oodi Library, Helsinki, FI
-
 Leading Museum of Impossible Forms (M{if}) as a key partner, hosted a six-day event that explored hospitality, access, and diverse ways of knowing through talks, performances, and screenings.
 
 Devised and curated ‘A Series of soft gestures towards Hospitality’, a week-long ‘non-performance’ showcasing collaborations between Frame Contemporary Art Finland and Museum of Impossible Forms. Commissioned ‘nynnyt’ (Orlan Ohtonen and Selina Väliheikki), ‘Asematila’, the artist collective ‘Bread Omens’ (Jani Anders Purhonen and Elina Rantasuo), Heidi Hänninen, as well as other guests and participants from Kontula and beyond.
 
 2019 
 :   *Assistant curator*: **Network Effects,** M-cult, Oodi Library, Helsinki, FI
-
 Assisted M-cult Director Minna Tarkka and curator Heidi Tikka to produce the ‘Network Effects’ exhibition in OODI, Helsinki, to expose and disrupt the dystopic logics of the online world by opening up new pathways for agency and citizenship.
 
 Wrote exhibition text and developed other supporting content; was responsible for artist liaison and installation support for DISNOVATION, Chloé Galibert-Laîné & Kevin B. Lee, Joana Moll, Anna Ridler, and screenings of Sad by Design (Gert Lovink, Institute of Network Cultures), and The Sprawl (Metahaven).
 
 2019 
 :   *Project curator*: **Vidisha Fadescha – Party, a tool for Care**, Today Is Our Tomorrow Festival, Publics, Helsinki, FI
-
 Commissioned and organised a talk by artist-curator Vidisha Fadescha, at the ‘Today is Our Tomorrow Festival’, publics, Helsinki.
 
 In continuation of Fadescha’s talk outlining Party as a Tool for Care, I produced an event where Fadescha’s alter ego, ‘Redrum’, played a Techno set that constructed the idea of a gathering being about solidarity, community, comfort, non-judgment, and consent.
 
 2019 
 :   *Artistic Producer*: **M-cult Media Culture Centre**, Helsinki, FI
-
 Produced the European Media Art Platform residency at M-cult, featuring a French artist-collective called DISNOVATION. Provided support to residency artists by organising public workshops, conducting logistical and administrative tasks, sourcing equipment, and creating safe and convivial working environments.
 
 Worked to develop long-term strategies combining tools of research, activism, and technology for M-cult’s Maunula Residency program.
 
 2018-20 
 :   *Co-Artistic Director*: **Museum of Impossible Forms**, Helsinki, FI
-
 Conceptualised and developed the curatorial framework ‘The Atlas of Lost Beliefs: For Insurgents, Citizens, & Untitled Bodies’. Managed library/archive, event logistics, daily operations, and finances.
 
 Led teams of project leaders and curators to conceptualise, produce and execute 160+ events, under a designed project portfolios: Society of Cinema, Ubuntu Film Club, Performance LAB, Improv Sessions, MIF Discourse Series, Radical Cross-stitch Workshops, MIF Monthly Dinners, Reading Circle, Entry to Iraniain Music, Summer Schools, Kontula Futures (now Drifts Festival), Rehearsing Hospitalities (as collaborative partner of Frame Contemporary Art Finland), and multiple Special and Hosted events.
@@ -529,7 +512,6 @@ Efforts secured the ‘State Art Prize’ awarded by the Ministry of Art and Cul
 
 2017- 
 :   *Co-founder*: **Museum of Impossible Forms**, Helsinki, FI
-
 Part of a 7-member collective to conceive and develop a proposal for a radically new cultural space to foreground BIPOC, queer-feminist, and critically responsive art and cultural practice, aiming to vitalise the culturally brownfielded neighbourhoods of East Helsinki.
 
 Wrote a 2-year operational plan for securing funding from the Kone Foundation. Subsequently, co-wrote multiple operational and project grants for continued funding from the Kone Foundation, Suomen Kultuurirahaasto, Helsinki City, etc.
@@ -538,12 +520,10 @@ Participated in multiple project initialisations, such as the Society for Cinema
 
 2016 
 :   *Exhibition curator*: **Material///Immaterial**, A Space, Aalto University, Helsinki, FI
-
 Curated a 3-month exhibition of 4 artists, accompanied by a rotating series of open studio micro-residencies for MA students in the Visual Cultures and Contemporary Art MA program at Aalto University,  in the newly opened Aalto Fab Lab, then called ‘A-Space’.
 
 2016 
 :   *Exhibition curator*: **SOAK**, D/func.t, Helsinki, FI
-
 Co-curated a group exhibition of 10 artists and collectives on the boat Illusia, temporarily anchored in the Kalasatama bay, as an experimental methodology to create alternate exhibition spaces in Helsinki.
 
 Wrote curatorial text and developed critical strategies to create meeting points (encounters) between artistic practices outside the white cube and outside the institution. This developed frameworks for future curatorial praxes.
