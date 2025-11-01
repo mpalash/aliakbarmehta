@@ -392,7 +392,6 @@ Provoked and facilitated critical, timely conversations centred on the intersect
 Conceived, produced, and led the summer school by assembling a working group of provocateurs, artists, and cultural workers that explored the Biennale themes of ‘contamination, regeneration, and agency’ through the lens of the HAM art collection. 
 
 Designed an intensive 6-day curriculum to bridge the gap between Helsinki Art Museum (HAM) workers and the leadership of several grassroots-level organisations; to remember and formulate technologies that centre the building of anticolonial, antipatriarchal, anticaste, and antifascist practices and futures. Mobilised provocateurs and cultural workers to formulate anticolonial methodologies through participatory workshops, developed operational and public-oriented strategies through written and performed manifestos; led the team to foster new approaches to archival practice, decolonial thinking, and AI's societal impacts through participatory art-making; invited and coordinated with guest curators and theorists to conduct public-facing lectures and workshops, and engaged 1,200 publics. 
-
 > Public Lecture I: **Deschooling Art and Its Archives**, Dalida Benfield and Christopher Bratton
 >
 > Public Lecture II: Who are Museums for? On Goeers and Absentees, **Sinthujan Varatharajah**
@@ -415,7 +414,6 @@ Conceived and produced a 6-part podcast series, running as a regular broadcast t
 Moderated the critical discussions with invited speakers – critical thinkers, media theorists, data law and policymakers, social activists, political theorists, art and cultural workers, as well as the moderator/hosts – to examine how data censorship, power/knowledge matrix, and ‘direct, structural, and cultural’ forms of violence affect the way we interface with data and shape our online archives. 
 
 The podcast series was lauded as a critical discussion series to investigate the nature of the archival today, and to unpack system issues affecting the world around us, through a multifocal lens of archiving as artistic, curatorial, and research praxis. 
-
 > Ep 01: **History as Tools of the State, Memory as Art of the Stateless**, w/ Farbod Fakharzadeh
 >
 > Ep 02: **Memory Work and Inauthentic Archives**, w/ Farbod Fakharzadeh 
@@ -439,7 +437,6 @@ Worked across multiple teams (de-escalation and awareness) as support to emphasi
 Produced and hosted the ‘How to Work Together?’ podcast series – a culmination of the first collaboration between PLATFORM X Museum of Impossible Forms. 
 
 Through the podcasts, I discussed with invited artists the possibilities and limits of location identity and practice, explored desires of working together, outlined ecologies of collaboration, and established para-institutional community-led praxis as a primary aim and processual goal.
-
 > Episode 01 **Shubhangi Singh**
 >
 > Episode 02 **Zahrah Ehsan**
