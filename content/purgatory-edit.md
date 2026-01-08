@@ -29,6 +29,7 @@ summary: >-
   <br/>
 children:
   - "LATB X HERVISIONS: Digital Intimacies"
+  - A Night of Encounters
   - Living in archival time, or at the end of narrative(s)
   - "purgatory EDIT: Liberation Archives for the Cyborgs of Now"
   - Living in archival time, or at the end of narrative(s) @ Transmediale
